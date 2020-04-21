@@ -1,0 +1,5 @@
+<strings>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+    <string name="slider_text" value="Potiahnite nahor" />
+    <string name="snooze_message" value="Odložiť o %d min." />
+</strings>

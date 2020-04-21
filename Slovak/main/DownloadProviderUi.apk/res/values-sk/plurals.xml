@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Vymazať sťahovania: %d ?</item>
+        <item quantity="one">Vymazať sťahovania: %d ?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Vymazané sťahovania: %s</item>
+        <item quantity="one">Vymazané sťahovania: %s</item>
+    </plurals>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">Nájdených: %d</item>
+        <item quantity="one">Nájdených: 1</item>
+    </plurals>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Vymazať: %d?</item>
+        <item quantity="one">Vymazať?</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">Nájdených: %d</item>
+        <item quantity="one">Nájdených: 1</item>
+    </plurals>
+    <plurals name="durationDays">
+        <item quantity="other">%1$d dní</item>
+        <item quantity="one">%1$d deň</item>
+    </plurals>
+    <plurals name="durationHours">
+        <item quantity="other">%1$dh</item>
+        <item quantity="one">%1$dhr</item>
+    </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$dmin</item>
+        <item quantity="one">%1$dmin</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$ds</item>
+        <item quantity="one">%1$ds</item>
+    </plurals>
+</resources>

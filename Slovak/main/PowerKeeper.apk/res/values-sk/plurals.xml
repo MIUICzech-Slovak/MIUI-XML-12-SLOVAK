@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="power_config_ultimate_on_count">
+    <item quantity="one">Ešte %1$d krokov od prepnutia do Ultimate režimu</item>
+    <item quantity="other">Ešte %1$d krokov od prepnutia do Ultimate režimu</item>
+  </plurals>
+  <plurals name="power_config_ultimate_off_count">
+    <item quantity="one">Ešte %1$d krokov od vypnutia Ultimate režimu</item>
+    <item quantity="other">Ešte %1$d krokov od vypnutia Ultimate režimu</item>
+  </plurals>
+  <plurals name="power_config_ultimate_unlock_count">
+    <item quantity="one">Dokončite %1$d krokov pre odblokovanie všetkých položiek</item>
+    <item quantity="other">Dokončite %1$d krokov pre odblokovanie všetkých položiek</item>
+  </plurals>
+    <plurals name="select_items">
+        <item quantity="other">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
+    </plurals>
+    <plurals name="app_list_total">
+        <item quantity="other">%d apl.</item>
+        <item quantity="one">%d apl.</item>
+    </plurals>  
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Vyhľadať %d apl.</item>
+        <item quantity="one">Vyhľadať %d apl.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sent_frequency_per_day">
+        <item quantity="other">%d upozornení za deň</item>
+        <item quantity="one">%d upozornenie za deň</item>
+        <item quantity="few">%d upozornenia za deň</item>
+        <item quantity="many">%d upozornenia za deň</item>
+    </plurals>
+    <plurals name="sent_frequency_per_week">
+        <item quantity="other">%d upozornení za týždeň</item>
+        <item quantity="one">%d upozornenie za týždeň</item>
+        <item quantity="few">%d upozornenia za týždeň</item>
+        <item quantity="many">%d upozornenia za týždeň</item>
+    </plurals>
+    <plurals name="last_sent_time_day">
+        <item quantity="other">Pred %d dňami</item>
+        <item quantity="one">Pred %d dňom</item>
+    </plurals>
+    <plurals name="last_sent_time_hour">
+        <item quantity="other">Pred %dh</item>
+        <item quantity="one">Pred %dh</item>
+    </plurals>
+    <plurals name="last_sent_time_minute">
+        <item quantity="other">Pred %dmin</item>
+        <item quantity="one">Pred %dmin</item>
+    </plurals>
+    <plurals name="last_sent_time_month">
+        <item quantity="other">Pred %d mesiacmi</item>
+        <item quantity="one">Pred %d mesiacom</item>
+    </plurals>
+    <plurals name="last_sent_time_week">
+        <item quantity="other">Pred %d týždňami</item>
+        <item quantity="one">Pred %d týždňom</item>
+    </plurals>	
+</resources>

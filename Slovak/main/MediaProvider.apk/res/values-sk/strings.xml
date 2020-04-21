@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_ringtone_text">Pridať tón zvonenia</string>
+  <string name="alarm_sound_default">Predvolený tón budíka</string>
+  <string name="app_label">Úložisko médií</string>
+  <string name="artist_label">Umelec</string>
+  <string name="delete_ringtone_text">Odstrániť</string>
+  <string name="notification_sound_default">Predvolený tón upozornenia</string>
+  <string name="ringtone_default">Predvolené zvonenie</string>
+  <string name="root_audio">Audio</string>
+  <string name="root_images">Obrázky</string>
+  <string name="root_videos">Videá</string>
+  <string name="sound_name_awaken">Awaken</string>
+  <string name="sound_name_bounce">Bounce</string>
+  <string name="sound_name_drip">Drip</string>
+  <string name="sound_name_gallop">Gallop</string>
+  <string name="sound_name_nudge">Nudge</string>
+  <string name="sound_name_orbit">Orbit</string>
+  <string name="sound_name_rise">Rise</string>
+  <string name="sound_name_sway">Sway</string>
+  <string name="sound_name_wag">Wag</string>
+  <string name="storage_description">Miestne úložisko</string>
+  <string name="uid_label">Médiá</string>
+  <string name="unable_to_add_ringtone">Nepodarilo sa pridať vlastný tón zvonenia</string>
+  <string name="unable_to_delete_ringtone">Nepodarilo sa odstrániť vlastný tón zvonenia</string>
+  <string name="upgrade_msg">Aktualizovanie databázy médií.</string>
+</resources>

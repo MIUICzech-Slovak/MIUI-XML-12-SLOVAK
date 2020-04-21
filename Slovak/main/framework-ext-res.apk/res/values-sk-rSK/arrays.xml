@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boot_msg_text">
+        <item>-==MIUIos.cz==- (0%)</item>
+        <item>-==MIUIos.cz==- (1%)</item>
+        <item>-==MIUIos.cz==- (2%)</item>
+        <item>-==MIUIos.cz==- (3%)</item>
+        <item>-==MIUIos.cz==- (4%)</item>
+        <item>-==MIUIos.cz==- (5%)</item>
+        <item>-==MIUIos.cz==- (6%)</item>
+        <item>-==MIUIos.cz==- (7%)</item>
+        <item>-==MIUIos.cz==- (8%)</item>
+        <item>-==MIUIos.cz==- (9%)</item>
+        <item>-==MIUIos.cz==- (10%)</item>
+        <item>-==MIUIos.cz==- (11%)</item>
+        <item>-==MIUIos.cz==- (12%)</item>
+        <item>-==MIUIos.cz==- (13%)</item>
+        <item>-==MIUIos.cz==- (14%)</item>
+        <item>-==MIUIos.cz==- (15%)</item>
+        <item>-==MIUIos.cz==- (16%)</item>
+        <item>-==MIUIos.cz==- (17%)</item>
+        <item>-==MIUIos.cz==- (18%)</item>
+        <item>-==MIUIos.cz==- (19%)</item>
+        <item>-==MIUIos.cz==- (20%)</item>
+        <item>-==MIUIos.cz==- (21%)</item>
+        <item>-==MIUIos.cz==- (22%)</item>
+        <item>-==MIUIos.cz==- (23%)</item>
+        <item>-==MIUIos.cz==- (24%)</item>
+        <item>-==MIUIos.cz==- (25%)</item>
+        <item>-==MIUIos.cz==- (26%)</item>
+        <item>-==MIUIos.cz==- (27%)</item>
+        <item>-==MIUIos.cz==- (28%)</item>
+        <item>-==MIUIos.cz==- (29%)</item>
+        <item>-==MIUIos.cz==- (30%)</item>
+        <item>-==MIUIos.cz==- (31%)</item>
+        <item>-==MIUIos.cz==- (32%)</item>
+        <item>-==MIUIos.cz==- (33%)</item>
+        <item>-==MIUIos.cz==- (34%)</item>
+        <item>-==MIUIos.cz==- (35%)</item>
+        <item>-==MIUIos.cz==- (36%)</item>
+        <item>-==MIUIos.cz==- (37%)</item>
+        <item>-==MIUIos.cz==- (38%)</item>
+        <item>-==MIUIos.cz==- (39%)</item>
+        <item>-==MIUIos.cz==- (40%)</item>
+        <item>-==MIUIos.cz==- (41%)</item>
+        <item>-==MIUIos.cz==- (42%)</item>
+        <item>-==MIUIos.cz==- (43%)</item>
+        <item>-==MIUIos.cz==- (44%)</item>
+        <item>-==MIUIos.cz==- (45%)</item>
+        <item>-==MIUIos.cz==- (46%)</item>
+        <item>-==MIUIos.cz==- (47%)</item>
+        <item>-==MIUIos.cz==- (48%)</item>
+        <item>-==MIUIos.cz==- (49%)</item>
+        <item>-==MIUIos.cz==- (50%)</item>
+        <item>-==MIUIos.cz==- (51%)</item>
+        <item>-==MIUIos.cz==- (52%)</item>
+        <item>-==MIUIos.cz==- (53%)</item>
+        <item>-==MIUIos.cz==- (54%)</item>
+        <item>-==MIUIos.cz==- (55%)</item>
+        <item>-==MIUIos.cz==- (56%)</item>
+        <item>-==MIUIos.cz==- (57%)</item>
+        <item>-==MIUIos.cz==- (58%)</item>
+        <item>-==MIUIos.cz==- (59%)</item>
+        <item>-==MIUIos.cz==- (60%)</item>
+        <item>-==MIUIos.cz==- (61%)</item>
+        <item>-==MIUIos.cz==- (62%)</item>
+        <item>-==MIUIos.cz==- (63%)</item>
+        <item>-==MIUIos.cz==- (64%)</item>
+        <item>-==MIUIos.cz==- (65%)</item>
+        <item>-==MIUIos.cz==- (66%)</item>
+        <item>-==MIUIos.cz==- (67%)</item>
+        <item>-==MIUIos.cz==- (68%)</item>
+        <item>-==MIUIos.cz==- (69%)</item>
+        <item>-==MIUIos.cz==- (70%)</item>
+        <item>-==MIUIos.cz==- (71%)</item>
+        <item>-==MIUIos.cz==- (72%)</item>
+        <item>-==MIUIos.cz==- (73%)</item>
+        <item>-==MIUIos.cz==- (74%)</item>
+        <item>-==MIUIos.cz==- (75%)</item>
+        <item>-==MIUIos.cz==- (76%)</item>
+        <item>-==MIUIos.cz==- (77%)</item>
+        <item>-==MIUIos.cz==- (78%)</item>
+        <item>-==MIUIos.cz==- (79%)</item>
+        <item>-==MIUIos.cz==- (80%)</item>
+        <item>-==MIUIos.cz==- (81%)</item>
+        <item>-==MIUIos.cz==- (82%)</item>
+        <item>-==MIUIos.cz==- (83%)</item>
+        <item>-==MIUIos.cz==- (84%)</item>
+        <item>-==MIUIos.cz==- (85%)</item>
+        <item>-==MIUIos.cz==- (86%)</item>
+        <item>-==MIUIos.cz==- (87%)</item>
+        <item>-==MIUIos.cz==- (88%)</item>
+        <item>-==MIUIos.cz==- (89%)</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom (90%)</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom (91%)</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom (92%)</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom (93%)</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom (94%)</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom (95%)</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom (96%)</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom (97%)</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom (98%)</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom (99%)</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom (100%)</item>
+    </string-array>
+    <string-array name="organized_languages_international">
+        <item>en_GB</item>
+        <item>en_US</item>
+        <item>sk_SK</item>
+        <item>cs_CZ</item>
+        <item>pl_PL</item>
+        <item>in_ID</item>
+        <item>ms_MY</item>
+        <item>de_DE</item>
+        <item>en_IN</item>
+        <item>es_ES</item>
+        <item>es_US</item>
+        <item>fr_FR</item>
+        <item>it_IT</item>
+        <item>lt_LT</item>
+        <item>hu_HU</item>
+        <item>pt_BR</item>
+        <item>ro_RO</item>
+        <item>vi_VN</item>
+        <item>tr_TR</item>
+        <item>mk_MK</item>
+        <item>ru_RU</item>
+        <item>uk_UA</item>
+        <item>hi_IN</item>
+        <item>mr_IN</item>
+        <item>bn_IN</item>
+        <item>gu_IN</item>
+        <item>pa_IN</item>
+        <item>as_IN</item>
+        <item>ta_IN</item>
+        <item>te_IN</item>
+        <item>kn_IN</item>
+        <item>ml_IN</item>
+        <item>th_TH</item>
+        <item>my_MM</item>
+        <item>ar_EG</item>
+        <item>fa_IR</item>
+        <item>iw_IL</item>
+        <item>ko_KR</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+    </string-array>
+</resources>

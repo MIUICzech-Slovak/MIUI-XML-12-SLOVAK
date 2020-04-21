@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="Nalbum_total_songs">
+        <item quantity="other">Spolu %d piesní</item>
+        <item quantity="one">Spolu %d pieseň</item>
+        <item quantity="few">Spolu %d piesne</item>
+     </plurals>
+     <plurals name="Nartists_count">
+        <item quantity="other">Umelci: %d</item>
+        <item quantity="one">Umelci: %d</item>
+        <item quantity="few">Umelci: %d</item>
+     </plurals>
+     <plurals name="Nassociate_songs">
+        <item quantity="other">Form: One Vyhľadávajú sa obaly albumu a texty piesní (%1$d/%2$d)</item>
+        <item quantity="one">Form: One Vyhľadáva sa obal albumu a text piesne (%1$d/%2$d)</item>
+        <item quantity="few">Form: One Vyhľadávajú sa obaly albumu a texty piesní (%1$d/%2$d)</item>
+     </plurals>
+     <plurals name="Nbackup_songs">
+        <item quantity="other">Zálohujú sa piesne, zostáva %1$d (%2$.1f MB)</item>
+        <item quantity="one">Zálohujú sa piesne, zostáva %1$d (%2$.1f MB)</item>
+        <item quantity="few">Zálohujú sa piesne, zostávajú %1$d (%2$.1f MB)</item>
+     </plurals>
+     <plurals name="Ndialog_renew_content">
+        <item quantity="other">"Vaše predplatné vyprší za %d dní. 
+Potrebujete pomoc s obnovením?"</item>
+        <item quantity="one">"Vaše predplatné vyprší za %d deň. 
+Potrebujete pomoc s obnovením?"</item>
+        <item quantity="few">"Vaše predplatné vyprší za %d dni. 
+Potrebujete pomoc s obnovením?"</item>
+        <item quantity="many">"Vaše predplatné vyprší za %d dňa. 
+Potrebujete pomoc s obnovením?"</item>
+     </plurals>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">Ostávajúce dni: %d</item>
+        <item quantity="one">Ostávajúce dni: %d</item>
+        <item quantity="few">Ostávajúce dni: %d</item>
+     </plurals>
+     <plurals name="Ngroups_count">
+        <item quantity="other">Skupiny: %d</item>
+        <item quantity="one">Skupiny: %d</item>
+        <item quantity="few">Skupiny: %d</item>
+     </plurals>
+     <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">Zadarmo môžete stiahnuť %1$d skladieb. Stiahnuť %2$s teraz?</item>
+        <item quantity="one">Zadarmo môžete stiahnuť %1$d skladbu. Stiahnuť %2$s teraz?</item>
+        <item quantity="few">Zadarmo môžete stiahnuť %1$d skladby. Stiahnuť %2$s teraz?</item>
+        <item quantity="many">Zadarmo môžete stiahnuť %1$d skladby. Stiahnuť %2$s teraz?</item>
+     </plurals>
+     <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d nových skladieb</item>
+        <item quantity="one">%d nová skladba</item>
+        <item quantity="few">%d nové skladby</item>
+     </plurals>
+     <plurals name="Nquit_warning">
+        <item quantity="other">Prehrávač bude ukončený o %d min.</item>
+        <item quantity="one">Prehrávač bude ukončený o %d min.</item>
+        <item quantity="few">Prehrávač bude ukončený o %d min.</item>
+     </plurals>
+     <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">Zvolili ste automaticky nevyhľadať obaly albumov a texty piesní. Vymazať informácie pre %d piesní?</item>
+        <item quantity="one">Zvolili ste automaticky nevyhľadať obaly albumov a texty piesní. Vymazať informácie pre %d pieseň?</item>
+        <item quantity="few">Zvolili ste automaticky nevyhľadať obaly albumov a texty piesní. Vymazať informácie pre %d piesne?</item>
+     </plurals>
+     <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Vytvorené: %1$s | spolu %2$d piesní</item>
+        <item quantity="one">Vytvorené: %1$s | spolu %2$d pieseň</item>
+        <item quantity="few">Vytvorené: %1$s | spolu %2$d piesne</item>
+     </plurals>
+     <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">%d piesní nebolo zálohovaných do úložiska Mi Cloud. Zastaviť?</item>
+        <item quantity="one">%d pieseň nebola zálohovaná do úložiska Mi Cloud. Zastaviť?</item>
+        <item quantity="few">%d piesne neboli zálohované do úložiska Mi Cloud. Zastaviť?</item>
+     </plurals>
+     <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d piesní bolo pridaných na zoznam prehrávania</item>
+        <item quantity="one">%d pieseň bola pridaná na zoznam prehrávania</item>
+        <item quantity="few">%d piesne boli pridané na zoznam prehrávania</item>
+     </plurals>
+     <plurals name="Ntracks_count">
+        <item quantity="other">Skladieb: %d</item>
+        <item quantity="one">Skladieb: %d</item>
+        <item quantity="few">Skladieb: %d</item>
+     </plurals>
+     <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d piesní bolo odstránených zo zoznamu prehrávania</item>
+        <item quantity="one">%d pieseň bola odstránená zo zoznamu prehrávania</item>
+        <item quantity="few">%d piesne boli odstránené zo zoznamu prehrávania</item>
+     </plurals>
+     <plurals name="Ntracks_search_result">
+        <item quantity="other">Nájdených: %d</item>
+        <item quantity="one">Nájdených: %d</item>
+        <item quantity="few">Nájdených: %d</item>
+     </plurals>
+     <plurals name="Ntracks_similar_count">
+        <item quantity="other">Podobné skladby: %d</item>
+        <item quantity="one">Podobné skladby: %d</item>
+        <item quantity="few">Podobné skladby: %d</item>
+     </plurals>
+     <plurals name="Nunbackup_audios">
+        <item quantity="other">%1$d piesní nebolo zálohovaných (%2$.1f MB)</item>
+        <item quantity="one">%1$d pieseň nebola zálohovaná (%2$.1f MB)</item>
+        <item quantity="few">%1$d piesne neboli zálohované (%2$.1f MB)</item>
+     </plurals>
+     <plurals name="Nupload_song_button">
+        <item quantity="other">Zálohovať %1$d piesní (%2$.1f MB)</item>
+        <item quantity="one">Zálohovať %1$d pieseň (%2$.1f MB)</item>
+        <item quantity="few">Zálohovať %1$d piesne (%2$.1f MB)</item>
+     </plurals>
+     <plurals name="comment_count">
+        <item quantity="other">%d komentár</item>
+        <item quantity="one">%d komentár</item>
+        <item quantity="few">%d komentáre</item>
+     </plurals>
+     <plurals name="days_ago">
+        <item quantity="other">Pred %d dňami</item>
+        <item quantity="one">Pred %d dňom</item>
+        <item quantity="few">Pred %d dňami</item>
+        <item quantity="many">Pred %d dňom</item>
+     </plurals>
+     <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Odstrániť %d položiek?</item>
+        <item quantity="one">Odstrániť %d položku?</item>
+        <item quantity="few">Odstrániť %d položky?</item>
+     </plurals>
+     <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Vymazať %d položiek?
+Poznámka: Súbory budú vymazané aj zo zariadenia."</item>
+        <item quantity="one">"Vymazať %d položku?
+Poznámka: Súbor bude vymazaný aj zo zariadenia."</item>
+        <item quantity="few">"Vymazať %d položky?
+Poznámka: Súbory budú vymazané aj zo zariadenia."</item>
+        <item quantity="many">"Vymazať %d položky?
+Poznámka: Súbor bude vymazaný aj zo zariadenia."</item>
+     </plurals>
+     <plurals name="dialog_delete_descript">
+        <item quantity="other">Vymazať skladby (%d)?</item>
+        <item quantity="one">Vymazať skladby (%d)?</item>
+        <item quantity="few">Vymazať skladby (%d)?</item>
+     </plurals>
+     <plurals name="dialog_remove_descript">
+        <item quantity="other">Odobrať skladby (%d)?</item>
+        <item quantity="one">Odobrať skladby (%d)?</item>
+        <item quantity="few">Odobrať skladby (%d)?</item>
+     </plurals>
+     <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Odstrániť %d piesní zo služby Mi Cloud? Budú odstránené aj z miestneho zoznamu skladieb.</item>
+        <item quantity="one">Odstrániť %d pieseň zo služby Mi Cloud? Bude odstránená aj z miestneho zoznamu skladieb.</item>
+        <item quantity="few">Odstrániť %d piesne zo služby Mi Cloud? Budú odstránené aj z miestneho zoznamu skladieb.</item>
+     </plurals>
+     <plurals name="download_finished">
+        <item quantity="other">Stiahnutá: &lt;font color==\"red\">%d skladieb&lt;/font></item>
+        <item quantity="one">Stiahnutá: &lt;font color==\"red\">%d skladby&lt;/font></item>
+        <item quantity="few">Stiahnutá: &lt;font color==\"red\">%d skladieb&lt;/font></item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d stiahnutých položiek odstránených</item>
+        <item quantity="one">%d stiahnutá položka odstránená</item>
+        <item quantity="few">%d stiahnuté položky odstránené</item>
+     </plurals>
+     <plurals name="download_running">
+        <item quantity="other">Sťahovanie &lt;font color==\"red\">%d skladieb&lt;/font> –</item>
+        <item quantity="one">Sťahovanie &lt;font color==\"red\">%d skladby&lt;/font> –</item>
+        <item quantity="few">Sťahovanie &lt;font color==\"red\">%d skladieb&lt;/font> –</item>
+     </plurals>
+     <plurals name="folder_songs_count">
+        <item quantity="other">%d piesní</item>
+        <item quantity="one">%d pieseň</item>
+        <item quantity="few">%d piesne</item>
+     </plurals>
+     <plurals name="free_downloads_num_hint">
+        <item quantity="other">Ostáva %d stiahnutí zadarmo</item>
+        <item quantity="one">Ostáva %d stiahnutie zadarmo</item>
+        <item quantity="few">Ostávajú %d stiahnutia zadarmo</item>
+        <item quantity="many">Ostáva %d stiahnutia zadarmo</item>
+     </plurals>
+     <plurals name="multichoice_title">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+        <item quantity="few">Vybraných: %d</item>
+     </plurals>
+     <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Sťahuje sa %1$d súborov</item>
+        <item quantity="one">Sťahuje sa %1$d súbor</item>
+        <item quantity="few">Sťahujú sa %1$d súbory</item>
+        <item quantity="many">Sťahuje sa %1$d súboru</item>
+     </plurals>
+     <plurals name="notification_download_failed_more">
+        <item quantity="other">Nestiahlo sa %1$d položiek</item>
+        <item quantity="one">Nestiahla sa %1$d položka</item>
+        <item quantity="few">Nestiahli sa %1$d položky</item>
+        <item quantity="many">Nestiahlo sa %1$d položky</item>
+     </plurals>
+     <plurals name="reader_count">
+        <item quantity="other">%d sledujúci</item>
+        <item quantity="one">%d sledujúci</item>
+        <item quantity="few">%d sledujúci</item>
+     </plurals>
+     <plurals name="send_songs_toast">
+        <item quantity="other">Bude odoslaných %d piesní</item>
+        <item quantity="one">Bude odoslaná %d pieseň</item>
+        <item quantity="few">Budú odoslané %d piesne</item>
+     </plurals>
+     <plurals name="skipped_online_songs_tips">
+        <item quantity="other">Bolo preskočených %d piesní. Ak si ich chcete vypočuť, zapnite v nastaveniach online služby.</item>
+        <item quantity="one">Bola preskočená %d pieseň. Ak si ju chcete vypočuť, zapnite v nastaveniach online služby.</item>
+        <item quantity="few">Boli preskočené %d piesne. Ak si ich chcete vypočuť, zapnite v nastaveniach online služby.</item>
+     </plurals>
+     <plurals name="song_already_favorite">
+        <item quantity="other">Skladby už boli označené.</item>
+        <item quantity="one">Skladby už boli označené.</item>
+        <item quantity="few">Skladby už boli označené.</item>
+     </plurals>
+     <plurals name="songs_count">
+        <item quantity="other">%d piesní</item>
+        <item quantity="one">%d pieseň</item>
+        <item quantity="few">%d piesne</item>
+     </plurals>
+     <plurals name="video_count">
+        <item quantity="other">Videí</item>
+        <item quantity="one">Video</item>
+        <item quantity="few">Videá</item>
+        <item quantity="many">Videa</item>
+     </plurals>
+     <plurals name="video_play_count">
+        <item quantity="other">%1$s zobrazení</item>
+        <item quantity="one">%1$s zobrazenie</item>
+        <item quantity="few">%1$s zobrazenia</item>
+        <item quantity="many">%1$s zobrazenia</item>
+     </plurals>
+     <plurals name="vip_remain_days_hint">
+        <item quantity="other">Ostáva %d dní</item>
+        <item quantity="one">Ostáva %d deň</item>
+        <item quantity="few">Ostávajú %d dni</item>
+        <item quantity="many">Ostáva %d dňa</item>
+     </plurals>
+</resources>

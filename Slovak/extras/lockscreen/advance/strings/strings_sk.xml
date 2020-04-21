@@ -1,0 +1,5 @@
+<strings>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+    <string name="date_format" value="EEEE, dd. MMMM" />
+    <string name="emergency_call" value="Núdzový hovor"/>
+</strings>

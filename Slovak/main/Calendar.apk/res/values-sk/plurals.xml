@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d hod.</item>
+        <item quantity="one">1 hod.</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">1 deň</item>
+	</plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d. týždeň</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+	<plurals name="Nevents">
+        <item quantity="other">%d udalosti</item>
+        <item quantity="one">1 udalosť</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d udalosti</item>
+        <item quantity="one">+1 udalosť</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">%1$d dni predtým o %2$s</item>
+        <item quantity="one">%1$d deň predtým o %2$s</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">%1$d dní potom o %2$s</item>
+        <item quantity="one">%1$d deň potom o %2$s</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d týždne</item>
+        <item quantity="one">1 týždeň</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">%1$d dni predtým</item>
+        <item quantity="one">%1$d deň predtým</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d dní potom</item>
+        <item quantity="one">%1$d deň potom</item>
+    </plurals>	
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">Výročie: %2$d rokov výročie %1$s</item>
+        <item quantity="one">Výročie: %2$d rok výročie %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">Výročie: %2$d rokov výročie %1$s o 3 dni</item>
+        <item quantity="one">Výročie: %2$d rok výročie %1$s o 3 days</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">%1$s rokov</item>
+        <item quantity="one">%1$s rok</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">%1$s dní</item>
+        <item quantity="one">%1$s deň</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">%1$s dní</item>
+        <item quantity="one">%1$s deň</item>
+    </plurals>	
+    <plurals name="work_days">
+        <item quantity="other">%d pracovných dní</item>
+        <item quantity="one">%d pracovný deň</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">Spätne %1$d dní</item>
+        <item quantity="one">Spätne %1$d deň</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">Dopredu %1$d dní</item>
+        <item quantity="one">Dopredu %1$d deň</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">pred %1$d dňami</item>
+        <item quantity="one">pred %1$d dňom</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">o %1$d dní</item>
+        <item quantity="one">o %1$d deň</item>
+    </plurals>	
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s rokov</item>
+        <item quantity="one">%1$s rok</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d dní</item>
+        <item quantity="one">%1$d deň</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d týždne</item>
+        <item quantity="one">%1$d týždeň</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$d mesiace</item>
+        <item quantity="one">%1$d mesiac</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$d roky</item>
+        <item quantity="one">%1$d rok</item>
+    </plurals>	
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d dní od</item>
+        <item quantity="one">%1$d deň od</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d dní do</item>
+        <item quantity="one">%1$d deň do</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">Môžete zadať do %1$d dní</item>
+        <item quantity="one">Môžete zadať do %1$d dňa</item>
+    </plurals>	
+	    <plurals name="repeat_custom_prompt">
+        <item quantity="other">každý %1$s o %2$s</item>
+        <item quantity="one">každý %1$s o %2$s</item>
+    </plurals>	
+	    <plurals name="reminder_later_toast">
+        <item quantity="other">Ďalšie upozornenie o %1$d minút</item>
+        <item quantity="one">Ďalšie upozornenie o %1$d minútu</item>
+    </plurals>	
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" dní"</item>
+        <item quantity="one">" deň"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" h"</item>
+        <item quantity="one">" h"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>	
+</resources>

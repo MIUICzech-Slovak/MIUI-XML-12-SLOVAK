@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$sh %2$s"</item>
+        <item quantity="one">" %1$sh %2$s"</item>
+    </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Upozornení: %d</item>
+        <item quantity="one">Upozornení: %d</item>
+    </plurals>	
+</resources>

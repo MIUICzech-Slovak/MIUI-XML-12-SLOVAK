@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="time_minute_ago">
+        <item quantity="other">Pred %dmin</item>
+        <item quantity="one">Pred %dmin</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">Pred %dh</item>
+        <item quantity="one">Pred %dh</item>
+    </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">Odstrániť %s položiek?</item>
+        <item quantity="one">Odstrániť %s položku?</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Vybraných: %s</item>
+        <item quantity="one">Vybraných: %s</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">Označených: %s</item>
+        <item quantity="one">Označených: %s</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d|krokov</item>
+        <item quantity="zero">%d|krokov</item>
+        <item quantity="one">%d|krok</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Pred %1$dmin</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Pred %1$dh</item>
+    </plurals>	
+    <plurals name="days_ago">
+        <item quantity="other">Pred %1$dd</item>
+    </plurals>	
+     <plurals name="agenda_count_down">
+        <item quantity="other">Za %d minút</item>
+        <item quantity="one">Za %d minútu</item>
+     </plurals>
+     <plurals name="assistant_day">
+        <item quantity="other">Za %d dní</item>
+        <item quantity="one">Za %d deň</item>
+     </plurals>
+</resources>

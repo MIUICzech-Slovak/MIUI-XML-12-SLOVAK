@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="slideshow_time_entries">
+        <item>5 minút</item>
+        <item>15 minút</item>
+        <item>30 minút</item>
+        <item>1 hodina</item>
+        <item>Bez limitu</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Chlapec</item>
+        <item>Dievča</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Otec</item>
+        <item>Mama</item>
+        <item>Dedko z otcovej strany</item>
+        <item>Babka z otcovej strany</item>
+        <item>Dedko z maminej strany</item>
+        <item>Babka z maminej strany</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Otec</item>
+        <item>Mama</item>
+        <item>Dedko z otcovej strany</item>
+        <item>Babka z otcovej strany</item>
+        <item>Dedko z maminej strany</item>
+        <item>Babka z maminej strany</item>
+    </string-array>	
+    <string-array name="relation_with_me">
+        <item>ja</item>
+        <item>dieťa</item>
+        <item>rodina</item>
+        <item>kolega</item>
+        <item>spolužiak</item>
+        <item>kamarát</item>
+        <item>Neznámy</item>
+    </string-array>
+    <string-array name="collage_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>	
+    <string-array name="menu_copy_or_move">
+        <item>Presunúť</item>
+        <item>Kopírovať</item>
+        <item>Zrušiť</item>
+    </string-array>	
+     <string-array name="activities_title">
+        <item>Špeciálny deň</item>
+        <item>Pamätný deň</item>
+        <item>Najkrajšie momenty</item>
+     </string-array>
+     <string-array name="card_last_week_day">
+        <item>Minulý Pondelok</item>
+        <item>Minulý Utorok</item>
+        <item>Minulá Streda</item>
+        <item>Minulý Štvrtok</item>
+        <item>Minulý Piatok</item>
+     </string-array>
+     <string-array name="last_month">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Marec</item>
+        <item>Apríl</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
+     </string-array>
+     <string-array name="last_weekend_title">
+        <item>Moje víkendy</item>
+        <item>Kúsky života</item>
+        <item>Spomienky na víkend</item>
+     </string-array>
+     <string-array name="month">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Marec</item>
+        <item>Apríl</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
+     </string-array>
+     <string-array name="month_last_year">
+        <item>Minulý Január</item>
+        <item>Minulý Február</item>
+        <item>Minulý Marec</item>
+        <item>Minulý Apríl</item>
+        <item>Minulý Máj</item>
+        <item>Minulý Jún</item>
+        <item>Minulý Júl</item>
+        <item>Minulý August</item>
+        <item>Minulý September</item>
+        <item>Minulý Október</item>
+        <item>Minulý November</item>
+        <item>Minulý December</item>
+     </string-array>
+     <string-array name="season">
+        <item>Jar</item>
+        <item>Leto</item>
+        <item>Jeseň</item>
+        <item>Zima</item>
+     </string-array>
+     <string-array name="season_last_year">
+        <item>Minulá Jar</item>
+        <item>Minulé Leto</item>
+        <item>Minulá Jeseň</item>
+        <item>Minulá Zima</item>
+     </string-array>
+     <string-array name="weekend_title">
+        <item>Minulé víkendy</item>
+        <item>Pamätné dni</item>
+        <item>Denné udalosti</item>
+        <item>Bežné a výnimočné</item>
+     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Zálohovať fotografie</item>
+        <item>Zálohovať fotografie na MiCloud</item>
+    </string-array>	 
+</resources>

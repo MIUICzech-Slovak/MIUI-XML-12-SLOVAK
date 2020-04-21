@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="extra_photo_common_permission_name">Bokeh</string>
+  <string name="extra_photo_common_saving">Ukladanie...</string>
+  <string name="motion_photo_re_pick_title">Vyberte najlepší záber</string>
+  <string name="motion_photo_toast_default">Predvolené</string>
+  <string name="motion_photo_toast_suggest">Odporúčané</string>
+  <string name="refocus_discard_confirm_message">Uložiť zmeny?</string>
+  <string name="refocus_discard_negative_btn">Zrušiť</string>
+  <string name="refocus_discard_positive_btn">Uložiť</string>
+  <string name="refocus_photo_not_support">Nie je možné použiť rozmazanie pre túto fotografiu</string>
+  <string name="refocus_relighting_toast">Presuňte krúžok pre nastavenie uhlu osvetlenia</string>
+  <string name="refocus_save_cancel">Zrušiť</string>
+  <string name="refocus_save_title">Vyberte formát</string>
+  <string name="refocus_save_to_photo">Uložiť ako obrázok</string>
+  <string name="refocus_save_to_video">Uložiť ako video</string>
+  <string name="refocus_saving">Ukladanie...</string>
+  <string name="refocus_title">Rozmazať</string>
+  <string name="refocus_type_relighting">Osvetlenie</string>
+  <string name="refocus_type_relighting_no_face">Nebolo možné rozpoznať tvár</string>
+  <string name="refocus_type_relighting_small_face">3D osvetlenie funguje len na fotografiách kde tvár zaberá jej väčšiu časť.</string>
+  <string name="refocus_type_static">Úroveň rozmazania</string>
+  <string name="refocus_type_video">Svetelné stopy</string>
+  <string name="extra_photo_common_save_fail">Ukladanie zlyhalo</string>
+  <string name="doc_photo_adjust_section_title">Prispôsobte potiahnutím</string>
+  <string name="doc_photo_doc_photo_title">Upraviť dokument</string>
+  <string name="doc_photo_enhance_bin">B&amp;W</string>
+  <string name="doc_photo_enhance_color">Vylepšené</string>
+  <string name="doc_photo_enhance_none">Originál</string>
+  <string name="doc_photo_idcard_emblem">Zadná strana</string>
+  <string name="doc_photo_idcard_mode_title">Karta</string>
+  <string name="doc_photo_idcard_portrait">Predná strana</string>
+  <string name="doc_photo_not_support">Nie je možné upraviť tento obrázok ako dokument</string>
+  <string name="doc_photo_view_effect">Náhľad</string>  
+</resources>

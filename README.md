@@ -1,6 +1,5 @@
-[![MIUI11 logo](https://i.imgur.com/A44OaCG.gif)](https://miuios.cz/)
 
-MIUI-v11 translation for all supported devices. MIUI Translation: **ingbrzy**
+MIUI-v12 translation for all supported devices. MIUI Translation: **ingbrzy**
 
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.

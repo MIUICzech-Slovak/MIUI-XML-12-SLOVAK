@@ -94,4 +94,16 @@
         <item quantity="other">%1$s záloh (%2$s)</item>
         <item quantity="one">%1$s záloha (%2$s)</item>
     </plurals>	
+     <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d položiek</item>
+        <item quantity="one">%1$d/%2$d položiek</item>
+     </plurals>
+     <plurals name="new_task_backup_failed">
+        <item quantity="other">Zálohovanie dokončené. Nebolo možné zálohovať %d položiek.</item>
+        <item quantity="one">Zálohovanie dokončené. Nebolo možné zálohovať %d položiek.</item>
+     </plurals>
+     <plurals name="new_task_restore_failed">
+        <item quantity="other">Obnovenie dokončené. Nebolo možné obnoviť %d položiek.</item>
+        <item quantity="one">Obnovenie dokončené. Nebolo možné obnoviť %d položiek.</item>
+     </plurals>
 </resources>

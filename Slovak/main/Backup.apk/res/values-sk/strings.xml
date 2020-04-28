@@ -204,7 +204,7 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
   <string name="hsa_verify_failed_message">Dvojstupňové overenie zlyhalo. Môžete to skúsiť znovu alebo vypnúť dvojstupňové overenie.</string>
   <string name="hsa_verify_retry">Skúste to znovu</string>
   <string name="hsa_verify_shutdown">Vypnúť</string>
-  <string name="iCloud_ID_verification_tip">Zadajte SMS overovací kód, ktorý bol odoslaný na telefón prepojený s vašim Apple ID. Ignorujte kód vo vyskakovacom okne na obrazovke vášho iPhoneu.</string>
+  <string name="iCloud_ID_verification_tip">Zadajte SMS overovací kód, ktorý bol odoslaný na telefón prepojený s vašim Apple ID. Ignorujte kód vo vyskakujúcom okne na obrazovke vášho iPhone.</string>
   <string name="icloud_backup_tip">Prihláste sa na iCloud účet svojho starého iOS zariadenia</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Otvorte Nastavenia svojho iOS zariadenia a vyberte možnosť iCloud.
 2. Prepnite spínače v sekcii Kontakty a iné položky.
@@ -225,7 +225,7 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
   <string name="import_from_xiaomi_account_hint2">Pokiaľ už máte zálohu, ťuknite na Ďalej.</string>
   <string name="import_from_xiaomi_account_hint_title">Pre zálohovanie kontaktov s rôznymi zariadeniami používajte Mi Talk.</string>
   <string name="import_tip_summary">V dôsledku problémov s kompatibilitou nie je možné prenášať všetky dáta z iOS zariadení. Pred spustením prenosu sa uistite, že ste vykonali zálohu iCloud.</string>
-  <string name="lack_perm_msg">Mi Mover vyžaduje nasledujúce oprávnenia:&lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_msg">Mi Mover vyžaduje nasledujúce oprávnenia: %s .</string>
   <string name="lack_perm_title">Požadujú sa oprávnenia</string>
   <string name="list_footer_tip_title">Tipy:</string>
   <string name="loading_data">Načítavanie dát</string>
@@ -251,7 +251,7 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
   <string name="multi_select_title">Vybraných: %1$s</string>
   <string name="multi_user_mode_backup_message">Zálohu nejde vykonať v režime viacerých užívateľov. Pre pokračovanie vypnite režim viacerých užívateľov.</string>
   <string name="multi_user_mode_dialog_message">Mi Mover sa nedá použiť v režime viacerých užívateľov. Pre pokračovanie vypnite režim viacerých užívateľov.</string>
-  <string name="multi_user_mode_dialog_title">Ste v režime Viacerých použivateľov</string>
+  <string name="multi_user_mode_dialog_title">Ste v režime Viacerých používateľov</string>
   <string name="name_password_not_consistent">Užívateľské meno alebo heslo nie je správne</string>
   <string name="never">Nikdy</string>
   <string name="new_backup">Nová záloha</string>
@@ -383,7 +383,7 @@ Uvoľnite aspoň %s."</string>
   <string name="state_waiting">Malý moment…</string>
   <string name="storage_sd_card">SD karta</string>
   <string name="storage_usb">Úložisko USB</string>
-  <string name="succ_description">Úspešene</string>
+  <string name="succ_description">Úspešné</string>
   <string name="succeed">Dokončené</string>
   <string name="summary_err_backup_encrypting">Prihláste sa k vášmu Mi kontu.</string>
   <string name="summary_err_backup_no_network">Nepodarilo sa pripojiť na sieť</string>
@@ -429,7 +429,7 @@ Uvoľnite aspoň %s."</string>
   <string name="trans_calculating_media_description">Súbory médií</string>
   <string name="trans_calculating_tip">Prepočítavanie %s…</string>
   <string name="trans_cancel_confirm">Prebieha prenos, zastaviť teraz?</string>
-  <string name="trans_cancel_selection_message">Ak ukončíte prácu v Mi Moveri, prebiehajúci prenos bude prerušený. Počkajte kým sa dokončí prenos.</string>
+  <string name="trans_cancel_selection_message">Ak ukončíte prácu v Mi Mover, prebiehajúci prenos bude prerušený. Počkajte kým sa dokončí prenos.</string>
   <string name="trans_cancel_selection_title">Ostať v Mi Mover</string>
   <string name="trans_cancelling">Ruší sa…</string>
   <string name="trans_complete_restoring">Prenos úspešný. Obnovujú sa dáta aplikácií…</string>
@@ -454,7 +454,7 @@ Uvoľnite aspoň %s."</string>
   <string name="trans_detail_category_userdata">Aplikácie</string>
   <string name="trans_detail_category_wechat_qq">WeChat a QQ dáta (vrátane histórie konverzácií)</string>
   <string name="trans_detail_item_app_data_selected_tip">Boli vybrané aj súvisiace aplikácie.</string>
-  <string name="trans_detail_item_app_data_skip_data">Údaje apikácie nie je možné preniesť</string>
+  <string name="trans_detail_item_app_data_skip_data">Údaje aplikácie nie je možné preniesť</string>
   <string name="trans_detail_item_app_data_too_large_tip">Zdá sa, že táto položka je na prenos príliš veľká.</string>
   <string name="trans_detail_list_footer">"1. Aplikácie, ktoré chcete preniesť, môžete zvoliť jednotlivo.
 2. Pokiaľ zvolíte možnosť prenosu dát aplikácie, s nimi spojené aplikácie budú prenesené automaticky.
@@ -566,7 +566,7 @@ Pre naskenovanie QR kódu potom ťuknite na „Znovu pripojiť“."</string>
   <string name="trans_receiver">Som príjemca</string>
   <string name="trans_receiver_time_remained">"Ostáva %s.
 Nevypínajte Wi-Fi Hotspot.
-Ponechejte zariadenia blízko pri sebe."</string>
+Ponechajte zariadenia blízko pri sebe."</string>
   <string name="trans_receiving_completed">Úspešne prijaté</string>
   <string name="trans_restoring">Obnovuje sa…</string>
   <string name="trans_restoring_no_items">Získavajú sa informácie…</string>
@@ -574,7 +574,7 @@ Ponechejte zariadenia blízko pri sebe."</string>
   <string name="trans_scan_invalid_qrcode">Neplatný QR kód</string>
   <string name="trans_scan_qr_code_tips">Načítajte QR kód novým zariadením</string>
   <string name="trans_security_tips_message">Niektoré aplikácie nepodporujú Mi Mover.</string>
-  <string name="trans_security_tips_title">Kompatibilta s Mi Mover</string>
+  <string name="trans_security_tips_title">Kompatibilita s Mi Mover</string>
   <string name="trans_select_data">Vyberte dáta na prenos</string>
   <string name="trans_select_data_no_space">"Na novom zariadení nie je dostatok voľného miesta (dostupné %s).
 Uvoľnite miesto na úložisku alebo presuňte len dôležité položky."</string>
@@ -679,4 +679,55 @@ Veľkosť Delta aktualizácie: %2$s"</string>
   <string name="local_no_backup_data">Žiadne zálohy</string>
   <string name="local_restore_select_activity">Spravovať zálohy</string>
   <string name="local_restore_select_data_activity">Obnoviť zo zálohy</string>  
+     <string name="new_britem_audio">Zvuk</string>
+     <string name="new_britem_doc">Súbory</string>
+     <string name="new_britem_other">Ostatné</string>
+     <string name="new_britem_pic">Obrázky</string>
+     <string name="new_britem_video">Videá</string>
+     <string name="new_confirm_enable_encrypt_content">MIUI spojí zašifrované zálohy s vašim Mi účtom. Pre obnovenie dát sa budete musieť prihlásiť k svojmu Mi účtu.</string>
+     <string name="new_confirm_enable_encrypt_title">Zašifrovať</string>
+     <string name="new_local_button_backup">Zálohovať</string>
+     <string name="new_local_button_restore">Obnoviť</string>
+     <string name="new_local_click_to_jump">Zobraziť podrobné informácie</string>
+     <string name="new_local_detail_description">"Poznámka:
+%1$d. Skopírujte zálohy do vášho PC pre prípad straty dát. %2$s.
+%3$d. Zálohy budú uložené v MIUI-Backup-AllBackup."</string>
+     <string name="new_local_tab_backup">Zálohovať do mobilného zariadenia</string>
+     <string name="new_local_tab_restore">Obnoviť z mobilného zariadenia</string>
+     <string name="new_low_storage_title">Nie je dostatok voľného miesta na úložisku</string>
+     <string name="new_more_settings_label">Ďalšie nastavenia</string>
+     <string name="new_pc_backup_content1">%1$d. Otvorte \"%2$s\".</string>
+     <string name="new_pc_backup_content2">%d. Počkajte kým sa zálohujú všetky položky.</string>
+     <string name="new_pc_backup_content3">%d. Nájdite zálohu v MIUI-Backup-AllBackup.</string>
+     <string name="new_pc_backup_content4">%d. Skopírujte ju do vášho PC.</string>
+     <string name="new_pc_backup_restore_link">Mobilné zariadenie</string>
+     <string name="new_pc_backup_summary1">Vyberte položky a stlačte \"Zálohovať\".</string>
+     <string name="new_pc_backup_summary2">Pripojte vaše mobilné zariadenie k PC cez USB.</string>
+     <string name="new_pc_backup_summary4">Poznámka: Môžete tiež skopírovať vaše fotografie a videá z MIUI-DCIM.</string>
+     <string name="new_pc_restore_content1">%d. Pripojte vaše mobilné zariadenie k PC cez USB.</string>
+     <string name="new_pc_restore_content2">%d. Skopírujte zálohu z vášho PC do MIUI-Backup-AllBackup.</string>
+     <string name="new_pc_restore_content3">%1$d. Otvorte \"%2$s\" a vyberte položky ktoré chcete obnoviť.</string>
+     <string name="new_pc_title">Skopírovať zálohy</string>
+     <string name="new_select_file">Zvuk, videá, a súbory</string>
+     <string name="new_select_message">SMS, kontakty, a históriu hovorov</string>
+     <string name="new_select_pic">Obrázky</string>
+     <string name="new_select_system">Ostatné dáta systémových aplikácií</string>
+     <string name="new_select_tencent">QQ a WeChat</string>
+     <string name="new_select_third">Nainštalované aplikácie a ich dáta</string>
+     <string name="new_select_third_apk">Nainštalované aplikácie</string>
+     <string name="new_select_third_data">Dáta nainštalovaných aplikácií</string>
+     <string name="new_tab_pc_backup">Zálohovať do PC</string>
+     <string name="new_tab_pc_restore">Obnoviť z PC</string>
+     <string name="new_task_finished">Hotovo</string>
+     <string name="new_usb_detail_description">"Poznámka:
+%1$d. Tento spôsob umožňuje zálohovať nainštalované aplikácie a ich dáta.
+%2$d. Uistite sa, že je dostatok voľného miesta na USB úložisku."</string>
+     <string name="new_usb_disconnect_dialog_message">Najskôr pripojte USB úložisko.</string>
+     <string name="new_usb_disconnect_dialog_title">Nebolo možné nájsť USB úložisko</string>
+     <string name="new_usb_select_data_no_space">Je dostupných len %s na USB úložisku. Uvoľnite miesto na úložisku.</string>
+     <string name="new_usb_tab_backup">Zálohovať na USB úložisko</string>
+     <string name="new_usb_tab_restore">Obnoviť z USB úložiska</string>
+     <string name="not_set">Nie je nastavené</string>
+     <string name="preference_copied">\"%1$s\" skopírované do schránky.</string>
+     <string name="search_menu_title">Vyhľadať</string>
 </resources>

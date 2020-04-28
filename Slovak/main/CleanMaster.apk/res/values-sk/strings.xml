@@ -151,11 +151,11 @@
   <string name="deepclean_apk_summary_empty">Všetko vyzerá byť v poriadku, žiadne APK na vymazanie</string>
   <string name="deepclean_apk_version_error">Neznáme</string>
   <string name="deepclean_app_content">Odinštalovať aplikácie ktoré ste nepoužili viac ako 30 dní</string>
-  <string name="deepclean_app_summary_empty">Všetko vyzerá byť v poriadku, žiadne apl. na vymazanie​</string>
+  <string name="deepclean_app_summary_empty">Všetko vyzerá byť v poriadku, žiadne apl. na vymazanie</string>
   <string name="deepclean_cache_content">Vyčistiť dáta vytvorené aplikáciami</string>
   <string name="deepclean_cache_header_left">Cache: %d</string>
   <string name="deepclean_cache_summary_empty">Všetko vyzerá byť v poriadku, žiadne dáta na vymazanie</string>
-  <string name="deepclean_empty">Všetko vyzerá byť ok</string>
+  <string name="deepclean_empty">Všetko vyzerá byť OK</string>
   <string name="deepclean_install_info_desc2">Odinštalujte apl. pre uvoľnenie miesta</string>
   <string name="deepclean_large_content">Vymazať súbory väčšie ako 10MB</string>
   <string name="deepclean_large_summary_empty">Všetko vyzerá byť v poriadku, žiadne súbory na vymazanie</string>
@@ -217,7 +217,7 @@
   <string name="empty_title_large_files">Prázdne</string>
   <string name="empty_title_photos">Žiadne fotografie</string>
   <string name="empty_title_residual">Žiadne súbory</string>
-  <string name="empty_title_video">Žiadne videá na vymazanie​</string>
+  <string name="empty_title_video">Žiadne videá na vymazanie</string>
   <string name="engine_cm">Clean Master</string>
   <string name="engine_init">Inicializácia...</string>
   <string name="engine_tm">Tencent</string>
@@ -235,7 +235,7 @@
   <string name="file">Súbory</string>
   <string name="file_not_found">Súbor sa nenašiel</string>
   <string name="flow_rank_title">Využitie dát</string>
-  <string name="function_app_lock_title">%d apl. môže ohroziť vaše súkromie​</string>
+  <string name="function_app_lock_title">%d apl. môže ohroziť vaše súkromie</string>
   <string name="garbage_clean_detail">Podrobnosti</string>
   <string name="garbage_cleanup_detail">Položiek: %1$d, Vyčistené: %2$s</string>
   <string name="garbage_month">Vyčistené %s tento mesiac</string>
@@ -325,7 +325,7 @@
   <string name="just_now">Teraz</string>
   <string name="label_image_list_none">Žiadne</string>
   <string name="label_preserve_the_best_image">Uložiť ostrejšiu fotografiu</string>
-  <string name="last_check_canceled">Predchádzajúca kontrola bola zrušena</string>
+  <string name="last_check_canceled">Predchádzajúca kontrola bola zrušená</string>
   <string name="load_only_under_wlan">Načítať novinky len na Wi-Fi</string>
   <string name="location_not_found">Nebolo možné nájsť súbor</string>
   <string name="login_immediately">Prihlásiť sa</string>
@@ -650,4 +650,31 @@
   <string name="global_wa_shortcut_dialog_title">Odkaz na ploche</string>
   <string name="global_wa_shortcut_toast">Odkaz vytvorený</string>
   <string name="global_wa_wrapper">Tapety</string>
+
+     <string name="storage_activity_title">Miesto na úložisku</string>
+     <string name="storage_app_detail_activity_title">Obsadené</string>
+     <string name="storage_app_detail_cache">Cache</string>
+     <string name="storage_app_detail_clear_all_data">Vymazať všetky dáta</string>
+     <string name="storage_app_detail_clear_cache">Vymazať cache</string>
+     <string name="storage_app_detail_manage_space">%s - Spravovať miesto na úložisku</string>
+     <string name="storage_app_detail_sdcard">Dáta aplikácie</string>
+     <string name="storage_app_detail_system">Veľkosť aplikácie</string>
+     <string name="storage_app_detail_third_clean_size">Uvoľniť %s</string>
+     <string name="storage_app_detail_total">Celkovo obsadené miesto</string>
+     <string name="storage_app_detail_uninstall_app">Odinštalovať aplikáciu</string>
+     <string name="storage_app_list_activity_title">Podrobnosti o aplikácií</string>
+     <string name="storage_app_list_desc">Obsadené miesto: %s</string>
+     <string name="storage_app_space_details_entry">Zobraziť podrobnosti o aplikácií</string>
+     <string name="storage_available_total_size">%1$s z %2$s dostupné</string>
+     <string name="storage_deepclean_entry">Hĺbkové čistenie</string>
+     <string name="storage_item_apk_name">APKs</string>
+     <string name="storage_item_appdata_name">Aplikácie a dáta</string>
+     <string name="storage_item_audio_name">Zvuk</string>
+     <string name="storage_item_clean_name">Uvoľniť miesto</string>
+     <string name="storage_item_doc_name">Dokumenty</string>
+     <string name="storage_item_other_name">Ostatné</string>
+     <string name="storage_item_picture_name">Obrázky</string>
+     <string name="storage_item_system_name">Systém</string>
+     <string name="storage_item_video_name">Video</string>
+     <string name="storage_space_release_hint">Potrebujete viac miesta?</string>
 </resources>

@@ -355,6 +355,25 @@
   <string name="virtual_reject_notice_title_calendar">%1$s sa pokúša o prístup ku kalendáru</string>
   <string name="virtual_reject_notice_title_calllog">%1$s sa pokúša o prístup k histórií hovorov</string>
   <string name="virtual_reject_notice_title_contacts">%1$s sa pokúša o prístup ku kontaktom</string>
-  <string name="virtual_reject_notice_title_phonestate">%1$s sa pokúša o prístup k informáciam o zariadení</string>
+  <string name="virtual_reject_notice_title_phonestate">%1$s sa pokúša o prístup k informáciám o zariadení</string>
   <string name="virtual_reject_notice_title_sms">%1$s sa pokúša o prístup k SMS</string>  
+     <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Nahráva zvuk a uskutočňuje hovory</string>
+     <string name="HIPS_Perm_Intl_group_desc_auto_start">Spúšťa aplikácie na pozadí</string>
+     <string name="HIPS_Perm_Intl_group_desc_calendar">Prístup k udalostiam v kalendári</string>
+     <string name="HIPS_Perm_Intl_group_desc_call_log">Prístup k histórií hovorov</string>
+     <string name="HIPS_Perm_Intl_group_desc_camera">Zhotovuje fotografie a videá</string>
+     <string name="HIPS_Perm_Intl_group_desc_contact">Upravuje kontakty</string>
+     <string name="HIPS_Perm_Intl_group_desc_location">Prístup k presnej polohe (GPS a podľa siete)</string>
+     <string name="HIPS_Perm_Intl_group_desc_storage">Ukladá súbory na internom úložisku</string>
+     <string name="HIPS_Perm_Intl_group_name_audio_recorder">Mikrofón</string>
+     <string name="HIPS_Perm_Intl_group_name_auto_start">Autoštart</string>
+     <string name="HIPS_Perm_Intl_group_name_calendar">Kalendár</string>
+     <string name="HIPS_Perm_Intl_group_name_call_log">História hovorov</string>
+     <string name="HIPS_Perm_Intl_group_name_camera">Fotoaparát</string>
+     <string name="HIPS_Perm_Intl_group_name_contact">Kontakty</string>
+     <string name="HIPS_Perm_Intl_group_name_location">Poloha</string>
+     <string name="HIPS_Perm_Intl_group_name_storage">Úložisko</string>
+     <string name="permission_group_title_sensitive_privacy_related">Citlivé povolenia</string>
+     <string name="permission_list_include">"Vrátane nasledujúcich:
+"</string>
 </resources>

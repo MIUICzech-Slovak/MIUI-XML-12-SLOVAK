@@ -847,4 +847,7 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
   <string name="picker_search_hint">Vyhľadať</string>
   <string name="starred_contact">Obľúbené</string>
   <string name="micloud_setting_sms_summary_for_google_csp">SMS</string>
+     <string name="special_func_title">Špeciálne funkcie</string>
+     <string name="storage_upgrade_card_summary">Získať viac miesta na cloudovom úložisku</string>
+     <string name="storage_upgrade_card_title">Navýšte si svoje predplatné</string>
 </resources>

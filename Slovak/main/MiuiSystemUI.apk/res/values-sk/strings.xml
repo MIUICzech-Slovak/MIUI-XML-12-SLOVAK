@@ -295,7 +295,7 @@
   <string name="as_important">Dôležité</string>
   <string name="as_unimportant">Nedôležité</string>
   <string name="aspect_cancel">Zrušiť</string>
-  <string name="aspect_message">Táto aplikácia bola spustená v režime celej obrazovky. Ak pozorujete nejake problémy s vzhľadom aplikácie, môžete deaktivovať režim celej obrazovky v nastaveniach.</string>
+  <string name="aspect_message">Táto aplikácia bola spustená v režime celej obrazovky. Ak pozorujete nejaké problémy s vzhľadom aplikácie, môžete deaktivovať režim celej obrazovky v nastaveniach.</string>
   <string name="aspect_ok">OK</string>
   <string name="aspect_title">Režim celej obrazovky</string>
   <string name="audio_effect_custom">Nastavenia</string>
@@ -497,7 +497,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="custom_lock_wallpaper_enter">Zadať</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomália (červená a zelená)</string>
   <string name="daltonizer_mode_disabled">Vypnuté</string>
-  <string name="daltonizer_mode_monochromacy">Monochromázia (úplna farbosleposť)</string>
+  <string name="daltonizer_mode_monochromacy">Monochromázia (úplná farbosleposť)</string>
   <string name="daltonizer_mode_protanomaly">Protanomália (červená a zelená)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomália (modrá a žltá)</string>
   <string name="daltonizer_type_overridden">Prekonané predvoľbou %1$s</string>
@@ -650,7 +650,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="face_data_input_camera_fail">Nebolo možné spustiť kameru</string>
   <string name="face_data_input_camera_ok">Spúšťanie kamery...</string>
   <string name="face_data_input_cancel">Zrušiť</string>
-  <string name="face_data_input_cancel_msg">Neoblo možné pridať tvár</string>
+  <string name="face_data_input_cancel_msg">Nebolo možné pridať tvár</string>
   <string name="face_data_input_msg">Zamerajte vašu tvár do rámčeka</string>
   <string name="face_data_input_ok">Hotovo</string>
   <string name="face_data_input_ok_msg">Zapnite displej pre odomknutie tvárou.</string>
@@ -673,12 +673,12 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="face_data_siggesstion_next">Ďalej</string>
   <string name="face_data_siggesstion_next_time">Ďalej (%ds)</string>
   <string name="face_data_suggesstion_first">Odomykanie vašeho zariadenia tvárou je menej bezpečné ako použitie hesla. Vaše zariadenie môže byť odomknuté ľudmi ktorí sa vám podobajú.</string>
-  <string name="face_data_suggesstion_second">Ujistite sa, že vám nič nezakrýva tvár.</string>
-  <string name="face_unlock_adjust_distance">Ujistite sa, že ste dostatočne vzdialený od zariadenia.</string>
+  <string name="face_data_suggesstion_second">Uistite sa, že vám nič nezakrýva tvár.</string>
+  <string name="face_unlock_adjust_distance">Uistite sa, že ste dostatočne vzdialený od zariadenia.</string>
   <string name="face_unlock_be_on_the_screen">Držte zariadenie pred vašou tvárou</string>
   <string name="face_unlock_by_notification_screen_on_msg">Môžete odomknúť vaše zariadenie kedykoľvek ak vám displej rozsvieti upozornenie od niektorej aplikácie. To môže zvýšiť spotrebu batérie.</string>
   <string name="face_unlock_by_notification_screen_on_title">Povoliť odomknutie tvárou ak je displej zapnutý</string>
-  <string name="face_unlock_category_title">Nastavenie zámknu obrazovky</string>
+  <string name="face_unlock_category_title">Nastavenie zámku obrazovky</string>
   <string name="face_unlock_check_failed">Nebolo vás možné rozpoznať</string>
   <string name="face_unlock_close_screen">Priblížte sa k zariadeniu</string>
   <string name="face_unlock_down">Zdvihnite hlavu</string>
@@ -718,7 +718,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="find_device_turn_off_flight_mode">Deaktivovať režim Lietadlo</string>
   <string name="fingerprint_add_text">Rozpoznávanie odtlačku prsta bolo aktualizované. Pridajte svoj odtlačok prsta znova.</string>
   <string name="fingerprint_add_title">Pridať odtlačok</string>
-  <string name="fingerprint_again_identified_msg">Váš odtlačok prsta je aktívny. Odomknite ním vašw zariadenie alebo zadajte heslo.</string>
+  <string name="fingerprint_again_identified_msg">Váš odtlačok prsta je aktívny. Odomknite ním vaše zariadenie alebo zadajte heslo.</string>
   <string name="fingerprint_dialog_touch_sensor">Dotknite sa senzora odtlačku prsta</string>
   <string name="fingerprint_enter_second_psw_msg">Zadajte heslo Druhého profilu po reštarte aby ste mohli použiť váš odtlačok prsta</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">"Can't enter Second space while in Lite mode"</string>
@@ -951,7 +951,7 @@ Použite sieťovú nabíjačku."</string>
   <string name="keyguard_password_enter_pin_prompt">Nový kód PIN SIM karty</string>
   <string name="keyguard_password_enter_puk_code">Zadajte kód PUK SIM karty a nový kód PIN</string>
   <string name="keyguard_password_enter_puk_prompt">Kód PUK SIM karty</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Heslo zadajte po klepnut&amp;#237;&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">Heslo zadajte po klepnutí</string>
   <string name="keyguard_password_wrong_pin_code">Nesprávny kód PIN.</string>
   <string name="keyguard_permanent_disabled_sim_instructions">"Vaša SIM karta bola natrvalo zakázaná.
 Ak chcete získať inú SIM kartu, kontaktujte svojho poskytovateľa bezdrôtových služieb."</string>
@@ -1112,7 +1112,7 @@ Skúste to znova o %2$d s."</string>
   <string name="lockscreen_shortcut_left">Ľavá skratka</string>
   <string name="lockscreen_shortcut_right">Pravá skratka</string>
   <string name="lockscreen_sim_error_message_short">Chybná karta.</string>
-  <string name="lockscreen_storage_locked">Odomknite pro všetky funkcie a dáta</string>
+  <string name="lockscreen_storage_locked">Odomknite pre všetky funkcie a dáta</string>
   <string name="lockscreen_unlock_left">Ľavá skratka tiež odomkne</string>
   <string name="lockscreen_unlock_right">Pravá skratka tiež odomkne</string>
   <string name="login_website_in_case_forget_password">Pre nastavenie hesla choďte na i.mi.com.</string>
@@ -1157,10 +1157,10 @@ pre dlhý screenshot"</string>
   <string name="miui_screen_rotation_freeze_message">Rotácia deaktivovaná.</string>
   <string name="miui_toast_zen_dnd_to_off">Zvuky a vibrácie sú obnovené</string>
   <string name="miui_toast_zen_standard_to_off">Zvonenie obnovené</string>
-  <string name="miui_toast_zen_standard_to_off_when_shield_media">Zvonenie, upozornenenia a zvuky médií budú prehrávané.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Zvonenie, upozornenia a zvuky médií budú prehrávané.</string>
   <string name="miui_toast_zen_to_dnd">Zvuky sú stíšené a vibrácie vypnuté</string>
   <string name="miui_toast_zen_to_standard">Zvonenie a upozornenia sú stíšené</string>
-  <string name="miui_toast_zen_to_standard_when_shield_media">Zvonenie, upozornenenia a zvuky médií budú stíšené.</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Zvonenie, upozornenia a zvuky médií budú stíšené.</string>
   <string name="mobile_data">Mobilné dáta</string>
   <string name="mobile_data_always_on">Mobilné dáta ponechať vždy aktívne</string>
   <string name="mobile_data_always_on_summary">Vždy ponechávať mobilné dáta aktívne, dokonca aj pri aktívnej sieti Wi‑Fi (na rýchle prepínanie sietí)</string>
@@ -1789,7 +1789,7 @@ posunutím nadol uzamknete"</string>
   <string name="structure_face_data_manage_delete_msg">Vymazať 3D dáta tváre</string>
   <string name="structure_face_data_open_cameraing">Spúšťanie kamery...</string>
   <string name="structure_face_data_rgb_input_face">Zamerajte vašu tvár do rámčeka</string>
-  <string name="structure_face_data_suggestion_text">Ujistite sa, že je vidieť celá vaša tvár. Dajte dole čiapku, klobúk a slnečné okuliare.</string>
+  <string name="structure_face_data_suggestion_text">Uistite sa, že je vidieť celá vaša tvár. Dajte dole čiapku, klobúk a slnečné okuliare.</string>
   <string name="structure_face_data_suggestion_warning_text">Poznámka: Používanie 3D dát tváre je menej bezpečné ako heslo. Osoby ktoré sa na vás podobajú môžu odomknúť vaše zariadenie.</string>
   <string name="structure_face_delete_data_dialog_msg">Nebolo možné spustiť kameru. Skúste to znovu.</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Skúsiť znovu</string>
@@ -1813,7 +1813,7 @@ posunutím nadol uzamknete"</string>
   <string name="structure_face_unlock_model_other_suggestion_3d">3D rozpoznávanie tváre je relatívne bezpečné.</string>
   <string name="structure_face_unlock_model_other_title">Rozpoznávanie tváre</string>
   <string name="structure_face_unlock_not_same_person">Musíte dokončiť snímanie svojej tváre. Nevymieňajte sa s inou osobou.</string>
-  <string name="structure_face_unlock_really_person">Vyzerá to tak, že ste sa s niekym vumenili.</string>
+  <string name="structure_face_unlock_really_person">Vyzerá to tak, že ste sa s niekym vymenili.</string>
   <string name="structure_face_unlock_tof_covered">Nebolo možné naskenovať tvár. Oddiaľte zariadenie a skúste to znova.</string>
   <string name="switch_bar_off">Vypnuté</string>
   <string name="switch_bar_on">Zapnuté</string>
@@ -2094,4 +2094,47 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="how_to_use_app_quick_hide_line_summary">Potiahnite zdola nahor, potom vľavo alebo vpravo</string>
   <string name="how_to_use_app_quick_summary">Potiahnite vľavo alebo vpravo z indikátora alebo zospodu displeja</string>
   <string name="screenshot_failed_in_landscape_mode">Dlhý screenshot nie je podporovaný v režime na šírku</string>
+     <string name="character_counter_content_description">Zadané znaky %1$d z %2$d</string>
+     <string name="character_counter_overflowed_content_description">Prekročený limit znakov %1$d z %2$d</string>
+     <string name="choose_clock_panel_title">Rozloženie zámku obrazovky</string>
+     <string name="choose_clock_third_theme_hint_text">Zámok obrazovky zo súčasnej témy aplikovaný</string>
+     <string name="clear_text_end_icon_content_description">Vymazať text</string>
+     <string name="icon_content_description">Ikona</string>
+     <string name="lock_screen_signature_msg">Zobraziť podpis na zamknutej obrazovke</string>
+     <string name="lock_screen_signature_title">Info o vlastníkovi na zamknutej obrazovke</string>
+     <string name="mtrl_chip_close_icon_content_description">Odobrať %1$s</string>
+     <string name="mtrl_picker_cancel">Zrušiť</string>
+     <string name="mtrl_picker_confirm">Uložiť</string>
+     <string name="mtrl_picker_date_format">dd. MMM yyyy</string>
+     <string name="mtrl_picker_header_prompt">Vybrať dátum</string>
+     <string name="mtrl_picker_range_header_prompt">Vybrať rozpätie</string>
+     <string name="notification_aggregate_text">Označiť upozornenia od %1$s ako nedôležité</string>
+     <string name="notification_info_disabled_text">Blokované upozornenia od %1$s</string>
+     <string name="notification_info_enabled_text">Upozornenia od %1$s</string>
+     <string name="notification_menu_aggregate_description">Nastavenie zoskupenia</string>
+     <string name="owner_info_settings_edit_text_hint">Napr., Steve Jobs Android.</string>
+     <string name="password_toggle_content_description">Zobraziť heslo</string>
+     <string name="qs_control_big_tile_state_closed">Vyp</string>
+     <string name="qs_control_big_tile_state_closing">Vypínanie…</string>
+     <string name="qs_control_big_tile_state_connected">Pripojené</string>
+     <string name="qs_control_big_tile_state_connecting">Pripájanie…</string>
+     <string name="qs_control_big_tile_state_disconnected">Nepripojené</string>
+     <string name="qs_control_big_tile_state_disconnecting">Odpájanie…</string>
+     <string name="qs_control_big_tile_state_opened">Zap</string>
+     <string name="qs_control_big_tile_state_opening">Zapínanie…</string>
+     <string name="qs_control_big_tile_state_unavailable">Nie je dostupné</string>
+     <string name="qs_control_customize_other_tiles_title">Dostupné prepínače</string>
+     <string name="qs_control_customize_save_text">Hotovo</string>
+     <string name="qs_control_customize_sub_title">Presuňte pridané prepínače pre ich usporiadanie</string>
+     <string name="qs_control_customize_title">Pridané prepínače</string>
+     <string name="qs_control_expand_detail_title">Moje dáta</string>
+     <string name="qs_control_header_tiles_title">skratky</string>
+     <string name="small_window_guide_title">Plávajúce okno</string>
+     <string name="small_window_notification_text">Dotykom sa naučíte viac o tejto funkcii MIUI %d</string>
+     <string name="small_window_notification_title">Plávajúce okná</string>
+     <string name="status_bar_clock_date_weekday_format">dd.MM EEEE</string>
+     <string name="status_bar_clock_date_weekday_format_12">dd.MM EEEE</string>
+     <string name="wifi_security_none_owe">Žiadne</string>
+     <string name="wifi_security_short_none_owe">Žiadne</string>
+
 </resources>

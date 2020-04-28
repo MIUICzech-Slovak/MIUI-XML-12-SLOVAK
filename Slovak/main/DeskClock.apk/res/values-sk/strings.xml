@@ -60,17 +60,17 @@
   <string name="delete_timer_item_title">Vymazať časovač</string>
   <string name="delete_timezone_title">Vymazať časovú zónu</string>
   <string name="dialog_confirm_abort">Naozaj chcete zrušiť vaše zmeny?</string>
-  <string name="dialog_legal_off_day">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našími Podmienkami používania a ochranou súkromia.</string>
+  <string name="dialog_legal_off_day">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našimi Podmienkami používania a ochranou súkromia.</string>
   <string name="dialog_legal_off_day_desc">Aplikácia Hodiny nemá povolený prístup k sieti.</string>
-  <string name="dialog_legal_workday">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našími Podmienkami používania a ochranou súkromia.</string>
-  <string name="dialog_legal_workday_and_off_day">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našími Podmienkami používania a ochranou súkromia.</string>
+  <string name="dialog_legal_workday">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našimi Podmienkami používania a ochranou súkromia.</string>
+  <string name="dialog_legal_workday_and_off_day">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našimi Podmienkami používania a ochranou súkromia.</string>
   <string name="dialog_legal_workday_and_off_day_desc">Aplikácia Hodiny nemá povolený prístup k sieti.</string>
   <string name="dialog_legal_workday_desc">Aplikácia Hodiny nemá povolený prístup k sieti.</string>
   <string name="dialog_message_agree">Súhlasím</string>
   <string name="dialog_message_for_contact_permission">Pre načítanie narodenín, aplikácia potrebuje prístup k vašim kontaktom. Súhlasíte?</string>
   <string name="dialog_message_negative">Nie</string>
   <string name="dialog_message_not_remind">Viac nezobrazovať</string>
-  <string name="dialog_net_permission_in_repeat_type">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našími Podmienkami používania a ochranou súkromia.</string>
+  <string name="dialog_net_permission_in_repeat_type">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našimi Podmienkami používania a ochranou súkromia.</string>
   <string name="dialog_privacy_content">Pre stiahnutie zoznamu sviatkov a ďalších informácií aplikácia Hodiny vyžaduje pripojenie na internet. Taktiež musíte súhlasiť s našimi %1$s a %2$s. Súhlasíte?</string>
   <string name="dialog_privacy_content_global">Pre stiahnutie zoznamu sviatkov a ďalších informácií aplikácia Hodiny vyžaduje pripojenie na internet. Taktiež musíte súhlasiť s našimi %1$s a %2$s. Súhlasíte?</string>
   <string name="dialog_privacy_content_news">Pre stiahnutie zoznamu sviatkov a ďalších informácií aplikácia Hodiny vyžaduje pripojenie na internet. Taktiež musíte súhlasiť s našimi %1$s a %2$s. Súhlasíte?</string>
@@ -314,7 +314,6 @@
   <string name="worldcolock_timezone_gap">Hodina</string>
   <string name="worldcolock_timezone_local">Rovnaký čas ako u vás</string>
   <string name="module_unzipping">Rozbaľovanie zvukov...</string>
-
   <string name="agree">Súhlasím</string>
   <string name="alarm_alert_disabled">Vyp</string>
   <string name="alarm_ringtone_picker">Budíky</string>
@@ -397,4 +396,21 @@
   <string name="ringtone_digital_timer">Časovač</string>
   <string name="time_settings">Nastavenie hodín</string>
   <string name="timer_ringtone">Zvonenie časovača</string>
+     <string name="add_timer">Časovač</string>
+     <string name="already_exist">Tento časovač už existuje</string>
+     <string name="app_name">Nastavenia</string>
+     <string name="city_time_contrast_desc">Porovnať čas v rôznych mestách</string>
+     <string name="copy">Kopírovať</string>
+     <string name="current_stopwatch_time">Súčasné načasovanie</string>
+     <string name="expand_button_title">Rozšírené</string>
+     <string name="not_set">Nie je nastavené</string>
+     <string name="preference_copied">\"%1$s\" skopírované do schránky.</string>
+     <string name="reach_upper_limit">Nie je možné pridať viac časovačov</string>
+     <string name="sleep_analysis_chart_date_format">dd.MM</string>
+     <string name="system_permission_agree_desc">Povoľte tejto aplikácií prístup na internet pre jej správne fungovanie.</string>
+     <string name="system_permission_main_purpose">Zobrazenie času, nastavenie budíkov, stopky...</string>
+     <string name="timer_item_delete">Vymazať</string>
+     <string name="worldclock_local_time">Lokálny čas</string>
+     <string name="worldclock_second_time">Čas v %s</string>
+     <string name="worldcolock_time_date">dd.MM.yyyy</string>
 </resources>

@@ -58,7 +58,7 @@
   <string name="file_cannot_screen_throw">Nie je možné vytlačiť tento súbor.</string>
   <string name="file_sending">Prenos súborov...</string>
   <string name="first_back_long_press_message">"Prajete si, aby na ukončili aplikácie stlačením a podržaním tlačidla Späť? \nZapnete v Nastavenia&gt; Systém&gt; HW tlačidlá"</string>
-  <string name="flip_screen_camera_tip">Pre používanie fotoparátu otočte zariadenie</string>
+  <string name="flip_screen_camera_tip">Pre používanie fotoaparátu otočte zariadenie</string>
   <string name="fm_record_smaple_prefix_miui">FM_Nahrávka</string>
   <string name="force_exit_message">Úspešne ukončená aplikácia \"%1$s\"</string>
   <string name="force_exit_skip_message">%1$s je systémová aplikácia a nemôže byť ukončená.</string>
@@ -119,7 +119,7 @@
   <string name="popup_camera_continue_popup">Otvoriť Fotoaparát</string>
   <string name="popup_camera_front_failed">Nebolo možné otvoriť prednú kameru.</string>
   <string name="popup_camera_front_falied_times">Nebolo možné otvoriť prednú kameru.</string>
-  <string name="popup_camera_front_when_use">Predna kamera je zaneprázdnená. Aj tak otvoriť?</string>
+  <string name="popup_camera_front_when_use">Predná kamera je zaneprázdnená. Aj tak otvoriť?</string>
   <string name="popup_camera_hid_device_name">Black shark</string>
   <string name="popup_camera_popup_falied_times_calibrate">Nebolo možné otvoriť prednú kameru. Skúste kalibrovať kameru.</string>
   <string name="popup_camera_remove_hid_device">Zdá sa, že vaše zariadenie je pripojené k hernému ovládaču. Nie je možné vysunúť fotoaparát.</string>
@@ -268,4 +268,11 @@
   <string name="input_method_clipboard_settings_button">Nastavenia</string>  
   <string name="input_method_phrase_edit">Upraviť</string>
   <string name="input_method_phrase_top">Pripnúť</string>  
+     <string name="device_status_failed">Nebolo možné odoslať</string>
+     <string name="device_status_sending">Odosielanie…</string>
+     <string name="device_status_success">Odoslané</string>
+     <string name="device_status_waiting">Čakanie…</string>
+     <string name="open_close_tip_action">Rozumiem</string>
+     <string name="open_close_tip_content">Pre zatvorenie plávajúceho okna,stlačte a podržte lištu a potiahnite nahor</string>
+     <string name="security_share_text">Ochrana súkromia</string>
 </resources>

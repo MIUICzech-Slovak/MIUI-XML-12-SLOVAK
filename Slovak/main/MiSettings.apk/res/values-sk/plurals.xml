@@ -121,4 +121,16 @@
         <item quantity="other">Používali ste vaše zariadenie %d minút bez prestávky</item>
         <item quantity="one">Používali ste vaše zariadenie %d minútu bez prestávky</item>
     </plurals>	
+     <plurals name="usage_new_home_avg_unlockc">
+        <item quantity="other">%.2f krát denne priemerne</item>
+        <item quantity="one">%.2f krát denne priemerne</item>
+     </plurals>
+     <plurals name="usage_new_home_total_unlocks">
+        <item quantity="other">Odomknuté %d krát</item>
+        <item quantity="one">Odomknuté %d krát</item>
+     </plurals>
+     <plurals name="usage_new_home_total_week_unlocks">
+        <item quantity="other">Odomknuté %d krát</item>
+        <item quantity="one">Odomknuté %d krát</item>
+     </plurals>
 </resources>

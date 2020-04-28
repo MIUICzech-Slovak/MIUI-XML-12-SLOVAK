@@ -2,4 +2,37 @@
 <resources>
   <string name="mi_wallpaper_loading">Načítavanie Mi Tapety...</string>
   <string name="mi_wallpaper_title">Mi Tapeta</string>
+     <string name="earth_summary">Zem je naša planéta, chráňme si náš domov</string>
+     <string name="earth_title">Domov</string>
+     <string name="mars_title">Červená planéta</string>
+     <string name="mars_summary">Mars vždy fascinoval ľudstvo</string>
+     <string name="miui_clock_city_name_local">Lokálny</string>
+     <string name="miui_lock_screen_date">dd.MM EEEE</string>
+     <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
+     <string name="miui_lock_screen_date_two_lines">"EEEE
+d. MMMM"</string>
+     <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d. MMMM"</string>
+     <string name="miui_lock_screen_large_date">"EEE
+dd.M"</string>
+     <string name="miui_lock_screen_large_date_12">"EEE
+dd.M"</string>
+     <string name="saturn_summary">Prstence Saturnu vytvárajú nádherné divadlo vo vesmíre</string>
+     <string name="saturn_title">Saturn</string>
+    <string name="super_wallpaper_list_label">Super tapety</string>
+     <string name="super_wallpaper_setting_apply_success_toast">Nastavené</string>
+     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Použiť</string>
+     <string name="super_wallpaper_setting_choose_position_btn_text">Vyberte polohu</string>
+     <string name="super_wallpaper_setting_coordinate_title">Súradnice</string>
+     <string name="super_wallpaper_setting_view_height_title">Nadmorská výška</string>
+     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+     <string name="wallpaper_setting_find_more_text">Viac online tapiet</string>
+     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Domáca ploha</string>
+     <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Zámok</string>
+     <string name="wallpaper_setting_online_wallpaper_actionbar_title">Online tapety</string>
+     <string name="wallpaper_setting_online_wallpaper_none_title">Objavte tapety</string>
+     <string name="wallpaper_setting_online_wallpaper_title">Online tapety</string>
+     <string name="wallpaper_setting_super_wallpaper_banner_title">Super tapety</string>
+     <string name="wallpaper_setting_super_wallpaper_more_button_text">Viac</string>
+     <string name="wallpaper_setting_title">Tapeta</string>
 </resources>

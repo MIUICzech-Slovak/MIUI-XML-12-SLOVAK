@@ -174,7 +174,7 @@
   <string name="dialog_message_fake_cell_detect_error">Upraviť informácie o tejto správe? MIUI odošle číslo (%1$s), obsah správy a polohu na Xiaomi server.</string>
   <string name="dialog_message_mx">Mi Správy umožňujú posielať SMS správy ostatným MIUI užívateľom bez poplatkov. Pre ich aktiváciu sa vyžaduje odoslanie aktivačnej SMS. Musíte súhlasiť s našimi \"%1$s\" a \"%2$s\".</string>
   <string name="dialog_message_networking">SMS aplikácia vyžaduje pripojenie na internet pre fungovanie Cloudových správ.</string>
-  <string name="dialog_message_sms_report">SPAM SMS a informácie o dosielateľovi budú odoslané Xiaomi pre ďalšiu analýzu.</string>
+  <string name="dialog_message_sms_report">SPAM SMS a informácie o odosielateľovi budú odoslané Xiaomi pre ďalšiu analýzu.</string>
   <string name="dialog_title_fake_cell_detect_error">Upraviť</string>
   <string name="dialog_title_networking">Podmienky používania</string>
   <string name="disable_notifications_dialog_message">Neduplikovať notifikácie z predvolenej aplikácií SMS správ?</string>
@@ -228,7 +228,7 @@
   <string name="failed_to_add_media">Položku %1$s nemožno pridať do správy.</string>
   <string name="failed_to_resize_image">Veľkosť fotografie sa nepodarilo prispôsobiť.</string>
   <string name="fake_cell_alert_detect_error">Nebolo to odoslané z falošnej BTS</string>
-  <string name="fake_cell_alert_hint">Vyzerá to tak akoby bola správa odoslaná z iného čisla ako sa zobrazuje. Buďte opatrný ak SMS vyžaduje prihlasovacie údaje alebo platby.</string>
+  <string name="fake_cell_alert_hint">Vyzerá to tak akoby bola správa odoslaná z iného čísla ako sa zobrazuje. Buďte opatrný ak SMS vyžaduje prihlasovacie údaje alebo platby.</string>
   <string name="fake_cell_checking_hint">Kontrola zabezpečenia...</string>
   <string name="fake_cell_detection_entry">Zistená falošná základná stanica</string>
   <string name="fake_cell_safe_hint">Táto správa je bezpečná</string>
@@ -377,7 +377,7 @@
   <string name="msglist_release_to_more">Pustite pre zobrazenie ďalších</string>
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Zvuk oznámenia</string>
-  <string name="mx_activate_allow_notice">Váš operátor spoplatní SMS správu odoslanú pre aktivovanie cloudových SMS.</string>
+  <string name="mx_activate_allow_notice">Váš operátor spoplatní SMS správu odoslanú pre aktiváciu cloudových SMS.</string>
   <string name="mx_activate_dlg_title">Aktivovať Cloudové správy</string>
   <string name="mx_activate_dlg_title_ex">Aktivovať MiSprávy</string>
   <string name="mx_activate_error_malformed_info">Aktivácia Cloud správ zlyhala, vyžaduje sa opätovný pokus o aktiváciu</string>
@@ -391,12 +391,12 @@
   <string name="mx_activate_int_hint_server">Aktivácia servera pre Cloud správy zlyhala. Vyžaduje sa odoslanie medzinárodnej SMS pre opätovnú aktiváciu Cloud správ. Chcete ich aktivovať teraz?</string>
   <string name="mx_activate_int_hint_sim_change">Bola zmenená SIM karta. Vyžaduje sa odoslanie medzinárodnej SMS pre opätovnú aktiváciu Cloud správ. Chcete ich aktivovať teraz?</string>
   <string name="mx_activate_network_allow_notice">Táto služba vyžaduje pripojenie na internet.</string>
-  <string name="mx_activate_status_desc_activating_now">Aktivovanie...</string>
+  <string name="mx_activate_status_desc_activating_now">Aktivácia...</string>
   <string name="mx_activate_status_desc_check_net_connection">Nebolo možné sa pripojiť k sieti</string>
   <string name="mx_activate_status_desc_fail">Nebolo možné aktivovať Cloudové správy</string>
   <string name="mx_activate_status_desc_prepare_sending_sms">Odosielanie aktivačnej SMS...</string>
   <string name="mx_activate_status_desc_query_activte_info">Kontrola SIM karty...</string>
-  <string name="mx_activate_status_desc_request_activation_sms_phone_error">Zadané telefónné číslo je nesprávne</string>
+  <string name="mx_activate_status_desc_request_activation_sms_phone_error">Zadané telefónne číslo je nesprávne</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">Nebolo možné aktivovať Cloudové správy</string>
   <string name="mx_and_voip_enable">MiSprávy</string>
   <string name="mx_and_voip_enable_popup_msg">Odosielajte MiSprávy ostatným používateľom MIUI bez akýchkoľvek poplatkov.</string>
@@ -521,7 +521,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
   <string name="pref_sms_storage_title">Úložisko</string>
   <string name="pref_sms_theme_title">Nastavenie štýlu</string>
   <string name="pref_summary_allow_si_sl_push">Povoliť správam načítavať obsah webstránok</string>
-  <string name="pref_summary_allow_upload_message_info">SPAM SMS a informácie o dosielateľovi budú odoslané Xiaomi pre ďalšiu analýzu.</string>
+  <string name="pref_summary_allow_upload_message_info">SPAM SMS a informácie o odosielateľovi budú odoslané Xiaomi pre ďalšiu analýzu.</string>
   <string name="pref_summary_auto_delete">Minulo sa úložisko, vymažte staré správy.</string>
   <string name="pref_summary_delete_limit">Počet správ v konverzácií: %1$s</string>
   <string name="pref_summary_delivery_reports">Požadovať oznámenie o doručení správy</string>
@@ -537,7 +537,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
   <string name="pref_summary_on_system_mms_priority">Systémová SMS aplikácia dostane správu ako prvá</string>
   <string name="pref_summary_send_delivery_reports">Odoslať oznámenie o doručenej správe</string>
   <string name="pref_summary_show_recent_contacts">Zobraziť zoznam častých kontaktov počas písania správy</string>
-  <string name="pref_summary_wake_up_screen">Pri obdŕžaní správy rozsvietiť displej</string>
+  <string name="pref_summary_wake_up_screen">Pri obdržaní správy rozsvietiť displej</string>
   <string name="pref_system_title">Systém</string>
   <string name="pref_time_auto_group_disabled_summary">Nie je podporované v nastavenej veľkosti písma</string>
   <string name="pref_time_auto_group_summary">Zoradiť správy podľa času</string>
@@ -683,7 +683,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
   <string name="select_local_audio">Vybrať zvuk</string>
   <string name="select_local_video">Vybrať video</string>
   <string name="select_message_send_sim">Vybrať SIM kartu</string>
-  <string name="select_phone_number">Vyberte telefónné čislo</string>
+  <string name="select_phone_number">Vyberte telefónne čislo</string>
   <string name="select_recipient">Príjemca</string>
   <string name="select_sim">Vyberte SIM kartu</string>
   <string name="select_top_text">Text hore</string>
@@ -884,11 +884,27 @@ Pokus: %s."</string>
   <string name="ignore">Neskôr</string>
   <string name="privacy_term">Ochrana súkromia</string>
   <string name="recommend_both_dialog_title">Vitajte v Správach!</string>
-  <string name="recommend_dialog_message">Môžete povoliť Mi Správy a Inteligentné správy pre prístup k ďalšim nastaveniam.</string>
+  <string name="recommend_dialog_message">Môžete povoliť Mi Správy a Inteligentné správy pre prístup k ďalším nastaveniam.</string>
   <string name="recommend_mx_dialog_title">Vitajte v Mi Správach!</string>
   <string name="recommend_mx_setting_summary">Mi Správy umožňujú posielať SMS správy ostatným užívateľom MIUI cez internet.</string>
   <string name="recommend_smart_sms_dialog_title">Vitajte v Inteligentných správach!</string>
   <string name="recommend_smart_sms_setting_summary">Inteligentné správy poskytujú rozpoznanie názvu odosielateľa.</string>
   <string name="turn_on">Povoliť</string>
   <string name="user_term">Podmienky používania</string>
+     <string name="home_tab_ad">Reklamné</string>
+     <string name="home_tab_common">Normálne</string>
+     <string name="menu_correct_as_ad">Presunúť do reklamných</string>
+     <string name="menu_correct_as_normal">Presunúť do normálnych</string>
+    <string name="notification_ad_content">Dostali ste reklamnú SMS od %s</string>
+     <string name="pref_summary_collapse_ad_notification">Zobraziť všetky reklamné SMS v osobitnej zložke</string>
+     <string name="pref_summary_collapse_ad_notification_mms">Zobraziť všetky reklamné MMS v osobitnej zložke</string>
+     <string name="pref_title_collapse_ad_notification">Zoskupiť upozornenia o reklamných SMS</string>
+     <string name="private_entry_available">Pustite pre otvorenie súkromnej zložky</string>
+     <string name="private_entry_default">Potiahnite nižšie pre otvorenie súkromnej zložky</string>
+     <string name="recent_label">Nedávne kontakty</string>
+     <string name="release_end">Pustite pre zastavenie</string>
+     <string name="system_permission_declare_privacy_declare_new">Táto aplikácia vyžaduje pripojenie na internet a nasledujúce povolenia pre jej správne fungovanie:</string>
+     <string name="tab_finance">Finančné</string>
+     <string name="tab_message">SMS</string>
+     <string name="tab_promotions">reklamné</string>
 </resources>

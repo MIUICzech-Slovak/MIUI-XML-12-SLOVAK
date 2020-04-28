@@ -36,7 +36,7 @@
   <string name="call_record_folder_name">Zoznam volaní</string>
   <string name="cancel_alarm_description">Zrušiť upozornenie</string>
   <string name="check_in_todo_app">Zobraziť úlohy</string>
-  <string name="cloud_service_state_open_reminder">Povoľte sunchr. s MiCloud pre synchronizáciu poznámok.</string>
+  <string name="cloud_service_state_open_reminder">Povoľte synchr. s MiCloud pre synchronizáciu poznámok.</string>
   <string name="cloud_trash_bin_title">Vymazať poznámky z MiCloud</string>
   <string name="confirm_cancel">Nesúhlasím</string>
   <string name="confirm_ok">Súhlasím</string>
@@ -47,7 +47,7 @@
   <string name="cta_reminder">Táto aplikácia vyžaduje pripojenie na internet pre zálohovanie na Mi Cloud a prístup ku kontaktom.</string>
   <string name="date_calculate_today">0 dní</string>
   <string name="date_time_picker_alarm_reminder">Budík</string>
-  <string name="date_time_picker_dialog_title">NAstaviť dátum a čas</string>
+  <string name="date_time_picker_dialog_title">Nastaviť dátum a čas</string>
   <string name="date_time_picker_has_not_set_alarm">Budík nie je nastavený</string>
   <string name="date_time_picker_has_set_alarm">Budík je nastavený</string>
   <string name="db_downgrade_clear_button">Vymažte dáta aplikácie</string>
@@ -269,7 +269,7 @@
   <string name="toast_reach_text_limit_attachment">Obsah poznámky je príliš dlhý pre pridanie novej prílohy.</string>
   <string name="toast_reach_text_limit_checkbox">Nie je možné pridať políčko lebo poznámka je príliš dlhá</string>
   <string name="toast_reach_text_limit_truncate">"Obsah poznámky je automaticky skrátený, pretože je príliš dlhý."</string>
-  <string name="toast_refuse_to_record_when_in_call">Táto funkcia je ndostupná počas hovoru</string>
+  <string name="toast_refuse_to_record_when_in_call">Táto funkcia je nedostupná počas hovoru</string>
   <string name="toast_refuse_to_record_when_in_multi_window">Táto funkcia nie je dostupná v režime rozdelenia obrazovky</string>
   <string name="toast_refuse_to_use_contact">"Povolenie ku kontaktom je zakázané.
 Povoľte aplikácií Poznámky prístup ku kontaktom."</string>
@@ -322,7 +322,7 @@ Povoľte aplikácií Poznámky prístup k mikrofónu."</string>
   <string name="todo_schedule_time_yesterday">Včera</string>
   <string name="todo_schedule_time_ymdhm">dd.MM.yyyy HH:mm</string>
   <string name="todo_search_hint">Vyhľadať úlohu</string>
-  <string name="todo_time_picker_title">NAstaviť upozornenie</string>
+  <string name="todo_time_picker_title">Nastaviť upozornenie</string>
   <string name="todo_user_guide_fw_pop">Pridať odkaz na plochu</string>
   <string name="todo_user_guide_tip1">Vitajte v \"Úlohách\"!</string>
   <string name="todo_user_guide_tip2">Toto je úloha. Môžete zaškrtnúť políčko keď ju dokončíte.</string>
@@ -386,4 +386,32 @@ http://www.miuios.cz/rom
   <string name="todo_schedule_time_repeat_week">, každý týždeň</string>
   <string name="todo_schedule_time_repeat_year">, každý rok</string>
   <string name="notification_content_add_todo_from_other_app">Pridali ste novú úlohu. Dotykom ju zobrazíte.</string>  
+     <string name="action_mode_cancel_folder_priority">Nezobrazovať zložky ako prvé</string>
+     <string name="action_mode_switcher_folder_priority">Zložky ako prvé</string>
+     <string name="cta_agree_desc">Táto aplikácia vyžaduje pripojenie na internet a povolenia pre jej správne fungovanie.</string>
+     <string name="cta_v2_app_purpose">Vytváranie, zobrazenie a správa poznámok</string>
+     <string name="cta_v2_app_purpose_v12">Vitajte v poznámkach! Môžete používať túto aplikáciu na vytváranie poznámok a úloh.</string>
+     <string name="float_todo_guide_cancel">Zrušiť</string>
+     <string name="float_todo_guide_message">Odkazy na domácej obrazovke vám umožňujú posunutím z okraja displeja zobraziť a vytvoriť úlohy. Vytvoriť odkaz teraz?</string>
+     <string name="float_todo_guide_ok">Vytvoriť</string>
+     <string name="float_todo_guide_title">Odkaz na domácej obrazovke</string>
+     <string name="gesture_guide_cancel">Preskočiť</string>
+     <string name="gesture_guide_message">Podržaním poznámky môžete presúvať a vytvárať zložky. Chcete sa naučiť tieto gestá?</string>
+     <string name="gesture_guide_ok">Naučiť</string>
+     <string name="gesture_guide_title">Gestá</string>
+     <string name="hear_note">Nadiktované poznámky</string>
+     <string name="menu_group">Vytvoriť zložku</string>
+     <string name="merge_to_folder">Vytvoriť zložku</string>
+     <string name="miuix_appcompat_cloud_state_disabled">Synchr. s cloudom je vypnutá</string>
+     <string name="miuix_appcompat_cloud_state_finished">Synchr. s cloudom</string>
+     <string name="miuix_appcompat_cloud_state_syncing">Synchr. s cloudom</string>
+     <string name="permission_phone_state_desc">Pre ukončenie nahrávania poznámok počas hovoru</string>
+     <string name="permission_storage_desc">Pre ukladanie poznámok</string>
+     <string name="private_entry_available">Pustite pre otvorenie súkromnej zložky</string>
+     <string name="private_entry_default">Potiahnite nadol pre otvorenie súkromnej zložky</string>
+     <string name="todo_list">Zoznam úloh</string>
+     <string name="todo_list_edit_text_hint">Dotknite sa \"Zadať\" pre vytvorenie úlohy</string>
+     <string name="todo_list_new_finish_all_tip">Nové položky musia obsahovať aspoň jednu úlohu</string>
+     <string name="todo_list_overflow_tip">Nie je možné vytvoriť viac úloh</string>
+     <string name="todo_user_guide_tip6">Dotknite sa \"Zadať\" pre vytvorenie zoznamu úloh</string>
 </resources>

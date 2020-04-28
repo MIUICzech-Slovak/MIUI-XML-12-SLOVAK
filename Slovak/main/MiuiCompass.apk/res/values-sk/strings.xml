@@ -35,7 +35,7 @@
   <string name="error_camera_unavailable_title">Fotoaparát nie je dostupný</string>
   <string name="first_using_dialog_message">Kompas používa vaše internetové pripojenie, fotoaparát a vašu polohu.</string>
   <string name="first_using_dialog_title">Podmienky používania</string>
-  <string name="guide_toast">"Prosím skalibrujte kompas pohybom v tvare osmičky."</string>
+  <string name="guide_toast">"Prosím kalibrujte kompas pohybom v tvare osmičky."</string>
   <string name="latitude">LAT</string>
   <string name="location_east">E</string>
   <string name="location_enable">Povoliť</string>
@@ -55,9 +55,10 @@
   <string name="permission_location_desc">Zobrazenie súradníc a tlaku</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
-  <string name="shake_enter_tip">Zatrasením skalibrujete</string>
+  <string name="shake_enter_tip">Potrasením skalibrujete</string>
   <string name="preference_other">Ostatné</string>
   <string name="preference_privacy_title">Ochrana súkromia</string>
   <string name="using_camera_confirm_cancel">Ukončiť</string>
   <string name="using_camera_confirm_ok">OK</string>
-</resources>
+  <string name="cta_agree_desc">Povoľte tejto aplikácií prístup na internet a požadované povolenia pre jej správne fungovanie.</string>  
+</resources> 

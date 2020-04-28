@@ -43,4 +43,23 @@
   <string name="summary_lock_screen_enable_notification_first">Pre zobrazovanie upozornení na Zamknutej obrazovke najskôr povoľte upozornenia</string>
   <string name="summary_show_badge_enable_notification_first">Pre zapnutie bublín upozornení najskôr povoľte upozornenia</string>
   <string name="last_sent_time_second">Práve teraz</string>
+     <string name="menu_setting_recommend_to_minus">Zobraziť menej upozornení</string>
+     <string name="menu_setting_recommend_to_normal">Neredukovať upozornenia</string>
+     <string name="menu_setting_show_in_home">Nevytvárať skupiny</string>
+     <string name="menu_setting_tip_recommend_minus">Budete vidieť menej upozornení od %s</string>
+     <string name="menu_setting_tip_recommend_normal">Upozornenia od %s nebudú zredukované</string>
+     <string name="menu_setting_tip_show_in_home">Upozornenia od %s nebudú v skupine</string>
+     <string name="menu_setting_tip_unfold">Všetky upozornenia od tejto aplikácie budú označené ako dôležité</string>
+     <string name="menu_setting_toast_recommend_minus">Uvidíte menej upozornení od %s</string>
+     <string name="menu_setting_toast_recommend_normal">Upozornenia od %s nebudú zredukované</string>
+     <string name="menu_setting_toast_show_in_home">Upozornenia od %s nebudú v skupine</string>
+     <string name="menu_setting_unfold">Dôležité</string>
+     <string name="notification_aggregate_description1">MIUI môže automaticky vytvoriť skupinu pre reklamné upozornenia.</string>
+     <string name="notification_aggregate_description2">Naše algoritmy analyzujú obsah upozornení a neaplikujú túto funkciu pre dôležité upozornenia a od chatovacích aplikácií.</string>
+     <string name="notification_aggregate_summary">Povoľte MIUI automaticky zoskupiť upozornenia</string>
+     <string name="notification_aggregate_summary_inner">Povoľte pre vytvorenie skupiny pre reklamné upozornenia</string>
+     <string name="notification_aggregate_title">Skupina pre upozornenia</string>
+     <string name="notification_setting_menu_feedback_text">"Toto upozornenie by nemalo byť tu?
+Nahláste tento problém &gt;"</string>
+     <string name="swipe_to_delete">Potiahnite naľavo alebo napravo pre vymazanie</string>
 </resources>

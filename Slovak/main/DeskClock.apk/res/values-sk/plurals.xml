@@ -104,4 +104,16 @@
         <item quantity="other">%1$smin</item>
         <item quantity="one">%1$smin</item>
     </plurals>	
+     <plurals name="minute_text">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+     </plurals>
+     <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">%sh dopredu</item>
+        <item quantity="one">%sh dopredu</item>
+     </plurals>
+     <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">%sh dozadu</item>
+        <item quantity="one">%sh dozadu</item>
+     </plurals>
 </resources>

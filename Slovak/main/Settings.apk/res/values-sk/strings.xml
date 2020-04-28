@@ -1378,7 +1378,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="development_settings_summary">Umožňuje nastaviť možnosti pre vývoj aplikácií</string>
   <string name="development_settings_title">Možnosti pre vývojárov</string>
   <string name="device_additional_status">Ďalšie informácie</string>
-  <string name="device_additional_status_summary">Telefónné číslo, Signál, IMEI, atď.</string>
+  <string name="device_additional_status_summary">Telefónne číslo, Signál, IMEI, atď.</string>
   <string name="device_admin_add_title">Správca zariadenia</string>
   <string name="device_admin_settings_title">Nastavenie správcu zariadenia</string>
   <string name="device_admin_status">Správca je aktívny a umožňuje aplikácií %1$s vykonávať nasledujúce operácie:</string>
@@ -1473,7 +1473,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="disabled">Zakázané</string>
   <string name="disabled_authorised_apps_title">Odmietnutá autorizácia</string>
   <string name="disabled_because_no_backup_security">Pred použitím musíte najskôr nastaviť zámok obrazovky</string>
-  <string name="disabled_low_ram_device">Táto funkcia nie je dostupná pre vaše zariadneie</string>
+  <string name="disabled_low_ram_device">Táto funkcia nie je dostupná pre vaše zariadenie</string>
   <string name="disallow_lock_screen_summary">Povoľte upozornenia v \"Upozornenia aplikácie\"</string>
   <string name="disconnect">disconnect</string>
   <string name="display_auto_rotate_rotate">Otáčať obsah obrazovky</string>
@@ -2265,8 +2265,8 @@ Keď zapnete automatické zálohovanie, údaje zariadenia a aplikácií sa budú
   <string name="keywords_text_to_speech_output">miera jazyk predvolené hovoriť hovorenie</string>
   <string name="keywords_users">obmedzenie obmedziť obmedzené</string>
   <string name="keywords_voice_input">rozpoznávač vstup reč hovoriť jazyk súprava hands-free hand free rozpoznávanie nevhodné slovo história zvuku bluetooth náhlavná súprava</string>
-  <string name="keywords_wifi">wifi wi-fi sieť pripojenie</string>
-  <string name="keywords_wifi_calling">wifi wi-fi hovor volanie</string>
+  <string name="keywords_wifi">wifi Wi-Fi sieť pripojenie</string>
+  <string name="keywords_wifi_calling">wifi Wi-Fi hovor volanie</string>
   <string name="keywords_write_settings">zápis a úprava nastavení systému</string>
   <string name="kid_space_settings">Detský profil</string>
   <string name="kilobyteShort">KB</string>
@@ -2761,7 +2761,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
   <string name="miui_lab_super_resolution_title">Super rozlíšenie</string>
   <string name="miui_master_clear_summary">Vymažú sa všetky dáta v zariadení</string>
   <string name="miui_more_special_feature">Preskúmať nové funkcie</string>
-  <string name="miui_optimization_disabled">Deaktivovať MIUI optimizáciu</string>
+  <string name="miui_optimization_disabled">Deaktivovať MIUI optimalizáciu</string>
   <string name="miui_screen_config_title">Nastavenie MIUI Launchera</string>
   <string name="miui_screensaver_show_time">Trvanie</string>
   <string name="miui_screensaver_show_time_select_title">Nastaviť trvanie prezentácie</string>
@@ -2854,7 +2854,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
   <string name="move_app_to_internal">Presunúť do telefónu</string>
   <string name="move_app_to_sdcard">Presunúť na USB úložisko</string>
   <string name="moving">Presúvanie</string>
-  <string name="mqs_privacy_automatically_upload">Odoslať automaciky na budúce</string>
+  <string name="mqs_privacy_automatically_upload">Odoslať automaticky na budúce</string>
   <string name="mqs_privacy_dialog_cancel">Zrušiť</string>
   <string name="mqs_privacy_dialog_confirm">Odoslať</string>
   <string name="mqs_privacy_dialog_content">Odoslať záznam o chybe?</string>
@@ -2927,7 +2927,7 @@ Vyberte váš operačný systém:"</string>
   <string name="music_dolby_surround_virtualizer">Surround Virtualizer</string>
   <string name="music_dolby_volume_leveler">Úroveň hlasitosti</string>
   <string name="music_equalizer">Ekvalizér</string>
-  <string name="music_equalizer_summary">Nastaviť úroveň pre rôzné typy hudby</string>
+  <string name="music_equalizer_summary">Nastaviť úroveň pre rôzne typy hudby</string>
   <string name="music_hd_title">HD Sound</string>
   <string name="music_headphone_settings">Typ slúchadiel</string>
   <string name="music_headset_button_settings">Nastavenie tlačidiel</string>
@@ -3065,7 +3065,7 @@ Vyberte váš operačný systém:"</string>
   <string name="no_internet_access_text">Sieť %1$s nemá prístup k internetu. Chcete k nej zostať pripojený?</string>
   <string name="no_media_button_receiver">Nie</string>
   <string name="no_memory_use_summary">Za posledné 3 hodiny nebola využitá žiadna pamäť</string>
-  <string name="no_nearby_wifi">Žiadna wifi sieť nebola nájdená, spustite hľadanie znova, alebo pridajte wifi ručne</string>
+  <string name="no_nearby_wifi">Žiadna Wi-Fi sieť nebola nájdená, spustite hľadanie znova, alebo pridajte Wi-Fi ručne</string>
   <string name="no_notification_listeners">Žiadne aplikácie s prístupom k notifikáciam nie sú nainštalované.</string>
   <string name="no_running_services">Nič nie je spustené.</string>
   <string name="no_services">Neaktívne</string>
@@ -3267,7 +3267,7 @@ Vyberte váš operačný systém:"</string>
   <string name="paper_mode_customize_time_summary">Čítací režim naplánovaný podľa času</string>
   <string name="paper_mode_customize_time_title">Nastaviť čas</string>
   <string name="paper_mode_end_time_title">Koniec</string>
-  <string name="paper_mode_get_location_dlg_msg">Pre získanie presného času výhochu a západu slnka je potrebný prístup k polohe. Otvoriť nastavenie polohy?</string>
+  <string name="paper_mode_get_location_dlg_msg">Pre získanie presného času východu a západu slnka je potrebný prístup k polohe. Otvoriť nastavenie polohy?</string>
   <string name="paper_mode_get_location_dlg_negative_btn_text">Zrušiť</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Nastavenia</string>
   <string name="paper_mode_get_location_dlg_title">Prístup k polohe</string>
@@ -4069,7 +4069,7 @@ Ako funkciu použiť:
   <string name="secondspace_category">Druhý profil</string>
   <string name="secondspace_delete_space_title">Vymazať Druhý profil</string>
   <string name="secspace_fod_finger_tips">Nebolo možné overiť. Skúste to znova.</string>
-  <string name="secspace_fod_finger_title">Overte svoj odlačok prsta</string>
+  <string name="secspace_fod_finger_title">Overte svoj odtlačok prsta</string>
   <string name="secspace_fod_use_password">Zadajte heslo</string>
   <string name="secure_keyguard_business_title">Heslo zámku displeja</string>
   <string name="secure_lock_encryption_warning">Keďže ste zapli služby dostupnosti, vaše zariadenie nepoužije zámok obrazovky na zvýšenie miery šifrovania údajov.</string>
@@ -5463,7 +5463,7 @@ Chcete zapnúť Wi-Fi?"</string>
   <string name="wfd_settings_description">Pripojené k displeju cez Wi-Fi</string>
   <string name="wfd_settings_title">Nastavenia Wi-Fi Displej</string>
   <string name="wfd_status_dialog_disconnect">Odpojiť</string>
-  <string name="wfd_status_dialog_message">Obsah displeja sa zobrazí na vzdialenej obrazovke prostredníctvom Wi-fi pripojenia</string>
+  <string name="wfd_status_dialog_message">Obsah displeja sa zobrazí na vzdialenej obrazovke prostredníctvom Wi-Fi pripojenia</string>
   <string name="wfd_status_dialog_title">Bezdrôtový displej</string>
   <string name="wfd_wps_keypad">Stlačenie tlačidlá</string>
   <string name="wfd_wps_pbc">Vložiť PIN</string>
@@ -5495,7 +5495,7 @@ Chcete zapnúť Wi-Fi?"</string>
   <string name="wifi_assistant_data_prompt">Zobraziť varovanie spotreby dát</string>
   <string name="wifi_assistant_data_prompt_summary">Zobraziť upozornenie ak Wi-Fi asistent prepne na mobilné dáta</string>
   <string name="wifi_assistant_description">"Wi-Fi asistent funguje takto:
-1. Ak je slabé pripojenie k Wi-Fi sieti, Wi-Fi asistent sa pokúsi o pripojenie k silnejšej Wi-fi sieti.
+1. Ak je slabé pripojenie k Wi-Fi sieti, Wi-Fi asistent sa pokúsi o pripojenie k silnejšej Wi-Fi sieti.
 2. Ak všetky Wi-Fi siete budú mať slabý signál alebo nedostupné pripojenie na internet a budete mať zapnuté mobilné dáta, Wi-Fi asistent prepne vaše pripojenie na mobilné dáta."</string>
   <string name="wifi_assistant_disconnect">Odpojiť</string>
   <string name="wifi_assistant_explicitly_confirm_data_message">Táto Wi-Fi sieť nemá prístup k internetu. Použiť mobilné dáta?</string>
@@ -6250,4 +6250,5 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="screen_dark_mode_smart_dark_3rd_apps_list">Doinštalované aplikácie</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Niektoré aplikácie môžu byť zobrazené nesprávne v Tmavom režime. Môžete zakázať Tmavý režim pre jednotlivé aplikácie.</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">Jednotlivé aplikácie</string>  	
+
 </resources>

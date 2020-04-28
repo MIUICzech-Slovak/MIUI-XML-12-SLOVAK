@@ -54,7 +54,7 @@
   <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD je vypnuté</string>
   <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD je zapnuté</string>
   <string name="accessibility_zoom_button">Režim priblíženia</string>
-  <string name="ai_scene_mode_use_hint_text">Povoľte Ai Fotoaparát, identifikuje scénu automaticky a optimalizuje nastavenia pre čo nalepší záber</string>
+  <string name="ai_scene_mode_use_hint_text">Povoľte Ai Fotoaparát, identifikuje scénu automaticky a optimalizuje nastavenia pre čo najlepší záber</string>
   <string name="ai_scene_top_moon_off">Režim nízkeho osvetlenia</string>
   <string name="ai_scene_top_tip">Mesačný režim</string>
   <string name="audio_focus_exit_button_text">Ukončiť</string>
@@ -333,7 +333,7 @@ pre rozmazanie pozadia objektu"</string>
   <string name="portrait_mode_lowlight_hint">Vyžaduje sa viac svetla</string>
   <string name="portrait_mode_too_close_hint">Postavte sa ďalej od objektu</string>
   <string name="portrait_mode_too_far_hint">Umiestnite objekt max 2m od objektívu</string>
-  <string name="portrait_mode_use_hint">"Režim potrétu vám pomôže rozmazať pozadie 
+  <string name="portrait_mode_use_hint">"Režim portrétu vám pomôže rozmazať pozadie 
 a zvýrazniť osobu na fotografii"</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Vyskúšajte režim Portrét.
 Objekt bude ostrý na rozmazanom pozadí."</string>
@@ -861,4 +861,25 @@ skenované dokumenty automaticky"</string>
   <string name="search_menu_title">Vyhľadať</string>
   <string name="super_eis_pro">Super EIS Pro</string>
   <string name="super_eis_pro_disabled_hint">Super EIS Pro je vypnuté</string>  
+    <string name="mode_edit_cancel">Zrušiť</string>
+     <string name="mode_edit_exit">Ukončiť</string>
+     <string name="mode_edit_exit_message">Všetky zmeny budú stratené. Aj tak chcete ukončiť?</string>
+     <string name="module_name_clone">Klonovať</string>
+     <string name="module_name_edit">Upraviť</string>
+     <string name="module_name_edit_favorite_title">Hlavná stránka</string>
+     <string name="module_name_edit_full_toast">Hlavná stránka je plná</string>
+     <string name="module_name_edit_sub_title">Stlačte a podržte pre premiestnenie</string>
+     <string name="module_name_edit_title">Funkcie</string>
+     <string name="module_name_edit_unfavorite_title">Viac funkcií</string>
+     <string name="module_name_more">Viac</string>
+     <string name="module_name_multi_camera">Predná a zadná</string>
+     <string name="module_name_vlog">VLOG</string>
+     <string name="pref_camera_long_pressing_burst_shooting_entry_record">Nahrať video</string>
+     <string name="pref_camera_video_show_faceview_title">Zobraziť rámček okolo tváre vo videu</string>
+     <string name="pref_custom_feature_layout_title">Rozloženie funkcií</string>
+     <string name="pref_custom_shutter_sound_title">Zvuk</string>
+     <string name="pref_custom_tint_title">Farby</string>
+     <string name="pref_customization_title">Upraviť</string>
+     <string name="pref_dual_camera_video">Predná a zadná</string>
+     <string name="pref_retain_camera_common_mode_summary">Otvoriť Fotoaparát v poslednom použitom režime</string>
 </resources>

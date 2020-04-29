@@ -622,4 +622,58 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Odoslané %3$d prázdne správy medzi %1$s a %2$s</item>
         <item quantity="one">Odoslaná %3$d prázdna správa medzi %1$s a %2$s</item>
     </plurals>	
+
+
+     <plurals name="app_behavior_desc_allow_minute">
+        <item quantity="other">Povolené %2$d krát o %1$s</item>
+        <item quantity="one">Povolené %2$d krát o %1$s</item>
+     </plurals>
+     <plurals name="app_behavior_desc_deny_minute">
+        <item quantity="other">Zakázané %2$d krát o %1$s</item>
+        <item quantity="one">Zakázané %2$d krát o %1$s</item>
+     </plurals>
+     <plurals name="app_behavior_desc_virtual_minute">
+        <item quantity="other">Odoslané %2$d prázdne správy o %1$s</item>
+        <item quantity="one">Odoslané %2$d prázdne správy o %1$s</item>
+     </plurals>
+     <plurals name="app_behavior_wakepath_multiple">
+        <item quantity="other">%1$1s spustené %2$d apl.</item>
+        <item quantity="one">%1$1s spustené %2$d apl</item>
+     </plurals>
+     <plurals name="app_behavior_wakepath_multiple_single">
+        <item quantity="other">Táto aplikácia spustila %1$d iných apl.</item>
+        <item quantity="one">Táto aplikácia spustila %1$d iných apl.</item>
+     </plurals>
+     <plurals name="ew_alert_second_after">
+        <item quantity="other">O %ds</item>
+        <item quantity="one">O %ds</item>
+     </plurals>
+     <plurals name="pc_battery_history_hour">
+        <item quantity="other">" h"</item>
+        <item quantity="one">" h"</item>
+     </plurals>
+     <plurals name="pc_battery_history_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+     </plurals>
+     <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Rozumiem (%ds)</item>
+        <item quantity="one">Rozumiem (%ds)</item>
+     </plurals>
+     <plurals name="power_off_warning_notification_message">
+        <item quantity="other">Vaše zariadenie sa vypne o %ds. Pripojte nabíjačku.</item>
+        <item quantity="one">Vaše zariadenie sa vypne o %ds. Pripojte nabíjačku.</item>
+     </plurals>
+     <plurals name="privacy_permission_summary">
+        <item quantity="other">%s apl. má permanentný prístup</item>
+        <item quantity="one">%s apl. má permanentný prístup</item>
+     </plurals>
+     <plurals name="privacy_pop_times">
+        <item quantity="other">%s krát</item>
+        <item quantity="one">%s krát</item>
+     </plurals>
+     <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Továrenské nastavenia (%ds)</item>
+        <item quantity="one">Továrenské nastavenia (%ds)</item>
+     </plurals>
 </resources>

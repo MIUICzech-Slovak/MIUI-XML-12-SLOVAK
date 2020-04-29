@@ -1726,4 +1726,11 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="report_method_entries_item1">Len ak sú pripojené slúchadlá</string>
   <string name="report_method_entries_item2">Vždy</string>
   <string name="report_method_entries_item3">Vypnúť</string>  
+
+     <string name="msim_setting_default_data">Dáta</string>
+     <string name="msim_setting_default_voice">Hovory</string>
+     <string name="msim_setting_no_sim_number">Nenastavené</string>
+     <string name="msim_setting_no_sim_package_info">Žiadne informácie</string>
+     <string name="msim_setting_pop_text">Vyberte SIM kartu pre hovory</string>
+     <string name="msim_setting_set_package">Vyberte dátový balíček</string>
 </resources>

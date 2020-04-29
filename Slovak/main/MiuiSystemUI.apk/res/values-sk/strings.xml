@@ -2128,12 +2128,12 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
      <string name="qs_control_customize_sub_title">Presuňte pridané prepínače pre ich usporiadanie</string>
      <string name="qs_control_customize_title">Pridané prepínače</string>
      <string name="qs_control_expand_detail_title">Moje dáta</string>
-     <string name="qs_control_header_tiles_title">skratky</string>
+     <string name="qs_control_header_tiles_title">Centrum ovládania</string>
      <string name="small_window_guide_title">Plávajúce okno</string>
      <string name="small_window_notification_text">Dotykom sa naučíte viac o tejto funkcii MIUI %d</string>
      <string name="small_window_notification_title">Plávajúce okná</string>
-     <string name="status_bar_clock_date_weekday_format">dd.MM EEEE</string>
-     <string name="status_bar_clock_date_weekday_format_12">dd.MM EEEE</string>
+     <string name="status_bar_clock_date_weekday_format">dd.MMM EEEE</string>
+     <string name="status_bar_clock_date_weekday_format_12">dd.MMM EEEE</string>
      <string name="wifi_security_none_owe">Žiadne</string>
      <string name="wifi_security_short_none_owe">Žiadne</string>
 

@@ -3065,7 +3065,7 @@ Vyberte váš operačný systém:"</string>
   <string name="no_internet_access_text">Sieť %1$s nemá prístup k internetu. Chcete k nej zostať pripojený?</string>
   <string name="no_media_button_receiver">Nie</string>
   <string name="no_memory_use_summary">Za posledné 3 hodiny nebola využitá žiadna pamäť</string>
-  <string name="no_nearby_wifi">Žiadna Wi-Fi sieť nebola nájdená, spustite hľadanie znova, alebo pridajte Wi-Fi ručne</string>
+  <string name="no_nearby_wifi">Žiadna Wi-Fiwifi sieť nebola nájdená, spustite hľadanie znova, alebo pridajte Wi-Fi ručne</string>
   <string name="no_notification_listeners">Žiadne aplikácie s prístupom k notifikáciam nie sú nainštalované.</string>
   <string name="no_running_services">Nič nie je spustené.</string>
   <string name="no_services">Neaktívne</string>
@@ -6250,5 +6250,218 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="screen_dark_mode_smart_dark_3rd_apps_list">Doinštalované aplikácie</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Niektoré aplikácie môžu byť zobrazené nesprávne v Tmavom režime. Môžete zakázať Tmavý režim pre jednotlivé aplikácie.</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">Jednotlivé aplikácie</string>  	
+     <string name="allow_oaid_used_desc">Aplikácie nebudú môcť načítať ID bez vášho povolenia. Niektoré funkcie nebudú fungovať správne ak je táto funkcia povolená.</string>
+     <string name="app_name">Nastavenie</string>
+     <string name="backup_at_once">Zálohovať</string>
+     <string name="backup_more_settings">Nastavenia</string>
+     <string name="bluetooth_device_nearby_title">Zariadenia nablízku</string>
+     <string name="bottom_function_settings">Funkcie prídavných tlačidiel</string>
+     <string name="change_lock_screen_password_title">Zmeniť zámok displeja</string>
+     <string name="clear_data_alert_info">Všetky zálohy uložené v tomto zariadení budú vymazané. Zálohujte dôležité súbory do PC a Xiaomi Cloudu.</string>
+     <string name="cloud_category_text">Cloud</string>
+     <string name="computer_backup_summary">Zálohovať a obnoviť položky pomocou PC</string>
+     <string name="computer_backup_title">PC</string>
+     <string name="continue_reset_factory">Továrenské nastavenie</string>
+     <string name="current_password">Súčasný zámok displeja</string>
+     <string name="custom_color">Vlastný</string>
+     <string name="dark_mode_contrast">Prispôsobiť kontrast automaticky</string>
+     <string name="dark_mode_contrast_hint">Upraviť farby a znížiť kontrast automaticky podľa jasu displeja</string>
+     <string name="default_keyboard">Predvolené</string>
+     <string name="detail_question">Podrobnosti</string>
+     <string name="device_oaid_desc">Namiesto reálneho identifikátora, MIUI poskytne virtuálne ID (OAID) nainštalovaným aplikáciam pre ochranu vášho súkromia.</string>
+     <string name="device_oaid_title">Virtuálne ID</string>
+     <string name="dialog_backup_title">Aktualizovať zálohy pred resetovaním zariadenia?</string>
+     <string name="dialog_speaker_auto_clean_button">Rozumiem</string>
+     <string name="dialog_speaker_auto_clean_content">Vymazanie bude trvať 30s. Nezatvárajte túto stránku. Zvýšte hlasitosť pre čo najlepší efekt.</string>
+     <string name="dialog_speaker_auto_clean_title">Upozornenie</string>
+     <string name="face_data_apply_for_category_title">Odomknúť pomocou tváre</string>
+     <string name="face_data_apply_for_keyguard_title">Zámok obrazovky</string>
+     <string name="face_data_input_camera_fail">Nebolo možné otvoriť fotoaparát</string>
+     <string name="face_data_input_camera_ok">Otváranie fotoaparátu…</string>
+     <string name="face_data_input_cancel_msg">Nebolo možné pridať tvár</string>
+     <string name="face_data_input_ok">Hotovo</string>
+     <string name="face_data_input_ok_title">Pridané</string>
+     <string name="face_data_input_structure_title">3D dáta tváre</string>
+     <string name="face_data_input_title">Pridať tvár</string>
+     <string name="face_data_introduction_msg">Tvár môže byť použitá na odomknutie vášho zariadenia a overenie vašej identity. Pridajte zámok obrazovky pred pridaním tváre.</string>
+     <string name="face_data_introduction_next">Ďalej</string>
+     <string name="face_data_introduction_title">Rozpoznávanie tváre</string>
+     <string name="face_data_manage_delete">Vymazať dáta tváre?</string>
+     <string name="face_data_manage_delete_msg">Vymazať dáta tváre</string>
+     <string name="face_data_manage_delete_sure">Nebudete môcť odomknúť vaše zariadenie pomocou tváre ak vymažete jej dáta.</string>
+     <string name="face_data_manage_unlock_liftcamera_msg">Po rozsvietení displeja, potiahnite nahor pre odomknutie pomocou tváre.</string>
+     <string name="face_data_manage_unlock_msg">Odomknite zariadenie pomocou vašej tváre</string>
+     <string name="face_data_manage_unlock_slide_msg">Nahradiť skratky s odomknutím tváre</string>
+     <string name="face_data_manage_unlock_title">Odomknúť pomocou tváre</string>
+     <string name="face_data_siggesstion_next">Ďalej</string>
+     <string name="face_data_siggesstion_next_time">Ďalej (%ds)</string>
+     <string name="face_data_suggesstion_first">Bezpečnostné varovanie: Odomykanie tváre je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariadenie môže byť odomknuté pomocou fotografie alebo ľuďmi ktorí sa vám podobajú.</string>
+     <string name="face_data_suggesstion_second">Nezakrývajte si tvár.</string>
+     <string name="face_unlock">Odomnutie tvárou</string>
+     <string name="face_unlock_be_on_the_screen">Držte zariadenie pred vašou tvárou</string>
+     <string name="face_unlock_by_notification_screen_on_msg">Môžete odomknúť zariadenie pomocou tváre kedykoľvek sa rozsvieti displej s upozornením. To môže spôsobiť zvýšenú spotrebu batérie.</string>
+     <string name="face_unlock_by_notification_screen_on_title">Povoliť odomknutie tvárou ak je rozsvietený displej</string>
+     <string name="face_unlock_category_title">Nastavenie zámku displeja</string>
+     <string name="face_unlock_check_failed">Nebolo možné vás rozpoznať</string>
+     <string name="face_unlock_close_screen">Priblížte sa k displeju</string>
+     <string name="face_unlock_down">Zdvihnite hlavu</string>
+     <string name="face_unlock_not_found">Nebolo možné vás rozpoznať</string>
+     <string name="face_unlock_offset_bottom">Nakloňte telefón nižšie</string>
+     <string name="face_unlock_offset_left">Presuňte sa doprava</string>
+     <string name="face_unlock_offset_right">Presuňte sa doľava</string>
+     <string name="face_unlock_offset_top">Zdvihnite telefón</string>
+     <string name="face_unlock_open_eye">Otvorte viac oči</string>
+     <string name="face_unlock_quality">Nie je možné jasne vidieť vašu tvár</string>
+     <string name="face_unlock_reveal_eye">Ukážte vaše oči</string>
+     <string name="face_unlock_reveal_mouth">Ukážte vaše pery</string>
+     <string name="face_unlock_rise">Skloňte hlavu</string>
+     <string name="face_unlock_rotated_left">Otočte hlavu doprava</string>
+     <string name="face_unlock_rotated_right">Otočte hlavu doľava</string>
+     <string name="face_unlock_sc_status">Potiahnite displej nadol pre otvorenie fotoaparátu</string>
+     <string name="face_unlock_stay_away_screen">Postavte sa 25-40cm od displeja</string>
+     <string name="face_unlock_success_show_message_dialog_msg">Povoliť upozornenia na zamknutej obrazovke pre ich zobrazenie.</string>
+     <string name="face_unlock_success_show_message_dialog_negative_btn">Nie</string>
+     <string name="face_unlock_success_show_message_dialog_positive_btn">Povoliť</string>
+     <string name="face_unlock_success_show_message_dialog_title">Upozornenia na zamknutom displeji</string>
+     <string name="face_unlock_success_show_message_msg">Zobraziť len zdroj upozornenia ak je zariadenie zamknuté a obsah upozornenia až po odomknutí tvárou</string>
+     <string name="face_unlock_success_show_message_title">Zobraziť obsah upozornenia až po odomknutí tvárou</string>
+     <string name="face_unlock_success_show_message_toast">Upozornenia budú zobrazené na zamknutej obrazovke</string>
+     <string name="face_unlock_success_stay_screen_msg">Zostať na zámku obrazovky po odomknutí tvárou. Potiahnutím nahor otvoriť domácu plochu.</string>
+     <string name="face_unlock_success_stay_screen_title">Zostať na zámku obrazovky po odomknutí</string>
+     <string name="feedback_btn_text">Submit feedback</string>
+     <string name="flash_drive_backup_disable">Najskôr pripojte USB zariadenie</string>
+     <string name="flash_drive_backup_enable">Použiť USB zariadenie pre zálohovanie alebo obnovu</string>
+     <string name="freeform_guide_drop_down_to_fullscreen_summary">Stlačte a podržte, potom potiahnite nadol za lištu plávajúceho okna</string>
+     <string name="freeform_guide_drop_down_to_fullscreen_title">Zobrazenie plávajúcich okien na celom displeji</string>
+     <string name="freeform_guide_move_summary">Stlačte a podržte lištu plávajúceho okna pre jeho presunutie</string>
+     <string name="freeform_guide_move_title">Presúvanie plávajúceho okna</string>
+     <string name="freeform_guide_move_to_small_freeform_window_summary">Premiestnite plávajúce okno do rohu displeja</string>
+     <string name="freeform_guide_move_to_small_freeform_window_title">Minimalizovanie plávajúceho okna</string>
+     <string name="freeform_guide_notification_drop_down_summary">Stlačte a podržte, potom potiahnite nadol za lištu upozornenia</string>
+     <string name="freeform_guide_notification_drop_down_title">Otvorenie plávajúceho okna</string>
+     <string name="freeform_guide_settings">Plávajúce okno</string>
+     <string name="freeform_guide_slide_up_to_close_summary">Potiahnite nahor z lišty plávajúceho okna</string>
+     <string name="freeform_guide_slide_up_to_close_title">Zatvorenie plávajúcich okien</string>
+     <string name="freeform_vedio_description">"·Stlačte a podržte, potom potiahnite nadol upozornenie pre jeho otvorenie v plávajúcom okne.
+·Stlačte \"Plávajúce okná\" v Nedávnych aplikáciach pre výber aplikácie."</string>
+     <string name="gps_description_global">Niekoľko navigačných systémov (%s) je podporovaných</string>
+     <string name="help_and_feedback_title">Pomoc a spätná väzba</string>
+     <string name="micloud_service_summary">Synchr. zoznam aplikácií, zálohovať nastavenia systému a rozloženie domácej plochy</string>
+     <string name="micloud_service_title">Xiaomi Cloud</string>
+     <string name="miui_face_enroll_success">"Môžete odomknúť toto zariadenie pomocou vašej tváre.
+Pokračujte pre prístup k ďalším nastaveniam."</string>
+     <string name="multi_face_delete_message">Upozornenie</string>
+     <string name="multi_face_delete_show_message">Vymazať dáta tváre?</string>
+     <string name="multi_face_input">Pridať tvár</string>
+     <string name="multi_face_input_reach_upper_limit">Nebolo možné pridať tvár. Skúste to znova neskôr.</string>
+     <string name="multi_face_input_success_name_title">Názov</string>
+     <string name="multi_face_list">Dáta tváre</string>
+     <string name="multi_face_name_prefix">"Tvár "</string>
+     <string name="multi_face_number_reach_limit">Nie je možné pridať viac ako 2 tváre</string>
+     <string name="multifunction_keyboard">Multifunkčné</string>
+     <string name="nfc_repair_action_btn">Obnoviť</string>
+     <string name="nfc_repair_action_desc">Stlačte \"Obnoviť\" pre opravu chýb ktoré bránia v používaní NFC funkcií. Nezatvárajte túto stránku počas obnovenia. Po skončení reštartujte zariadenie.</string>
+     <string name="nfc_repair_btn_no">Nie</string>
+     <string name="nfc_repair_btn_reboot">Reštart</string>
+     <string name="nfc_repair_btn_reboot_later">Neskôr</string>
+     <string name="nfc_repair_btn_retry">Skúste to znova</string>
+     <string name="nfc_repair_btn_yes">Áno</string>
+     <string name="nfc_repair_confirm_desc" formatted="false">"Mali ste niektorú z týchto chýb?
+%d. Nie je možné pridať kartu.
+%d. Karta nefungovala.
+%d. Iné NFC funkcie nefungovali správne."</string>
+     <string name="nfc_repair_fail_desc">Nastala chyba funkcionality NFC. Skúste to znova.</string>
+     <string name="nfc_repair_fail_title">Nebolo možné obnoviť</string>
+     <string name="nfc_repair_ongoing">Obnovenie... Nezatvárajte túto stránku.</string>
+     <string name="nfc_repair_pass_desc">Reštartujte vaše zariadenie pre použitie zmien.</string>
+     <string name="nfc_repair_pass_title">Obnovené</string>
+     <string name="nfc_repair_summary">Opraviť problémy s NFC funkcionalitou</string>
+     <string name="nfc_repair_title">Obnoviť NFC nastavenia</string>
+     <string name="oaid_string">"Súčasné virtuálne ID:
+%1s"</string>
+     <string name="operation_guide_title">Návod</string>
+     <string name="other_password">Ostatné heslá</string>
+     <string name="password_and_security">Heslá a bezpečnosť</string>
+     <string name="phone_backup_summary">Zálohovať a obnoviť položky v zariadení</string>
+     <string name="phone_backup_title">Mobilné zariadenie</string>
+     <string name="privacy_protection">Ochrana súkromia</string>
+     <string name="regional_screen_shot">Čiastočný screenshot</string>
+     <string name="rgb_face_data_manage_delete_msg">Vymazať 2D dáta tváre</string>
 
+
+     <string name="sos_phone_call_privacy_dialog_message">"To call your emergency contacts and play SOS recording, this app needs the following permissions:
+• Making calls
+For making calls to your emergency contacts
+• Monitoring device status
+For playing SOS recording when your emergency contacts pick up
+If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off."</string>
+     <string name="sos_phone_call_privacy_dialog_message_confirm">Povoliť</string>
+     <string name="sos_phone_log_privacy_dialog_message">"This app needs permission to access your call history to be able to share it with your emergency contacts.
+If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off."</string>
+     <string name="sos_privacy_dialog_message_new_version">"Emergency SOS allows you to share your location in real time and send text messages to your emergency contacts.
+We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
+Note that this app needs to connect to the internet and requires the following permissions to collect your personal information:
+• Accessing storage
+For saving emergency contacts
+• Accessing contacts
+For marking contacts as emergency contacts
+• Sending SMS
+For sending text messages to emergency contacts
+• Accessing location
+For sharing your location with emergency contacts
+If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to turn off or not use Emergency SOS in such cases.
+Before using our services, read and agree to our %s."</string>
+
+
+
+     <string name="sound_assist_summary">Upraviť vaše nastavenie zvuku</string>
+     <string name="sound_assist_title">Zvukový asistent</string>
+     <string name="storage_use_title">Obsadené</string>
+     <string name="structure_face_data_delete_fail">Nebolo možné vymazať 3D dáta tváre. Skúste to znova.</string>
+     <string name="structure_face_data_input_down">Skloňte hlavu</string>
+     <string name="structure_face_data_input_error_away_screen">Oddiaľte trochu váš telefón od tváre</string>
+     <string name="structure_face_data_input_error_expose_features">Nie je možné vidieť niektoré časti tváre</string>
+     <string name="structure_face_data_input_error_keep_inface">Držte tvár v rámčeku</string>
+     <string name="structure_face_data_input_error_overly_light">Protisvetlo je príliš silné</string>
+     <string name="structure_face_data_input_left">Otočte hlavu doľava</string>
+     <string name="structure_face_data_input_right">Otočte hlavu doprava</string>
+     <string name="structure_face_data_input_timeout_msg">Nebolo možné nahrať. Skúste to znova.</string>
+     <string name="structure_face_data_input_timeout_title">Skúste to znova</string>
+     <string name="structure_face_data_input_up">Pozrite nahor</string>
+     <string name="structure_face_data_introduction_back">Späť</string>
+     <string name="structure_face_data_introduction_msg">3D dáta tváre umožňujú odomknúť vaše zariadenie a overiť vašu identitu. Musíte najskôr nastaviť zámok displeja.</string>
+     <string name="structure_face_data_introduction_title">Pridať 3D dáta tváre</string>
+     <string name="structure_face_data_ir_input_face">Trochu posuňte hlavu</string>
+     <string name="structure_face_data_manage_delete_msg">Vymazať 3D dáta tváre</string>
+     <string name="structure_face_data_suggestion_text">Uistite sa, že máte viditeľné všetky časti tváre. Nenoste čiapky, slnečné okuliare alebo iné doplnky ktoré zakrývajú tvár počas nastavenia 3D dát tváre.</string>
+     <string name="structure_face_data_suggestion_warning_text">Poznámka: Používanie 3D dát tváre je menej bezpečné ako používanie PIN a hesla.</string>
+     <string name="structure_face_delete_data_dialog_msg">Nebolo možné spustiť fotoaparát. Skúste to znova.</string>
+     <string name="structure_face_delete_data_dialog_msg_retry">Znova</string>
+     <string name="structure_face_delete_data_dialog_title">Nebolo možné spustiť fotoaparát</string>
+     <string name="structure_face_hardware_abnormal_btn">Rozumiem</string>
+     <string name="structure_face_hardware_abnormal_msg">Chyba hardware. Reštartujte zariadenie.</string>
+     <string name="structure_face_hardware_abnormal_title">Chyba hardware</string>
+     <string name="structure_face_modules_abnormal_btn">Reštart</string>
+     <string name="structure_face_modules_abnormal_msg">Nebolo možné nahrať dáta tváre. Reštartujte zariadenie a skúste to znova.</string>
+     <string name="structure_face_modules_abnormal_title">Chyba optického modulu</string>
+     <string name="structure_face_unlock_model2d_dialog_msg">3D rozpoznávanie bude vypnuté. Vaše 3D dáta tváre budú vymazané. Budete musieť pridať 2D dáta tváre. Povoliť 2D rozpoznávane?</string>
+     <string name="structure_face_unlock_model2d_dialog_title">Povoliť 2D rozpoznávanie</string>
+     <string name="structure_face_unlock_model3d_dialog_msg">"2D rozpoznávanie bude deaktivované. Vaše 2D dáta tváre budú vymazané. Budete musieť pridať 3D dáta tváre. Povoliť 3D rozpoznávane?"</string>
+     <string name="structure_face_unlock_model3d_dialog_title">Povoliť 3D rozpoznávanie</string>
+     <string name="structure_face_unlock_model_dialog_enable">Povoliť</string>
+     <string name="structure_face_unlock_model_dialog_notenable">Nie</string>
+     <string name="structure_face_unlock_model_other">Ostatné</string>
+     <string name="structure_face_unlock_model_other_msg_2d">2D rozpoznávanie</string>
+     <string name="structure_face_unlock_model_other_msg_3d">3D rozpoznávanie</string>
+     <string name="structure_face_unlock_model_other_suggestion_2d">Používanie 2D dát tváre je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariadenie môže byť odomknuté pomocou fotografie alebo ľuďmi ktorí sa vám podobajú.</string>
+     <string name="structure_face_unlock_model_other_suggestion_3d">Používanie 3D dát tváre je menej bezpečné ako používanie PIN a hesla</string>
+     <string name="structure_face_unlock_model_other_title">Rozpoznávanie tváre</string>
+     <string name="structure_face_unlock_not_same_person">Musíte dokončiť všetky kroky sami.</string>
+     <string name="structure_face_unlock_tof_covered">Nebolo možné pridať dáta tváre. Trochu sa vzdiaľte od zariadenia.</string>
+     <string name="three_gesture_long_press">Stlačte a podržte s %d prstami</string>
+     <string name="turn_off_keyguard_password_title">Vypnúť zámok displeja</string>
+     <string name="unlock_failed">Interná chyba</string>
+     <string name="use_control_panel">Centrum ovládania</string>
+     <string name="wifi_security_none_owe">Žiadne</string>
+     <string name="wifi_security_short_none_owe">Žiadne</string>
 </resources>

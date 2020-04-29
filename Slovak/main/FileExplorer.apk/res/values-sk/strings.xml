@@ -115,7 +115,7 @@
   <string name="decompress_confirm">Rozbaliť</string>
   <string name="decompress_corrupt">Nebolo možné rozbaliť súbory. Balíček je poškodený.</string>
   <string name="decompress_destination_error">Rozbaľovanie zlyhalo. Nie je možné rozbaliť súbor do tohto adresára.</string>
-  <string name="decompress_encrypted_rar_not_supported">3ífrovaný rar súbor nie je podporovaný.</string>
+  <string name="decompress_encrypted_rar_not_supported">Šífrovaný rar súbor nie je podporovaný.</string>
   <string name="decompress_fail">Rozbaľovanie zlyhalo!</string>
   <string name="decompress_input_password">Zadajte heslo...</string>
   <string name="decompress_password_error">Chybné heslo, skúste to znova...</string>
@@ -415,7 +415,7 @@ and never miss the cool new ones!"</string>
   <string name="no_local_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
   <string name="no_more_space">Nie je voľné miesto</string>
   <string name="no_network_retry">Nie je možné pripojiť s ak sieti. Skontrolujte vaše nastavenia a skúste to znova.</string>
-  <string name="no_network_str">Nebolo možné sa pripojiť k sieti. Skontrolujte vaše nasatvenia a skúste to znova.</string>
+  <string name="no_network_str">Nebolo možné sa pripojiť k sieti. Skontrolujte vaše nastavenia a skúste to znova.</string>
   <string name="no_recent_files">Žiadne súbory</string>
   <string name="no_tasks">Žiadne úlohy</string>
   <string name="no_wifi">Wi-Fi nie je v dosahu</string>
@@ -703,7 +703,7 @@ Získali ste ďalších %1$s"</string>
   <string name="unlock_pattern_title">Nové heslo</string>
   <string name="unmount_inform_text">USB úložisko bude odpojené.</string>
   <string name="upload_failed">Nahrávanie zlyhalo!</string>
-  <string name="upload_file_toolarge_message">"%1$d súborov väčších ako 300M nemôže byť odoslaných. Prosím skontrolujte Správcu prenosu pre viac informácií."</string>
+  <string name="upload_file_toolarge_message">"%1$d súborov väčších ako 300MB nemôže byť odoslaných. Prosím skontrolujte Správcu prenosu pre viac informácií."</string>
   <string name="upload_local_video">Share small video</string>
   <string name="uploading">Odosielam...</string>
   <string name="usb_label">USB</string>
@@ -738,4 +738,12 @@ Získali ste ďalších %1$s"</string>
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
   <string name="error_hint_copy_folder_to_self_or_sub">Nie je možné presunúť alebo skopírovať zložky samé do seba</string>
+  <string name="fab_menu_sort">Triediť</string>
+  <string name="view_type">Zobrazenie</string>
+  <string name="guide_newfunc_content">Teraz môžete zoradiť súbory podľa formátu, presúvať položky a prepínať medzi zobrazním.</string>
+  <string name="guide_newfunc_title">Nová funkcia</string>
+  <string name="sort_hint_name">Zoradené podľa názvu</string>
+  <string name="sort_hint_time">Zoradené podľa času</string>
+  <string name="sort_hint_type">Zoradené podľa typu</string>
+  <string name="imm_str_storage">Úložisko</string>
 </resources>

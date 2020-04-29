@@ -2128,7 +2128,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
      <string name="qs_control_customize_sub_title">Presuňte pridané prepínače pre ich usporiadanie</string>
      <string name="qs_control_customize_title">Pridané prepínače</string>
      <string name="qs_control_expand_detail_title">Moje dáta</string>
-     <string name="qs_control_header_tiles_title">Centrum ovládania</string>
+     <string name="qs_control_header_tiles_title">Ovládače</string>
      <string name="small_window_guide_title">Plávajúce okno</string>
      <string name="small_window_notification_text">Dotykom sa naučíte viac o tejto funkcii MIUI %d</string>
      <string name="small_window_notification_title">Plávajúce okná</string>

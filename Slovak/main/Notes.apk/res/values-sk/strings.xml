@@ -410,8 +410,10 @@ http://www.miuios.cz/rom
      <string name="private_entry_available">Pustite pre otvorenie súkromnej zložky</string>
      <string name="private_entry_default">Potiahnite nadol pre otvorenie súkromnej zložky</string>
      <string name="todo_list">Zoznam úloh</string>
-     <string name="todo_list_edit_text_hint">Dotknite sa \"Zadať\" pre vytvorenie úlohy</string>
+     <string name="todo_list_edit_text_hint">Stlačte \"Hotovo\" pre vytvorenie úlohy</string>
      <string name="todo_list_new_finish_all_tip">Nové položky musia obsahovať aspoň jednu úlohu</string>
      <string name="todo_list_overflow_tip">Nie je možné vytvoriť viac úloh</string>
-     <string name="todo_user_guide_tip6">Dotknite sa \"Zadať\" pre vytvorenie zoznamu úloh</string>
+     <string name="todo_user_guide_tip6">Stlačte \"Hotovo\" pre vytvorenie zoznamu úloh</string>
+  <string name="data_empty_note">Žiadne poznámky</string>
+  <string name="data_empty_todo">Žiadne úlohy</string>
 </resources>

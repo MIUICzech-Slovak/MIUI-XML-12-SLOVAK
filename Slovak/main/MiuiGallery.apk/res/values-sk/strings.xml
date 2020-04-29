@@ -178,7 +178,7 @@
   <string name="backup_automatically_summary">Zálohujte fotografie a videá vo všetkých zariadeniach na MiCloud. Môžete ich tak pohodlne prezerať, triediť, upravovať a zdieľať na každom zariadení.</string>
   <string name="backup_automatically_title">Zálohovať a synchronizovať automaticky</string>
   <string name="backup_battery_low_desc">Stále môžete ešte pokračovať v zálohovaní</string>
-  <string name="backup_battery_low_title">Zálohovanie pzoastavené z dôvodu slabej batérie</string>
+  <string name="backup_battery_low_title">Zálohovanie pozastavené z dôvodu slabej batérie</string>
   <string name="backup_close">Ukončiť zálohovanie</string>
   <string name="backup_cloud_space_low_btn_text">Get more</string>
   <string name="backup_cloud_space_low_desc">%1$s v MiCloud | Dostupné %2$s</string>
@@ -224,7 +224,7 @@
   <string name="backup_with_gprs_dialog_btn">Zálohovať</string>
   <string name="backup_with_gprs_dialog_message">%s dát je potrebných pre zálohovanie. Zálohovať?</string>
   <string name="backup_with_gprs_dialog_title">Zálohovať cez mobilné dáta</string>
-  <string name="backuped_desc">Fotofragie a videá sú zálohované na MiCloud</string>
+  <string name="backuped_desc">Fotografie a videá sú zálohované na MiCloud</string>
   <string name="backuped_title">Záloha dokončená</string>
   <string name="backuping">Zálohovanie %1$d/%2$d</string>
   <string name="backuping_title_gprs">Zálohovanie cez mobilné dáta...</string>
@@ -296,7 +296,7 @@
   <string name="chooser_fragment_mishare_title">Zdieľať do</string>
   <string name="cleaner_empty_value_description">Všetko vyzerá byť v poriadku</string>
   <string name="cleaner_photo_pick_delete_selected">Vymazať vybrané fotografie</string>
-  <string name="cleaner_scan_description">Optimalizácia fotografií uvoľni meisto na úložisku vo vašom zariadení</string>
+  <string name="cleaner_scan_description">Optimalizácia fotografií uvoľni miesto na úložisku vo vašom zariadení</string>
   <string name="cleaner_scan_exit_dialog_message">Budete musieť začať znova na budúce. Zastaviť skenovanie?</string>
   <string name="cleaner_scan_exit_dialog_positive">Zastaviť</string>
   <string name="cleaner_scan_exit_dialog_title">Zastaviť skenovanie</string>
@@ -567,7 +567,7 @@
   <string name="error_no_cta_permission_msg">Prístup k sieti je zakázaný.</string>
   <string name="error_no_cta_permission_tip">Prístup k sieti je zakázaný.</string>
   <string name="error_no_network_action">Nastavenie siete</string>
-  <string name="error_no_network_msg">Ujistite sa, že ste pripojený k sieti.</string>
+  <string name="error_no_network_msg">Uistite sa, že ste pripojený k sieti.</string>
   <string name="error_no_network_tip">Nebolo možné pripojiť sa k sieti</string>
   <string name="error_no_wifi_action">Použiť mobilné dáta</string>
   <string name="error_no_wifi_msg">Vaše zariadenie nie je pripojené k Wi-Fi. Používanie mobilných dát môže navýšiť vaše poplatky.</string>
@@ -645,7 +645,7 @@
   <string name="fast_share_auto_render">Vylepšiť</string>
   <string name="fast_share_auto_render_finish">Vylepšené</string>
   <string name="feature_guidance_photo_effects">Efekty</string>
-  <string name="feature_guidance_video_editor_smart_effects">Nové efetky sú dostupné</string>
+  <string name="feature_guidance_video_editor_smart_effects">Nové efekty sú dostupné</string>
   <string name="file_cannot_print">Nie je možné vytlačiť tento súbor.</string>
   <string name="file_cannot_screen_throw">Nie je možné odoslať tento súbor.</string>
   <string name="file_sending">Prenos súborov...</string>
@@ -1350,7 +1350,7 @@
   <string name="search_feedback_task_finish_title">Dotykom získate ocenenie!</string>
   <string name="search_feedback_task_progress">Misie %1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">Nebolo možné získať ocenenie. Skúste to znova.</string>
-  <string name="search_feedback_task_requesting_award">Získavanie ocenenia​…</string>
+  <string name="search_feedback_task_requesting_award">Získavanie ocenenia…</string>
   <string name="search_feedback_user_notice">Súhlasím s %s.</string>
   <string name="search_feedback_user_policy">MIUI Gallery AI Algorithm Program Privacy Policy</string>
   <string name="search_hint">Vyhľadať obrázky​</string>
@@ -1892,4 +1892,6 @@
   <string name="video_quality_title_sub">Súčasné rozlíšenie: %1$s (≈%2$s)</string>
   <string name="downloading_title_file">Sťahovanie položiek z MiCloud...</string>
   <string name="vlog_bottom_view_exit">Ukončiť</string>  
+  <string name="help">Nenašlo sa zariadenie?</string>
+  <string name="help_content">Ak nemôžete nájsť zariadenie ktoré hľadáte, zapnite MiShare na druhom zariadení.</string>
 </resources>

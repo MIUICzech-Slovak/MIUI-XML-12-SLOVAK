@@ -13,4 +13,8 @@
         <item quantity="other">Dávkové snímanie dokončené, zhotovených %1$s snímkov</item>
         <item quantity="one">Dávkové snímanie dokončené, zhotovených %1$s snímkov</item>
     </plurals>	
+     <plurals name="clone_guide_tip2">
+        <item quantity="other">Môžete vytvoriť maximálne %d klonov naraz.</item>
+        <item quantity="one">Môžete vytvoriť maximálne %d klon naraz.</item>
+     </plurals>
 </resources>

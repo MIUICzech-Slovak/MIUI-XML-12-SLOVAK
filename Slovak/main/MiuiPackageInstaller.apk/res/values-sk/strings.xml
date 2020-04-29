@@ -780,4 +780,6 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="install_control_cancel_install">Neinštalovať</string>
   <string name="install_control_continue_install">Aj tak inštalovať</string>
   <string name="install_control_normal_mode_explain_des">Nie je možné nainštalovať túto aplikáciu z právnych dôvodov</string>	 
+     <string name="miui_clear_apks_title">Vymazať inštalačný .apk súbor</string>
+     <string name="miui_clear_apks_summary">Celkom: %s</string>
 </resources>

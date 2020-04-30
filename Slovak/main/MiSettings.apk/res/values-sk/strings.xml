@@ -333,7 +333,6 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
      <string name="usage_runtime_summary">Tieto povolenia sú požadované pre správne fungovanie aplikácie.</string>
      <string name="usage_runtime_title">Primárne povolenia</string>
      <string name="control_center_title">Čas displeja</string>
-
      <string name="usage_creating_weekly_report">Vytváranie týždenného prehľadu…</string>
      <string name="usage_focus_new_summary">Buďte viac sústredený</string>
      <string name="usage_home_premission_second_summary_double_link_prefix">Vaše osobné informácie chránime v súlade s príslušnými zákonmi, nariadeniami a zásadami ochrany osobných údajov. Ak nesúhlasíte s udelením takýchto povolení alebo zdieľaním a odovzdávaním svojich osobných údajov, nebudete môcť túto aplikáciu používať. Autorizáciu môžete kedykoľvek odvolať v Čas displeja - Nastavenia - Vypnúť čas displeja.</string>

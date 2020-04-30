@@ -344,4 +344,5 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
      <string name="usage_special_feature">Špeciálne funkcie</string>
      <string name="usage_weekly_report_summary">Naučte sa ako tráviť čas so svojim zariadením</string>
      <string name="usage_weekly_report_title">Týždenný report</string>
+    <string name="control_center_title_new">Čas displeja</string>
 </resources>

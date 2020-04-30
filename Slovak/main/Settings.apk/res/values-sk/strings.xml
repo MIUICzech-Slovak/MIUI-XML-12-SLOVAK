@@ -3065,7 +3065,7 @@ Vyberte váš operačný systém:"</string>
   <string name="no_internet_access_text">Sieť %1$s nemá prístup k internetu. Chcete k nej zostať pripojený?</string>
   <string name="no_media_button_receiver">Nie</string>
   <string name="no_memory_use_summary">Za posledné 3 hodiny nebola využitá žiadna pamäť</string>
-  <string name="no_nearby_wifi">Žiadna Wi-Fiwifi sieť nebola nájdená, spustite hľadanie znova, alebo pridajte Wi-Fi ručne</string>
+  <string name="no_nearby_wifi">Žiadna Wi-Fi sieť nebola nájdená, spustite hľadanie znova, alebo pridajte Wi-Fi ručne</string>
   <string name="no_notification_listeners">Žiadne aplikácie s prístupom k notifikáciam nie sú nainštalované.</string>
   <string name="no_running_services">Nič nie je spustené.</string>
   <string name="no_services">Neaktívne</string>

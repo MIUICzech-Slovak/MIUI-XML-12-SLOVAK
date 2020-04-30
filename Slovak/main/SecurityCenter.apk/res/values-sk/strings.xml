@@ -3450,7 +3450,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="vb_advanced_settings_after_open">Potom</string>
   <string name="vb_advanced_settings_before_open">Predtým</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Urobte pohybujúce sa objekty ostrejšie použitím vylepšenia animácií. Táto funkcia zvýši spotrebu batérie.</string>
-  <string name="vb_quick_func_hangup_listening">Prehrať zuky videa s vypnutým displejom</string>
+  <string name="vb_quick_func_hangup_listening">Prehrať zvuky videa s vypnutým displejom</string>
   <string name="vb_quick_func_screen_capture">Screenshot</string>
   <string name="vb_quick_func_screen_record">Nahrávka</string>
   <string name="vb_quick_func_screening">Vysielať</string>

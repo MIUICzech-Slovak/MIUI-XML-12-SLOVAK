@@ -278,7 +278,6 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
   <string name="display_title">Väčšie ikony</string>
   <string name="contact_description">Dotykom na odkaz kontaktu uskutočníte hovor</string>
   <string name="contact_title">Odkaz kontaktu</string>
-
      <string name="anti_flicker_mode">Anti-flicker</string>
      <string name="anti_flicker_mode_categroy">Režimy</string>
      <string name="anti_flicker_mode_summary">Obmedziť blikanie pri nízkom osvetlení pre zníženie únavy očí. Niektoré časti sa nemusia zobrazovať správne.</string>
@@ -333,4 +332,17 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
      <string name="usage_runtime_per_des_title">Pre ukladanie súborov na interné úložisko</string>
      <string name="usage_runtime_summary">Tieto povolenia sú požadované pre správne fungovanie aplikácie.</string>
      <string name="usage_runtime_title">Primárne povolenia</string>
+     <string name="control_center_title">Čas displeja</string>
+
+     <string name="usage_creating_weekly_report">Vytváranie týždenného prehľadu…</string>
+     <string name="usage_focus_new_summary">Buďte viac sústredený</string>
+     <string name="usage_home_premission_second_summary_double_link_prefix">Vaše osobné informácie chránime v súlade s príslušnými zákonmi, nariadeniami a zásadami ochrany osobných údajov. Ak nesúhlasíte s udelením takýchto povolení alebo zdieľaním a odovzdávaním svojich osobných údajov, nebudete môcť túto aplikáciu používať. Autorizáciu môžete kedykoľvek odvolať v Čas displeja - Nastavenia - Vypnúť čas displeja.</string>
+     <string name="usage_home_premission_second_summary_double_link_suffix">Pred používaním tejto aplikácie musíte súhlasiť s našimi Podmienkami používania a Ochranou súkromia.</string>
+     <string name="usage_no_net_summary">Skontrolujte nastavenie siete a skúste to znova</string>
+     <string name="usage_refresh">Skúsiť znova</string>
+     <string name="usage_request_error_summary">Neznáma chyba</string>
+     <string name="usage_request_timeout_summary">časová požiadavka vypršala</string>
+     <string name="usage_special_feature">Špeciálne funkcie</string>
+     <string name="usage_weekly_report_summary">Naučte sa ako tráviť čas so svojim zariadením</string>
+     <string name="usage_weekly_report_title">Týždenný report</string>
 </resources>

@@ -2132,9 +2132,8 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
      <string name="small_window_guide_title">Plávajúce okná</string>
      <string name="small_window_notification_text">Dotykom sa naučíte viac o tejto funkcii MIUI %d</string>
      <string name="small_window_notification_title">Plávajúce okná</string>
-     <string name="status_bar_clock_date_weekday_format">dd.MMM EEEE</string>
-     <string name="status_bar_clock_date_weekday_format_12">dd.MMM EEEE</string>
+     <string name="status_bar_clock_date_weekday_format">dd.MM. EE</string>
+     <string name="status_bar_clock_date_weekday_format_12">dd.MM. EE</string>
      <string name="wifi_security_none_owe">Žiadne</string>
      <string name="wifi_security_short_none_owe">Žiadne</string>
-
 </resources>

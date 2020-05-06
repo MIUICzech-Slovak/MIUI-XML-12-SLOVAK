@@ -505,13 +505,15 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="theme_user_agreement_remind_summary">Použiť po nasledujúcom spustení</string>
   <string name="theme_user_agreement_title">Vyhlásenie</string>
   <string name="theme_yes">Áno</string>
-  <string name="third_party_pickers_activity_title">Pridať %1$s</string>
+  <string name="third_party_pickers_activity_title">%1$s</string>
   <string name="title_component">Upraviť tému</string>
   <string name="title_my_audio_resource">Moje zvonenia</string>
   <string name="title_my_miwallpaper_desktop_effects">Efekty domácej plochy</string>
   <string name="title_my_miwallpaper_resource">Moje živé pozadia</string>
+  <string name="super_wallpaper">Super tapety</string>
   <string name="title_my_miwallpaper_video_file_resource">Moje videopozadia</string>
   <string name="title_my_wallpaper_resource">Moje tapety</string>
+  <string name="title_my_wallpaper">Moje tapety</string>
   <string name="title_system_audio_notification_resource">Upozornenia systému</string>
   <string name="title_system_audio_resource">Systémové zvonenia</string>
   <string name="title_system_wallpaper_resource">Systémové tapety</string>
@@ -611,11 +613,15 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="mine_tab_title_like">Označené</string>
   <string name="mine_tab_title_local">Lokálné</string>
   <string name="mine_tab_title_purchase">Objednávky</string>  
-  <string name="wallpaper_dynamic">Dynamická</string>  
+  <string name="wallpaper_dynamic">Dynamické</string>  
   <string name="theme_community">Komunita</string>  
   <string name="order_list">História objednávok</string>  
   <string name="about_app_name">O aplikácií</string>  
   <string name="theme_component_video_wallpaper">Dynamické tapety</string>  
   <string name="theme_component_title_aod">AOD</string>  
   <string name="de_mix_mode_aod">AOD</string>  
+  <string name="accessibiliy_description_content_favorite">Obĺúbené</string>
+  <string name="de_icon_text_favorite">Obĺúbené</string>
+  <string name="theme_settings_title">Témy</string>
+  <string name="current_using">Súčasná</string>
 </resources>

@@ -229,4 +229,10 @@
         <item>Povolenia</item>
         <item>Citlivé akcie</item>
     </string-array>	
+    <string-array name="debug_open_intercept">
+        <item>It will be possible to access and edit files on your device using a computer.</item>
+        <item>Installing apps on your device without your explicit permission will be allowed.</item>
+        <item>"You'll be able to monitor and record your screen content remotely."</item>
+        <item>It will be possible to access the detailed information about your device.</item>
+    </string-array>    
 </resources>

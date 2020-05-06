@@ -6473,4 +6473,8 @@ Before using our services, read and agree to our %s."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
+<string name="scanning_status_text_wifi_off_ble_off">Wi-Fi a Bluetooth vyhľadávanie je vypnuté</string>
+<string name="scanning_status_text_wifi_on_ble_on">Wi-Fi a Bluetooth vyhľadávanie je zapnuté</string>
+  <string name="accessibility_toggle_master_balance_title">Vyváženie zvuku</string>
+  <string name="zone_auto_title">Časové pásmo podľa siete</string>
 </resources>

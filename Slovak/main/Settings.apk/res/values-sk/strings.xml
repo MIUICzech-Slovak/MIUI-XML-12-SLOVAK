@@ -6464,4 +6464,5 @@ Before using our services, read and agree to our %s."</string>
      <string name="use_control_panel">Centrum ovládania</string>
      <string name="wifi_security_none_owe">Žiadne</string>
      <string name="wifi_security_short_none_owe">Žiadne</string>
+  <string name="video_tool_box_title">Video nástroje</string>
 </resources>

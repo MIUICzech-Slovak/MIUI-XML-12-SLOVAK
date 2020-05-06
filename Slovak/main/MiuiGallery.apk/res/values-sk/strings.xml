@@ -1894,4 +1894,8 @@
   <string name="vlog_bottom_view_exit">Ukončiť</string>  
   <string name="help">Nenašlo sa zariadenie?</string>
   <string name="help_content">Ak nemôžete nájsť zariadenie ktoré hľadáte, zapnite MiShare na druhom zariadení.</string>
+    <string name="multi_view_tip_button_text">OK</string>
+  <string name="multi_view_tip_sub_title">Poztiahnite dva prsty od seba alebo k sebe pre zmenu veľkosti zobrazenia položiek.</string>
+  <string name="multi_view_tip_title">Približenie a oddialenie</string>
+    <string name="zman_title">Bezpečné zdieľanie</string>
 </resources>

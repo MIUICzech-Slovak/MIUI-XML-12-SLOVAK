@@ -413,4 +413,12 @@
      <string name="worldclock_local_time">Lokálny čas</string>
      <string name="worldclock_second_time">Čas v %s</string>
      <string name="worldcolock_time_date">dd.MM.yyyy</string>
+       <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pustite pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>   
 </resources>

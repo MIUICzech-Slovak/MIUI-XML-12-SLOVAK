@@ -32,14 +32,14 @@
     <string name="accessibility_display_daltonizer_preference_title">Úprava farieb</string>
     <string name="accessibility_manual_zen_less_time">Kratší čas.</string>
     <string name="accessibility_manual_zen_more_time">Dlhší čas.</string>
-    <string name="accessibility_no_wifi">Sieť Wi‑Fi je odpojená.</string>
-    <string name="accessibility_wifi_off">Sieť Wi‑Fi je vypnutá.</string>
-    <string name="accessibility_wifi_one_bar">Jedna čiarka signálu Wi‑Fi.</string>
+    <string name="accessibility_no_wifi">Sieť Wi-Fi je odpojená.</string>
+    <string name="accessibility_wifi_off">Sieť Wi-Fi je vypnutá.</string>
+    <string name="accessibility_wifi_one_bar">Jedna čiarka signálu Wi-Fi.</string>
     <string name="accessibility_wifi_security_type_none">Otvorená sieť</string>
     <string name="accessibility_wifi_security_type_secured">Zabezpečená sieť</string>
-    <string name="accessibility_wifi_signal_full">Plný signál Wi‑Fi.</string>
-    <string name="accessibility_wifi_three_bars">Tri čiarky signálu Wi‑Fi.</string>
-    <string name="accessibility_wifi_two_bars">Dve čiarky signálu Wi‑Fi.</string>
+    <string name="accessibility_wifi_signal_full">Plný signál Wi-Fi.</string>
+    <string name="accessibility_wifi_three_bars">Tri čiarky signálu Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Dve čiarky signálu Wi-Fi.</string>
     <string name="action_bar_expand_collapse_button">Tlačidlo rozbalenia/zbalenia</string>
     <string name="active_input_method_subtypes">Aktívne metódy vstupu</string>
     <string name="adb_keys_warning_message">Chcete všetkým v minulosti autorizovaným počítačom odvolať prístup k ladeniu cez USB?</string>
@@ -782,4 +782,12 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="install_control_normal_mode_explain_des">Nie je možné nainštalovať túto aplikáciu z právnych dôvodov</string>	 
      <string name="miui_clear_apks_title">Vymazať inštalačný .apk súbor</string>
      <string name="miui_clear_apks_summary">Celkom: %s</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pustite pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>       
 </resources>

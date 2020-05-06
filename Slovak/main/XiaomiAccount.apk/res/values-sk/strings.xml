@@ -608,4 +608,12 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="find_device_set_lost_model">Stratený režim</string>
   <string name="find_device_title">Vyhľadať zariadenie</string>  
   <string name="password_toggle_content_description">Prepnúť viditeľnosť hesla</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pustite pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
 </resources>

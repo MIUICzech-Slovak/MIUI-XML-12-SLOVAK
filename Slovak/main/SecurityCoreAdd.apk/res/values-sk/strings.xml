@@ -403,4 +403,12 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="greenguard_install_confirm">Inštalovať</string>
   <string name="greenguard_install_message">Rodinný ochranca je systémová aplikácia. Nie je potrebné pripojenie na internet pre jeho inštaláciu.</string>
   <string name="greenguard_install_title">Inštalovať Rodinného ochrancu</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pustite pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
 </resources>

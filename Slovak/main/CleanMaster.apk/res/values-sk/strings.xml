@@ -650,7 +650,6 @@
   <string name="global_wa_shortcut_dialog_title">Odkaz na ploche</string>
   <string name="global_wa_shortcut_toast">Odkaz vytvorený</string>
   <string name="global_wa_wrapper">Tapety</string>
-
      <string name="storage_activity_title">Miesto na úložisku</string>
      <string name="storage_app_detail_activity_title">Obsadené</string>
      <string name="storage_app_detail_cache">Cache</string>
@@ -677,4 +676,12 @@
      <string name="storage_item_system_name">Systém</string>
      <string name="storage_item_video_name">Video</string>
      <string name="storage_space_release_hint">Potrebujete viac miesta?</string>
+       <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pustite pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>   
 </resources>

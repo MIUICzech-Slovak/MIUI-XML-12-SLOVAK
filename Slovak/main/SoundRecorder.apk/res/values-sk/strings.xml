@@ -178,4 +178,12 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="delete_cloud_data_at_same_time">Vymazať aj z cloudu</string>
   <string name="preference_record_desktop_indicator_summary">Zobraziť modrý indikátor na ploche ak prebieha nahrávanie na pozadí</string>
   <string name="preference_record_desktop_indicator_title">Indikátor na ploche</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pustite pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
 </resources>

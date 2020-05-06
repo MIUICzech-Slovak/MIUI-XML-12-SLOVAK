@@ -19,4 +19,12 @@
   <string name="settings_safetylegal_activity_title">Bezpečnostné informácie</string>
   <string name="settings_safetylegal_activity_unreachable">Nemáte pripojenie na internet. Pre zobrazenie tejto informácie navštívte %s z vášho PC pripojeného na internet.</string>
   <string name="settings_safetylegal_title">Bezpečnostné informácie</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pustite pre obnovenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>     
 </resources>

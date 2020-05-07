@@ -6477,4 +6477,5 @@ Before using our services, read and agree to our %s."</string>
 <string name="scanning_status_text_wifi_on_ble_on">Wi-Fi a Bluetooth vyhľadávanie je zapnuté</string>
   <string name="accessibility_toggle_master_balance_title">Vyváženie zvuku</string>
   <string name="zone_auto_title">Časové pásmo podľa siete</string>
+  <string name="control_panel_switch_side">Prepnúť stranu Ovládačov</string>  
 </resources>

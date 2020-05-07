@@ -1906,4 +1906,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>      
+  <string name="security_share_subtitle_default">Ochrana súkromia</string>
+  <string name="security_share_subtitle_hide">Poloha je odstránená</string>
+  <string name="security_share_subtitle_no_hide">Obsahuje polohu</string>  
 </resources>

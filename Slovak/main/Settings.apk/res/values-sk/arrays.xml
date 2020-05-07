@@ -1079,4 +1079,8 @@ Postupujte podľa pokynov"</item>
         <item>Dobrý</item>
         <item>Výborný</item>
     </string-array>    
+    <string-array name="dark_ui_mode_entries">
+        <item>Tmavý</item>
+        <item>Svetlý</item>
+    </string-array>    
 </resources>

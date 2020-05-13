@@ -957,8 +957,8 @@ skenované dokumenty automaticky"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>      
   <string name="more_mode_style">Vyberte ako chcete usporiadať všetky režimy kamery</string>
-  <string name="more_mode_style_popup">\"More\" panel</string>
-  <string name="more_mode_style_tab">\"More\" tab</string>
+  <string name="more_mode_style_popup">Panel</string>
+  <string name="more_mode_style_tab">Karta</string>
   <string name="parameter_ambilight_title">Dlhá expozícia</string>
   <string name="pref_more_mode_style_title">Režimy kamery</string>
   <string name="ambilight_description_title">O dlhej expozícií</string>

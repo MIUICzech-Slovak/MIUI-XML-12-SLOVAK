@@ -3957,6 +3957,6 @@ Formátovanie vymaže všetky súbory na ^2. Zálohujte ich na iný ^3 alebo zar
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>      
 <string name="menu_white">Výnimka</string>   
-  <string name="oaid_reset_content_tip">Ak deaktivujete virtuálne ID, niektoré aplikácie môžu nemusia fungovať správne.</string>
+  <string name="oaid_reset_content_tip">Ak deaktivujete virtuálne ID, niektoré aplikácie nemusia fungovať správne.</string>
   <string name="oaid_reset_final_tip">Deaktivovať virtuálne ID?</string>
 </resources>

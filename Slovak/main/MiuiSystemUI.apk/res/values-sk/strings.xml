@@ -2145,4 +2145,9 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>       
   <string name="bluetooth_paired">Uložené</string>  
+  <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobilné dáta (WCDMA/LTE) budú vypnuté. Kým sa nepripojíte k Wi-Fi, aplikácie ktoré vyžadujú pripojenie k sieti nebudú fungovať správne.</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobilné dáta budú zapnuté.</string>
+  <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Zrušiť</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Vypnúť</string>  
 </resources>

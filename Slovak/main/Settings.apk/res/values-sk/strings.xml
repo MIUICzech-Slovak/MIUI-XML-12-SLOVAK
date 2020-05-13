@@ -6481,5 +6481,7 @@ Before using our services, read and agree to our %s."</string>
   <string name="bluetooth_paired">Uložené</string> 
   <string name="reset_confirm_directory">"Poznámka: Predtým ako obnovíte položky, skontrolujte či existuje zložka \"MIUI-Backup-AllBackup\" vo vašom zariadení. Ak nie, vytvorte ju."</string>
   <string name="reset_remove_data_hint">Všetky položky budú navždy vymazané. Zálohujte všetky dôležité súbory do vášho PC alebo MiCloudu predtým ako budete pokračovať.</string>
-  <string name="restore_oaid_dialog_content">Niekoľko aplikácií používa vaše virtuálne ID. Ak ho resetujete teraz, niektore vaše dáta môžu byť stratené. Resetovať virtuálne ID?</string>
+  <string name="restore_oaid_dialog_content">Niekoľko aplikácií používa vaše virtuálne ID. Ak ho resetujete teraz, niektoré vaše dáta môžu byť stratené. Resetovať virtuálne ID?</string>
+  <string name="miui_sos_remind_close">Núdzový SOS režim je zapnutý. Chcete ho vypnúť aj so všetkými jeho funkciami?</string>
+  <string name="miui_sos_remind_close_confirm">Vypnúť</string>
 </resources>

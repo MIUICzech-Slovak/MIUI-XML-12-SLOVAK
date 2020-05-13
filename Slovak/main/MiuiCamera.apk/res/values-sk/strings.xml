@@ -933,7 +933,7 @@ skenované dokumenty automaticky"</string>
      <string name="not_set">Nenastavené</string>
      <string name="pref_camera_auxiliary_close">Vyp</string>
      <string name="pref_camera_auxiliary_exposure_feedback">Overenie expozície</string>
-     <string name="pref_camera_auxiliary_focus_peak">Focus peaking</string>
+     <string name="pref_camera_auxiliary_focus_peak">Zvýraznenie zaostrenia</string>
      <string name="pref_camera_auxiliary_title">Pomocný</string>
      <string name="pref_camera_first_tag_tips">Označené</string>
      <string name="pref_camera_manual_description_title">O Profesionálnych funkciách</string>
@@ -955,5 +955,26 @@ skenované dokumenty automaticky"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>        
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>      
+  <string name="more_mode_style">Vyberte ako chcete usporiadať všetky režimy kamery</string>
+  <string name="more_mode_style_popup">\"More\" panel</string>
+  <string name="more_mode_style_tab">\"More\" tab</string>
+  <string name="parameter_ambilight_title">Dlhá expozícia</string>
+  <string name="pref_more_mode_style_title">Režimy kamery</string>
+  <string name="ambilight_description_title">O dlhej expozícií</string>
+  <string name="ambilight_intro_crowd_moving_part1">Pri fotografovaní na preplnenej ulici požiadajte subjekt, aby sa zastavil. Ostatní ľudia sa objavia ako rozmazané čiary.</string>
+  <string name="ambilight_intro_crowd_moving_part2">Môžete tiež fotografovať rušnú premávku a pohybujúce sa davy ľudí. Dlhá expozícia udrží budovy ostré, ale všetky pohybujúce sa objekty budú rozmazané.</string>
+  <string name="ambilight_intro_light_track">Pomocou svetelného zdroja \"maľujte\" na tmavej scéne tak, aby sa všetky osvetlené kúsky spojili do jedného obrázka.</string>
+  <string name="ambilight_intro_magic_star">Tento režim používajte na miestach so slabým svetlom. Expozícia sa nastaví na %d sekúnd, takže použite aj statív.</string>
+  <string name="ambilight_intro_silky_water_part1">Tento režim použite pri snímaní pohyblivých mrakov. To dá oblohe efekt "olejomaľby".</string>
+  <string name="ambilight_intro_silky_water_part2">V tomto režime vyzerá pohybujúca sa voda (rieky, vodopády a jazerá) ako saténová.</string>
+  <string name="ambilight_intro_star_track">"Dlhé fotografovanie hviezdnej oblohy môže zachytiť trajektórie hviezd. Nezabudnite použiť statív a fotografujte nepretržite najmenej %d minút."</string>
+  <string name="ambilight_intro_traffic_light">V noci môžete zachytiť trajektóriu jasných pohybujúcich sa svetiel (napríklad na autách a lodiach). Tento režim umožňuje zobraziť ukážku konečného výsledku na obrazovke v reálnom čase.</string>
+  <string name="ambilight_scene_crowd_moving">Pohybujúci sa dav</string>
+  <string name="ambilight_scene_light_track">Maľovanie svetlom</string>
+  <string name="ambilight_scene_magic_star">Hviezdna obloha</string>
+  <string name="ambilight_scene_silky_water">Hodvábna voda</string>
+  <string name="ambilight_scene_star_track">Stopy hviezd</string>
+  <string name="ambilight_scene_traffic_light">Stopy neónu</string>
+  <string name="ambilight_tips_for_using_tripod">Použite statív</string>
 </resources>

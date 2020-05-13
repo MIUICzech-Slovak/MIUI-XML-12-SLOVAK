@@ -6478,4 +6478,8 @@ Before using our services, read and agree to our %s."</string>
   <string name="accessibility_toggle_master_balance_title">Vyváženie zvuku</string>
   <string name="zone_auto_title">Časové pásmo podľa siete</string>
   <string name="control_panel_switch_side">Prepnúť stranu Ovládačov</string>  
+  <string name="bluetooth_paired">Uložené</string> 
+  <string name="reset_confirm_directory">"Poznámka: Predtým ako obnovíte položky, skontrolujte či existuje zložka \"MIUI-Backup-AllBackup\" vo vašom zariadení. Ak nie, vytvorte ju."</string>
+  <string name="reset_remove_data_hint">Všetky položky budú navždy vymazané. Zálohujte všetky dôležité súbory do vášho PC alebo MiCloudu predtým ako budete pokračovať.</string>
+  <string name="restore_oaid_dialog_content">Niekoľko aplikácií používa vaše virtuálne ID. Ak ho resetujete teraz, niektore vaše dáta môžu byť stratené. Resetovať virtuálne ID?</string>
 </resources>

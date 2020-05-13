@@ -32,4 +32,7 @@
   <string name="doc_photo_idcard_portrait">Predná strana</string>
   <string name="doc_photo_not_support">Nie je možné upraviť tento obrázok ako dokument</string>
   <string name="doc_photo_view_effect">Náhľad</string>  
+  <string name="doc_photo_cancel">Zrušiť</string>
+  <string name="doc_photo_confirm">Ukončiť</string>  
+  <string name="doc_photo_idcard_alert_msg">Odstrániť všetky zmeny a ukončiť?</string>  
 </resources>

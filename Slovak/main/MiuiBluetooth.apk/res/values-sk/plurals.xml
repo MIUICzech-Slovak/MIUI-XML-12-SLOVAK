@@ -8,4 +8,8 @@
         <item quantity="other">Stlačte a podržte dotykovú plochu na slúchadle %1$ds</item>
         <item quantity="one">Stlačte a podržte dotykovú plochu na slúchadle %1$ds</item>
     </plurals>	
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Podržte vrchné tlačidlo %1$s sekúnd keď je vypnuté</item>
+        <item quantity="one">Podržte vrchné tlačidlo %1$s sekundu keď je vypnuté</item>
+    </plurals>	
 </resources>

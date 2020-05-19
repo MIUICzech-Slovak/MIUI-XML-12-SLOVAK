@@ -858,4 +858,7 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>   
+  <string name="help_and_feedback">Pomoc a podpora</string>  
+  <string name="micloud_find_device_guide_desc_pad">Prihláste sa na i.mi.com pre vyhľadanie, uzamknutie alebo vymazanie vášho zariadenia v prípade jeho straty alebo krádeže.</string>
+  <string name="micloud_find_device_guide_desc_phone">Prihláste sa na i.mi.com pre vyhľadanie, uzamknutie alebo vymazanie vášho zariadenia v prípade jeho straty alebo krádeže.</string>
 </resources>

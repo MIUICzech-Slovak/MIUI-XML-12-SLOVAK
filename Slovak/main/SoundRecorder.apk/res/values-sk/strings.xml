@@ -22,7 +22,7 @@
   <string name="cloud_status_full_dialog_msg">Vaše cloudové úložisko je plné.</string>
   <string name="cloud_status_full_dialog_ok">Zakúpiť</string>
   <string name="cloud_status_full_dialog_title">MiCloud úložisko je plné</string>
-  <string name="content_desc_back_button">Spáť</string>
+  <string name="content_desc_back_button">Späť</string>
   <string name="content_desc_close_button">Zatvoriť</string>
   <string name="content_desc_edit_city_manage">Spravovať mestá</string>
   <string name="data_connection_body">"Tip:
@@ -185,5 +185,6 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>  
+  <string name="agree_description">Povoľte tejto aplikácií pripojenie na internet pre jej správne fungovanie.</string>  
 </resources>

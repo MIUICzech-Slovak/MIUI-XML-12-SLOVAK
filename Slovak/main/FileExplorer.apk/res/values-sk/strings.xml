@@ -740,7 +740,7 @@ Získali ste ďalších %1$s"</string>
   <string name="error_hint_copy_folder_to_self_or_sub">Nie je možné presunúť alebo skopírovať zložky samé do seba</string>
   <string name="fab_menu_sort">Triediť</string>
   <string name="view_type">Zobrazenie</string>
-  <string name="guide_newfunc_content">Teraz môžete zoradiť súbory podľa formátu, presúvať položky a prepínať medzi zobrazním.</string>
+  <string name="guide_newfunc_content">Teraz môžete zoradiť súbory podľa formátu, presúvať položky a prepínať medzi zobrazením.</string>
   <string name="guide_newfunc_title">Nová funkcia</string>
   <string name="sort_hint_name">Zoradené podľa názvu</string>
   <string name="sort_hint_time">Zoradené podľa času</string>
@@ -754,4 +754,8 @@ Získali ste ďalších %1$s"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>   
+  <string name="otg_data_transfer_success">Prenesené</string>
+  <string name="otg_data_transferring">Prenos súborov... Neodpájajte externé úložisko.</string>  
+  <string name="pull_to_enter_private">Potiahnite nadol pre otvorenie súkromnej zložky</string>
+  <string name="release_enter_private">Pustite pre otvorenie súkromnej zložky</string>  
 </resources>

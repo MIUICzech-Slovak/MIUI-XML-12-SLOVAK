@@ -36,4 +36,12 @@
         <item quantity="other">Vymazať (%d) nahrávky?</item>
         <item quantity="one">Vymazať (%d) nahrávky?</item>
     </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">Vyhľadať medzi %d nahrávkami</item>
+        <item quantity="one">Vyhľadať medzi %d nahrávkou</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Vyhľadať medzi %d nahrávkami</item>
+        <item quantity="one">Vyhľadať medzi %d nahrávkou</item>
+    </plurals>	
 </resources>

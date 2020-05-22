@@ -6088,7 +6088,7 @@ Skontrolujte nasledovné:
   <string name="usb_headset_not_support_message">Nie je možné prehrávať zvukové súbory cez redukciu. Použite Bluetooth slúchadlá alebo 3.5mm jack konektor.</string>
   <string name="usb_headset_not_support_tile">Nie je možné prehrať zvuk</string>  
   <string name="lockscreen_sidepanel_shortcuts_summary">Prispôsobiť skratky aplikácií na ľavej obrazovke zamykania</string>
-  <string name="lockscreen_sidepanel_shortcuts_title">Skratky na bočnom panely</string>
+  <string name="lockscreen_sidepanel_shortcuts_title">Skratky na bočnom paneli</string>
   <string name="mtp_connection_failed">Nie je možné preniesť súbory do PC. Skontrolujte možné príčiny.</string>
   <string name="mtp_connection_failed_title">USB pripojenie</string>
   <string name="mtp_connection_not_remind">Viac nezobrazovať</string>

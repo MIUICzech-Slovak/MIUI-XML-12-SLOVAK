@@ -289,4 +289,5 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>   
+  <string name="dialog_delete_positive">Vymazať</string>  
 </resources>

@@ -145,6 +145,7 @@ N e"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>        
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>     
+  <string name="disable_aod_in_dark_room">Vypnúť v tme</string>  
 </resources>
 

@@ -56,4 +56,9 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
+  <string name="edge_distance_pref_summary">Dotknite sa miesta blízko hrán displeja pre zobrazenie rýchleho ovládania</string>
+  <string name="edge_distance_pref_title">Zóny prebudenia</string>
+  <string name="edge_mode_custom_summary">Prispôsobiť veľkosť miest prebudenia pri hranách displeja</string>
+  <string name="edge_mode_custom_title">Vlastné</string>
+  <string name="edge_mode_default_title">Predvolené</string>  
 </resources>

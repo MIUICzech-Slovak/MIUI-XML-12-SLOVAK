@@ -258,4 +258,14 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>   
   <string name="help_and_feedback">Pomoc a podpora</string>  
+  <string name="btn_restore_wait_china">Čakať na Wi-Fi</string>
+  <string name="cloud_back_up_detail_discription_china">"Tieto položky budú zálohované na Xiaomi Cloud keď sa pripojíte na Wi-Fi: 
+*  Aplikácie, Rozloženie plochy, a tapety 
+*  Budík, hodiny, a nastavenie času 
+*  Nastavenie upozornení 
+*  MIUI a systémové nastavenia 
+Poznámka: Dáta doinštalovaných aplikácií nebudú zálohované na Xiaomi Cloud."</string>
+  <string name="cloud_backup_detail_state_summary_china">Vytvoriť Xiaomi Cloud zálohu automaticky po pripojení na Wi-Fi.</string>
+  <string name="dialog_msg_restore_require_wlan_china">Obnovenie zálohy vyžaduje pripojenie na Wi-Fi.</string>
+  <string name="dialog_title_require_wlan_china">Pripojiť na Wi-Fi</string>
 </resources>

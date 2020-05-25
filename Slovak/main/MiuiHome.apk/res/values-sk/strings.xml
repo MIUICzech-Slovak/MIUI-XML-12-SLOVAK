@@ -504,7 +504,7 @@
      <string name="small_window_empty">Vyberte z dostupných aplikácií</string>
      <string name="small_window_select_title">Dostupné aplikácie</string>
      <string name="small_window_title_text">Dotykom otvoríte plávajúce okno</string>
-     <string name="small_window_toast">Múžete pridať maximálne %d aplikácií</string>
+     <string name="small_window_toast">Môžete pridať maximálne %d aplikácií</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
@@ -512,5 +512,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>       
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
+    <string name="perfect_icons_switch_summary">Zobraziť animáciu na ikonách doinštalovaných aplikácií</string>
+  <string name="perfect_icons_switch_title">Globálne animácie ikon</string>
 </resources>

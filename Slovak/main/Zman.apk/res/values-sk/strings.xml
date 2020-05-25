@@ -30,4 +30,5 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>  
+  <string name="loading_text_format" formatted="false">Odstránenie súkromných informácií z fotografie (%d/%d)…</string>  
 </resources>

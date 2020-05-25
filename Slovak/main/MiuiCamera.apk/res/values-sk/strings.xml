@@ -979,4 +979,5 @@ skenované dokumenty automaticky"</string>
   <string name="ambilight_tips_for_using_tripod">Použite statív</string>
   <string name="pref_module_settings">Režimy</string>  
   <string name="clone_recapture_alert">Začať znova?</string>  
+  <string name="pref_camera_heic_image_format_description2">Vysoko efektívny formát pre fotografie šetrí miesto na úložisku, ale nie je podporovaný niektorými aplikáciami.</string>  
 </resources>

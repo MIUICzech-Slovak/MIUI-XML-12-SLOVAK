@@ -236,17 +236,17 @@
         <item>Bude možné získať podrobné informácie o vašom zariadení.</item>
     </string-array>    
     <string-array name="perm_intercept_notification">
-        <item>Read all your notifications, including the content of your text messages and other items that might contain personal information</item>
-        <item>Restrict notification permissions for some apps</item>
-        <item>Simulate tapping notifications and open apps</item>
-        <item>Turn DND mode on and off</item>
+        <item>Čítať všetky vaše upozornenia, vrátane obsahu SMS a ostatných položiek ktoré môžu obsahovať súkromné informácie</item>
+        <item>Obmedziť povolenia upozornení pre niektoré aplikácie</item>
+        <item>Simulovať dotyky a otvoriť aplikácie</item>
+        <item>Zapnúť alebo vypnúť režim Nerušiť</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
-        <item>Collect the data about your interests and behavior by learning what apps you use and how often you use them</item>
-        <item>Access your carrier-related and language settings, as well as other details</item>
+        <item>Zhromažďovať dáta o vašich záujmoch a správaní podľa aplikácií ktoré používate</item>
+        <item>Prístup k nastaveniam vášho operátora, jazyka a ďalších podrobností</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>"Third party apps that aren't verified by GetApps might cause multiple problems and decrease system stability."</item>
-        <item>Some third party apps may contain malware that puts your personal data at risk.</item>
+        <item>Aplikácie ktoré nepochádzajú z Google Play, môžu spôsobiť nestabilitu alebo nesprávne fungovanie systému.</item>
+        <item>Niektoré neoverené aplikácie môžu obsahovať vírus alebo malware.</item>
     </string-array>    
 </resources>

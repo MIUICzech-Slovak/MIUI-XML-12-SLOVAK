@@ -8,6 +8,6 @@
     <string name="label_alert_shutdown">Vypnúť</string>
     <string name="label_blank">Späť</string>
     <string name="label_emergency_call">Núdzový hovor</string>
-    <string name="label_alert_recovery">Recovery</string>
+    <string name="label_alert_recovery">TWRP Recovery</string>
     <string name="label_alert_fastboot">Fastboot</string>    
 </resources>

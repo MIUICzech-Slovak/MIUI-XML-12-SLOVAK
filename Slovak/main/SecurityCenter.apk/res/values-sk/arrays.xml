@@ -235,4 +235,18 @@
         <item>Bude možné sledovať a nahrávať vašu obrazovku.</item>
         <item>Bude možné získať podrobné informácie o vašom zariadení.</item>
     </string-array>    
+    <string-array name="perm_intercept_notification">
+        <item>Read all your notifications, including the content of your text messages and other items that might contain personal information</item>
+        <item>Restrict notification permissions for some apps</item>
+        <item>Simulate tapping notifications and open apps</item>
+        <item>Turn DND mode on and off</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Collect the data about your interests and behavior by learning what apps you use and how often you use them</item>
+        <item>Access your carrier-related and language settings, as well as other details</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>"Third party apps that aren't verified by GetApps might cause multiple problems and decrease system stability."</item>
+        <item>Some third party apps may contain malware that puts your personal data at risk.</item>
+    </string-array>    
 </resources>

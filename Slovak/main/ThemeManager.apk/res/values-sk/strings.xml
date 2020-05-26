@@ -623,4 +623,19 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="de_icon_text_favorite">Obĺúbené</string>
   <string name="theme_settings_title">Témy</string>
   <string name="current_using">Súčasná</string>
+
+  <string name="de_mix">Build</string>
+  <string name="de_mix_dialog_title">Build your theme</string>
+  <string name="de_mix_mode_aod">Always-on display</string>
+  <string name="de_mix_mode_aod_desc">Customize backgrounds and clock format</string>
+  <string name="de_mix_mode_desktop">Home screen</string>
+  <string name="de_mix_mode_desktop_desc">Wallpaper and clock</string>
+  <string name="de_mix_mode_global">System elements</string>
+  <string name="de_mix_mode_global_desc">Notification shade, Phone, Messaging, etc.</string>
+  <string name="de_mix_mode_icon">Icons</string>
+  <string name="de_mix_mode_icon_desc">App icons</string>
+  <string name="de_mix_mode_lockscreen">Lock screen</string>
+  <string name="de_mix_mode_lockscreen_desc">Wallpaper and clock</string>
+  <string name="theme_not_include_module_desc">"This theme doesn't contain the following items: %s"</string>   
+  <string name="apply_choosen_type_resource">Apply selected items</string>  
 </resources>

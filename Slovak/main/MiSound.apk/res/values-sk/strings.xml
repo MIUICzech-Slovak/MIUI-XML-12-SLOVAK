@@ -143,5 +143,10 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>     
+  <string name="sound_assist_key_summary">Prispôsobiť zvuk pre jednotlivé aplikácie počas prehrávania zvuku z viacerých zdrojov</string>
+  <string name="sound_assist_key_title">Prispôsobiť zvuk médií vo viacerých aplikáciach</string>
+  <string name="sound_assist_title">Zvukový asistent</string>  
+  <string name="multi_music_coexistence_summary">Neprispôsobovať hlasitosť médií počas prichádzajúcich upozornení alebo prehrávania zvuku z iného zdroja</string>
+  <string name="multi_music_coexistence_title">Viacero zvukových zdrojov</string>  
 </resources>
 

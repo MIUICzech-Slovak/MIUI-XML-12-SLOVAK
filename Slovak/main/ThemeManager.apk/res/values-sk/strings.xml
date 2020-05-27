@@ -625,7 +625,6 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="current_using">Súčasná</string>
   <string name="de_mix">Zostaviť</string>
   <string name="de_mix_dialog_title">Zostavte si svoju tému</string>
-  <string name="de_mix_mode_aod">Always-on displej</string>
   <string name="de_mix_mode_aod_desc">Prispôsobiť pozadie a hodiny</string>
   <string name="de_mix_mode_desktop">Domáca plocha</string>
   <string name="de_mix_mode_desktop_desc">Tapeta a hodiny</string>

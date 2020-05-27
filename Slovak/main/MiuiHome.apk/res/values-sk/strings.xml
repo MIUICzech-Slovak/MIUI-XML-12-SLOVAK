@@ -215,7 +215,7 @@
   <string name="lock_screen_failed_message">Nastavenie zlyhalo</string>
   <string name="lock_screen_success_message">Nastavené</string>
   <string name="lock_screen_wallpaper">Tapeta zamyk. obrazovky</string>
-  <string name="memory_clear_nothing_result">Cache je prázdna</string>
+  <string name="memory_clear_nothing_result">RAM je prázdna</string>
   <string name="memory_clear_result">%1$sB vyčistené</string>
   <string name="menu_add">Pridať</string>
   <string name="menu_auto_fill">Automaticky vyplniť</string>

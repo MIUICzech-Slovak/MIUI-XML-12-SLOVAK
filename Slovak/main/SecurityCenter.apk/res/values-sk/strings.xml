@@ -3961,4 +3961,6 @@ Formátovanie vymaže všetky súbory na ^2. Zálohujte ich na iný ^3 alebo zar
   <string name="oaid_reset_final_tip">Deaktivovať virtuálne ID?</string>
   <string name="app_behavior_start_from_widget">%1s bolo spustené widgetom</string>
   <string name="app_behavior_start_from_widget_single">Táto aplikácia bola spustená widgetom</string>  
+  <string name="privacy_mask_summary">Namiesto vášho skutočného identifikátora, MIUI poskytne aplikáciam virtuálne ID (OAID). Aplikáciam to zabráni sledovať vaše správanie, nastavenia a chráni vaše súkromie.</string>
+  <string name="privacy_mask_title">Virtuálne ID je povolené</string>  
 </resources>

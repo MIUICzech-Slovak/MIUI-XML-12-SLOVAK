@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_sound">Pridať vlastné nastavenie</string>
-  <string name="app_name">Sluchadlá a zvukové efekty</string>
+  <string name="app_name">Slúchadlá a zvukové efekty</string>
   <string name="apply_sound">Použiť</string>
   <string name="can_you_here">Počujete zvuk?</string>
   <string name="complete_dialog_button">Rozumiem</string>
@@ -14,7 +14,7 @@
   <string name="eq_auto">Vlastný</string>
   <string name="eq_blues">Blues</string>
   <string name="eq_cancel">Zrušiť</string>
-  <string name="eq_classical">Klaska</string>
+  <string name="eq_classical">Klasika</string>
   <string name="eq_country">Country</string>
   <string name="eq_dance">Dance</string>
   <string name="eq_delete">Odstrániť</string>
@@ -83,7 +83,7 @@
   <string name="music_dolby_mode_music">Hudba</string>
   <string name="music_dolby_mode_off">Vypnutý</string>
   <string name="music_equalizer">Ekvalizér</string>
-  <string name="music_equalizer_summary">Nastaviť úroveň pre rôzné typy hudby</string>
+  <string name="music_equalizer_summary">Nastaviť úroveň pre rôzne typy hudby</string>
   <string name="music_hd_title">HD Sound</string>
   <string name="music_headphone_settings">Typ slúchadiel</string>
   <string name="music_headset_button_settings">Nastavenie tlačidiel</string>
@@ -132,7 +132,7 @@
   <string name="second_note">Nasaďte si slúchadlá.</string>
   <string name="sound_test_title">Test sluchového vnímania</string>
   <string name="start_test_sound">Spustiť test</string>
-  <string name="sure_give_up_test">Na budúce budete musieť začať odznova ak prerušite tento test. Ukončiť?</string>
+  <string name="sure_give_up_test">Na budúce budete musieť začať odznova ak prerušíte tento test. Ukončiť?</string>
   <string name="sure_to_back">Vymazať zmeny?</string>
   <string name="third_note">Nájdite tiché miesto.</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
@@ -148,5 +148,33 @@
   <string name="sound_assist_title">Zvukový asistent</string>  
   <string name="multi_music_coexistence_summary">Neprispôsobovať hlasitosť médií počas prichádzajúcich upozornení alebo prehrávania zvuku z iného zdroja</string>
   <string name="multi_music_coexistence_title">Viacero zvukových zdrojov</string>  
+     <string name="expand_button_title">Rozšírené</string>
+     <string name="music_audio_visual_wake_lock">Ponechať displej zapnutý</string>
+     <string name="music_audio_visual_wake_lock_summary">Nevypínať displej počas zobrazenia vizuálnych efektov</string>
+     <string name="music_headset_audio_visual">Vizuálne efekty</string>
+     <string name="music_headset_audio_visual_apply">Použiť</string>
+     <string name="music_headset_audio_visual_style">Štýl vizuálnych efektov</string>
+     <string name="music_headset_audio_visual_style_summary">Vyberte štýl vizuálnych efektov</string>
+     <string name="music_headset_audio_visual_summary">Sprevádzať zvuk s vizuálnymi efektami zobrazenými na displeji</string>
+     <string name="music_headset_audio_visual_toast">Nastavené</string>
+     <string name="music_headset_control_setting">Ovládanie slúchadiel</string>
+     <string name="music_headset_effect_settings">Zvukové efekty</string>
+     <string name="music_headset_improve_sound">Prispôsobiť zvuk slúchadlám</string>
+     <string name="music_headset_is_open">Zap</string>
+     <string name="music_headset_not_open">Vyp</string>
+     <string name="music_headset_open">Prispôsobiť zvuk slúchadlám</string>
+     <string name="music_headset_optimization">Optimalizácia zvuku</string>
+     <string name="music_headset_scenario_intelligent">Inteligentne</string>
+     <string name="music_headset_scenario_music">Hudba</string>
+     <string name="music_headset_scenario_select">Predvoľba</string>
+     <string name="music_headset_scenario_video">Video</string>
+     <string name="music_headset_scenario_vocal">Hlas</string>
+     <string name="music_headset_select_settings">Vyberte slúchadlá</string>
+     <string name="not_set">Nenastavené</string>
+     <string name="preference_copied">\"%1$s\" skopírované do schránky.</string>
+     <string name="search_menu_title">Vyhľadať</string>
+     <string name="switch_audio_device_bt">Bluetooth</string>
+     <string name="switch_audio_device_phone">Toto zariadenie</string>
+     <string name="switch_audio_dialog_title">Prepnúť zvuk na</string>  
 </resources>
 

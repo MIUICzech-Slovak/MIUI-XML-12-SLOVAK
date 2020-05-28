@@ -1743,4 +1743,7 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="fiveg_hosted_mode_summary">Prepnúť na najlepšie dostupné siete ak je slabý signál 5G</string>
   <string name="fiveg_hosted_mode_title">Inteligentné prepnutie 5G</string>
   <string name="msim_setting_default_voice_description">SIM %d pre hovory</string>  
+  <string name="fiveg_network_title">5G siete</string>
+  <string name="switch_off">Vyp</string>
+  <string name="switch_on">Zap</string>  
 </resources>

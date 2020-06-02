@@ -44,4 +44,8 @@
         <item quantity="other">Vyhľadať medzi %d nahrávkami</item>
         <item quantity="one">Vyhľadať medzi %d nahrávkou</item>
     </plurals>	
+    <plurals name="search_app_records_hint">
+        <item quantity="other">Vyhľadať medzi %d nahrávkami</item>
+        <item quantity="one">Vyhľadať medzi %d nahrávkami</item>
+    </plurals>	
 </resources>

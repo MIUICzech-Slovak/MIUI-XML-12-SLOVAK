@@ -758,4 +758,10 @@ Získali ste ďalších %1$s"</string>
   <string name="otg_data_transferring">Prenos súborov... Neodpájajte externé úložisko.</string>  
   <string name="pull_to_enter_private">Potiahnite nadol pre otvorenie súkromnej zložky</string>
   <string name="release_enter_private">Pustite pre otvorenie súkromnej zložky</string>  
+  <string name="cancel_msg">Odznačiť všetko?</string>
+  <string name="file_name_existed">Názov už existuje</string>
+  <string name="rename_msg">Súbor s týmto názvom \"%s\" už existuje.</string>
+  <string name="replace">Nahradiť</string>
+  <string name="skip">Preskočiť</string>
+  <string name="use_to_all">Použiť na všetko</string>  
 </resources>

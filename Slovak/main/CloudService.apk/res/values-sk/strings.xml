@@ -871,4 +871,10 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
   <string name="soundrecorder_sync_only_in_wifi_summary_china">Záznamník bude používať len Wi-Fi pre synchr. nahrávok</string>
   <string name="sub_sync_item_sms_title_wifi_only_china">Použiť len Wi-Fi pre synchr. MMS</string>
   <string name="sync_dspt_entrance_provision_network_china">Táto aplikácia vyžaduje pripojenie na internet pre jej správne fungovanie.</string>  
+  
+  <string name="connect_network_china">Pripojte sa k Wi-Fi alebo vložte SIM kartu</string>
+  <string name="connect_wlan_china">Pripojte sa k Wi-Fi</string>
+  <string name="micloud_notif_content_master_depend_wifi_china">Pripojte sa k Wi-Fi alebo zmeňte nastavenia synchronizácie. Dotykom zmeníte.</string>
+  <string name="privacy_dialog_sync_all_purpose_china">Vitajte v Xiaomi Cloude! Môžete využiť Xiaomi Cloud pre synchr. vašich SMS, histórie hovorov, kontaktov, poznámok, fotografií, Wi-Fi nastavenia, nahrávok.</string>
+  <string name="privacy_doc_cloudservice_china">"Vitajte v Xiaomi Cloude! Môžete využiť Xiaomi Cloud pre synchr. vašich SMS, histórie hovorov, kontaktov, poznámok, fotografií, Wi-Fi nastavenia, nahrávok, aplikácií a kalendár. K synchronizovaným položkám máte prístup na i.mi.com. Pre aktiváciu tejto služby bude odoslaná bežná SMS. Pre správne fungovanie tejto služby sú vyžadované tieto povolenia:&lt;br /&gt;• Kalendár:&lt;br /&gt;Pre synchronizáciu udalostí&lt;br /&gt;• Prístup k SMS:&lt;br /&gt;Pre synchr. SMS&lt;br /&gt;• Prístup k MMS:&lt;br /&gt;Pre synch. MMS&lt;br /&gt;• Prístup ku kontaktom:&lt;br /&gt;Pre synchr. kontaktov&lt;br /&gt;• Upraviť kontakty:&lt;br /&gt;Pre synchr. kontaktov&lt;br /&gt;• Úložisko:&lt;br /&gt;Pre ukladanie súborov (napr. obrázkov, videí, skladieb)&lt;br /&gt;Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia"</string>
 </resources>

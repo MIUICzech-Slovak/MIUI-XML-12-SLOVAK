@@ -359,4 +359,5 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
   <string name="usage_new_home_day_usage_title_new">Čas displeja o %s</string>
   <string name="usage_week_avg_usage_title">Priemerne tento týždeň</string>
   <string name="usage_week_avg_usage_title2">Priemerný čas</string>  
+  <string name="fmt_date_short_month_day">d MMM</string>  
 </resources>

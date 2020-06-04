@@ -371,4 +371,7 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="usage_new_home_app_limit_summary">Nastavte pre túto aplikáciu denný časový limit používania</string>
+  <string name="usage_new_home_app_limit_title">Obmedzit čas používánia</string>
+  <string name="usage_new_home_classify_manage">Spravujte kategórie aplikacií</string>  
 </resources>

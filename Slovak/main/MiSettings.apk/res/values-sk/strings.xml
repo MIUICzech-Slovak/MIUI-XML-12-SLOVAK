@@ -355,7 +355,7 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>       
   <string name="usage_app_limit_reach_summay_new">Dotykom pridáte %d minút</string>
   <string name="usage_app_limit_reach_title_new" formatted="false">Ostávajúci čas pre %1s: %2s</string>
-  <string name="usage_new_home_day_category_title_new">Čas displeja pre kategórie aplikácií o %s</string>
+  <string name="usage_new_home_day_category_title_new">Čas displeja pre kategórie aplikácií %s</string>
   <string name="usage_new_home_day_usage_title_new">Čas displeja o %s</string>
   <string name="usage_week_avg_usage_title">Priemerne tento týždeň</string>
   <string name="usage_week_avg_usage_title2">Priemerný čas</string>  

@@ -134,7 +134,7 @@
         <item quantity="one">Odomknuté %d krát</item>
      </plurals>
     <plurals name="usage_new_home_total_unlocks_new">
-        <item quantity="other">Odomknuté %1$d krát o %2$s</item>
-        <item quantity="one">Odomknuté %1$d krát o %2$s</item>
+        <item quantity="other">Odomknuté %1$d krát %2$s</item>
+        <item quantity="one">Odomknuté %1$d krát %2$s</item>
     </plurals>	 
 </resources>

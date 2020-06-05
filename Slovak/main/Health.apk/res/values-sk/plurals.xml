@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="count_duration_standard">
+        <item quantity="other">%1$d-%2$d times</item>
+        <item quantity="one">%1$d-%2$d time</item>
+        <item quantity="few">%1$d-%2$d times</item>
+        <item quantity="many">%1$d-%2$d times</item>
+    </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d Cal</item>
+        <item quantity="one">%1$d Cal</item>
+        <item quantity="few">%1$d Cal</item>
+        <item quantity="many">%1$d Cal</item>
+    </plurals>
     <plurals name="daily_suggestions_steps">
-        <item quantity="other">Prejdite aspoň %1$d krokov každý deň</item>
-        <item quantity="one">Prejdite aspoň %1$d krokov každý deň</item>
-        <item quantity="few">Prejdite aspoň %1$d krokov každý deň</item>
-        <item quantity="many">Prejdite aspoň %1$d krokov každý deň</item>
+        <item quantity="other">Walk at least %1$d steps every day</item>
+        <item quantity="one">Walk at least %1$d step every day</item>
+        <item quantity="few">Walk at least %1$d steps every day</item>
+        <item quantity="many">Walk at least %1$d steps every day</item>
     </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d dní</item>
@@ -13,16 +25,52 @@
         <item quantity="many">%1$d dňa</item>
     </plurals>
     <plurals name="dialog_choose_items">
-        <item quantity="other">Vybraných %1$d položiek</item>
-        <item quantity="one">Vybraná %1$d položka</item>
-        <item quantity="few">Vybraných %1$d položiek</item>
-        <item quantity="many">Vybraných %1$d položiek</item>
+        <item quantity="other">Selected %1$d items</item>
+        <item quantity="one">Selected %1$d item</item>
+        <item quantity="few">Selected %1$d items</item>
+        <item quantity="many">Selected %1$d items</item>
     </plurals>
     <plurals name="dialog_delete_records_confirm">
-        <item quantity="other">Vymazať (%1$d)?</item>
-        <item quantity="one">Vymazať (%1$d)?</item>
-        <item quantity="few">Vymazať (%1$d)?</item>
-        <item quantity="many">Vymazať (%1$d)?</item>
+        <item quantity="other">Delete %1$d records?</item>
+        <item quantity="one">Delete %1$d record?</item>
+        <item quantity="few">Delete %1$d records?</item>
+        <item quantity="many">Delete %1$d records?</item>
+    </plurals>
+    <plurals name="distance_unit_kilometre">
+        <item quantity="other">%1$.1f km</item>
+        <item quantity="one">%1$.1f km</item>
+        <item quantity="few">%1$.1f km</item>
+        <item quantity="many">%1$.1f km</item>
+    </plurals>
+    <plurals name="dream_talk_segment">
+        <item quantity="other">%1$d nahrávok</item>
+        <item quantity="one">%1$d nahrávka</item>
+        <item quantity="few">%1$d nahrávky</item>
+        <item quantity="many">%1$d nahrávky</item>
+    </plurals>
+    <plurals name="dream_talk_segment_unit">
+        <item quantity="other">" instances"</item>
+        <item quantity="one">" instance"</item>
+        <item quantity="few">" instances"</item>
+        <item quantity="many">" instances"</item>
+    </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d hrs</item>
+        <item quantity="one">%1$d hr</item>
+        <item quantity="few">%1$d hrs</item>
+        <item quantity="many">%1$d hrs</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="few">%1$d mins</item>
+        <item quantity="many">%1$d mins</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d secs</item>
+        <item quantity="one">%1$d sec</item>
+        <item quantity="few">%1$d secs</item>
+        <item quantity="many">%1$d secs</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Cieľ: %1$d krokov</item>
@@ -37,28 +85,22 @@
         <item quantity="many">" kroku"</item>
     </plurals>
     <plurals name="goal_unit_with_number">
-        <item quantity="other">%1$d krokov</item>
-        <item quantity="one">%1$d krok</item>
-        <item quantity="few">%1$d kroky</item>
-        <item quantity="many">%1$d krokov</item>
+        <item quantity="other">%1$d steps</item>
+        <item quantity="one">%1$d step</item>
+        <item quantity="few">%1$d steps</item>
+        <item quantity="many">%1$d steps</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="other">%1$d h</item>
-        <item quantity="one">%1$d h</item>
-        <item quantity="few">%1$d h</item>
-        <item quantity="many">%1$d h</item>
+        <item quantity="other">%1$d hrs</item>
+        <item quantity="one">%1$d hr</item>
+        <item quantity="few">%1$d hrs</item>
+        <item quantity="many">%1$d hrs</item>
     </plurals>
-    <plurals name="last_measure_date_interval">
-        <item quantity="other">%1$d dní od posledného váženia</item>
-        <item quantity="one">%1$d deň od posledného váženia</item>
-        <item quantity="few">%1$d dní od posledného váženia</item>
-        <item quantity="many">%1$d dní od posledného váženia</item>
-    </plurals>
-    <plurals name="last_measure_day_body_weight">
-        <item quantity="other">%1$d dní od posledného váženia</item>
-        <item quantity="one">%1$d deň od posledného váženia</item>
-        <item quantity="few">%1$d dní od posledného váženia</item>
-        <item quantity="many">%1$d dní od posledného váženia</item>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d meters</item>
+        <item quantity="one">%1$d meter</item>
+        <item quantity="few">%1$d meters</item>
+        <item quantity="many">%1$d meters</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d-dňová menštruácia</item>
@@ -67,40 +109,46 @@
         <item quantity="many">%1$d-dňová menštruácia</item>
     </plurals>
     <plurals name="mesens_card_title_day_in_predict">
-        <item quantity="other">Deň %1$d (predpokladaný)</item>
-        <item quantity="one">Deň %1$d (predpokladaný)</item>
-        <item quantity="few">Deň %1$d (predpokladaný)</item>
-        <item quantity="many">Deň %1$d (predpokladaný)</item>
+        <item quantity="other">Day %1$d (expected)</item>
+        <item quantity="one">Day %1$d (expected)</item>
+        <item quantity="few">Day %1$d (expected)</item>
+        <item quantity="many">Day %1$d (expected)</item>
     </plurals>
     <plurals name="mesens_card_title_days">
-        <item quantity="other">Deň %1$d</item>
-        <item quantity="one">Deň %1$d</item>
-        <item quantity="few">Deň %1$d</item>
-        <item quantity="many">Deň %1$d</item>
+        <item quantity="other">Day %1$d</item>
+        <item quantity="one">Day %1$d</item>
+        <item quantity="few">Day %1$d</item>
+        <item quantity="many">Day %1$d</item>
     </plurals>
     <plurals name="mesens_card_title_predict_date">
-        <item quantity="other">Ďalší cyklus o %1$d dní</item>
-        <item quantity="one">Ďalší cyklus o %1$d deň</item>
-        <item quantity="few">Ďalší cyklus o %1$d dní</item>
-        <item quantity="many">Ďalší cyklus o %1$d dní</item>
+        <item quantity="other">Next period in %1$d days</item>
+        <item quantity="one">Next period in %1$d day</item>
+        <item quantity="few">Next period in %1$d days</item>
+        <item quantity="many">Next period in %1$d days</item>
     </plurals>
     <plurals name="minutes">
-        <item quantity="other">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
         <item quantity="one">%1$d min</item>
-        <item quantity="few">%1$d min</item>
-        <item quantity="many">%1$d min</item>
+        <item quantity="few">%1$d mins</item>
+        <item quantity="many">%1$d mins</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%1$d mins ago</item>
+        <item quantity="one">%1$d min ago</item>
+        <item quantity="few">%1$d mins ago</item>
+        <item quantity="many">%1$d mins ago</item>
     </plurals>
     <plurals name="sleep_goal_by_hour">
-        <item quantity="other">Cieľ: %1$d h</item>
-        <item quantity="one">Cieľ: %1$d h</item>
-        <item quantity="few">Cieľ: %1$d h</item>
-        <item quantity="many">Cieľ: %1$d h</item>
+        <item quantity="other">Goal: %1$d hours</item>
+        <item quantity="one">Goal: %1$d hour</item>
+        <item quantity="few">Goal: %1$d hours</item>
+        <item quantity="many">Goal: %1$d hours</item>
     </plurals>
     <plurals name="sleep_management_exp_hours">
-        <item quantity="other">Súčasné nastavenia nezaručujú %1$d hodín spánku denne. Potrebujete viac spánku.</item>
-        <item quantity="one">Súčasné nastavenia nezaručujú %1$d hodín spánku denne. Potrebujete viac spánku.</item>
-        <item quantity="few">Súčasné nastavenia nezaručujú %1$d hodín spánku denne. Potrebujete viac spánku.</item>
-        <item quantity="many">Súčasné nastavenia nezaručujú %1$d hodín spánku denne. Potrebujete viac spánku.</item>
+        <item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
+        <item quantity="one">"Current settings won't guarantee you %1$d hour of sleep daily. You need more than that."</item>
+        <item quantity="few">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
+        <item quantity="many">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d krokov</item>
@@ -115,7 +163,7 @@
         <item quantity="many">%1$d</item>
     </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">Nezaznamenali ste %1$d dní. Zaznamenávajte svoje menštruácie pre dostávanie presnejších odhadov.</item>
+        <item quantity="other">Nezaznamenali ste %1$d dní. Zaznamenávajte svoje menštruácia pre dostávanie presnejších odhadov.</item>
         <item quantity="one">Nezaznamenali ste %1$d deň. Zaznamenávajte svoje menštruácie pre dostávanie presnejších odhadov.</item>
         <item quantity="few">Nezaznamenali ste %1$d dni. Zaznamenávajte svoje menštruácie pre dostávanie presnejších odhadov.</item>
         <item quantity="many">Nezaznamenali ste %1$d dňa. Zaznamenávajte svoje menštruácie pre dostávanie presnejších odhadov.</item>
@@ -137,6 +185,48 @@
         <item quantity="one">%1$d-dňový cyklus</item>
         <item quantity="few">%1$d-dňový cyklus</item>
         <item quantity="many">%1$d-dňový cyklus</item>
+    </plurals>
+    <plurals name="time_duration_compare_standard">
+        <item quantity="other">≤%1$d minutes</item>
+        <item quantity="one">≤%1$d minute</item>
+        <item quantity="few">≤%1$d minutes</item>
+        <item quantity="many">≤%1$d minutes</item>
+    </plurals>
+    <plurals name="time_duration_hour_float">
+        <item quantity="other">%1$.2f hrs</item>
+        <item quantity="one">%1$.2f hr</item>
+        <item quantity="few">%1$.2f hrs</item>
+        <item quantity="many">%1$.2f hrs</item>
+    </plurals>
+    <plurals name="time_duration_hour_int">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+        <item quantity="few">%d hrs</item>
+        <item quantity="many">%d hrs</item>
+    </plurals>
+    <plurals name="time_duration_hour_standard">
+        <item quantity="other">%1$.1f-%2$.1f hours</item>
+        <item quantity="one">%1$.1f-%2$.1f hour</item>
+        <item quantity="few">%1$.1f-%2$.1f hours</item>
+        <item quantity="many">%1$.1f-%2$.1f hours</item>
+    </plurals>
+    <plurals name="time_duration_minute">
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="one">%1$d minute</item>
+        <item quantity="few">%1$d minutes</item>
+        <item quantity="many">%1$d minutes</item>
+    </plurals>
+    <plurals name="time_duration_minute_standard">
+        <item quantity="other">%1$d-%2$d minutes</item>
+        <item quantity="one">%1$d-%2$d minute</item>
+        <item quantity="few">%1$d-%2$d minutes</item>
+        <item quantity="many">%1$d-%2$d minutes</item>
+    </plurals>
+    <plurals name="time_duration_time">
+        <item quantity="other">%1$d times</item>
+        <item quantity="one">%1$d time</item>
+        <item quantity="few">%1$d times</item>
+        <item quantity="many">%1$d times</item>
     </plurals>
     <plurals name="times_format">
         <item quantity="other">%1$d-krát</item>
@@ -163,10 +253,10 @@
         <item quantity="many">Odhadovaný %1$d deň menštruácie</item>
     </plurals>
     <plurals name="title_today_exercise_steps">
-        <item quantity="other">%1$d krokov</item>
-        <item quantity="one">%1$d krokov</item>
-        <item quantity="few">%1$d krokov</item>
-        <item quantity="many">%1$d krokov</item>
+        <item quantity="other">%1$d steps today</item>
+        <item quantity="one">%1$d step today</item>
+        <item quantity="few">%1$d steps today</item>
+        <item quantity="many">%1$d steps today</item>
     </plurals>
     <plurals name="unit_days">
         <item quantity="other">" dní"</item>
@@ -174,10 +264,12 @@
         <item quantity="few">" dni"</item>
         <item quantity="many">" dňa"</item>
     </plurals>
-     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d nových upozornení</item>
-        <item quantity="one">%d nové upozornenie</item>
-     </plurals>
+    <plurals name="unit_times">
+        <item quantity="other">" times"</item>
+        <item quantity="one">" time"</item>
+        <item quantity="few">" times"</item>
+        <item quantity="many">" times"</item>
+    </plurals>
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d rokov</item>
         <item quantity="one">%1$d rok</item>

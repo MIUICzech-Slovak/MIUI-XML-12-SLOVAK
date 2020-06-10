@@ -3490,7 +3490,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="net_boostering">Zrýchlenie siete</string>
   <string name="notification_garbage_cleanup_summary">Vyčistite odpad (%s) pre zrýchlenie vášho zariadenia</string>
   <string name="notification_garbage_cleanup_title">Vyčistite odpad</string>  
-  <string name="game_manual_record_setting_setting">O tejto funkcii</string>
+  <string name="game_manual_record_setting_setting">Nastavenia</string>
   <string name="game_manual_record_setting_title">Kľúčové momenty</string>
   <string name="gb_dialog_record_way_ai">AI nahrávky sú uložené v gamebox a uchované 7 dní.</string>
   <string name="gb_dialog_record_way_finish">Hotovo</string>
@@ -3963,4 +3963,24 @@ Formátovanie vymaže všetky súbory na ^2. Zálohujte ich na iný ^3 alebo zar
   <string name="app_behavior_start_from_widget_single">Táto aplikácia bola spustená widgetom</string>  
   <string name="privacy_mask_summary">Namiesto vášho skutočného identifikátora, MIUI poskytne aplikáciam virtuálne ID (OAID). Aplikáciam to zabráni sledovať vaše správanie, nastavenia a chráni vaše súkromie.</string>
   <string name="privacy_mask_title">Virtuálne ID je povolené</string>  
+  <string name="gb_game_video_type_ai_record">Nahrávať pomocou AI</string>
+  <string name="gb_game_video_type_manual_record">Nahrávať ručne</string>
+  <string name="gb_storage_summary">Nezobrazovať hry ktoré sú pridané v Zrýchlení hier na ploche</string>
+  <string name="gb_storage_title">Odobrať pridané hry z plochy</string>
+  <string name="gb_wonderful_moment_toast_window_new_pop">"Nahrávajte kľúčové momenty
+z vášho hrania hier"</string>
+  <string name="gb_wonderful_video_goto_box">Otvoriť Zrýchlenie hier</string>
+  <string name="gb_wonderful_video_save_suc">Uložené</string>
+  <string name="intl_app_manager_card_permission_title">Súkromie a povolenia</string>
+  <string name="intl_perm_privacy_control_calendar">Aplikácia môže načítať alebo upraviť kalendár len ak ju používate</string>
+  <string name="intl_perm_privacy_control_calllog">Aplikácia môže načítať alebo upraviť históriu hovorov len ak ju používate</string>
+  <string name="intl_perm_privacy_control_camera">Aplikácia môže zhotoviť fotografie a videá len ak ju používate</string>
+  <string name="intl_perm_privacy_control_contact">Aplikácia môže načítať alebo upraviť kontakty len ak ju používate</string>
+  <string name="intl_perm_privacy_control_data">Kontrolovať súkromnie</string>
+  <string name="intl_perm_privacy_control_message">Kontrolovať ktoré dáta môžu aplikácie používať</string>
+  <string name="intl_perm_privacy_control_microphone">Aplikácia môže nahrávať zvuk len ak ju používate</string>
+  <string name="intl_perm_privacy_control_notification_message">Kontrolujte ktoré aplikácie môžu používať vaše súkromé dáta</string>
+  <string name="intl_perm_privacy_control_notification_title">Chráňte vaše súkromie</string>
+  <string name="intl_perm_privacy_control_storage">Aplikácia môže načítať alebo upraviť súbory na úložisku len ak ju používate</string>
+  <string name="intl_perm_privacy_control_title">Kontrolovať súkromie</string>
 </resources>

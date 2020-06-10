@@ -676,4 +676,16 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Továrenské nastavenia (%ds)</item>
         <item quantity="one">Továrenské nastavenia (%ds)</item>
      </plurals>
+	    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Odinštalovať %2$d hier (vrátane %1$s)</item>
+        <item quantity="one">Odinštalovať %2$d hru (vrátane %1$s)</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">Uložené %d AI nahrávky do Game Turbo</item>
+        <item quantity="one">Uložená %d AI nahrávka do Game Turbo</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Môžete chrániť %d položiek</item>
+        <item quantity="one">Môžete chrániť %d položku</item>
+    </plurals>         
 </resources>

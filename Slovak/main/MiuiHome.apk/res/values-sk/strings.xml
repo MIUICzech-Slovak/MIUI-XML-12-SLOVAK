@@ -513,6 +513,17 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
-    <string name="perfect_icons_switch_summary">Zobraziť animáciu na ikonách doinštalovaných aplikácií</string>
+  <string name="perfect_icons_switch_summary">Zobraziť animáciu na ikonách doinštalovaných aplikácií</string>
   <string name="perfect_icons_switch_title">Globálne animácie ikon</string>
+  <string name="launcher_search_provider_title">Poskytovateľ vyhľadávania na ploche</string>
+  <string name="accessibility_all_app_custom_category_finish">Hotovo</string>
+  <string name="accessibility_all_app_custom_category_item_remove">Odstrániť \"%1$s\" z kategórií</string>
+  <string name="accessibility_clear_search_bar_text">Vymazať vyhľadávanie</string>
+  <string name="accessibility_enter_all_app_mode">Otvoriť zoznam aplikácií</string>
+  <string name="accessibility_enter_all_app_settings">Otvoriť nastavenia zoznamu aplikácií</string>
+  <string name="all_apps_setting_classic_title">Klasický</string>
+  <string name="back">Späť</string>
+  <string name="common_home_search_delete">Ostrániť lištu vyhľadávania z plochy</string>
+  <string name="launcher_slide_up_search_provider_title">Poskytovateľ vyhľadávania gesta nahor</string>  
+  <string name="launcher_search_bar_provider_title">Poskytovateľ vyhľadávania na ploche</string>
 </resources>

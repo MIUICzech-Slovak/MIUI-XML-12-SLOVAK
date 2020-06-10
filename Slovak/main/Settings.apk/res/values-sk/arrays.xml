@@ -1072,4 +1072,10 @@ Postupujte podľa pokynov"</item>
         <item>Upozornenia budú zobrazené v roletke</item>
         <item>Upozornenia budú zobrazené v zložke</item>
     </string-array>	
+    <string-array name="charge_animation_style_entries">
+        <item>Vypnutá</item>
+        <item>Prúd</item>
+        <item>Žiara</item>
+        <item>Vlna</item>
+    </string-array>    
 </resources>

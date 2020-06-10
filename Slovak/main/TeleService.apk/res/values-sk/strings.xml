@@ -1746,4 +1746,11 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="fiveg_network_title">5G siete</string>
   <string name="switch_off">Vyp</string>
   <string name="switch_on">Zap</string>  
+  
+  <string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G/2G (3G Preferované)</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G Preferované)</string>
+  <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G Preferované)</string>
+  <string name="smart_dual_sim_prompt">Vaše zariadenie sa pripojí k mobilným dátam pomocou druhej SIM karty ak je na tejto SIM slabý signál.</string>
+  <string name="smart_dual_sim_summary">Pripojiť k mobilným dátam pomocou druhej SIM karty ak je na tejto SIM slabý signál. Ak sa signál zlepší, mobilné dáta sa prepnú na pôvodnú SIM kartu.</string>
+  <string name="smart_dual_sim_title">Inteligentná dual SIM</string>  
 </resources>

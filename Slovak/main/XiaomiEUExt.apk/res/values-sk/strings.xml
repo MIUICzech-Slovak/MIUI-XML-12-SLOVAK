@@ -15,4 +15,6 @@
   <string name="home_hide_apps">Skryť ikony aplikácií</string>
   <string name="loading">Načítavanie...</string>
   <string name="contributors">MIUIos.cz</string>
+  <string name="home_search_bar_app">Poskytovateľ vyhľadávania v lište</string>
+  <string name="home_search_gesture_app">Poskytovateľ vyhľadávania gestom</string>  
 </resources>

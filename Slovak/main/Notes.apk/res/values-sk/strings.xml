@@ -434,4 +434,5 @@ http://www.miuios.cz/rom
   <string name="pref_remind_type_summary_new">Ignorovať Tichý režim a prehrávať zvuk pokiaľ zvoní budík</string>
   <string name="pref_remind_type_title_new">Vysoká priorita pripomienok</string>
   <string name="toast_refuse_to_record_when_in_multi_window_new">Túto funkciu nie je možné použiť v rozdelenej obrazovke alebo plávajúcom okne</string>  
+  <string name="trash_folder_reminder_new">Vymazané poznámky sú uložené v koši na 30 dní. Po tejto dobe budú navždy vymazané.</string>  
 </resources>

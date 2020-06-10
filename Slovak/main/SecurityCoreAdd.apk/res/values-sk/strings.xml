@@ -411,4 +411,6 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
+  <string name="secondspace_homepage">"Nastavte zámok obrazovky pre Druhý profil.
+Rozdeľte a zabezpečte svoje dáta."</string>
 </resources>

@@ -1909,4 +1909,7 @@
   <string name="security_share_subtitle_default">Ochrana súkromia</string>
   <string name="security_share_subtitle_hide">Poloha je odstránená</string>
   <string name="security_share_subtitle_no_hide">Obsahuje polohu</string>  
+  <string name="album_tab_page_switch_view_style_to_grid">Mriežka</string>
+  <string name="album_tab_page_switch_view_style_to_linear">Zoznam</string>
+  <string name="picker_title_format_video">Vyberte videá (%1$d)</string>  
 </resources>

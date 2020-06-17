@@ -3976,11 +3976,24 @@ z vášho hrania hier"</string>
   <string name="intl_perm_privacy_control_calllog">Aplikácia môže načítať alebo upraviť históriu hovorov len ak ju používate</string>
   <string name="intl_perm_privacy_control_camera">Aplikácia môže zhotoviť fotografie a videá len ak ju používate</string>
   <string name="intl_perm_privacy_control_contact">Aplikácia môže načítať alebo upraviť kontakty len ak ju používate</string>
-  <string name="intl_perm_privacy_control_data">Kontrolovať súkromnie</string>
+  <string name="intl_perm_privacy_control_data">Kontrolovať súkromie</string>
   <string name="intl_perm_privacy_control_message">Kontrolovať ktoré dáta môžu aplikácie používať</string>
   <string name="intl_perm_privacy_control_microphone">Aplikácia môže nahrávať zvuk len ak ju používate</string>
-  <string name="intl_perm_privacy_control_notification_message">Kontrolujte ktoré aplikácie môžu používať vaše súkromé dáta</string>
+  <string name="intl_perm_privacy_control_notification_message">Kontrolujte ktoré aplikácie môžu používať vaše súkromné dáta</string>
   <string name="intl_perm_privacy_control_notification_title">Chráňte vaše súkromie</string>
   <string name="intl_perm_privacy_control_storage">Aplikácia môže načítať alebo upraviť súbory na úložisku len ak ju používate</string>
   <string name="intl_perm_privacy_control_title">Kontrolovať súkromie</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Vyčistené %s. Vaše zariadenie je teraz o %d%% rýchlejšie.</string>
+  <string name="menu_summary_optimize_manage">Vyčistiť pamäť</string>
+  <string name="menu_summary_optimize_manage_1">Zrýchlite vaše zariadenie o %d%%</string>
+  <string name="menu_text_optimize_manage_1">Zrýchliť</string>
+  <string name="om_optimzing_big_button_text">Zrýchliť</string>
+  <string name="om_running_app_info_summary">Uvoľniť %s</string>
+  <string name="om_shortcut_added_toast_text">Pridané</string>
+  <string name="om_shortcut_dialog_summary">RAM Jet umožní vymazať pamäť a zrýchliť vaše zariadenie jediným dotykom. Pridať odkaz na RAM Jet na plochu?</string>
+  <string name="om_shortcut_dialog_title">RAM Jet</string>
+  <string name="security_bottom_guide_to_pm_text">Otváranie…</string>
+  <string name="security_guide_bubble_text">Otvoriť</string>
+  <string name="security_guide_summary">Nástroje na jednom mieste</string>
+  <string name="security_guide_title">MIUI Nástroje</string>  
 </resources>

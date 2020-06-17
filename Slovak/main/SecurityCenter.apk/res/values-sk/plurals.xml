@@ -688,4 +688,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Môžete chrániť %d položiek</item>
         <item quantity="one">Môžete chrániť %d položku</item>
     </plurals>         
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d apl.</item>
+        <item quantity="one">%d apl.</item>
+    </plurals>	
 </resources>

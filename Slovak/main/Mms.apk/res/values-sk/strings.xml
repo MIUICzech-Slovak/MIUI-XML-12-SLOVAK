@@ -915,4 +915,9 @@ Pokus: %s."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>       
+  <string name="copy_verification_code_tip">Skopírované</string>
+  <string name="menu_multi_select">Vybrať</string>
+  <string name="not_support_audio_forward">Nie je možné preposlať</string>
+  <string name="top_conversation">Pripnutá konverzácia</string>
+  <string name="verification_code_safety_warning">Nezdieľajte tieto kódy s inými ľudmi</string>
 </resources>

@@ -276,4 +276,8 @@
      <string name="open_close_tip_content">Pre zatvorenie plávajúceho okna,stlačte a podržte lištu a potiahnite nahor</string>
      <string name="security_share_text">Ochrana súkromia</string>
   <string name="serviceEnabled">Služba bola povolená</string>	 
+  <string name="bluetooth_disable_notification_content">%s vypnutý Bluetooth</string>
+  <string name="bluetooth_disable_notification_title">Bluetooth je vypnuté</string>
+  <string name="bluetooth_enable_notification_content">%s zapnuté Bluetooth</string>
+  <string name="bluetooth_enable_notification_title">Bluetooth je zapnuté</string>  
 </resources>

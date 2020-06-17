@@ -19,7 +19,7 @@
   <string name="dialog_insufficient_space_on_cache">Nie je dostatok miesta na internom úložisku</string>
   <string name="dialog_insufficient_space_on_external">Nie je dostatok miesta na externom úložisku</string>
   <string name="dialog_not_show_again">Viac sa nepýtať</string>
-  <string name="dialog_tip_limit">Upozorniť ak sa sťahuje vačší súbor ako %s</string>
+  <string name="dialog_tip_limit">Upozorniť ak sa sťahuje väčší súbor ako %s</string>
   <string name="dialog_tip_limit0">Vždy upozorniť</string>
   <string name="dialog_tip_no_limit">Neupozorňovať</string>
   <string name="download_apk_desktop_installing">Inštaluje sa</string>
@@ -74,18 +74,14 @@
   <string name="recommended_no_file_size_download_in_mobile">Stiahnuť tento súbor cez mobilné dáta?</string>
   <string name="root_downloads">Stiahnuté</string>
   <string name="task_already_exist">Úloha už existuje</string>
-  <string name="warning_tip_cancel">Stiahnúť</string>
+  <string name="warning_tip_cancel">Stiahnuť</string>
   <string name="warning_tip_content">Nie ste pripojený na Wi-Fi sieť. Sťahovanie tohto súboru môže navýšiť vaše poplatky za mobilné dáta."</string>
   <string name="warning_tip_ok">Zastaviť</string>
   <string name="warning_tip_title">Využívanie mobilných dát</string>
-  <string name="wifi_recommended_body" formatted="false">"Sťahovanie cez mobilné dáta:
-
- %s（%s）
-
- Stiahnutie tohto súboru môže výrazne zvýšiť poplatky za mobilný internet"</string>
+<string name="wifi_recommended_body">"Spustenie tohto %1$s sťahovania môže navýšiť spotrebu vašich mobilných dát.
+Stlačte %2$s pre spustenie sťahovania po pripojení na Wi-Fi."</string>
   <string name="wifi_recommended_title">Zaradiť do zoznamu na neskoršie prevzatie?</string>
-  <string name="wifi_required_body" formatted="false">"Na dokončenie preberania tohto súboru s veľkosťou %s  je potrebné pripojenie Wi-Fi. 
-
-Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa možnosti %s ."</string>
+  <string name="wifi_required_body">"Pripojte sa k Wi-Fi pre dokončenie tohto %1$s sťahovania. 
+Stlačte %2$s pre spustenie sťahovania po pripojení na Wi-Fi."</string>
   <string name="wifi_required_title">Preberaný súbor je pre sieť operátora príliš veľký</string>
 </resources>

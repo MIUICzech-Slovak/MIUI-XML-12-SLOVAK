@@ -5,7 +5,7 @@
   <string name="account_related">Zariadenie je prepojené s Mi účtom (%s). Pripojte sa k sieti pre overenie zariadenia.</string>
   <string name="activate">Aktivovať</string>
   <string name="activate_find_device_success">Vyhľadávanie zariadenia bolo aktivované.</string>
-  <string name="activate_finddevice">Pripojte sa k sieti pre aktivovanie zariadenia</string>
+  <string name="activate_finddevice">Pripojte sa k sieti pre aktiváciu zariadenia</string>
   <string name="activate_number_change_dialog_message">Vyberte telefónne číslo pre aktiváciu. Toto číslo sa zobrazí volanému cez MiVoice.</string>
   <string name="activating">Aktivácia...</string>
   <string name="add_cloud_storage">Zväčšiť úložisko</string>
@@ -880,7 +880,6 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
   <string name="find_device_status_summary">Vyhľadať a uzamknúť vaše zariadenie alebo vymazať dáta na diaľku.</string>
   <string name="find_device_status_title_pad">Vyhľadať zariadenie</string>
   <string name="find_device_status_title_phone">Vyhľadať zariadenie</string>
-  <string name="micloud_find_device_guide_title">Prihláste sa do i.mi.com s vašeim Mi účtom pre vyhľadanie, uzamknutie alebo vymazanie zariadenia v prípade jeho straty alebo kráďeže.</string>
   <string name="send_last_location_summary">Synch. informácie o polohe ak sa zariadenie vypína</string>
   <string name="send_last_location_title">Získať polohu pred vypnutím</string>  
 </resources>

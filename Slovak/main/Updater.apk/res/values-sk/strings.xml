@@ -67,4 +67,7 @@ Vaše dáta nebudú vymazané."</string>
   <string name="fetching_data">Pripravuje sa spustenie sťahovania...</string>
   <string name="no_mirror">Server je momentálne nedostupný, skúste to neskôr...</string>
   <string name="message_checkbox_device">Viac nezobrazovať</string>
+    <string name="channel_service">Služby Aktualizácie</string>
+    <string name="notif_service_summary">Podržte pre deaktivovanie upozornenia</string>
+    <string name="notif_service_title">Aplikácia Aktualizácia beží na pozadí</string>      
 </resources>

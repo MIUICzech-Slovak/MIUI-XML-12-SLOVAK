@@ -1894,10 +1894,10 @@
   <string name="vlog_bottom_view_exit">Ukončiť</string>  
   <string name="help">Nenašlo sa zariadenie?</string>
   <string name="help_content">Ak nemôžete nájsť zariadenie ktoré hľadáte, zapnite MiShare na druhom zariadení.</string>
-    <string name="multi_view_tip_button_text">OK</string>
+  <string name="multi_view_tip_button_text">OK</string>
   <string name="multi_view_tip_sub_title">Poztiahnite dva prsty od seba alebo k sebe pre zmenu veľkosti zobrazenia položiek.</string>
   <string name="multi_view_tip_title">Približenie a oddialenie</string>
-    <string name="zman_title">Bezpečné zdieľanie</string>
+  <string name="zman_title">Bezpečné zdieľanie</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
@@ -1912,4 +1912,27 @@
   <string name="album_tab_page_switch_view_style_to_grid">Mriežka</string>
   <string name="album_tab_page_switch_view_style_to_linear">Zoznam</string>
   <string name="picker_title_format_video">Vyberte videá (%1$d)</string>  
+  <string name="burst_save_video">Uložiť ako video</string>
+  <string name="burst_save_video_fail">Nebolo možné uložiť</string>
+  <string name="burst_save_video_progerss">Vytváranie videa...</string>
+  <string name="burst_save_video_title">Rozlíšenie videa</string>
+  <string name="filter_category_classic">Klasický</string>
+  <string name="filter_category_popular">Populárne</string>
+  <string name="filter_category_portrait">Portrét</string>
+  <string name="filter_popular_humanity">Dokumentárne</string>
+  <string name="filter_popular_lnk">Atrament</string>
+  <string name="filter_popular_purple">Fialový</string>
+  <string name="filter_portrait_greyish">Popol</string>
+  <string name="filter_portrait_mist">Hmla</string>
+  <string name="filter_portrait_painting">Maľba</string>
+  <string name="loading_text_format" formatted="false">Odstraňovanie citlivých informácií z fotografie (%d/%d)…</string>
+  <string name="screen_editor_btn_shell_off">Odstrániť rám zariadenia</string>
+  <string name="screen_editor_btn_shell_on">Pridať rám zariadenia</string>
+  <string name="screen_editor_crop_disallowed_with_shell">Nie je možné orezať screenshot s rámom zariadenia</string>
+  <string name="screen_editor_shell_disallowed_with_crop">Nie je možné pridať rám zariadenia k orezaným screenshotom</string>
+  <string name="screen_editor_shell_net_error">Pripojte sa k sieti pre stiahnutie rámu zariadenia</string>
+  <string name="screen_editor_shell_res_downloading">Sťahovanie rámu...</string>
+  <string name="screen_editor_shell_storage_insufficient">Nie je možné stiahnuť</string>
+  <string name="time_burst_photo_enter">Načasované dávkové snímanie</string>
+  <string name="time_burst_preview_title">Načasované dávkové snímanie</string>      
 </resources>

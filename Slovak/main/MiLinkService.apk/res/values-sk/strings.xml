@@ -128,4 +128,12 @@ Ak je potrebné spustiť funkciu Miracast, stlačte tlačidlo [MENU] a vyberte M
     <string name="help_page_text_55_global">"Ak sa nemôžete pripojiť k sieti, uistite sa, že váš externý monitor podporuje funkcionalitu Miracast a táto je spustená. Na niektorých modeloch sa táto funkcia nazýva Bezdrôtový displej, Zrkadlenie obrazovky alebo Viaceré obrazovky.
 4. Ak sa vyskytnú nejaké problémy, môžete ich nahlásiť pomocou našej aplikácie \"Služby a spätná väzba\"."</string>
     <string name="help_page_text_end">Pokiaľ značka vášho zariadenia nie je v zozname, kontaktujte výrobcu pre viac informácií o funkcii prenosu.</string>  
+
+  <string name="dialog_scan_message">"1. Pripojte telefón a TV na rovnakú Wi-Fi sieť.
+
+2. Na niektorých modeloch TV je potrebné povoliť zrkadlenie obrazu v nastaveniach."</string>
+  <string name="dialog_scan_message_china">"1. Pripojte telefón a TV na rovnakú Wi-Fi sieť.
+
+2. Na niektorých modeloch TV je potrebné povoliť zrkadlenie obrazu v nastaveniach."</string>    
+  <string name="enable_screen_projection_summary">Vysielať obsah displeja na externý monitor</string>
 </resources>

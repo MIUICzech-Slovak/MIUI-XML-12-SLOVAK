@@ -1027,4 +1027,16 @@ skenované dokumenty automaticky"</string>
   <string name="timer_burst_param_interval">Časový interval</string>
   <string name="timer_burst_param_total_count">Celkový počet snímkov</string>
   <string name="timer_burst_setting_total_count">Počet: %1$s</string>  
+  <string name="ambilight_intro_star_track_2">Dlhé fotografovanie hviezdnej oblohy môže zachytiť trajektórie hviezd. Nezabudnite použiť statív! Snímajte nepretržite aspoň %d minút, aby ste mohli získať fotografie aj videá</string>
+  <string name="cta_msg">Vitajte vo fotoaparáte! Túto aplikáciu môžete použiť na fotografovanie a natáčanie videí. Táto aplikácia sa musí pripojiť k internetu a vyžaduje nasledujúce povolenia:</string>
+  <string name="cta_perm_dec">Na pridávanie informácií o polohe na fotografie a videá</string>
+  <string name="cta_perm_loc">Poloha</string>
+  <string name="cta_perm_type">Dodatočné povolenia (Niektoré funkcie)</string>
+  <string name="cta_user_tips">Prečítajte si naše Podmienky používania a Ochranu súkromia</string>
+  <string name="pref_camera_ai_shutter_description">Vybrať najlepší moment fotografie po stlačení spúšte</string>
+  <string name="pref_camera_ai_shutter_title">AI spúšť</string>
+  <string name="pref_multi_camera_dual_video_front">Predná kamera</string>
+  <string name="unsupported_microphones_3d_record_tips">3D zvuk nie je podporovaný ext. mikrofónom</string>
+  <string name="unsupported_microphones_audio_zoom_tips">Audio zoom nepodporuje ext. mikrofón</string>
+  <string name="user_disagree">Nesúhlasím</string>
 </resources>

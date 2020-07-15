@@ -426,4 +426,6 @@
   <string name="stopwatch_reset_notification">Stopky boli obnovené</string>
   <string name="stopwatch_running_notification">Stopky</string>
   <string name="white_noise_selector">Vybrať zvuk</string>  
+  <string name="alert_vibrate_enable_summary">Vibrovať po ukončení budíka</string>
+  <string name="ringtone_more">Ostatné</string>  
 </resources>

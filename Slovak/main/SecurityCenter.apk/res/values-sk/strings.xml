@@ -3995,4 +3995,36 @@ z vášho hrania hier"</string>
   <string name="security_guide_bubble_text">Otvoriť</string>
   <string name="security_guide_summary">Nástroje na jednom mieste</string>
   <string name="security_guide_title">MIUI Nástroje</string>  
+  <string name="app_behavior_media_volume">%1s upravená hlasitosť médií</string>
+  <string name="app_behavior_media_volume_bg">%1s upravená hlasitosť médií na pozadí</string>
+  <string name="app_behavior_media_volume_bg_single">Táto aplikácia upravila hlasitosť na pozadí</string>
+  <string name="app_behavior_media_volume_single">Táto aplikácia upravila hlasitosť</string>  
+  <string name="clean_master_icon_recall_dialog_button_negative">Nie</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">Pridať</string>
+  <string name="clean_master_icon_recall_dialog_summary">Pridajte odkaz na plochu pre vymazanie odpadu kedykoľvek.</string>
+  <string name="clean_master_icon_recall_dialog_title">Vymazať odpad rýchlejšie</string>
+  <string name="clean_master_icon_recall_hint">Pridať odkaz na plochu</string>
+  <string name="first_settings_default_camera_title">Zdieľať bez metadát</string>
+  <string name="first_settings_default_location_subtitle">Odstrániť informácie o polohe zo zdieľaných fotografií</string>
+  <string name="first_settings_default_location_title">Zdieľať bez informácií o polohe</string>
+  <string name="first_settings_subtitle">Tu sú možnosti bezpečného zdieľania:</string>
+  <string name="first_settings_title">Chráňte vaše súkromie</string>
+  <string name="loading_text_format" formatted="false">Odstránenie informácií o polohe z fotografií (%d/%d)…</string>
+  <string name="notification_garbage_clean_botton_text">Vyčistiť</string>
+  <string name="notification_garbage_clean_hint">Vyčistiť úložisko</string>
+  <string name="notification_garbage_clean_size">Uvoľniť %s</string>
+  <string name="notification_whatsapp_clean_button_text">Vyčistiť</string>
+  <string name="notification_whatsapp_clean_size">WhatsApp cache %s</string>
+  <string name="once_settings_camera_ttile">Zdieľať bez metadát</string>
+  <string name="once_settings_location_title">Zdieľať bez info o polohe</string>
+  <string name="once_settings_subtitle">Ako chcete zdieľať vybrané položky?</string>
+  <string name="once_settings_title">Ochrana súkromia</string>
+  <string name="settings_camera_subtitle_no">Žiadne metadáta</string>
+  <string name="settings_image_camera_summary">Zariadenie, metadáta, atď.</string>
+  <string name="settings_location_subtitle_no">Žiadne info o polohe</string>
+  <string name="settings_share_info">Tu sú možnosti ako bezpečne zdieľať položky z Galérie alebo Súborov:</string>
+  <string name="settings_show_detail">Zobraziť podrobnosti</string>
+  <string name="settings_tip">Galéria &gt; Nastavenia</string>
+  <string name="settings_title">Bezpečné zdieľanie</string>
+  <string name="text_security">Súkromie</string>
 </resources>

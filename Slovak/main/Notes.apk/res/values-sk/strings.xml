@@ -435,4 +435,10 @@ http://www.miuios.cz/rom
   <string name="pref_remind_type_title_new">Vysoká priorita pripomienok</string>
   <string name="toast_refuse_to_record_when_in_multi_window_new">Túto funkciu nie je možné použiť v rozdelenej obrazovke alebo plávajúcom okne</string>  
   <string name="trash_folder_reminder_new">Vymazané poznámky sú uložené v koši na %d dní. Po tejto dobe budú navždy vymazané.</string>  
+  <string name="cloud_service_state_open_reminder_note_and_todo">Povoľte synchr. s MiCloud</string>
+  <string name="cta_v2_agree_desc">Povoľte tejto aplikácií pripojenie k sieti a potrebné povolenia.</string>
+  <string name="sync_all_terms">%1$s, %2$s, a %3$s</string>
+  <string name="sync_folder_todo">%1$s a %2$s</string>
+  <string name="sync_note_folder">%1$s a %2$s</string>
+  <string name="sync_note_todo">%1$s a %2$s</string>  
 </resources>

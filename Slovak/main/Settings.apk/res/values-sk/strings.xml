@@ -6489,7 +6489,6 @@ Before using our services, read and agree to our %s."</string>
   <string name="error_apn_restrict_string">APN nemôže obsahovať %1$s</string>  
   <string name="charge_animation_style_summary">Vyberte si štýl animácie nabíjania na zamknutej obrazovke</string>
   <string name="charge_animation_style_title">Animácia nabíjania</string>  
-  
   <string name="control_center">Prepínače</string>
   <string name="double_knock">Dvojité poklepanie</string>
   <string name="input_method_quick_cloud_tips">Typ upozornenia</string>
@@ -6497,4 +6496,7 @@ Before using our services, read and agree to our %s."</string>
   <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Potvrďte na zariadení</string>
   <string name="bluetooth_unlock_reject">Pripojené zariadenie odmietlo odomknutie</string>
   <string name="bluetooth_unlock_unsupport">Nepodporovaná verzia</string>  
+  <string name="location_modem_summary">Operátori získajú informácie o vašej polohe</string>
+  <string name="location_modem_title">zdieľať informácie o polohe s vašim operátorom</string>
+  <string name="permission_action_prompt">Opýtať sa</string>
 </resources>

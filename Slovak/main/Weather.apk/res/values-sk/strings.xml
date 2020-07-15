@@ -246,4 +246,5 @@ Zadajte vaše mesto manuálne"</string>
   <string name="rain_sound_setting_title_text">Zvukové efekty</string>
   <string name="request_cta_connect_net">Povoľte tejto aplikácií pripojenie na internet a požadované povolenia.</string>
   <string name="widget_cta_not_agree">Dotknite sa pre info o počasí</string>  
+  <string name="minute_rain">Predpoveď zrážok</string>  
 </resources>

@@ -149,5 +149,13 @@ N e"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>     
   <string name="disable_aod_in_dark_room">Vypnúť v tme</string>
+  <string name="aod_component">Zobrazené položky</string>
+  <string name="component_battery">Batéria</string>
+  <string name="component_date_time">Dátum a čas</string>
+  <string name="component_notification">Upozornenia</string>
+  <string name="component_step">Kroky</string>
+  <string name="continue_to_use">Pokračovať</string>
+  <string name="step_component_info_active_tip">Počet krokov je poskytovaný aplikáciou MiZdravie.</string>
+  <string name="step_component_info_desc">Počet krokov sa zmení na trofej po dosiahnutí cieľa.</string>
+  <string name="step_component_info_tip">Počet krokov je poskytovaný aplikáciou MiZdravie. Nainštalujte alebo aktualizujte aplikáciu MiZdravie.</string>    
 </resources>
-

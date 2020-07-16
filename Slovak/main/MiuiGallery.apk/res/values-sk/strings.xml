@@ -1933,5 +1933,7 @@
   <string name="screen_editor_shell_res_downloading">Sťahovanie rámu...</string>
   <string name="screen_editor_shell_storage_insufficient">Nie je možné stiahnuť</string>
   <string name="time_burst_photo_enter">Načasované dávkové snímanie</string>
-  <string name="time_burst_preview_title">Načasované dávkové snímanie</string>      
+  <string name="time_burst_preview_title">Načasované dávkové snímanie</string>   
+  <string name="filter_sky_download_with_metered_network_msg">Sťahovanie cez mobilné dáta môže navýšiť vaše poplatky. Aj tak stiahnuť?</string>
+  <string name="filter_sky_download_with_metered_network_title">Používanie mobilných dát</string>  
 </resources>

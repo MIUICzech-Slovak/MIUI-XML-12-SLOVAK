@@ -642,5 +642,4 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="system_cta_runtime_perm_desc_get_accounts">Pre prístup k IMEI a poskytovaniu služieb</string>
   <string name="system_cta_runtime_perm_desc_read_phone_state">Prístup k ID zariadenia pre identifikáciu zariadenia</string>
   <string name="system_cta_runtime_perm_desc_storage">Pre ukladanie stiahnutých tém a ďalších položiek</string>
-</resources>  
 </resources>

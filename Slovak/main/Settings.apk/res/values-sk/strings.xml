@@ -6499,4 +6499,8 @@ Before using our services, read and agree to our %s."</string>
   <string name="location_modem_summary">Operátori získajú informácie o vašej polohe</string>
   <string name="location_modem_title">zdieľať informácie o polohe s vašim operátorom</string>
   <string name="permission_action_prompt">Opýtať sa</string>
+  <string name="accessibility_settings_tabs_general">Všeobecné</string>
+  <string name="accessibility_settings_tabs_hearing">Sluch</string>
+  <string name="accessibility_settings_tabs_physical">Fyzické</string>
+  <string name="accessibility_settings_tabs_visual">Zrak</string>	
 </resources>

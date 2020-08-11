@@ -6497,10 +6497,23 @@ Before using our services, read and agree to our %s."</string>
   <string name="bluetooth_unlock_reject">Pripojené zariadenie odmietlo odomknutie</string>
   <string name="bluetooth_unlock_unsupport">Nepodporovaná verzia</string>  
   <string name="location_modem_summary">Operátori získajú informácie o vašej polohe</string>
-  <string name="location_modem_title">zdieľať informácie o polohe s vašim operátorom</string>
+  <string name="location_modem_title">Zdieľať informácie o polohe s vašim operátorom</string>
   <string name="permission_action_prompt">Opýtať sa</string>
   <string name="accessibility_settings_tabs_general">Všeobecné</string>
   <string name="accessibility_settings_tabs_hearing">Sluch</string>
   <string name="accessibility_settings_tabs_physical">Fyzické</string>
   <string name="accessibility_settings_tabs_visual">Zrak</string>	
+  <string name="app_function">Funkcie aplikácie</string>
+  <string name="forget_passpoint_wifi_message">Vaše zariadenie sa prestane pripájať automaticky k tejto Wi-Fi sieti.</string>
+  <string name="input_method_function_switch_keyboard_language">Prepnúť jazyky</string>
+  <string name="input_method_function_switch_keyboard_language_des">Dotykom prepnete jazyk</string>
+  <string name="input_method_function_switch_keyboard_type">Prepnúť klávesnice</string>
+  <string name="input_method_function_switch_keyboard_type_des">Dotykom prepnete medzi rôznými klávesnicami</string>
+  <string name="passpoint_r1_privacy_dialog_message">"Passpoint je spoľahlivá a bezpečná technológia bezdrôtového pripojenia, ktorú uviedla sieť Wi-Fi Alliance. Automaticky konfiguruje účty, aby sa dosiahlo bezproblémové spojenie medzi sieťami Wi-Fi a mobilnými zariadeniami.
+
+Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registráciu účtu. Vaše údaje spracujeme v súlade s našou %s."</string>
+  <string name="passpoint_r1_privacy_dialog_no">Zrušiť</string>
+  <string name="passpoint_r1_privacy_dialog_title">Upozornenie</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">Ochranou súkromia</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Súhlasím</string>  
 </resources>

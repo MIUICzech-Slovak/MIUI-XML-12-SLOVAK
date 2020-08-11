@@ -731,4 +731,15 @@ Veľkosť delta aktualizácie: %2$s"</string>
     <string name="label_delete">Vymazať</string>
     <string name="label_history">História</string>
     <string name="history_delete_confirmation">Vymazať históriu?</string>
+  <string name="investment_invalid_duration">Trvanie investície musí byť viac ako nula</string>
+  <string name="investment_type_once">Jednorázová</string>
+  <string name="investment_type_recurring">Opakovanie</string>
+  <string name="item_page_title_investment">Výpočet investície</string>
+  <string name="item_title_investment">Investícia</string>
+  <string name="label_investment_duration">Trvanie</string>
+  <string name="label_total_investment">Celková investícia</string>
+  <string name="label_total_value">Celková hodnota</string>
+  <string name="tv_recurrence_monthly">Mesačne</string>
+  <string name="tv_recurrence_quaterly">Štvrťročne</string>
+  <string name="tv_recurrence_yearly">Ročne</string>  
 </resources>

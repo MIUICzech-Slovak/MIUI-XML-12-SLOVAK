@@ -683,5 +683,35 @@
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>   
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>  
+
+  <string name="clean_master_icon_recall_button_text">Pridať</string>
+  <string name="clean_master_icon_recall_dialog_button_negative">Nie</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">Pridať</string>
+  <string name="clean_master_icon_recall_dialog_summary">Pridajte si odkaz na plochu pre čo najrýchlejšie čistenie.</string>
+  <string name="clean_master_icon_recall_dialog_title">Vyčistite rýchlejšie</string>
+  <string name="clean_master_icon_recall_hint">Pridať odkaz na plochu</string>
+  <string name="clean_master_icon_recall_summary">Pridajte si odkaz na plochu pre čo najrýchlejšie čistenie.</string>
+  <string name="clean_master_icon_recall_title">Vyčistite rýchlejšie</string>
+  <string name="clean_master_icon_recall_toast_text">Odkaz bol pridaný</string>
+  <string name="menu_text_optimize_manage_1">Zrýchliť</string>
+  <string name="notification_apk_clean_button_text">Vyčistiť</string>
+  <string name="notification_garbage_clean_botton_text">Vyčistiť</string>
+  <string name="notification_garbage_clean_hint">Vyčistiť miesto na úložisku</string>
+  <string name="notification_garbage_clean_size">Uvoľniť %s</string>
+  <string name="notification_installed_clean_size">Uvoľniť %2$s po inštalácií %1$s</string>
+  <string name="notification_low_storage_button_text">Vyčistiť</string>
+  <string name="notification_low_storage_size_1.5_GB">Ostáva menej ako %.1fGB na úložisku</string>
+  <string name="notification_low_storage_size_1.5_GB_btn">Vyčistiť</string>
+  <string name="notification_low_storage_size_1.5_GB_hint">Uvoľnite miesto na úložisku pre zrýchlenie vášho zariadenia</string>
+  <string name="notification_low_storage_size_1_GB">Ostáva menej ako %d GB na úložisku</string>
+  <string name="notification_low_storage_size_1_GB_hint">Hĺbkové čistenie môže pomôcť</string>
+  <string name="notification_memory_clean_button_text">Zrýchliť</string>
+  <string name="notification_memory_clean_hint">Dotykom zrýchlite</string>
+  <string name="notification_memory_clean_used_size">%s obsadenej pamäte</string>
+  <string name="notification_uninstalled_clean_button_text">Zobraziť</string>
+  <string name="notification_uninstalled_clean_with_name">Zostatky %s</string>
+  <string name="notification_uninstalled_clean_without_name">Odinštalované aplikácie zanechávajú po sebe zostatky</string>
+  <string name="notification_whatsapp_clean_button_text">Vyčistiť</string>
+  <string name="notification_whatsapp_clean_size">WhatsApp cache dosiahla %s</string>  
 </resources>

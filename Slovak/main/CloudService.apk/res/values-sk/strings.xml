@@ -883,4 +883,5 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
   <string name="send_last_location_summary">Synch. informácie o polohe ak sa zariadenie vypína</string>
   <string name="send_last_location_title">Získať polohu pred vypnutím</string>  
   <string name="data_merge_dialog_title">Zlúčiť položky</string>  
+  <string name="ks_name_passpoint">Wi-Fi Passpoint</string>  
 </resources>

@@ -6508,7 +6508,7 @@ Before using our services, read and agree to our %s."</string>
   <string name="input_method_function_switch_keyboard_language">Prepnúť jazyky</string>
   <string name="input_method_function_switch_keyboard_language_des">Dotykom prepnete jazyk</string>
   <string name="input_method_function_switch_keyboard_type">Prepnúť klávesnice</string>
-  <string name="input_method_function_switch_keyboard_type_des">Dotykom prepnete medzi rôznými klávesnicami</string>
+  <string name="input_method_function_switch_keyboard_type_des">Dotykom prepnete medzi rôznymi klávesnicami</string>
   <string name="passpoint_r1_privacy_dialog_message">"Passpoint je spoľahlivá a bezpečná technológia bezdrôtového pripojenia, ktorú uviedla sieť Wi-Fi Alliance. Automaticky konfiguruje účty, aby sa dosiahlo bezproblémové spojenie medzi sieťami Wi-Fi a mobilnými zariadeniami.
 
 Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registráciu účtu. Vaše údaje spracujeme v súlade s našou %s."</string>
@@ -6516,4 +6516,19 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
   <string name="passpoint_r1_privacy_dialog_title">Upozornenie</string>
   <string name="passpoint_r1_privacy_dialog_url_text">Ochranou súkromia</string>
   <string name="passpoint_r1_privacy_dialog_yes">Súhlasím</string>  
+  <string name="app_enable_bluetooth_record">Aplikácie ktoré zapínajú Bluetooth</string>
+  <string name="back_double_tap">Dvojité poklepanie</string>
+  <string name="back_tap">Poklepanie</string>
+  <string name="back_triple_tap">Trojité poklepanie</string>
+  <string name="bluetooth_unlock_settings_devices_prompt">Sú podporované iba vybrané Bluetooth zariadenia (napr. MiBand a MiWatch)</string>
+  <string name="bt_absVolume_open_dialog_summary">Kvôli problémom s kompatibilitou, niektoré Bluetooth zariadenia môžu mať nesprávnu úroveň hlasitosti, čo môže byť vyriešené deaktivovaním tejto funkcie.</string>
+  <string name="bt_absVolume_open_dialog_title">Upozornenie</string>
+  <string name="bt_absVolume_pre_title">Absolútna hlasitosť</string>
+  <string name="bt_absVolume_summary">Ponechať hlasitosť Bluetooth zariadenia a telefónu na rovnakej úrovni</string>
+  <string name="custom_gesture_title">Vlastné gestá</string>
+  <string name="device_opcust_version">Súčasná verzia</string>
+  <string name="launch_calculator">Kalkulačka</string>
+  <string name="launch_control_center">Ovládače</string>
+  <string name="launch_notification_center">Roletka</string>
+  <string name="mute">Tichý režim</string>
 </resources>

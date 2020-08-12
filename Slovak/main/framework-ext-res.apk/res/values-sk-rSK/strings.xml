@@ -12,7 +12,7 @@
   <string name="auto_disable_screenbuttons_float_text">Dotknite sa pre deaktivovanie tlačidiel</string>
   <string name="auto_disable_screenbuttons_prompts_message">Dvojitým poklepaním na tlačidlo ho aktivujete.</string>
   <string name="auto_disable_screenbuttons_prompts_not_show_again">Viac krát nezobrazovať</string>
-  <string name="auto_disable_screenbuttons_prompts_ok">Ok</string>
+  <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
   <string name="auto_disable_screenbuttons_prompts_title">Automaticky deaktivovať tlačidlá pod displejom</string>
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Dotknite sa znova pre ukončenie</string>
   <string name="auto_start_warning_allow">Povoliť</string>
@@ -280,4 +280,6 @@
   <string name="bluetooth_disable_notification_title">Bluetooth je vypnuté</string>
   <string name="bluetooth_enable_notification_content">%s zapnuté Bluetooth</string>
   <string name="bluetooth_enable_notification_title">Bluetooth je zapnuté</string>  
+  <string name="bluetooth_close">Táto aplikácia vypla Bluetooth</string>
+  <string name="bluetooth_open">Táto aplikácia zapla Bluetooth</string>  
 </resources>

@@ -199,7 +199,7 @@
   <string name="gb_gpu_tips_anti">Najvyšší dostupný anti-aliasing je definovaný hrou</string>
   <string name="gb_gpu_tips_fps">Najvyššia frekvencia je definovaná hrou</string>
   <string name="gb_gpu_tips_graph">Optimalizovať grafiku pre zvýšenie výkonu a úsporu energie.</string>
-  <string name="gb_gpu_tips_resolution">Predvolené rozlíšenie je definované hrou. Niektoré hry nedovoľujú nasatvenie vlastného rozlíšenia.</string>
+  <string name="gb_gpu_tips_resolution">Predvolené rozlíšenie je definované hrou. Niektoré hry nedovoľujú nastavenie vlastného rozlíšenia.</string>
   <string name="gb_gpu_tips_texture">Uprednostniť výkon alebo kvalitu obrazu</string>
   <string name="gb_pannel_control_mode_balance">Vyvážené</string>
   <string name="gb_pannel_control_mode_custom">Vlastné</string>

@@ -1700,7 +1700,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="menu_summary_garbage_cleanup">Žiaden odpad</string>
   <string name="menu_summary_garbage_cleanup_2">Odpad</string>
   <string name="menu_summary_garbage_cleanup_3">Vyčistiť odpad</string>
-  <string name="menu_summary_garbage_cleanup_ex">Vyčistiť %s odpadu</string>
+  <string name="menu_summary_garbage_cleanup_ex">Vyčistiť %s</string>
   <string name="menu_summary_networkassistants">Správa mobilných dát</string>
   <string name="menu_summary_networkassistants_2">Limit prekročený</string>
   <string name="menu_summary_networkassistants_3">Dostatok dát</string>
@@ -4027,4 +4027,5 @@ z vášho hrania hier"</string>
   <string name="settings_tip">Galéria &gt; Nastavenia</string>
   <string name="settings_title">Bezpečné zdieľanie</string>
   <string name="text_security">Súkromie</string>
+  <string name="menu_summary_garbage_cleanup_new">%d%% z úložiska</string>  
 </resources>

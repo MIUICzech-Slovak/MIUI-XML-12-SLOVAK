@@ -249,4 +249,15 @@ Zadajte vaše mesto manuálne"</string>
   <string name="minute_rain">Predpoveď zrážok</string>  
   <string name="international_details_humidity_title">VLHKOSŤ</string>
   <string name="international_details_real_feel_title">POCITOVO</string>  
+  <string name="indices_title_chance_of_rain">Pravdep. dažďa</string>
+  <string name="indices_title_wind_speed">Rýchlosť vetra</string>  
+  <string name="data_provided_by">"Dáta poskytuje "</string>  
+  <string name="settings_atmospheric_pressure_atm">Atmosféra (atm)</string>
+  <string name="settings_atmospheric_pressure_hpa">Hektopaskal (hPa)</string>
+  <string name="settings_atmospheric_pressure_inhg">Palec ortute (inHg)</string>
+  <string name="settings_atmospheric_pressure_mbar">Milibar (mbar)</string>
+  <string name="settings_atmospheric_pressure_mmhg">Milimeter ortute (mmHg)</string>
+  <string name="settings_atmospheric_pressure_title">Jednotky tlaku vzduchu</string>  
+  <string name="international_details_chance_of_rain">Pravdep. dažďa</string>
+  <string name="international_details_humidity">VLHKOSŤ</string>
 </resources>

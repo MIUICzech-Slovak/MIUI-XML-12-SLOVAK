@@ -136,4 +136,7 @@ Ak je potrebné spustiť funkciu Miracast, stlačte tlačidlo [MENU] a vyberte M
 
 2. Na niektorých modeloch TV je potrebné povoliť zrkadlenie obrazu v nastaveniach."</string>    
   <string name="enable_screen_projection_summary">Vysielať obsah displeja na externý monitor</string>
+  <string name="dialog_miplay_permission_message">Aby ste mohli túto funkciu normálne používať, povolte Castingu nahrávanie zvuku, prístup k súborom a prístup k vašej polohe. Pokračujte klepnutím na \"Nastavenia\" a \"Povolenia aplikácie\".</string>
+  <string name="dialog_miplay_permission_positive">Nastavenia</string>
+  <string name="dialog_miplay_permission_title">Požadované povolenia</string>  
 </resources>

@@ -220,4 +220,5 @@
   <string name="createFail">Nebolo možné vygenerovať QR kód. Vaša správa je príliš dlhá.</string>
   <string name="function">Funkcie</string>
   <string name="if_open_result">Zobraziť výsledky skenovania po návrate do aplikácie</string>
+  <string name="my_document">Moje dokumenty</string>
 </resources>

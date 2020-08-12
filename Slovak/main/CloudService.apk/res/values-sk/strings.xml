@@ -884,4 +884,6 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
   <string name="send_last_location_title">Získať polohu pred vypnutím</string>  
   <string name="data_merge_dialog_title">Zlúčiť položky</string>  
   <string name="ks_name_passpoint">Wi-Fi Passpoint</string>  
+  <string name="storage_manage_cloud_data_title">Zobraziť položky v cloude</string>
+  <string name="storage_manage_normal_summary">Zmeniť predplatné</string>
 </resources>

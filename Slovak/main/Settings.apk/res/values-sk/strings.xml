@@ -6540,4 +6540,6 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
   <string name="gesture_settings_title">Skratky gestami</string>
   <string name="key_combination_power_volume_down">Hlasitosť nadol + Zapínanie</string>
   <string name="long_press_power_key_half_second">Stlačte a podržte tlačidlo Zapínania 0.5 sekundy</string>
+  <string name="sim_card_lock">Stav SIM karty</string>
+  <string name="smart_home_title">SmartHome</string>
 </resources>

@@ -256,7 +256,7 @@ Zadajte vaše mesto manuálne"</string>
   <string name="settings_atmospheric_pressure_inhg">Palec ortute (inHg)</string>
   <string name="settings_atmospheric_pressure_mbar">Milibar (mbar)</string>
   <string name="settings_atmospheric_pressure_mmhg">Milimeter ortute (mmHg)</string>
-  <string name="settings_atmospheric_pressure_title">Jednotky tlaku vzduchu</string>  
+  <string name="settings_atmospheric_pressure_title">Tlak vzduchu</string>  
   <string name="international_details_chance_of_rain">Pravdep. dažďa</string>
   <string name="international_details_humidity">VLHKOSŤ</string>
 </resources>

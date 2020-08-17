@@ -1961,6 +1961,7 @@
   <string name="ocr_using_cellular_positive">Zrušiť</string>
   <string name="ocr_using_cellular_text">Rozpoznávanie textu pomocou mobilných dát môže navýšiť vaše poplatky. Chcete pokračovať?</string>
   <string name="operation_hide_time">Skryť dátum</string>
+  <string name="operation_move">Presunúť</string>
   <string name="operation_show_time">Zobraziť dátum</string>
   <string name="operation_sort">Zoradiť</string>  
 </resources>

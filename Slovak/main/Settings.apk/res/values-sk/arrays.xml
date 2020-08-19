@@ -1077,5 +1077,9 @@ Postupujte podľa pokynov"</item>
         <item>Prúd</item>
         <item>Žiara</item>
         <item>Vlna</item>
-    </string-array>    
+    </string-array> 
+    <string-array name="screen_reader_mode_input_type_selector_titles">
+        <item>Dotyk</item>
+        <item>Dvojité poklepanie</item>
+    </string-array>	
 </resources>

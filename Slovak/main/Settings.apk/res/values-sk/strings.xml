@@ -6542,4 +6542,6 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
   <string name="long_press_power_key_half_second">Stlačte a podržte tlačidlo Zapínania 0.5 sekundy</string>
   <string name="sim_card_lock">Stav SIM karty</string>
   <string name="smart_home_title">SmartHome</string>
+  <string name="screen_reader_mode_input_type_summary">Vyberte gesto pre aktiváciu klávesnice ak je aktívny TalkBack</string>
+  <string name="screen_reader_mode_input_type_title">Zadávanie textu</string>  
 </resources>

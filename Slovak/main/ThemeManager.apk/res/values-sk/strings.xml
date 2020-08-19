@@ -642,4 +642,29 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="system_cta_runtime_perm_desc_get_accounts">Pre prístup k IMEI a poskytovaniu služieb</string>
   <string name="system_cta_runtime_perm_desc_read_phone_state">Prístup k ID zariadenia pre identifikáciu zariadenia</string>
   <string name="system_cta_runtime_perm_desc_storage">Pre ukladanie stiahnutých tém a ďalších položiek</string>
+  
+  <string name="anonymous_resource_link_error">Nebolo možné pridať</string>
+  <string name="anonymous_resource_link_hint">Niektoré položky nie sú pridané do vášho účtu. Pridať teraz?</string>
+  <string name="anonymous_resource_link_now">Pridať</string>
+  <string name="anonymous_resource_link_retry">Nastala chyba. Skúste to znova.</string>
+  <string name="anonymous_resource_link_retry_cancel">Zrušiť</string>
+  <string name="anonymous_resource_link_retry_confirm">Znova</string>
+  <string name="anonymous_resource_link_success">Pridané</string>
+  <string name="anonymous_resource_linking">Pridávanie...</string>
+  <string name="anonymous_resource_login_confirm">Prihlásiť sa</string>
+  <string name="anonymous_resource_login_title">Najskôr sa prihláste</string>
+  <string name="anonymous_resource_unlink">Nie</string>
+  <string name="anonymous_resource_unlink_cancel">Zrušiť</string>
+  <string name="anonymous_resource_unlink_confirm">Nepridávať</string>
+  <string name="anonymous_resource_unlink_hint">Ak nepridáte položky, nebudú spárované s vašim účtom.</string>
+  <string name="anonymous_resource_unlink_title">Potvrďte vašu akciu</string>
+  <string name="miuix_compat_contact">Kontakty</string>
+  <string name="miuix_compat_dialog_button">Rozumiem</string>
+  <string name="miuix_compat_dialog_cancel">Zrušiť</string>
+  <string name="miuix_compat_dialog_checkbox">Viac nezobrazovať</string>
+  <string name="miuix_compat_dialog_content">Súčasná verzia \"%s\" nie je kompatibilná s touto témou.</string>
+  <string name="miuix_compat_dialog_ok">OK</string>
+  <string name="miuix_compat_dialog_title">Použitá predvolená téma pre \"%s\"</string>
+  <string name="miuix_compat_dialog_update_title">Vyžaduje sa aktualizácia</string>
+  <string name="miuix_compat_mms">Správy</string>  
 </resources>

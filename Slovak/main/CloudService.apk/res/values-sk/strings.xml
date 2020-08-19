@@ -886,4 +886,9 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
   <string name="ks_name_passpoint">Wi-Fi Passpoint</string>  
   <string name="storage_manage_cloud_data_title">Zobraziť položky v cloude</string>
   <string name="storage_manage_normal_summary">Zmeniť predplatné</string>
+  <string name="low_battery_locate_summary">Automaticky nahlásiť polohu ak je slabá batéria</string>
+  <string name="low_battery_locate_title">Nahlásiť polohu ak je slabá batéria</string>
+  <string name="power_off_locate_summary">"Nahlásiť polohu dlhým podržaním tlačidla Zapínania.
+Poloha nebude odoslaná ak je slabý signál siete."</string>
+  <string name="power_off_locate_title">Nahlásiť polohu pred vypnutím</string>  
 </resources>

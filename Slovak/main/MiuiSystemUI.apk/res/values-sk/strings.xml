@@ -2166,7 +2166,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="accessibility_detail_switch_on">zap</string>  
   <string name="quick_settings_wireless_label">Reverzné bezdrôtové nabíjanie</string>
   <string name="wireless_charging_connected_message">Reverzné bezdrôtové nabíjannie nie je možné použiť, ak sa zariadenie nabíja bezdrôtovo.</string>
-  <string name="wireless_charging_low_battery_level_message">Reverzné bezdrôtové nabíjannie nie je možné použiť, ak je batéria menej ako 30%%</string>
+  <string name="wireless_charging_low_battery_level_message">Reverzné bezdrôtové nabíjannie nie je možné použiť, ak je batéria menej ako 30%</string>
   <string name="wireless_charging_ok">Rozumiem</string>
   <string name="wireless_charging_saver_cancel">Vypnúť</string>
   <string name="wireless_charging_saver_message">Šetrič batérie je zapnutý. Ponechať reverzné bezdrôtové nabíjanie?</string>

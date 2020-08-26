@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:id="@id/host" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="host" />
+    <EditText android:id="@id/port" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="port" android:inputType="numberDecimal" />
+    <Button android:id="@id/commit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="commit" />
+    <TextView android:id="@id/result" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+</LinearLayout>

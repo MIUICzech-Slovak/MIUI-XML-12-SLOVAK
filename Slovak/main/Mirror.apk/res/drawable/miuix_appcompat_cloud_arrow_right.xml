@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/miuix_appcompat_cloud_btn_height" android:width="@dimen/miuix_appcompat_cloud_btn_width" android:viewportWidth="72.0" android:viewportHeight="72.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="?textColorNormal" android:pathData="M26.9073,20.5598C28.0789,19.3883 29.9784,19.3883 31.15,20.5598L44.4063,33.8162C45.1808,34.5906 45.4433,35.6831 45.1939,36.6732C45.0793,37.2267 44.8073,37.7542 44.3777,38.1838L31.1213,51.4402C29.9497,52.6117 28.0503,52.6117 26.8787,51.4402C25.7071,50.2686 25.7071,48.3691 26.8787,47.1975L38.0905,35.9857L26.9073,24.8025C25.7358,23.6309 25.7358,21.7314 26.9073,20.5598Z" android:fillType="evenOdd" />
+</vector>

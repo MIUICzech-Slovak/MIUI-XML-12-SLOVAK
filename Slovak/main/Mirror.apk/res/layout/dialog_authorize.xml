@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/dialog_padding_start_end" android:paddingEnd="@dimen/dialog_padding_start_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/shape_authorize_dialog_header" android:layout_width="fill_parent" android:layout_height="65.0dip">
+        <View android:background="@drawable/pc_logo" android:layout_width="23.0dip" android:layout_height="17.0dip" />
+        <TextView android:textSize="18.0sp" android:textColor="@android:color/black" android:id="@id/pc_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="mipro-medium" android:layout_marginStart="12.0dip" />
+    </LinearLayout>
+    <TextView android:textSize="17.0sp" android:textColor="@android:color/black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="@string/worker_authorization_message" android:fontFamily="mipro" />
+</LinearLayout>

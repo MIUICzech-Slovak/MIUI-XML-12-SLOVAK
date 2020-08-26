@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/miuix_appcompat_number_picker_highlight_region_bg_color" />
+            <size android:height="@dimen/miuix_appcompat_number_picker_highlight_region_height" />
+        </shape>
+    </item>
+</layer-list>

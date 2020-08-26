@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/pre_img_view2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:layout_marginBottom="31.299988dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="?android:listPreferredItemPaddingLeft" android:paddingEnd="?android:listPreferredItemPaddingRight">
+        <TextView android:textSize="17.5sp" android:textColor="@color/black_80alpha" android:id="@android:id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fontFamily="mipro-demibold" android:textAlignment="viewStart" />
+        <TextView android:textSize="14.5sp" android:textColor="@color/black_80alpha" android:id="@android:id/summary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/preference_image_summary_margin_top" android:fontFamily="mipro-regular" android:textAlignment="viewStart" />
+    </LinearLayout>
+    <ImageView android:id="@id/preference_image" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/preference_image_margin_top" android:adjustViewBounds="true" android:paddingStart="?android:listPreferredItemPaddingLeft" android:paddingEnd="?android:listPreferredItemPaddingRight" />
+</LinearLayout>

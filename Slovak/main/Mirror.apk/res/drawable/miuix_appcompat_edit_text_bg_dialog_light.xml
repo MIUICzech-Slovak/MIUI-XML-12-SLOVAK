@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.smooth.SmoothContainerDrawable android:radius="@dimen/miuix_appcompat_dialog_edit_text_border_radius"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <child>
+        <layer-list>
+            <item>
+                <selector android:enterFadeDuration="200" android:exitFadeDuration="200">
+                    <item android:state_focused="true">
+                        <shape android:shape="rectangle">
+                            <corners android:radius="@dimen/miuix_appcompat_dialog_edit_text_border_radius" />
+                            <solid android:color="@color/miuix_appcompat_edit_text_border_color" />
+                        </shape>
+                    </item>
+                    <item>
+                        <shape android:shape="rectangle">
+                            <corners android:radius="@dimen/miuix_appcompat_dialog_edit_text_border_radius" />
+                            <solid android:color="@color/miuix_appcompat_transparent" />
+                        </shape>
+                    </item>
+                </selector>
+            </item>
+            <item android:left="@dimen/miuix_appcompat_edit_text_border_size" android:top="@dimen/miuix_appcompat_edit_text_border_size" android:right="@dimen/miuix_appcompat_edit_text_border_size" android:bottom="@dimen/miuix_appcompat_edit_text_border_size">
+                <miuix.smooth.SmoothContainerDrawable android:radius="@dimen/miuix_appcompat_dialog_edit_text_radius">
+                    <child>
+                        <shape android:shape="rectangle">
+                            <corners android:radius="@dimen/miuix_appcompat_dialog_edit_text_radius" />
+                            <solid android:color="@color/miuix_appcompat_edit_text_dialog_bg_solid_light" />
+                            <padding android:left="@dimen/miuix_appcompat_dialog_edit_text_horizontal_padding" android:right="@dimen/miuix_appcompat_dialog_edit_text_horizontal_padding" />
+                            <size android:height="@dimen/miuix_appcompat_dialog_edit_text_height" />
+                        </shape>
+                    </child>
+                </miuix.smooth.SmoothContainerDrawable>
+            </item>
+        </layer-list>
+    </child>
+</miuix.smooth.SmoothContainerDrawable>

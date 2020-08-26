@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/title_container" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/connect_image_view" android:background="@drawable/ic_connect_image" android:layout_width="334.5dip" android:layout_height="149.79999dip" />
+    <LinearLayout android:orientation="vertical" android:id="@id/content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="30.549988dip" android:paddingStart="?android:listPreferredItemPaddingLeft" android:paddingEnd="?android:listPreferredItemPaddingRight">
+        <TextView android:textSize="17.5sp" android:textColor="@color/black_80alpha" android:id="@id/title1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/settings_connect_title1" android:fontFamily="mipro-demibold" android:textAlignment="viewStart" />
+        <TextView android:textSize="14.5sp" android:textColor="@color/black_80alpha" android:id="@id/summary1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.399994dip" android:text="@string/settings_connect_summary1" android:fontFamily="mipro-regular" android:textAlignment="viewStart" />
+        <TextView android:textSize="17.5sp" android:textColor="@color/black_80alpha" android:id="@id/title2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="18.199982dip" android:text="@string/settings_connect_title2" android:fontFamily="mipro-demibold" android:textAlignment="viewStart" />
+        <TextView android:textSize="14.5sp" android:textColor="@color/black_80alpha" android:id="@id/summary2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.399994dip" android:text="@string/settings_connect_summary2" android:fontFamily="mipro-regular" android:textAlignment="viewStart" />
+        <TextView android:textSize="13.0sp" android:textColor="#99000000" android:id="@id/more_help" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="22.5dip" android:text="@string/settings_connect_more_help" android:fontFamily="mipro-regular" android:textAlignment="viewStart" />
+    </LinearLayout>
+</LinearLayout>

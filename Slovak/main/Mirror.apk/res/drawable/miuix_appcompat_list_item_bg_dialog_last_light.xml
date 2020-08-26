@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/miuix_appcompat_list_item_bg_dialog_color_light" />
+    <corners android:bottomLeftRadius="@dimen/miuix_appcompat_dialog_bg_corner_radius" android:bottomRightRadius="@dimen/miuix_appcompat_dialog_bg_corner_radius" />
+</shape>

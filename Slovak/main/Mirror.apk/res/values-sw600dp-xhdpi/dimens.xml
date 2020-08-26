@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="miuix_appcompat_date_picker_dialog_margin_bottom">26.0dip</dimen>
+</resources>

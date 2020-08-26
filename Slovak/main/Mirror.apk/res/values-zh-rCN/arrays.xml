@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_mirror">
+        <item>跨屏协作</item>
+        <item>连接与共享/跨屏协作</item>
+        <item>跨屏协作;多屏协同</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1.手机端需要关闭热点、互传或投屏功能后，才能正常连接至电脑端
+2.手机和电脑均需要打开WiFi进行连接
+3.手机需要在电脑附近，不支持识别远距离的二维码进行连接"</item>
+        <item>使用电脑对曾连接过的手机发起蓝牙连接请求，此时手机需处于电脑附近，并打开蓝牙</item>
+        <item>锁屏后手机数据将无法同步给电脑。在多屏协同状态下，我们将默认使用息屏不解锁功能，如果您想要更改，请在设置中关闭这一开关</item>
+        <item>"1.小米手机：仅支持安卓Q以上版本，扫码后如跳转至MIUI官网介绍，则该机型暂未适配
+2.小米笔记本：需预装“智能互联”并升级到最新版本"</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>扫码后无法连接？</item>
+        <item>电脑端找不到手机？</item>
+        <item>无法锁屏？</item>
+        <item>设备支持情况</item>
+    </string-array>
+</resources>

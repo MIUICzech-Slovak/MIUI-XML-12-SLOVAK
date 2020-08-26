@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/miuix_appcompat_alphabet_overlay_height" android:width="@dimen/miuix_appcompat_alphabet_overlay_width" android:autoMirrored="true" android:viewportWidth="226.0" android:viewportHeight="170.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="?miuixAppcompatIndexerOverlayBgColor" android:pathData="M193.27,95C181.298,97.113 170.189,105.936 161.671,121.742C147.965,150.29 118.784,170 85,170C38.056,170 0,131.944 0,85C0,38.056 38.056,0 85,0C118.784,0 147.965,19.71 161.671,48.258C170.189,64.064 181.298,72.887 193.27,75H205.753C224.776,71.998 226,56.5 226,56.5V75V95V113.5C226,113.5 224.776,98.002 205.753,95H193.27Z" android:fillType="evenOdd" />
+</vector>

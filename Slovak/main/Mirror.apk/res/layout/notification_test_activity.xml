@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/normal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="NORMAL" />
+    <Button android:id="@id/big_picture" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="BIG PICTURE" />
+    <Button android:id="@id/big_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="BIG TEXT" />
+    <Button android:id="@id/inbox" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="INBOX" />
+    <Button android:id="@id/messaging" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="MESSAGING" />
+    <Button android:id="@id/button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="BUTTON" />
+    <Button android:id="@id/group" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="ONE GROUP" />
+    <Button android:id="@id/importance_high" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="IMPORTANCE_HIGH" />
+</LinearLayout>

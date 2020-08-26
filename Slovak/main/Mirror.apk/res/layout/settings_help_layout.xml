@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <LinearLayout android:orientation="vertical" android:id="@id/settings_help_container" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="27.299988dip" android:layout_marginBottom="25.0dip" android:importantForAccessibility="no" android:layout_marginStart="26.899994dip" android:layout_marginEnd="29.099976dip" />
-</FrameLayout>

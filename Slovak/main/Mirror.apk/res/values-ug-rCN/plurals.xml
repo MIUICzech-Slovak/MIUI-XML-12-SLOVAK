@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="download_title_multi">
-        <item quantity="other">%1$s قاتارلىق%2$dدانە ھۆججەت</item>
-    </plurals>
-</resources>

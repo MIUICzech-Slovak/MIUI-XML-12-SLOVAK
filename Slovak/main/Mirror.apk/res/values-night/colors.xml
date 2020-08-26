@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="progress_bar">@color/miuix_appcompat_highlight_normal_dark</color>
-    <color name="text_highlight">@color/miuix_appcompat_highlight_normal_dark</color>
-    <color name="text_primary">@color/miuix_appcompat_text_color_primary_dark</color>
-    <color name="text_secondary">@color/miuix_appcompat_normal_text_dark</color>
-</resources>

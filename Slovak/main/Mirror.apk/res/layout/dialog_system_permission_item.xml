@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:layout_gravity="center_vertical" android:id="@id/icon" android:layout_width="@dimen/system_permission_icon_size" android:layout_height="@dimen/system_permission_icon_size" />
-    <LinearLayout android:gravity="start" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/system_permission_item_title_padding_left">
-        <TextView android:textSize="@dimen/system_permission_main_purpose_text" android:textColor="@color/black" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="fill_parent" android:singleLine="false" android:fontFamily="miui" />
-        <TextView android:textSize="@dimen/system_permission_privacy_text" android:textColor="@color/black_50alpha" android:id="@id/summary" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/system_permission_item_summary_padding_top" android:singleLine="false" />
-    </LinearLayout>
-</LinearLayout>

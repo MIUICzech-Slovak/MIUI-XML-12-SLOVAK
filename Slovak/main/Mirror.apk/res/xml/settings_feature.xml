@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:layout_width="fill_parent" android:layout_height="wrap_content" android:title="@string/settings_feature"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
-    <PreferenceCategory>
-        <com.xiaomi.mirror.settings.helper.ImagePreference android:title="@string/settings_feature_files_drag_title" android:key="pref_key_screen_projection_characteristic_small_window" android:summary="@string/settings_feature_files_drag_summary" settings:image="@drawable/projection_characteristic_files_drag" />
-        <com.xiaomi.mirror.settings.helper.ImagePreference android:title="@string/settings_feature_multi_window_title" android:key="pref_key_screen_projection_characteristic_off_screen" android:summary="@string/settings_feature_multi_window_summary" settings:image="@drawable/projection_characteristic_multi_window" />
-        <com.xiaomi.mirror.settings.helper.ImagePreference android:title="@string/settings_feature_pc_edit_files_title" android:key="pref_key_screen_projection_characteristic_privacy_protect" android:summary="@string/settings_feature_pc_edit_files_summary" settings:image="@drawable/projection_characteristic_pc_edit_files" />
-    </PreferenceCategory>
-</PreferenceScreen>

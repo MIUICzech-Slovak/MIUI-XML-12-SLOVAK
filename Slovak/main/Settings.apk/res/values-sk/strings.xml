@@ -6554,8 +6554,8 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
   <string name="zen_mode_screen_locked_only">Keď je zariadenie uzamknuté</string>
   <string name="zen_mode_summary">Stíši prichádzajúce hovory, oznámenia, média a vypne vibrácie</string>
   <string name="zen_mode_title">Nerušiť</string>
-  <string name="zen_mode_turned_off">Zap</string>
-  <string name="zen_mode_turned_on">Vyp</string>  
+  <string name="zen_mode_turned_off">Zapnúť</string>
+  <string name="zen_mode_turned_on">Vypnúť</string>  
   <string name="bt_show_notification_summary">zobraziť permanentné upozornenie v roletke</string>
   <string name="bt_show_notification_title">Upozorniť na Bluetooth pripojenie</string>  
   <string name="input_method_middle_function_move_cursor">Pohnite kurzor</string>

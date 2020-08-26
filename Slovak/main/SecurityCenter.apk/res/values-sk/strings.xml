@@ -4028,4 +4028,7 @@ z vášho hrania hier"</string>
   <string name="settings_title">Bezpečné zdieľanie</string>
   <string name="text_security">Súkromie</string>
   <string name="menu_summary_garbage_cleanup_new">%d%% z úložiska</string>  
+  <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Zvýšiť rýchlosť pripojenia o 10%-20% ak ste pripojený k Mi/Redmi rútru</string>
+  <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi zrýchlenie</string>
+  <string name="gtb_wlan_speed_tips">Používanie Mi Wi-Fi…</string>  
 </resources>

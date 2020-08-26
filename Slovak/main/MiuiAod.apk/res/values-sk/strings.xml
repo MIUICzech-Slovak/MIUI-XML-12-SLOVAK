@@ -157,5 +157,9 @@ N e"</string>
   <string name="continue_to_use">Pokračovať</string>
   <string name="step_component_info_active_tip">Počet krokov je poskytovaný aplikáciou MiZdravie.</string>
   <string name="step_component_info_desc">Počet krokov sa zmení na trofej po dosiahnutí cieľa.</string>
-  <string name="step_component_info_tip">Počet krokov je poskytovaný aplikáciou MiZdravie. Nainštalujte alebo aktualizujte aplikáciu MiZdravie.</string>    
+  <string name="step_component_info_tip">Počet krokov je poskytovaný aplikáciou MiZdravie. Nainštalujte alebo aktualizujte aplikáciu MiZdravie.</string>  
+  <string name="item_view_role_description">Karta</string>
+  <string name="material_slider_range_end">Koniec rozsahu,</string>
+  <string name="material_slider_range_start">Začiatok rozsahu,</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Viac ako %1$d upozornení</string>
 </resources>

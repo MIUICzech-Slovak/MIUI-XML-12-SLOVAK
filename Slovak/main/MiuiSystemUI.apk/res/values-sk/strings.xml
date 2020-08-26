@@ -2165,8 +2165,8 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="accessibility_detail_switch_off">vyp</string>
   <string name="accessibility_detail_switch_on">zap</string>  
   <string name="quick_settings_wireless_label">Reverzné bezdrôtové nabíjanie</string>
-  <string name="wireless_charging_connected_message">Reverzné bezdrôtové nabíjannie nie je možné použiť, ak sa zariadenie nabíja bezdrôtovo.</string>
-  <string name="wireless_charging_low_battery_level_message">Reverzné bezdrôtové nabíjannie nie je možné použiť, ak je batéria menej ako 30%</string>
+  <string name="wireless_charging_connected_message">Reverzné bezdrôtové nabíjanie nie je možné použiť, ak sa zariadenie nabíja bezdrôtovo.</string>
+  <string name="wireless_charging_low_battery_level_message">Reverzné bezdrôtové nabíjanie nie je možné použiť, ak je batéria menej ako 30%</string>
   <string name="wireless_charging_ok">Rozumiem</string>
   <string name="wireless_charging_saver_cancel">Vypnúť</string>
   <string name="wireless_charging_saver_message">Šetrič batérie je zapnutý. Ponechať reverzné bezdrôtové nabíjanie?</string>
@@ -2174,4 +2174,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="wireless_charging_tips_disable">Viac nezobrazovať</string>
   <string name="wireless_charging_tips_message">Umiestnite zariadenie podporujúce bezdrôtové nabíjanie Qi (telefóny, slúchadlá atď.) na zadnú stranu tohoto zariadenia.</string>
   <string name="wireless_charging_tips_title">Reverzné bezdrôtové nabíjanie</string>  
+  <string name="sim_state_locked_dialog_title">Chybná SIM karta</string>
+  <string name="sim_state_locked_puk_dialog_message">Zadali ste nesprávny PUK kód 10 krát. Vaša SIM karta je zablokovaná a musíte ju vymeniť.</string>  
 </resources>

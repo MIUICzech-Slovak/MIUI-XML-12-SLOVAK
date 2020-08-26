@@ -6556,4 +6556,10 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
   <string name="zen_mode_title">Nerušiť</string>
   <string name="zen_mode_turned_off">Zap</string>
   <string name="zen_mode_turned_on">Vyp</string>  
+  <string name="bt_show_notification_summary">zobraziť permanentné upozornenie v roletke</string>
+  <string name="bt_show_notification_title">Upozorniť na Bluetooth pripojenie</string>  
+  <string name="input_method_middle_function_move_cursor">Pohnite kurzor</string>
+  <string name="input_method_middle_function_move_cursor_des">Stlačte a podržte strednú oblasť pre pohyb kurzoru</string>
+  <string name="input_method_middle_function_no_function_des">Neprideľovať akcie</string>
+  <string name="middle_function_key">Centrálna oblasť</string>  
 </resources>

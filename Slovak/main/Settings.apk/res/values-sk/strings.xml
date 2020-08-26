@@ -6544,4 +6544,16 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
   <string name="smart_home_title">SmartHome</string>
   <string name="screen_reader_mode_input_type_summary">Vyberte gesto pre aktiváciu klávesnice ak je aktívny TalkBack</string>
   <string name="screen_reader_mode_input_type_title">Zadávanie textu</string>  
+  <string name="mute_media_sound_title">Stíšiť média v Tichom režime</string>
+  <string name="exceptional_case">Výnimky</string>
+  <string name="ringer_mode_setting_summary">Stíši prichádzajúce hovory a oznámenia</string>
+  <string name="ringer_mode_setting_title">Tichý režim</string>
+  <string name="search_dndm_alarm_content">Výnimky</string>
+  <string name="sound_mode">Tichý režim &amp; Nerušiť</string>  
+  <string name="zen_mode_effected_always">Vždy</string>
+  <string name="zen_mode_screen_locked_only">Keď je zariadenie uzamknuté</string>
+  <string name="zen_mode_summary">Stíši prichádzajúce hovory, oznámenia, média a vypne vibrácie</string>
+  <string name="zen_mode_title">Nerušiť</string>
+  <string name="zen_mode_turned_off">Zap</string>
+  <string name="zen_mode_turned_on">Vyp</string>  
 </resources>

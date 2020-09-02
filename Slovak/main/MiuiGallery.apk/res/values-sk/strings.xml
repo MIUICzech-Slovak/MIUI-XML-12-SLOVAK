@@ -1964,4 +1964,7 @@
   <string name="operation_move">Presunúť</string>
   <string name="operation_show_time">Zobraziť dátum</string>
   <string name="operation_sort">Zoradiť</string>  
+  <string name="burst_save_dialog_title">Vyberte ktoré fotografie chcete ponechať</string>
+  <string name="photo_page_rotate_screen">Otočiť obrazovku</string>
+  <string name="time_burst_save_dialog_title">Exportovať položky</string>  
 </resources>

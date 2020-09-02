@@ -561,4 +561,7 @@
   <string name="navigation_guide_settings">Lekcie</string>
   <string name="switch_screen_button_order">Prepnúť poradie tlačidiel</string>
   <string name="switch_screen_button_order_desc">Gesto posunutím nadol ukryje tlačidlá</string>   
+  <string name="auto_disable_screenbuttons_summary">Dvakrát poklepte na niektoré navigačné tlačidlo pre povolenie</string>
+  <string name="auto_disable_screenbuttons_title">Automaticky deaktivovať navigačné tlačidlá</string>
+  <string name="key_shortcut_settings_title">Skratky tlačidla</string>
 </resources>

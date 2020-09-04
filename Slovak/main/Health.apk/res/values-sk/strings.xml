@@ -133,7 +133,7 @@ to add cards"</string>
     <string name="deep_sleep">Hlboký spánok</string>
     <string name="deep_sleep_duration">Deep sleep duration</string>
     <string name="deep_sleep_duration_decrease_description">Your deep sleep is too short</string>
-    <string name="deep_sleep_duration_description">Keď ľudia spia, dochádza k pravidelným rýchlym pohybom očí, takže spánok možno rozdeliť na spánok s rýchlym pohybom očí a spánok bez rýchleho pohybu očí. Hlboký spánok sa vyskytuje počas období spánku bez rýchleho pohybu očí, čo predstavuje asi 20 až 25% celého nočného spánku. Počas hlbokého spánku je menej vedomá aktivita a mozog je v relatívne statickom stave, ktorý je ťažké prebudiť.</string>
+    <string name="deep_sleep_duration_description">Keď ľudia spia, dochádza k pravidelným rýchlym pohybom očí, takže spánok možno rozdeliť na spánok s rýchlym pohybom očí a spánok bez rýchleho pohybu očí. Hlboký spánok sa vyskytuje počas období spánku bez rýchleho pohybu očí, čo predstavuje asi 20 až 25%% celého nočného spánku. Počas hlbokého spánku je menej vedomá aktivita a mozog je v relatívne statickom stave, ktorý je ťažké prebudiť.</string>
     <string name="deep_sleep_duration_increase_description">Your deep sleep is too long</string>
     <string name="deep_sleep_duration_normal_description">You have a sufficient amount of deep sleep</string>
     <string name="delete">Delete</string>

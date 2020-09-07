@@ -208,10 +208,9 @@ Aplikácia Xiaomi Zdravie vás upozorní iba na dôležité položky."</string>
     <string name="excessive">Too much</string>
     <string name="exercise">Workouts</string>
     <string name="exercise_consume">Burnt %1$d Cal</string>
-    <string name="exercise_consume_description">According to Dietary Guidelines for Chinese Residents, daily physical activity should consume more than 15% of total energy expenditure. The energy spent on your daily physical activity is summarized here, but does not include basal metabolic expenditure. If you have weight management concerns, you need to focus on energy intake as well.</string>
+    <string name="exercise_consume_description">According to Dietary Guidelines for Chinese Residents, daily physical activity should consume more than 15%% of total energy expenditure. The energy spent on your daily physical activity is summarized here, but does not include basal metabolic expenditure. If you have weight management concerns, you need to focus on energy intake as well.</string>
     <string name="exercise_consume_exercise_description">This is the time you spend on moderate and high intensity activities. According to the Chinese health authorities, weekly exercise duration should be at least 150 minutes (at least 30 minutes per session). Activities such as brisk walking (cadence greater than 100 steps per minute), running, and climbing stairs will be viewed as moderate to high intensity workouts.</string>
     <string name="exercise_correct">Správne</string>
-    <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
     <string name="exercise_detail_no_consume_hint">"Selected data source (%1$s) doesn't provide Calorie count info.
 You can select a different data source in More > Data sources."</string>
     <string name="exercise_detail_no_exercise_hint">"Your current data source (%1$s) doesn't provide detailed workout stats.
@@ -340,7 +339,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="late">Late</string>
     <string name="light_sleep">Ľahký spánok</string>
     <string name="light_sleep_duration">Light sleep duration</string>
-    <string name="light_sleep_duration_description">When people sleep, periodic rapid eye movements occur. Sleep can be divided into rapid eye movement (REM) sleep and non-rapid eye movement (NREM) sleep. Light sleep occurs during periods of NREM sleep, accounting for about 50 to 60% of the overall sleep duration. During light sleep, consciousness is gradually reduced and the brain is relatively static, but it can still be woken up easily.</string>
+    <string name="light_sleep_duration_description">When people sleep, periodic rapid eye movements occur. Sleep can be divided into rapid eye movement (REM) sleep and non-rapid eye movement (NREM) sleep. Light sleep occurs during periods of NREM sleep, accounting for about 50 to 60%% of the overall sleep duration. During light sleep, consciousness is gradually reduced and the brain is relatively static, but it can still be woken up easily.</string>
     <string name="light_sleep_time_decrease_description">Your light sleep is too short</string>
     <string name="light_sleep_time_increase_description">Your light sleep is too long</string>
     <string name="light_sleep_time_normal_description">You have a sufficient amount of light sleep</string>
@@ -448,7 +447,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="rem_Duration_increase_description">Your REM sleep is too long</string>
     <string name="rem_duration">REM sleep duration</string>
     <string name="rem_duration_decrease_description">Your REM sleep is too short</string>
-    <string name="rem_duration_description" formatted="false">REM refers to the rapid eye movement. Sleep can be divided into rapid eye movement (REM) sleep and non-rapid eye movement (NREM) sleep. Rapid eye movement sleep accounts for about 20 to 25% of the overall sleep duration. When people wake up at this stage, 74 to 95% of them say that they have been dreaming and are able to remember their dreams. Brain is very active and the body is completely relaxed during REM sleep, which makes this sleep phase essential for maintaining cognitive functions.</string>
+    <string name="rem_duration_description" formatted="false">REM refers to the rapid eye movement. Sleep can be divided into rapid eye movement (REM) sleep and non-rapid eye movement (NREM) sleep. Rapid eye movement sleep accounts for about 20 to 25%% of the overall sleep duration. When people wake up at this stage, 74 to 95%% of them say that they have been dreaming and are able to remember their dreams. Brain is very active and the body is completely relaxed during REM sleep, which makes this sleep phase essential for maintaining cognitive functions.</string>
     <string name="rem_duration_normal_description">REM sleep duration is normal</string>
     <string name="remind">Pripomenúť</string>
     <string name="remind_goto_sleep">Už je neskoro. Je čas na spánok.</string>
@@ -457,8 +456,6 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="remind_query_menstruation_end">Skončila sa vaša menštruácia? Nezabudnite to zaznamenať.</string>
     <string name="remind_query_menstruation_start">Začala sa vaša menštruácia? Nezabudnite to zaznamenať.</string>
     <string name="remind_sleep_report_complete">Štatistiky o spánku sú pripravené</string>
-    <string name="remind_sleep_report_content">昨晚睡了%1$d小时%2$d分钟，点击查看睡眠报告——》</string>
-    <string name="remind_sleep_report_title">睡眠报告已生成</string>
     <string name="remind_subtitle_menstruation_start">Dostať pripomienku 2 dni pred možným začatím ďalšej menštruácie</string>
     <string name="remind_subtitle_record">Dostávať pripomienky na zaznamenávanie začiatku a ukončenia vašich menštruácií</string>
     <string name="remind_title_menstruation_start">Pripomenúť začiatok menštruácie</string>
@@ -501,7 +498,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="sleep_deep_light_no_data_improvement">"Couldn't detect sleep phases. We're improving our algorithms. Stay tuned!"</string>
     <string name="sleep_detection_enable">Analyze sleep cycle</string>
     <string name="sleep_detection_feedback">Feedback</string>
-    <string name="sleep_detection_guide_four_description">Sleep tracking will consume around 1% of your battery daily.</string>
+    <string name="sleep_detection_guide_four_description">Sleep tracking will consume around 1%% of your battery daily.</string>
     <string name="sleep_detection_guide_four_high_power_description">Make sure your device is sufficiently charged before you go to bed. Low battery may interrupt sleep tracking.</string>
     <string name="sleep_detection_guide_four_high_power_title">Keep your device charged</string>
     <string name="sleep_detection_guide_four_title">Low power consumption</string>

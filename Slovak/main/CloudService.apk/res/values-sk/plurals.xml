@@ -96,4 +96,8 @@
         <item quantity="other">%d Wi-Fi sietí</item>
         <item quantity="one">%d Wi-Fi sieť</item>
     </plurals>	
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">Nebolo možné synchr. %s položiek</item>
+        <item quantity="one">Nebolo možné synchr. %s položku</item>
+    </plurals>    
 </resources>

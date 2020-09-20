@@ -1082,4 +1082,8 @@ Postupujte podľa pokynov"</item>
         <item>Dotyk</item>
         <item>Dvojité poklepanie</item>
     </string-array>	
+    <string-array name="wifi_privacy_entries">
+        <item>Náhodná MAC adresa</item>
+        <item>MAC adresa zariadenia</item>
+    </string-array>    
 </resources>

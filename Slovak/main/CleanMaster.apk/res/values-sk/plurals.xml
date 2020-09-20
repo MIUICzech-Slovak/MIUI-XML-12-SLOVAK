@@ -163,4 +163,12 @@
         <item quantity="other">Hlasové správy: %1$d</item>
         <item quantity="one">Hlasové správy: %1$d</item>
     </plurals>	
+    <plurals name="install_find_application">
+        <item quantity="other">Vyhľadať medzi %d apl.</item>
+        <item quantity="one">Vyhľadať medzi %d apl.</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">Nájdených %d apl.</item>
+        <item quantity="one">Nájdených %d apl.</item>
+    </plurals>    
 </resources>

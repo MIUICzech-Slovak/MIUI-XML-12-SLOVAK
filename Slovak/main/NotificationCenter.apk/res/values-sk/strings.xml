@@ -74,10 +74,12 @@ Nahláste tento problém &gt;"</string>
   <string name="float_notifications_short">Plávajúce</string>
   <string name="lockscreen_notifications_short">Zamknutá obrazovka</string>
   <string name="show_badge_notifications_short">Bubliny</string>  
-  
   <string name="menu_setting_aggregatation_feedback">Nastavenie skupiny</string>
   <string name="menu_setting_feedback_donot_classify">Nezoskupovať</string>
   <string name="menu_setting_more_settings">Viac nastavení</string>
   <string name="mune_setting_prefix_category">"Zoskupiť s "</string>
   <string name="setting_menu_success">Nastavené</string>
+  <string name="channel_name_aggregation">Zlúčené upozornenia</string>
+  <string name="channel_name_notification">Upzoronenia aplikácií</string>
+  <string name="channel_name_recovered">Obnovené upozornenia</string>  
 </resources>

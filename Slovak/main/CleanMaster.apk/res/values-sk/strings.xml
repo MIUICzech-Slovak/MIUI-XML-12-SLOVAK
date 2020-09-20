@@ -684,7 +684,6 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>  
-
   <string name="clean_master_icon_recall_button_text">Pridať</string>
   <string name="clean_master_icon_recall_dialog_button_negative">Nie</string>
   <string name="clean_master_icon_recall_dialog_button_positive">Pridať</string>
@@ -714,4 +713,9 @@
   <string name="notification_uninstalled_clean_without_name">Odinštalované aplikácie zanechávajú po sebe zostatky</string>
   <string name="notification_whatsapp_clean_button_text">Vyčistiť</string>
   <string name="notification_whatsapp_clean_size">WhatsApp cache dosiahla %s</string>  
+  <string name="permission_dialog_storage_btn1">Nastavenia</string>
+  <string name="permission_dialog_storage_btn2">Zrušiť</string>
+  <string name="permission_dialog_storage_content">Čistič vyžaduje povolenie pre prístup k internému úložisku.</string>
+  <string name="permission_dialog_storage_title">Vyžadujú sa povolenia</string>
+    
 </resources>

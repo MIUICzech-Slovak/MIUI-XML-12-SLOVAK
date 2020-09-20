@@ -769,4 +769,12 @@ Získali ste ďalších %1$s"</string>
   <string name="app_all_purpose">Vitajte v aplikácií Súbory!</string>
   <string name="aggree_desc">Povoľte tejto aplikácií pripojenie k sieti a požadované povolenia.</string>
   <string name="optional_change_wifi">Pre správu súborov cez Wi-Fi</string>
+  <string name="encrypt_setting">Šifrovanie</string>
+  <string name="not_use">Neskôr</string>
+  <string name="operation_encrypt_summary">Zašifrujte súbory v skrytej zložke. Šifrovanie veľkých súborov môže trvať dlhšie.</string>
+  <string name="operation_encrypt_title">Šifrovať súkromné súbory</string>
+  <string name="private_folder_update_msg">Aplikácia Súbory poskytuje šifrovanie súborov!</string>
+  <string name="private_folder_update_msg_summary">Dešifrovanie súborov môže spomaliť ich vymazávanie.</string>
+  <string name="private_folder_update_tips">Nová funkcia</string>
+  <string name="use">Použiť</string>
 </resources>

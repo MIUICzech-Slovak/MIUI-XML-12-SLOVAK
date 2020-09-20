@@ -374,10 +374,16 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
   <string name="usage_new_home_app_limit_summary">Nastavte pre túto aplikáciu denný časový limit používania</string>
   <string name="usage_new_home_app_limit_title">Obmedziť čas používania</string>
   <string name="usage_new_home_classify_manage">Spravujte kategórie aplikácií</string>  
-  
   <string name="dc_light_hint_enable_title">Upozornenie</string>
   <string name="dc_light_hint_normal">DC stmavenie môže ovplyvniť spôsob zobrazenia niektorých prvkov.</string>
   <string name="dc_light_hint_other">DC stmavenie môže ovplyvniť zobrazovaciu frekvenciu displeja.</string>
   <string name="dc_lignt_enable_hint">Anti-flicker režim nastaví frekvenciu displeja na 60Hz. Chcete zapnúť Anti-flicker režim?</string>  
   <string name="usage_device_limit_app_prolong_time5">Pridať čas len raz</string>  
+  <string name="fps_nature_summary">Vyššia obnovovacia frekvencia udrží ostrý a čístý obraz</string>
+  <string name="fps_nature_title">Vysoká</string>
+  <string name="fps_smooth_summary">Stredná obnovovacia frekvencia zlepší plynulosť animácií</string>
+  <string name="fps_smooth_title">Stredná</string>
+  <string name="fps_standard_summary">Štandardná obnovovacia frekvencia šetrí batériu</string>
+  <string name="fps_standard_title">Štandardná</string>
+  <string name="fps_user_tip">Tieto animácie sú prehrávané pomalšie kvoli ukážke rozdielu v obnovovacej frekvencii.</string>
 </resources>

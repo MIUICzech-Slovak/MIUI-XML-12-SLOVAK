@@ -380,4 +380,6 @@
   <string name="perm_action_deny">Nikdy</string>
   <string name="perm_modem_location">Prístup k vašej polohe</string>
   <string name="perm_modem_location_desc">Váš operátor sa pokúša o prístup k vašej polohe. Chcete povoliť informácie o polohe s operátorom?</string>
+  <string name="HIPS_Perm_recognition">Prístup k aktivitám</string>
+  <string name="HIPS_Perm_recognition_Desc">Povoliť aplikácií prístup k vašej aktivite</string>  
 </resources>

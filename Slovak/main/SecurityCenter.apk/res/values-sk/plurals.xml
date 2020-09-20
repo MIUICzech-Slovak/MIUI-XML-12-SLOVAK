@@ -692,4 +692,12 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d apl.</item>
         <item quantity="one">%d apl.</item>
     </plurals>	
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Môžete používať zámok aplikácií s %1$s apl.</item>
+        <item quantity="one">Môžete používať zámok aplikácií s %1$s apl.</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s apl. bude chránených zámkom aplikácií</item>
+        <item quantity="one">%s apl. bude chránená zámkom aplikácií</item>
+    </plurals>        
 </resources>

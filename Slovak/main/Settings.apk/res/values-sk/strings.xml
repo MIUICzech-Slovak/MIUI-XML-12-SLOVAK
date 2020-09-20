@@ -6556,11 +6556,30 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
   <string name="zen_mode_title">Nerušiť</string>
   <string name="zen_mode_turned_off">Zapnúť</string>
   <string name="zen_mode_turned_on">Vypnúť</string>  
-  <string name="bt_show_notification_summary">zobraziť permanentné upozornenie v roletke</string>
+  <string name="bt_show_notification_summary">Zobraziť permanentné upozornenie v roletke</string>
   <string name="bt_show_notification_title">Upozorniť na Bluetooth pripojenie</string>  
   <string name="input_method_middle_function_move_cursor">Pohnite kurzor</string>
   <string name="input_method_middle_function_move_cursor_des">Stlačte a podržte strednú oblasť pre pohyb kurzoru</string>
   <string name="input_method_middle_function_no_function_des">Neprideľovať akcie</string>
   <string name="middle_function_key">Centrálna oblasť</string>  
   <string name="miui_master_clear_prompt_battery_low">Nie je možné urobiť obnovenie do továrneho nastavenia ak je batéria pod %1$s. Nabite batériu pre pokračovanie.</string>
+  <string name="wifi_connect_channel">Wi-Fi kanál:</string>
+  <string name="wifi_connect_frequency">Wi-Fi frekvencia:</string>
+  <string name="wifi_generation_title">Technológia</string>
+  <string name="wifi_generation_status">Wi-Fi %1$d</string>  
+  <string name="activity_check_context">Vaše zariadenie sa pokúša pripojiť k internetu.</string>
+  <string name="activity_check_title">Pripájanie k internetu</string>
+  <string name="dialog_check_button_negative">Skúsiť znova</string>
+  <string name="dialog_check_button_positive">Pripojiť k Wi-Fi</string>
+  <string name="dialog_check_context">"Vaše zariadenie sa nemôže pripojiť k internetu.
+1. stlačte \"Pripojiť k Wi-Fi\" pre výber dostupnej siete.
+2. Ak chcete použiť mobilné dáta, stlačte \"Skúsiť znova\" alebo znova vložte SIM kartu."</string>
+  <string name="dialog_check_title">Nie je možné pripojiť sa k internetu</string>
+  <string name="dialog_wifi_button_negative">Nie</string>
+  <string name="dialog_wifi_button_positive">Áno</string>
+  <string name="dialog_wifi_context">Musíte sa pripojiť k internetu pre dokočnenie nastavenia zariadenia. Použiť mobilné dáta?</string>
+  <string name="dialog_wifi_title">Použiť mobilné dáta</string>
+  <string name="launch_noapp_dialog_cancel">Zrušiť</string>
+  <string name="launch_noapp_dialog_install">Inštalovať</string>
+  <string name="launch_noapp_dialog_replace">Nastavenia</string>
 </resources>

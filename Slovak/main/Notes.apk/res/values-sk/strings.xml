@@ -441,4 +441,5 @@ http://www.miuios.cz/rom
   <string name="sync_folder_todo">%1$s a %2$s</string>
   <string name="sync_note_folder">%1$s a %2$s</string>
   <string name="sync_note_todo">%1$s a %2$s</string>  
+  <string name="edit_note_hint_title">Názov</string>  
 </resources>

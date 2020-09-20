@@ -891,4 +891,12 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
   <string name="power_off_locate_summary">"Nahlásiť polohu dlhým podržaním tlačidla Zapínania.
 Poloha nebude odoslaná ak je slabý signál siete."</string>
   <string name="power_off_locate_title">Nahlásiť polohu pred vypnutím</string>  
+  <string name="cloud_space_full_gallery_notification_content_text">Navýšte si predplatné pre získanie viac úložiska v cloude</string>
+  <string name="cta_notification_content_text">Povolte %s pripojenie k internetu pre obnovenie položiek</string>
+  <string name="cta_notification_content_title">Nie je možné obnoviť z %s</string>
+  <string name="micloud_manual_request_permission_cancel">Zrušiť</string>
+  <string name="micloud_manual_request_permission_confirm">Nastavenia</string>
+  <string name="micloud_manual_request_permission_content">Pre používanie našich služieb povoľte Xiaomi Cloudu nasledujúce povolenia v Nastaveniach: \"%s\".</string>
+  <string name="micloud_manual_request_permission_content_on_provision">Povoľte požadované povolenia</string>
+  <string name="micloud_manual_request_permission_title">Požadované povolenia</string>
 </resources>

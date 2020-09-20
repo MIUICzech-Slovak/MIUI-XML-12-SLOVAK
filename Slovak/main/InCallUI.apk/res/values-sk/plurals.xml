@@ -37,4 +37,8 @@
         <item quantity="other">Znova vytočené %dx</item>
         <item quantity="one">Znova vytočené %dx</item>
     </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Odpojí sa o %1$ss…</item>
+        <item quantity="one">Odpojí sa o %1$ss…</item>
+    </plurals>    
 </resources>

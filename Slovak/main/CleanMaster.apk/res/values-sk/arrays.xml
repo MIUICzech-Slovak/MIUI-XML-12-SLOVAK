@@ -59,4 +59,9 @@
     <string-array name="low_memory_clean_menu">
         <item>Vyčistiť</item>
     </string-array>	
+    <string-array name="uninstalled_app_sort_type">
+        <item>Veľkosť</item>
+        <item>Frekvencia používania</item>
+        <item>Čas inštalácie</item>
+    </string-array>    
 </resources>

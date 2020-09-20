@@ -4042,5 +4042,24 @@ z vášho hrania hier"</string>
   <string name="charger_detect_title">Nabíjanie je pomalé</string>
   <string name="vb_fps_display_unit">Hz</string>
   <string name="vb_fps_settings">Automatická obnovovacia frekvencia</string>
-  <string name="vb_fps_settings_tips">Táto funkcia prispôsobí obnovovaciu frekvenciu displeja podľa FPS videa, čo šetrí batériu a prehrávanie je plynulejšie.</string>      
+  <string name="vb_fps_settings_tips">Táto funkcia prispôsobí obnovovaciu frekvenciu displeja podľa FPS videa, čo šetrí batériu a prehrávanie je plynulejšie.</string>     
+  <string name="applock_add_account_ignore">Neskôr</string>
+  <string name="applock_add_account_ignore_with_seconds">Neskôr (%ds)</string>
+  <string name="applock_add_account_tips">S Mi účtom budete môcť obnoviť Zámok aplikácií.</string>
+  <string name="applock_add_account_title">Pridať Mi účet</string>
+  <string name="applock_already_add_account">Súčasný účet: %s</string>
+  <string name="applock_bind_account_dialog_content">Váš Mi účet je jedniná možnosť ako obnoviť Zámok aplikácií ak ho zabudnete.</string>
+  <string name="applock_bind_account_dialog_title">Pridajte váš Mi účet</string>
+  <string name="applock_guide_notification_summary">Chráňte vaše súkromie so Zámkom aplikácií</string>
+  <string name="applock_guide_notification_title">Ostatní ľudia môžu vidieť citlivé informácie na vašom displeji</string>
+  <string name="applock_no_account_login">Nie ste prihlásení k vášmu Mi účtu</string>
+  <string name="applock_operate_faceunlock_summary">Odomknite aplikácie pozeraním sa na displej</string>
+  <string name="applock_operate_faceunlock_title">Použiť dáta tváre</string>
+  <string name="applock_operate_fingerprint_summary">Zámok aplikácií podporuje pridávanie viacerých odtlačkov prsta</string>
+  <string name="applock_operate_fingerprint_title">Použite váš odtlačok prsta</string>
+  <string name="applock_operate_hidenoti_summary">Zámok aplikácií môže urobiť toto pre ochranu aplikácií</string>
+  <string name="applock_operate_hidenoti_title">Chcete skryť citlivé upzoornenia?</string>
+  <string name="applock_recommend_tips">%s používateľov chráni tieto aplikácie</string>
+  <string name="applock_recommend_title">Vybrať aplikácie</string>
+  <string name="applock_set_complete">Použiť Zámok aplikácií</string>           
 </resources>

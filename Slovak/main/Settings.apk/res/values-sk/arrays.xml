@@ -105,7 +105,8 @@
         <item>Bez časového limitu</item>
     </string-array>
     <string-array name="wifi_signal">
-        <item>Nízka</item>
+        <item>Slabá</item>
+        <item>Nízka</item>	    
         <item>Dostačujúca</item>
         <item>Dobrá</item>
         <item>Vynikajúca</item>

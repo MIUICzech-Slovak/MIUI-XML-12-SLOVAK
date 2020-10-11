@@ -6582,4 +6582,5 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
   <string name="launch_noapp_dialog_cancel">Zrušiť</string>
   <string name="launch_noapp_dialog_install">Inštalovať</string>
   <string name="launch_noapp_dialog_replace">Nastavenia</string>
+    <string name="allow_all_rotations_title">Povoliť 180° otočenie</string>  
 </resources>

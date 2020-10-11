@@ -920,4 +920,5 @@ Pokus: %s."</string>
   <string name="not_support_audio_forward">Nie je možné preposlať</string>
   <string name="top_conversation">Pripnutá konverzácia</string>
   <string name="verification_code_safety_warning">Nezdieľajte tieto kódy s inými ľudmi</string>
+  <string name="ad_notification_title">Nedôležité správy</string>  
 </resources>

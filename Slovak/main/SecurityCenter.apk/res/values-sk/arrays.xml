@@ -249,4 +249,9 @@
         <item>Aplikácie ktoré nepochádzajú z Google Play, môžu spôsobiť nestabilitu alebo nesprávne fungovanie systému.</item>
         <item>Niektoré neoverené aplikácie môžu obsahovať vírus alebo malware.</item>
     </string-array>    
+    <string-array name="cellular_package_type">
+        <item>Mesačné dáta</item>
+        <item>Neobmedzené</item>
+        <item>Denné dáta</item>
+    </string-array>    
 </resources>

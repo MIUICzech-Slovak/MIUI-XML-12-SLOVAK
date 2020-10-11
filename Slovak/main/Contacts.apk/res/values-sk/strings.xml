@@ -1405,5 +1405,11 @@ Zvoľte jednu z nasledujúcich možností:</string>
        <string name="multi_select">Vybrať</string>
   <string name="theme_dialog_confirm_button">Rozumiem</string>
   <string name="theme_dialog_confirm_content">Táto verzia Kontaktov nepodporuje aktuálny nastavený vzhľad.</string>
-  <string name="theme_dialog_confirm_title">Nie je možné použiť tému</string>	   
+  <string name="theme_dialog_confirm_title">Nie je možné použiť tému</string>	
+    <string name="dialog_delete_contact_button_delete">Vymazať</string>
+    <string name="dialog_delete_contact_button_keep">Ponechať</string>
+    <string name="dialog_delete_contact_content">MiCloud chce vymazať niektoré kontakty. Chcete ich vymazať?</string>
+    <string name="dialog_delete_contact_title">Mazanie kontaktov</string>
+    <string name="notification_click_detail">Zobraziť podrobnosti</string>
+    <string name="notification_micloudsync_delete_contact">MiCloud chce vymazať niektoré kontakty</string>         
 </resources>

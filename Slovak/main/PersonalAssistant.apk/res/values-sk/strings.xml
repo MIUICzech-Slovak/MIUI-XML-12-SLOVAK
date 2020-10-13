@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Clock_main">Budík</string>
   <string name="Clock_parent">Hodiny</string>
@@ -599,4 +598,19 @@
     <string name="app_pa_setting_service_screen_duration">Čas displeja</string>
     <string name="app_pa_setting_title">Nastavenia</string>
     <string name="app_pa_setting_version">Verzia: %1$s</string>
+    <string name="agenda_default">Kalendár</string>
+    <string name="app_pa_setting_service_my_schedule">Kalendár</string>
+    <string name="app_pa_setting_head_bg_img">Pozadie</string>
+    <string name="app_pa_setting_head_bg_img_default">Nenastavené</string>
+    <string name="app_pa_setting_head_bg_img_set">Nastaviť</string>
+    <string name="app_pa_setting_head_bg_img_summary">Nastaviť pozadie pre hlavičku asistenta</string>
+    <string name="app_pa_setting_head_info">Hlavička</string>
+    <string name="app_pa_setting_head_info_default">Prázdne</string>
+    <string name="app_pa_setting_head_info_set">Pridané</string>
+    <string name="app_pa_setting_head_setting">Hlavička</string>    
+    <string name="app_display_linkage_default">Inovácie pre každého</string>
+    <string name="app_display_setting_edit_hint">Zadajte text</string>
+    <string name="app_display_setting_edit_instruction">Hlavička je zobrazená na vrchu asistenta. Môže obsahovať maximálne 28 znakov.</string>
+    <string name="app_display_setting_edit_toast">Táto hlavička je príliš dlhá</string>
+    <string name="app_display_setting_title">Zmeniť hlavičku</string>    
 </resources>

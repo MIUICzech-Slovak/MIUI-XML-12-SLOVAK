@@ -3132,7 +3132,6 @@ Rešpektujeme a chránime vaše súkromie."</string>
   <string name="top_no_network_detial">Nebolo možné načítať, skontrolujte nastavenie siete</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Mesačný balíček zmenený na %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Updated data plan</string>
-  <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
   <string name="traffic_config_alert_auto_modify">Automaticky aktualizovať mesačný balíček</string>
   <string name="traffic_config_alert_body">"Your carrier's accounting show you have used %s
 Update your data usage info?"</string>

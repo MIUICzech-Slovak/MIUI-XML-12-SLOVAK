@@ -574,10 +574,6 @@
     <string name="app_pa_setting_global_display">Displej</string>
     <string name="app_pa_setting_global_display_blur_option">Rozmazať pozadie</string>
     <string name="app_pa_setting_global_display_blur_summary">Rozmazanie tapety spomalí animácie</string>
-    <string name="app_pa_setting_head_bg_img">Pozadie</string>
-    <string name="app_pa_setting_head_bg_img_default">Nenastavené</string>
-    <string name="app_pa_setting_head_bg_img_set">Nastaviť</string>
-    <string name="app_pa_setting_head_bg_img_summary">Nastaviť obrázok pozadia pre hlavičku asistenta</string>
     <string name="app_pa_setting_my_collection">Obľúbené</string>
     <string name="app_pa_setting_private">Súkromie</string>
     <string name="app_pa_setting_private_auth">Povoliť zhromažďovanie štatistiky používania</string>
@@ -587,7 +583,6 @@
     <string name="app_pa_setting_service_memory">Vyčistiť pamäť</string>
     <string name="app_pa_setting_service_my_collection">Obľúbené</string>
     <string name="app_pa_setting_service_my_collection_summary">Uložte tu obľúbené aplikácie</string>
-    <string name="app_pa_setting_service_note">Poznámky</string>
     <string name="app_pa_setting_service_note_summary">Vytvorte krátke poznámky v asistentovi</string>
     <string name="app_pa_setting_service_personal">Osobné služby</string>
     <string name="app_pa_setting_service_personal_manage_list_summary">Obsah</string>

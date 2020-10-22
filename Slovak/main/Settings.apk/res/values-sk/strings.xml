@@ -6223,7 +6223,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
   <string name="bluetooth_display_settings">Nastavenie Bluetooth displeja</string>
   <string name="bluetooth_mi_fast_connect">MiLink</string>
   <string name="bluetooth_mi_fast_connect_summary">Pripojiť k Bluetooth zariadeniam na blízku</string>  
-  <string name="dark_wallpaper_mode">Upraviť sýtosť farieb tapety v Tmavom režime</string>
+  <string name="dark_wallpaper_mode">Upraviť sýtosť farieb pozadia</string>
   <string name="tether_use_wifi6_summary">Niektoré zariadenia nie sú kompatibilné s 802.11ax štandardom.</string>
   <string name="tether_use_wifi6_title">Podpora pre 6 generáciu Wi-Fi siete</string>  
   <string name="input_method_clipboard_settings">Nastavenie schránky</string>
@@ -6599,7 +6599,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="show_badge_notifications_short">Bubliny</string>
     <string name="switchNetworkToast">Pripojenie k mobilnej sieti môže navýšiť vaše poplatky</string>
     <string name="dark_mode_apps_header">Jednotlivé aplikácie</string>
-    <string name="dark_mode_font_background_title">Prispúsobiť text a pozadie</string>
+    <string name="dark_mode_font_background_title">Prispôsobiť text a pozadie</string>
     <string name="exterior">Farebná schéma</string>
     <string name="light_color_mode">Svetlý režim</string>
     <string name="more_dark_mode_settings">Viac nastavení Tmavého režimu</string>

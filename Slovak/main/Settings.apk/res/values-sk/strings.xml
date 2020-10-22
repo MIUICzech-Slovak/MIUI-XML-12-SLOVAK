@@ -6598,4 +6598,12 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="requires_modern_control_center">Funguje s novou verziou Centra ovládania</string>
     <string name="show_badge_notifications_short">Bubliny</string>
     <string name="switchNetworkToast">Pripojenie k mobilnej sieti môže navýšiť vaše poplatky</string>
+    <string name="dark_mode_apps_header">Jednotlivé aplikácie</string>
+    <string name="dark_mode_font_background_title">Prispúsobiť text a pozadie</string>
+    <string name="exterior">Farebná schéma</string>
+    <string name="light_color_mode">Svetlý režim</string>
+    <string name="more_dark_mode_settings">Viac nastavení Tmavého režimu</string>
+  <string name="usb_use_file_transfers_miui12_5">Súbory</string>
+  <string name="usb_use_miui12_5">Použiť USB pre:</string>
+  <string name="usb_use_photo_transfers_miui12_5">Fotografie</string>    
 </resources>

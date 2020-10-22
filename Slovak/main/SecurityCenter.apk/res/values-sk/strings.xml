@@ -4076,4 +4076,9 @@ z vášho hrania hier"</string>
     <string name="stranger_call_dialog_notification_body">Pridať medzi kontakty alebo blokovať</string>
     <string name="stranger_call_dialog_notification_title_format">Neznáme číslo %s</string>
     <string name="stranger_call_dialog_title">"Neznáme číslo "</string>
+    <string name="battery_health_level_text">Zdravie batérie</string>
+    <string name="battery_status_level_excellent">Výborné</string>
+    <string name="battery_status_level_good">Dobré</string>
+    <string name="battery_status_level_normal">Normálne</string>
+    <string name="battery_status_level_poor">Slabé</string>    
 </resources>

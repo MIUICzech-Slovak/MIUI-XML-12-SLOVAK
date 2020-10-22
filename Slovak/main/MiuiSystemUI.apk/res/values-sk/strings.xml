@@ -2183,4 +2183,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="input_pattern_hint_text_v11">Nakreslite vzor</string>
   <string name="input_pin_hint_text_v11">Zadajte PIN</string>    
   <string name="notification_control_center">Upozornenia a Centrum ovládania</string>
+  <string name="quick_settings_vowifi_label">Wi-Fi Volanie</string>
+  <string name="quick_settings_vowifi_sim1_label">Wi-Fi Volanie SIM1</string>
+  <string name="quick_settings_vowifi_sim2_label">Wi-Fi Volanie SIM2</string>  
 </resources>

@@ -29,4 +29,16 @@
         <item quantity="other">Trvanie: %d s</item>
         <item quantity="one">Trvanie: %d s</item>
     </plurals>	 
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$dmin</item>
+        <item quantity="one">%1$dmin</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$ds</item>
+        <item quantity="one">%1$ds</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Vymazať %1$d?</item>
+        <item quantity="one">Vymazať %1$d?</item>
+    </plurals>    
 </resources>

@@ -1968,17 +1968,17 @@
   <string name="photo_page_rotate_screen">Otočiť obrazovku</string>
   <string name="time_burst_save_dialog_title">Exportovať položky</string>  
   
-    <string name="download_type_origin_subtitle_china">Original images take up more storage space and can only be downloaded via Wi-Fi</string>
-    <string name="download_type_origin_title">Original</string>
-    <string name="download_type_thumbnail_subtitle">High quality images look almost identical to the original ones, but take up less storage space</string>
-    <string name="download_type_thumbnail_title">High quality</string>
-    <string name="new_album_invalid_byte">This name is too long</string>
-    <string name="notice_click_lock_orientation">Tap to lock orientation</string>
-    <string name="operation_replace_album_cover">Change album cover</string>
-    <string name="operation_replace_album_cover_custom_mode">Custom</string>
-    <string name="operation_replace_album_cover_default_mode">Default</string>
-    <string name="photo_page_lock_screen">Lock orientation</string>
-    <string name="toast_orientation_locked">Locked orientation successfully</string>
-    <string name="watch_all_photo">Gallery</string>
+    <string name="download_type_origin_subtitle_china">Originálne fotografie zaberajú viac miesta na úložisku a môžu byť stiahnuté len cez Wi-Fi</string>
+    <string name="download_type_origin_title">Originál</string>
+    <string name="download_type_thumbnail_subtitle">Fotografie vo vysokom rozlíšení vyzerajú skoro rovnako ako originálne ale zaberajú menej miesta</string>
+    <string name="download_type_thumbnail_title">Vysoká kvalita</string>
+    <string name="new_album_invalid_byte">Tento názov je príliš dlhý</string>
+    <string name="notice_click_lock_orientation">Dotykom uzamknete orientáciu</string>
+    <string name="operation_replace_album_cover">Zmeniť náhľad albumu</string>
+    <string name="operation_replace_album_cover_custom_mode">Vlastný</string>
+    <string name="operation_replace_album_cover_default_mode">Predvolený</string>
+    <string name="photo_page_lock_screen">Uzamknúť orientáciu</string>
+    <string name="toast_orientation_locked">Orientácia uzamknutá</string>
+    <string name="watch_all_photo">Galéria</string>
 	
 </resources>

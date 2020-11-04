@@ -25,7 +25,7 @@
         <item quantity="one">%d apl. v tomto zariadení</item>
     </plurals>	
     <plurals name="cloud_backup_detail_frequence_day">
-        <item quantity="other">Back up every %d days</item>
-        <item quantity="one">Back up every day</item>
+        <item quantity="other">Zálohovať každý %d deň</item>
+        <item quantity="one">Zálohovať každý deň</item>
     </plurals>	
 </resources>

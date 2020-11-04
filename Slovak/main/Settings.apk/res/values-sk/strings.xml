@@ -6607,14 +6607,12 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
   <string name="usb_use_miui12_5">Použiť USB pre:</string>
   <string name="usb_use_photo_transfers_miui12_5">Fotografie</string>    
   
-    <string name="enabled">On</string>
-      <string name="not_enabled">Off</string>
-    <string name="other_input_method">Other keyboards</string>
+    <string name="enabled">Zap</string>
+      <string name="not_enabled">Vyp</string>
+    <string name="other_input_method">Ostatné klávesnice</string>
     <string name="smart_space_clock">At A Glance</string>
-    <string name="sync_success">Synced successfully</string>
-    <string name="usb_reverse_charge">Reverse charging</string>
-    <string name="xiaomi_custom_input_method">Customized for Xiaomi</string>
-
-    <string name="gxzw_lowlight_open_summary">Lower the brightness of the fingerprint icon in low light conditions. Your device might unlock slower when this feature is on.</string>
-    <string name="gxzw_lowlight_open_title">Low light fingerprint unlock</string>
+    <string name="sync_success">Synchronizované</string>
+    <string name="usb_reverse_charge">Reverzné nabíjanie</string>
+    <string name="gxzw_lowlight_open_summary">Znížiť jas ikony odtlačku prsta v tmavom prostredí. Zariadenie sa môže odomykať pomalšie ak je táto funkcia povolená.</string>
+    <string name="gxzw_lowlight_open_title">Znížený jas odtlačku prsta</string>
 </resources>

@@ -162,4 +162,17 @@ N e"</string>
   <string name="material_slider_range_end">Koniec rozsahu,</string>
   <string name="material_slider_range_start">Začiatok rozsahu,</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Viac ako %1$d upozornení</string>
+  
+    <string name="add_custom_image">Custom image</string>
+    <string name="share">Share</string>
+    <string name="share_to_community">Share to Mi Community</string>
+    <string name="step_to_image_community">Find more in Mi Community</string>
+    <string name="always_style_symmary">Consumes more power</string>
+    <string name="ambient_display_screen_title">Always-on display</string>
+    <string name="ambient_display_screen_title_sp">Ambient display</string>	
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="scheduled_style_summary">Set custom time</string>
+    <string name="temporary_style_summary">Recommended</string>
+	
 </resources>

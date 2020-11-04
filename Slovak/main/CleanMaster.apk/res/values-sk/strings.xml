@@ -718,4 +718,26 @@
   <string name="permission_dialog_storage_content">Čistič vyžaduje povolenie pre prístup k internému úložisku.</string>
   <string name="permission_dialog_storage_title">Vyžadujú sa povolenia</string>
     
+	<string name="notification_checker_installed_apk_hint">No need to keep APKs after installation</string>
+    <string name="notification_checker_picture_hint_a">Cached images can take up a lot of storage space</string>
+    <string name="notification_checker_picture_hint_b">Free up storage space by deleting the items you no longer need</string>
+    <string name="notification_checker_picture_text_a">Clear cached images</string>
+    <string name="notification_checker_picture_text_b">Clear %s of cached images</string>
+    <string name="notification_garbage_clean_botton_text_new">Clear</string>
+    <string name="notification_garbage_clean_hint_new">Let your device soar</string>
+    <string name="notification_garbage_clean_size_float_unit">%.1f GB</string>
+    <string name="notification_garbage_clean_size_found">"There's %s of trash"</string>
+    <string name="notification_garbage_clean_size_found_hint">Time to take the trash out!</string>
+    <string name="notification_garbage_clean_size_found_text">Too many trash files</string>
+    <string name="notification_garbage_clean_size_int_unit">%d GB</string>
+    <string name="notification_garbage_clean_size_new">Free up %s of storage</string>
+    <string name="notification_low_memory_button_text">Fix</string>
+    <string name="notification_low_memory_hint">Trash slows down your device</string>
+    <string name="notification_low_memory_text">Memory is running low</string>	
+    <string name="notification_low_storage_size">Less than %s of storage available</string>
+    <string name="notification_low_storage_size_1_gb_hint">Free up storage space to speed up your device</string>
+    <string name="notification_low_storage_size_1p5_gb_hint">Clear trash to speed up your device</string>
+    <string name="notification_uninstall_clean_hint">Clear trash to free up storage space</string>
+    <string name="notification_uninstall_clean_text">Uninstalled apps leave trash on your device</string>
+	
 </resources>

@@ -404,6 +404,6 @@
     <string name="no">Nie</string>
     <string name="perm_manager_suggest_operation">Spravovať povolenia</string>
     <string name="perm_manager_suggest_title">Upraviť povolenia?</string>
-    <string name="yes">Nie</string>
+    <string name="yes">Áno</string>
   
 </resources>

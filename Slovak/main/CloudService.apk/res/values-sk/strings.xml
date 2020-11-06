@@ -758,7 +758,7 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
   <string name="warning_bar_action_close">Zatvoriť</string>
   <string name="warning_bar_action_turn_on_master_sync">Povoliť</string>
   <string name="warning_bar_action_turn_on_sync">Povoliť</string>
-  <string name="warning_bar_action_upgrade_vip">NAvýšiť MiCloud</string>
+  <string name="warning_bar_action_upgrade_vip">Navýšiť MiCloud</string>
   <string name="warning_bar_add_short_cut_success">Pridané</string>
   <string name="warning_bar_title_cloud_space_already_full">Dochádza vám MiCloud úložisko.</string>
   <string name="warning_bar_title_cloud_space_full">MiCloud úložisko je plné. Synchr. je zastavená.</string>
@@ -899,4 +899,6 @@ Poloha nebude odoslaná ak je slabý signál siete."</string>
   <string name="micloud_manual_request_permission_content">Pre používanie našich služieb povoľte Xiaomi Cloudu nasledujúce povolenia v Nastaveniach: \"%s\".</string>
   <string name="micloud_manual_request_permission_content_on_provision">Povoľte požadované povolenia</string>
   <string name="micloud_manual_request_permission_title">Požadované povolenia</string>
+    <string name="xiaomi_cloud_service">MiCloud</string>
+    <string name="xiaomi_cloud_service_subtitle">Všetko dôležité na jednom mieste</string>  
 </resources>

@@ -737,5 +737,15 @@
     <string name="notification_low_storage_size_1p5_gb_hint">Vyprázdnite odpad pre zrýchlenie vášho zariadenia</string>
     <string name="notification_uninstall_clean_hint">Vyprázdnite odpad pre uvoľnenie miesta na úložisku</string>
     <string name="notification_uninstall_clean_text">Odinštalované aplikácie zanechávajú odpad vo vašom zariadení</string>
+    
+    <string name="browser_scan_history_desc">História Prehliadača</string>
+    <string name="browser_search_history_desc">Vyhľadané položky</string>
+    <string name="call_log">História hovorov</string>
+    <string name="clip_board_history_desc">Skopírované položky</string>
+    <string name="clipboard">Schránka</string>
+    <string name="phone_search">Google vyhľadávanie</string>
+    <string name="privacy_appdata_chrome_history_des">Navštívené stránky</string>
+    <string name="search_history">História vyhľadávania</string>
+    <string name="sms">SMS/MMS</string>
 	
 </resources>

@@ -667,4 +667,9 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="miuix_compat_dialog_title">Použitá predvolená téma pre \"%s\"</string>
   <string name="miuix_compat_dialog_update_title">Vyžaduje sa aktualizácia</string>
   <string name="miuix_compat_mms">Správy</string>  
+  
+    <string name="boot_audio_dialog_cancel">Zrušiť</string>
+    <string name="boot_audio_dialog_confirm">OK</string>
+    <string name="boot_audio_dialog_content">Zvuky zapínania sú vypnuté. Chcete ich povoliť?</string>
+    <string name="boot_audio_dialog_title">Upozornenie</string>  
 </resources>

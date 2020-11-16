@@ -899,6 +899,4 @@ Poloha nebude odoslaná ak je slabý signál siete."</string>
   <string name="micloud_manual_request_permission_content">Pre používanie našich služieb povoľte Xiaomi Cloudu nasledujúce povolenia v Nastaveniach: \"%s\".</string>
   <string name="micloud_manual_request_permission_content_on_provision">Povoľte požadované povolenia</string>
   <string name="micloud_manual_request_permission_title">Požadované povolenia</string>
-    <string name="xiaomi_cloud_service">MiCloud</string>
-    <string name="xiaomi_cloud_service_subtitle">Všetko dôležité na jednom mieste</string>  
 </resources>

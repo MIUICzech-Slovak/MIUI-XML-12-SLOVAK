@@ -564,4 +564,8 @@
   <string name="auto_disable_screenbuttons_summary">Dvakrát poklepte na niektoré navigačné tlačidlo pre povolenie</string>
   <string name="auto_disable_screenbuttons_title">Automaticky deaktivovať navigačné tlačidlá</string>
   <string name="key_shortcut_settings_title">Skratky tlačidla</string>
+  
+    <string name="recents_layout_style">Rozloženie položiek v nedávnych aplikáciach</string>
+    <string name="recents_layout_style_horizontal">Horizontálne</string>
+    <string name="recents_layout_style_vertical">Vertikálne</string>  
 </resources>

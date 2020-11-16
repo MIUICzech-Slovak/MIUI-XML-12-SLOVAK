@@ -259,4 +259,20 @@ Zadajte vaše mesto manuálne"</string>
   <string name="settings_atmospheric_pressure_title">Tlak vzduchu</string>  
   <string name="international_details_chance_of_rain">Pravdep. dažďa</string>
   <string name="international_details_humidity">VLHKOSŤ</string>
+  
+    <string name="content_desc_close_button">Zatvoriť</string>
+    <string name="dialog_internet_error_title">Nastala chyba</string>
+    <string name="download_rsc_tips">Načítavanie zvuku…</string>
+    <string name="dynamic_weather">Počasie</string>
+    <string name="no_internet_message">Vaše zariadenie vyžaduje pripojenie na internet pre zobrazenie obsahu. Skontrolujte nastavenia a skúste to znova.</string>
+    <string name="non_wifi_environment">Pripojte sa k Wi-Fi pre stiahnutie zvukov</string>
+    <string name="revoke_fail">Nebolo možné pripojiť sa k sieti</string>
+    <string name="revoke_privacy_policy_title">Odvolanie súhlasu</string>
+    <string name="save_to_gallery_failure_message">Nebolo možné uložiť do Galérie</string>
+    <string name="save_to_gallery_icon_name">Uložiť do Galérie</string>
+    <string name="save_to_gallery_success_message">Uložené do Galérie</string>
+    <string name="weather_aqi_full_air_quality_forcast">Predpoveď kvality ovzdušia</string>
+    <string name="weather_more_air_quality">Viac o kvalite ovzdušia</string>
+    <string name="welcome_app_title">Vitajte v Počasí!</string>
+     
 </resources>

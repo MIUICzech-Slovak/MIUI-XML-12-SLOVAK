@@ -4,10 +4,6 @@
         <item quantity="other">Obnovenie súborov (%d)</item>
         <item quantity="one">Obnovenie súborov (%d)</item>
     </plurals>
-    <plurals name="cloud_backup_detail_frequence_day">
-        <item quantity="other">Zálohovať každých %d dní</item>
-        <item quantity="one">Zálohovať každý deň</item>
-    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s záloh, veľkosť: %2$s</item>
         <item quantity="one">%1$s záloha, veľkosť: %2$s</item>

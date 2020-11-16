@@ -82,4 +82,24 @@ Nahláste tento problém &gt;"</string>
   <string name="channel_name_aggregation">Zlúčené upozornenia</string>
   <string name="channel_name_notification">Upzoronenia aplikácií</string>
   <string name="channel_name_recovered">Obnovené upozornenia</string>  
+    <string name="show_weather">Zobraziť info o počasí</string>
+
+    <string name="channel_keyguard_hide_content">Zobraziť všetky upozornenia ale skryť ich obsah</string>
+    <string name="channel_keyguard_show_content">Zobraziť všetky upozornenia a ich obsah</string>
+    <string name="channel_keyguard_show_nothing">Nezobrazovať upozornenia</string>
+    <string name="fold_importance_default">Odporúčané</string>
+    <string name="fold_importance_important">Dôležité</string>
+    <string name="fold_importance_unimportant">Nedôležité</string>
+    <string name="fold_title">Pravidlá pre zlúčené upozornenia</string>
+    <string name="notification_keyguard_hide_content">Zobraziť upozornenia ale skryť ich obsah</string>
+    <string name="notification_keyguard_show_content">Zobraziť upozornenia a ich obsah</string>
+    <string name="notification_keyguard_show_nothing">Nezobrazovať upozornenia na zamknutom displeji</string>
+    <string name="rule_keyguard_display">Formát</string>
+    <string name="summary_aggregate_default">Reklamné upozornenia budú zlúčené</string>
+    <string name="summary_aggregate_home">Upozornenia nebudú zlúčené</string>
+    <string name="summary_fold_importance_default">MIUI bude rozhodovať ktoré upozornenia budú zobrazené priamo</string>
+    <string name="summary_fold_importance_important">Upozornenie bude zobrazené v roletke</string>
+    <string name="summary_fold_importance_unimportant">Upozornenie bude zobrazené v zložke</string>
+    <string name="title_aggregate_default">Zlúčiť upozornenia</string>
+    <string name="title_aggregate_home">Nezlučovať upozornenia</string>                      
 </resources>

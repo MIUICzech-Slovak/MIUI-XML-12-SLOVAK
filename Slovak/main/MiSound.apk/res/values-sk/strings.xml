@@ -176,7 +176,15 @@
      <string name="switch_audio_device_bt">Bluetooth</string>
      <string name="switch_audio_device_phone">Toto zariadenie</string>
      <string name="switch_audio_dialog_title">Prepnúť zvuk na</string>  
-  <string name="ringtone_output_device_summary">Ak je pripojené externé zariadenie (sluchátka alebo Bluetooth zariadenie), bude prehrané zvonenie alebo upozornenie aj v telefóne</string>
+  <string name="ringtone_output_device_summary">Ak je pripojené externé zariadenie (slúchadlá alebo Bluetooth zariadenie), bude prehrané zvonenie alebo upozornenie aj v telefóne</string>
   <string name="ringtone_output_device_title">Zvonenie v telefóne</string>	 
+  
+    <string name="choose_bluetooth_device">Vyberte zariadenie</string>
+    <string name="end_wireless_transmission">Zastaviť</string>
+    <string name="switch_bluetooth_device">Zmeniť zariadenie</string>
+    <string name="wireless_transmission">Bezdrôtový reproduktor</string>
+    <string name="wireless_transmission_cancel">Zrušiť</string>
+    <string name="wireless_transmission_confirm">Zapnúť</string>
+    <string name="wireless_transmission_definition">Prenášať zvuk z mikrofónu do externého Bluetooth zariadenia</string>
+    <string name="wireless_transmission_prompt">Pre prenos zvuku musíte povoliť Bluetooth. Chcete ho zapnúť?</string>
 </resources>
-

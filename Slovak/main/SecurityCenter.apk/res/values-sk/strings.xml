@@ -3820,7 +3820,7 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="privacy_permission_status">Aktuálne použité povolenia</string>
      <string name="privacy_permission_storage">Prístup k úložisku</string>
      <string name="privacy_permission_summary_none">Žiadne aplikácie nemajú permanentný prístup</string>
-     <string name="privacy_permission_use_times">Zistite sa ako jednotlivé aplikácie používajú vaše povolenia</string>
+     <string name="privacy_permission_use_times">Zistite ako jednotlivé aplikácie používajú vaše povolenia</string>
      <string name="privacy_permission_use_warning">Upozornenie na povolenia</string>
      <string name="privacy_pop_call">Dnes načítala históriu hovorov</string>
      <string name="privacy_pop_contact">Dnes načítala kontakty</string>
@@ -4177,5 +4177,35 @@ z vášho hrania hier"</string>
     <string name="privacy_thumbnail_blur_search_empty">Nič sa nenašlo</string>
     <string name="privacy_thumbnail_blur_title">Rozmazanie náhľadov</string>
     <string name="privacy_thumbnail_blur_top_tip">Vyberte aplikácie ktoré budú mať rozmazaný náhľad v nedávnych aplikáciach</string>
-	
+    <string name="other">Ostatné nastavenia</string>
+    <string name="gb_storage_game_uninstall">Odinštalovať hry</string>
+
+    <string name="HIPS_Perm_Access_Gallery">Prístup ku Galérií</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Povoliť tejto aplikácií prístup ku Galérií</string>
+    <string name="HIPS_Perm_External_Storage">Načítať a uložiť položky na úložisku</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Prístup a uložiť súbory a fotografie na interné úložisko</string>
+    <string name="HIPS_Perm_External_Storage_Group">Spravovať povolenia úložiska</string>
+    <string name="HIPS_Perm_External_Storage_Group_Desc">Vyberte ktoré aplikácie majú povolenie pre prístup</string>
+    <string name="HIPS_Perm_tencentControl">Prístup k správam v sociálnych aplikáciach</string>
+    <string name="app_manager_permission_dcimcontrol_title">Prístup ku Galérií</string>
+    <string name="comprehensive_protection_measures">Komplexná ochrana</string>
+    <string name="fully_informed_privacy">Povedomie o ochrane súkromia</string>
+    <string name="image_protect_auto_del">%s sa pokúša o vymazanie obrázkov</string>
+    <string name="image_protect_del_pic_tips">Upozorniť na vymazané obrázky</string>
+    <string name="image_protect_del_success">Vymazané</string>
+    <string name="image_protect_ensure_del_pic">Vymazať</string>
+    <string name="image_protect_exit_and_del">Vymazať</string>
+    <string name="image_protect_intercept_can_recover_tips">Táto akcia bola blokovaná. Môžete si vybrať, či chcete obrázky vymazať alebo obnoviť.</string>
+    <string name="image_protect_intercept_tips">Spravovať správanie aplikácie</string>
+    <string name="image_protect_no_data">Žiadne položky</string>
+    <string name="image_protect_recover_del_pic">Obnoviť</string>
+    <string name="image_protect_recover_success">Obnovené</string>
+    <string name="image_protect_tips_title">Vymazánie fotografií</string>
+    <string name="image_protect_total_activity_label">Dostávať upozornenie o vymazaní fotografií</string>
+        <string name="perm_list_header_title_has_storage">Aplikácie s úložiskom</string>
+    <string name="permission_instruction_gallery">Z dôvodu ochrany vášho súkromia vám MIUI umožňuje rozhodnúť sa, či povolíte aplikáciám s povolením úložiska prístup do Galérie.</string>
+    <string name="permission_instruction_sociality">Z dôvodu ochrany vášho súkromia vám MIUI umožňuje rozhodnúť sa, či povolíte aplikáciám, ktoré majú povolenia úložiska, prístup k vašim správam v aplikáciách sociálnych médií.</string>
+    <string name="permission_instruction_storage">Z dôvodu ochrany vášho súkromia vám MIUI umožní rozhodnúť sa, či povolíte aplikáciám, ktoré majú povolenia úložiska, prístup do Galérie a k vašim správam v aplikáciách sociálnych médií..</string>
+    <string name="pp_app_behavior_record_detail">Zaznamenávať správanie všetkých aplikácií</string>
+ 
 </resources>

@@ -79,7 +79,7 @@
   <string name="usage_state_sunday">Ned</string>
   <string name="usage_state_thursday">Štv</string>
   <string name="usage_state_time_end">Dosiahli ste dnešný limit zobrazenia</string>
-  <string name="usage_state_today">Ned</string>
+  <string name="usage_state_today">Dnes</string>
   <string name="usage_state_today_total_text">Používanie dnes</string>
   <string name="usage_state_tuesday">Uto</string>
   <string name="usage_state_unlock_mourth_day">Odomknuté o %s</string>

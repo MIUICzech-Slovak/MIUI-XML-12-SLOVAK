@@ -359,10 +359,10 @@
         <item>SOB</item>
     </string-array>	
 	    <string-array name="default_reminder_later_time_labels">
-        <item>5 minúť</item>
-        <item>10 minúť</item>
-        <item>15 minúť</item>
-        <item>30 minúť</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
+        <item>30 minút</item>
         <item>1 hodinu</item>		
     </string-array>	
     <string-array name="repeat_monthly_on_day_count_values">
@@ -378,9 +378,9 @@
         <item>druhá Streda</item>
         <item>druhý Štvrtok</item>
         <item>druhý Piatok</item>
-        <item>druhý Sobota</item>
+        <item>druhá Sobota</item>
         <item>druhá Nedeľa</item>
-        <item>druhá Pondelok</item>
+        <item>druhý Pondelok</item>
         <item>tretí Utorok</item>
         <item>tretia Streda</item>
         <item>tretí Štvrtok</item>

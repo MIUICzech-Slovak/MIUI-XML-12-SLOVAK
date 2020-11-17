@@ -672,4 +672,18 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="boot_audio_dialog_confirm">OK</string>
     <string name="boot_audio_dialog_content">Zvuky zapínania sú vypnuté. Chcete ich povoliť?</string>
     <string name="boot_audio_dialog_title">Upozornenie</string>  
+    
+    <string name="exchange_alert">Kód môžete získať počas našich akcií a vložiť ho sem</string>
+    <string name="pref_lockscreen_magazine_summary">Nahradiť pozadie s prezentáciou obrázkov z rôzných kategórií</string>
+    <string name="theme_bug_report">Odozva</string>
+    <string name="community_message_trigger_disabled">Vyp</string>
+    <string name="community_message_trigger_triggered">Zap</string>    
+    <string name="current_version">Súčasná verzia: %1$s</string>
+    <string name="apply_succeed">Použité</string>
+    <string name="super_wallpaper_setting_apply_success_toast">Použité</string>
+    <string name="de_component_author">Autor</string>
+    <string name="resource_wallpaper_download">Stiahnuť tapetu</string>
+    <string name="more_system_wallpaper">Viac systémových tapiet</string>
+
+    
 </resources>

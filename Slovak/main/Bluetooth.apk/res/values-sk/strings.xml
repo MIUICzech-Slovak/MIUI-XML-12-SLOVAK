@@ -211,4 +211,9 @@
   <string name="switch_audio_device_hfp_toast_hint">Vyberte predvolený výstup zvuku pre spustenie prehrávania na tomto zariadení.</string>
   <string name="switch_audio_device_phone_summary">Prehrať zvuk na tomto zariadení</string>
   <string name="switch_audio_dialog_title">Vyberte výstup zvuku</string>  
+  
+    <string name="bt_audio_share_notification_content">Zobraziť nastavenia</string>
+    <string name="bt_audio_share_notification_title">Zdieľanie zvuku</string>
+    <string name="notice_audio_share_disconnected">Zdieľanie zvuku prerušené</string>
+      
 </resources>

@@ -742,4 +742,7 @@ Veľkosť delta aktualizácie: %2$s"</string>
   <string name="tv_recurrence_monthly">Mesačne</string>
   <string name="tv_recurrence_quaterly">Štvrťročne</string>
   <string name="tv_recurrence_yearly">Ročne</string>  
+    <string name="item_title_data_conversion">Dáta</string>
+    <string name="item_title_loan">Pôžička</string>
+  
 </resources>

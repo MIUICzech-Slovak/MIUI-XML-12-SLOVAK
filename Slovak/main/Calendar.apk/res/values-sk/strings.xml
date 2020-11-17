@@ -148,7 +148,7 @@
   <string name="discard_label">Zrušiť</string>
   <string name="dismiss_all_label">Zavrieť všetko</string>
   <string name="do_not_check">Nekontrolovať -&gt;</string>
-  <string name="does_not_repeat">Jednorazová udalosť</string>
+  <string name="does_not_repeat">Jednorázová udalosť</string>
   <string name="done">Naspať</string>
   <string name="download">Stiahnuť</string>
   <string name="dropdown_delete_button_desc">Odobrať %s z adresátov</string>
@@ -536,7 +536,7 @@
   <string name="view_in_month_view">Zobraziť v mesiaci</string>
   <string name="week_view">Týždeň</string>
   <string name="week_view_today_toast">Je zobrazený tento týždeň</string>
-  <string name="weekly">Týždenne (vždy %s)</string>
+  <string name="weekly">Týždenne (vždy v %s)</string>
   <string name="what_label">Čo</string>
   <string name="when_label">Kedy</string>
   <string name="where_label">Kde</string>
@@ -765,4 +765,5 @@
   <string name="txt_account_name_empty">Prázdny názov účtu</string>
   <string name="txt_caldav_account_info_not_found">Nie je možné získať informácie o účte</string>
   <string name="txt_password">Heslo</string>
+  <string name="import_help">Pomoc</string>
 </resources>

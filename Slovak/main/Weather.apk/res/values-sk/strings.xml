@@ -271,8 +271,11 @@ Zadajte vaše mesto manuálne"</string>
     <string name="save_to_gallery_failure_message">Nebolo možné uložiť do Galérie</string>
     <string name="save_to_gallery_icon_name">Uložiť do Galérie</string>
     <string name="save_to_gallery_success_message">Uložené do Galérie</string>
-    <string name="weather_aqi_full_air_quality_forcast">Predpoveď kvality ovzdušia</string>
+    <string name="weather_aqi_full_air_quality_forcast">Predpoveď</string>
     <string name="weather_more_air_quality">Viac o kvalite ovzdušia</string>
     <string name="welcome_app_title">Vitajte v Počasí!</string>
+    <string name="realtime_aqi_title">Index kvality ovzdušia</string>
+    <string name="aqi_desc">Index kvality ovzdušia</string>
+    <string name="aqi_detail_title">Index kvality ovzdušia</string>
      
 </resources>

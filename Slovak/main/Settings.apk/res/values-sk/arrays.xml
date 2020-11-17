@@ -150,7 +150,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Žiadne</item>
         <item>Ručne</item>
-        <item>Proxy Auto-Config</item>
+        <item>Automatické Proxy</item>
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Vypnuté</item>
@@ -1087,4 +1087,15 @@ Postupujte podľa pokynov"</item>
         <item>Náhodná MAC adresa</item>
         <item>MAC adresa zariadenia</item>
     </string-array>    
+    <string-array name="ap_identify">
+        <item>Predvolené</item>
+        <item>Prenosný hotspot</item>
+    </string-array>   
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>Veľmi malá veľkosť textu</item>
+        <item>Malá veľkosť textu</item>
+        <item>Predvolená veľkosť</item>
+        <item>Veľký text</item>
+        <item>Veľmi veľky text</item>
+    </string-array>     
 </resources>

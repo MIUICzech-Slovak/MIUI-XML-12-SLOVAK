@@ -1070,4 +1070,9 @@ skenované dokumenty automaticky"</string>
     <string name="pref_camera_auto_hibernation_description">Vypnúť displej po %dmin pre úsporu batérie</string>
     <string name="update_loading">Stiahnuté %1$d%%</string>
     <string name="update_start">Aktualizácia %1$s</string>        
+    
+    <string name="settings_camera_near_range_description">Remove blurring when focusing on flat surfaces very close up</string>
+    <string name="settings_camera_near_range_title">Close focus</string>
+    <string name="pref_camera_high_quality_preferred_description">Improve image quality using the smart algorithm. Image capture speed may decrease when this feature is on.</string>
+    <string name="pref_camera_high_quality_preferred_title">Enhance image quality</string>        
 </resources>

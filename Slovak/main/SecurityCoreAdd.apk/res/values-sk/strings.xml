@@ -413,4 +413,7 @@ Ak neaktualizujete, aplikácie v Druhom profile nemusia fungovať správne."</st
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
   <string name="secondspace_homepage">"Nastavte zámok obrazovky pre Druhý profil.
 Rozdeľte a zabezpečte svoje dáta."</string>
+    <string name="xspace_guide_description">"Každý účet
+si zaslúži vlastnú aplikáciu"</string>
+    <string name="xpsace_guide_button">Vytvoriť</string>
 </resources>

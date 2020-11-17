@@ -262,6 +262,8 @@
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>        
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>      
+    <string name="sst_wallpaper_define_title2">Pridať obrázky</string>
+    <string name="theme_title_lock_style">Prepnúť na predvolený zámok obrazovky</string>
+    <string name="theme_des_maml">Môže to chvíľku trvať. Ostatné komponenty vzhľadu nebudú ovplyvnené.</string>
 </resources>
-

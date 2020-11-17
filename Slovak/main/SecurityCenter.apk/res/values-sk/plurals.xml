@@ -700,4 +700,65 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%s apl. bude chránených zámkom aplikácií</item>
         <item quantity="one">%s apl. bude chránená zámkom aplikácií</item>
     </plurals>        
+    
+    <plurals name="image_protect_del_tips">
+        <item quantity="other">Vymazať obrázky (%d)?</item>
+        <item quantity="one">Vymazať obrázky (%d)?</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">%d obrázkov bude vymazaných. Chcete pokračovať?</item>
+        <item quantity="one">%d obrázok bude vymazaný. Chcete pokračovať?</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Vymazať obrázky (%d)</item>
+        <item quantity="one">Vymazať obrázky (%d)</item>
+    </plurals>
+    <plurals name="pp_times">
+        <item quantity="other">%s krát</item>
+        <item quantity="one">%s krát</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d aplikácií</item>
+        <item quantity="one">%d aplikácia</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d vysoko rizikové povolenia udelené</item>
+        <item quantity="one">%d vysoko rizikové povolenie udelené</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d nebezpečných aplikácií</item>
+        <item quantity="one">%d nebezpečná aplikácia</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d zistených rizík zverejnenia informácií o polohe</item>
+        <item quantity="one">%d zistené riziko zverejnenia informácií o polohe</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d rizík</item>
+        <item quantity="one">%d riziko</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d možných rizík</item>
+        <item quantity="one">%d možné riziko</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d fotografií môže obsahovať citlivé informácie</item>
+        <item quantity="one">%d fotografia môže obsahovať citlivé informácie</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d funkcií ktoré chránia vaše súkromie je vypnutých</item>
+        <item quantity="one">%d funkcia ktorá chráni vaše súkromie je vypnutá</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d citlivých povolení</item>
+        <item quantity="one">%d citlivé povolenie</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Odinštalovať aplikácie (%d)</item>
+        <item quantity="one">Odinštalovať aplikácie (%d)</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d položiek potrebuje ochranu</item>
+        <item quantity="one">%d položka potrebuje ochranu</item>
+    </plurals>            
 </resources>

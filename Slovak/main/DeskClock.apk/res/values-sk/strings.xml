@@ -324,10 +324,10 @@
   <string name="bedtime_banner_guide_desc">Naplánujte si spánok</string>
   <string name="bedtime_guide_back_desc">Nebudete dostávať upozornenia na spánok ak teraz ukončite. Chcete ukončiť?</string>
   <string name="bedtime_manage">Spravovať spánok</string>
-  <string name="bedtime_manage_desc">Naplánujte si upozornenia na spánok a sledujte je ho priebeh</string>
+  <string name="bedtime_manage_desc">Naplánujte si upozornenia na spánok a sledujte jeho priebeh</string>
   <string name="bedtime_manage_open">Naplánovať spánok</string>
   <string name="bedtime_manage_tip">Spravujte spánok</string>
-  <string name="bedtime_not_open_text">Vaše štatistiky o spánku budú zobrazení tu</string>
+  <string name="bedtime_not_open_text">Vaše štatistiky o spánku budú zobrazené tu</string>
   <string name="bedtime_repeat_desc">Dni keď dostanete upozornenie</string>
   <string name="bedtime_repeat_type">Naplánovať</string>
   <string name="bedtime_setting_complete">Dobrú noc!</string>

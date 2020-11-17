@@ -1980,5 +1980,6 @@
     <string name="photo_page_lock_screen">Uzamknúť orientáciu</string>
     <string name="toast_orientation_locked">Orientácia uzamknutá</string>
     <string name="watch_all_photo">Galéria</string>
+    <string name="unsupport_type">Tento typ súboru nie je podporovaný</string>
 	
 </resources>

@@ -198,4 +198,6 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="trash_box_close_tip">Zatvoriť</string>
   <string name="trash_box_delete_all">Vymazať všetky položky z koša?</string>
   <string name="no_network">Nebolo možné pripojiť sa k sieti</string>
+    <string name="privacy_policy_title">Ochrana súkromia</string>
+  
 </resources>

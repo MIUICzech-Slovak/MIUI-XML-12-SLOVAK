@@ -808,7 +808,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
   <string name="title_show_blocked_messages">Zobraziť blokované SMS</string>
   <string name="title_show_list_avatar">Zobraziť fotografie kontaktu</string>
   <string name="title_show_photo_word">Priradiť obrázok kontaktu</string>
-  <string name="title_show_sms_template">Kontrola SMS čí obsahuje overovací kód</string>
+  <string name="title_show_sms_template">Kontrola SMS či obsahuje overovací kód</string>
   <string name="title_show_sms_template_in">Kontrola SMS pre OTP</string>
   <string name="title_timed_message_dialog">Čas odoslania správy</string>
   <string name="title_use_gsm_alphabet">Orezať diakritiku pred odoslaním</string>

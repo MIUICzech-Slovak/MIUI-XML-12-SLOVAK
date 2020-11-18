@@ -1665,7 +1665,6 @@ You can view generated logs in File Manager."</string>
   <string name="enable_service_password_reason">Keďže zapnutie služby %1$s ovplyvňuje šifrovanie údajov, musíte potvrdiť svoje heslo.</string>
   <string name="enable_service_pattern_reason">Keďže zapnutie služby %1$s ovplyvňuje šifrovanie údajov, musíte potvrdiť svoj vzor.</string>
   <string name="enable_service_pin_reason">Keďže zapnutie služby %1$s ovplyvňuje šifrovanie údajov, musíte potvrdiť svoj kód PIN.</string>
-  <string name="enable_service_title">Použiť %1$s?</string>
   <string name="enable_snapshot_screenlock">Rýchla fotografia tl. Späť</string>
   <string name="enable_terminal_summary">Povoliť terminálovú apl. na miestny prístup k prostrediu shell</string>
   <string name="enable_terminal_title">Miestny terminál</string>
@@ -6633,7 +6632,6 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="screen_enhance_status_disable">Vyp</string>
     <string name="screen_enhance_status_enable">Zap</string>    
 <string name="status_device_wifi_mac_address">Wi‑Fi MAC adresa zariadenia</string>    
-<string name="feedback_btn_text">Odoslať spätnú väzbu</string>
     <string name="wifi_ap_hidden_ssid">Skryť SSID</string>
     <string name="wifi_ap_ssid_off">Vyp</string>
     <string name="wifi_ap_ssid_on">Zap</string>
@@ -6676,7 +6674,6 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="paper_mode_summary">Prepnúť na teplejšie farby a textúru papiera pre zníženie únavy očí</string>
     <string name="paper_mode_title">Papier</string> 
     <string name="volume_adjustment">Upraviť hlasitosť</string>
-    <string name="silent_mode">Tichý režim</string>
     <string name="silent_mode_disable_media">Stíšiť všetko</string>
     <string name="silent_mode_enable_media">Prehrávať média</string>
     <string name="silent_mode_summary">Stíšiť hovory, upozornenia a média</string>
@@ -6696,7 +6693,6 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="bt_audio_share_property">Zdieľanie</string>
     <string name="bt_audio_share_switch_summary">Zdieľať zvuk s pripojenými Bluetooth zariadeniami</string>
     <string name="bt_audio_share_switch_title">Zdieľať zvuk</string>
-    <string name="device_opcust_version">Verzia operátora</string>
     <string name="tether_password_illegal_character">Heslo obsahuje nepovolené znaky</string>
                
 </resources>

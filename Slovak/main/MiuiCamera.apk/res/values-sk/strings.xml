@@ -1040,7 +1040,7 @@ skenované dokumenty automaticky"</string>
   <string name="unsupported_microphones_audio_zoom_tips">Audio zoom nepodporuje ext. mikrofón</string>
   <string name="user_disagree">Nesúhlasím</string>
   <string name="pano_click_to_toggle_direction">Dotykom na šípku zmeníte smer</string>
-  <string name="pano_go_on_moving">Pohýbujte zariadením plynulo podľa čiary</string>
+  <string name="pano_go_on_moving">Pohybujte zariadením plynulo podľa čiary</string>
   <string name="pref_camera_delay_capture_10s">%ds oneskorenie</string>
   <string name="pref_camera_delay_capture_3s">%ds oneskorenie</string>
   <string name="pref_camera_delay_capture_5s">%ds oneskorenie</string>

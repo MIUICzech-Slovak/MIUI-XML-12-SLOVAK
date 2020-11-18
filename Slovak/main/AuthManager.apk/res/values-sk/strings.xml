@@ -409,7 +409,7 @@
     <string name="grant_dialog_storage_category_title">Táto aplikácia vyžaduje povolenia pre prístup ku Galérii a správam v sociálnych aplikáciach</string>
     <string name="grant_dialog_storage_gallery_title">Galéria</string>
     <string name="grant_dialog_storage_sociality_title">Správy v sociálnych aplikáciach</string>
-    <string name="storage_policy_notify_both_title">%1$s nemá povolenie pre pístup ku Galérii</string>
+    <string name="storage_policy_notify_both_title">%1$s nemá povolenie pre prístup ku Galérii</string>
     <string name="storage_policy_notify_content">Dotykom upravíte povolenia</string>
     <string name="storage_policy_notify_gallery_title">%1$s nemá povolenie pre prístup ku Galérii</string>
     <string name="storage_policy_notify_sociality_title">%1$s nemá prístup ku správam v sociálnych aplikáciach</string>

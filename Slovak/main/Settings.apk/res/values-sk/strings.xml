@@ -6326,7 +6326,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
      <string name="face_unlock_success_show_message_toast">Upozornenia budú zobrazené na zamknutej obrazovke</string>
      <string name="face_unlock_success_stay_screen_msg">Zostať na zámku obrazovky po odomknutí tvárou. Potiahnutím nahor otvoriť domácu plochu.</string>
      <string name="face_unlock_success_stay_screen_title">Zostať na zámku obrazovky po odomknutí</string>
-     <string name="feedback_btn_text">Submit feedback</string>
+     <string name="feedback_btn_text">Spätná väzba</string>
      <string name="flash_drive_backup_disable">Najskôr pripojte USB zariadenie</string>
      <string name="flash_drive_backup_enable">Použiť USB zariadenie pre zálohovanie alebo obnovu</string>
      <string name="freeform_guide_drop_down_to_fullscreen_summary">Stlačte a podržte, potom potiahnite nadol za lištu plávajúceho okna</string>
@@ -6657,10 +6657,10 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="accessibility_autoclick_custom_title">Vlastné</string>
     <string name="accessibility_autoclick_default_title">Vyp</string>
     <string name="accessibility_autoclick_long_summary">1s</string>
-    <string name="accessibility_autoclick_long_title">Dlhý</string>
+    <string name="accessibility_autoclick_long_title">Dlhé</string>
     <string name="accessibility_autoclick_longer_desc">Dlhší</string>
     <string name="accessibility_autoclick_medium_summary">0.6s</string>
-    <string name="accessibility_autoclick_medium_title">StrednéMedium</string>
+    <string name="accessibility_autoclick_medium_title">Stredné</string>
     <string name="accessibility_autoclick_preference_title">Autom. klik</string>
     <string name="accessibility_autoclick_seekbar_desc">Čas autom. kliknutia</string>
     <string name="accessibility_autoclick_short_summary">0.2s</string>
@@ -6694,5 +6694,22 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="bt_audio_share_switch_summary">Zdieľať zvuk s pripojenými Bluetooth zariadeniami</string>
     <string name="bt_audio_share_switch_title">Zdieľať zvuk</string>
     <string name="tether_password_illegal_character">Heslo obsahuje nepovolené znaky</string>
-               
+    <string name="papger_effect_category">Režim</string>
+    <string name="effect_preview">Náhľad</string>
+    <string name="preview_pager_content_description">Náhľad</string>
+    <string name="texture_adjust_temperature_title">Teplota farieb</string>
+    <string name="adjust_temperature_title">Teplota farieb</string>
+    <string name="screen_paper_texture">Textúra</string>
+    <string name="paper_color_title">Farby</string>
+    <string name="paper_mode_reset">Obnoviť predvolené</string>
+    <string name="ca_certificate_warning_description">"Certifikáty CA využívajú weby, aplikácie a siete VPN na šifrovanie. Inštalujte iba certifikáty CA od organizácií, ktorým dôverujete. \n\n Ak si nainštalujete certifikát CA, vlastník certifikátu by mohol získať prístup k vašim údajom, napríklad k heslám, či podrobnostiam kreditnej karty z webov alebo aplikácií, ktoré používate, a to aj vtedy, ak sú vaše údaje šifrované."</string>
+
+    <string name="ca_certificate_warning_title">Vaše údaje nebudú súkromné</string>    
+   <string name="cert_not_installed">Certifikát nie je nainštalovaný</string>
+    <string name="certificate_warning_dont_install">Neinštalovať</string>
+    <string name="certificate_warning_install_anyway">Inštalovať</string>          
+    <string name="accessibility_summary_state_disabled">Vyp</string>
+    <string name="accessibility_summary_state_enabled">Zap</string>  
+    <string name="input_device_category">Vstupné zariadenie</string>
+           
 </resources>

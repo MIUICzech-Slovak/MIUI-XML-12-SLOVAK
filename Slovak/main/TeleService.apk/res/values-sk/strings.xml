@@ -1758,4 +1758,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="traffic_mode_summary">Súčasná aplikácia má prioritu pre používanie mobilnej siete čo môže spôsobiť, že aplikácie na pozadí nebudú mať prístup k sieti</string>
   <string name="traffic_mode_switch_title">Extrémny režim</string>  
   <string name="preference_countrycode_title">Predvoľba krajiny</string>
+    <string name="v7_preference_off">Vyp</string>
+    <string name="v7_preference_on">Zap</string>  
 </resources>

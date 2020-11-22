@@ -58,4 +58,20 @@
         <item quantity="other">Položky nepridané do vášho účtu %1$d</item>
         <item quantity="one">Položky nepridané do vášho účtu %1$d</item>
     </plurals>	
+    <plurals name="de_author_theme_amount">
+        <item quantity="other">Položiek: %1$d</item>
+        <item quantity="one">Položiek: %1$d</item>
+    </plurals>    
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">Písma: %1$d</item>
+        <item quantity="one">Písma: %1$d</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">Ikony: %1$d</item>
+        <item quantity="one">Ikony: %1$d</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">Témy: %1$d</item>
+        <item quantity="one">Témy: %1$d</item>
+    </plurals>    
 </resources>

@@ -1098,4 +1098,9 @@ Postupujte podľa pokynov"</item>
         <item>Veľký text</item>
         <item>Veľmi veľky text</item>
     </string-array>     
+    <string-array name="paper_color_values">
+        <item>Plné farby</item>
+        <item>Svetlé farby</item>
+        <item>Čierna a bielna</item>
+    </string-array>    
 </resources>

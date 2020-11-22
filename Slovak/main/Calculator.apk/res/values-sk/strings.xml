@@ -744,5 +744,6 @@ Veľkosť delta aktualizácie: %2$s"</string>
   <string name="tv_recurrence_yearly">Ročne</string>  
     <string name="item_title_data_conversion">Dáta</string>
     <string name="item_title_loan">Pôžička</string>
+    <string name="convertion_unit_data">Konvertor dát</string>
   
 </resources>

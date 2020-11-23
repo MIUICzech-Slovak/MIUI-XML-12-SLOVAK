@@ -30,18 +30,6 @@
         <item quantity="other">%1$d AOD</item>
         <item quantity="one">%1$d AOD</item>
     </plurals>
-    <plurals name="anonymous_resource_count_font">
-        <item quantity="other">%1$d písiem</item>
-        <item quantity="one">%1$d písmo</item>
-    </plurals>
-    <plurals name="anonymous_resource_count_icon">
-        <item quantity="other">%1$d ikon</item>
-        <item quantity="one">%1$d ikona</item>
-    </plurals>
-    <plurals name="anonymous_resource_count_theme">
-        <item quantity="other">%1$d tém</item>
-        <item quantity="one">%1$d téma</item>
-    </plurals>
     <plurals name="anonymous_resource_count_title">
         <item quantity="other">Pridať položky %1$d</item>
         <item quantity="one">Pridať položky %1$d</item>

@@ -686,10 +686,9 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="more_system_wallpaper">Viac systémových tapiet</string>
 
     <string name="home_daily">Denný výber</string>
-      <string name="de_component_aod_author">Autor</string>
-    <string name="de_component_author">Autor</string>
-    <string name="theme_detail_tab_recommend">Odporúčané</string>
+    <string name="de_component_aod_author">Autor</string>
     <string name="detail_recommend_title">Môžu sa vám páčiť aj tieto</string>
     <string name="more">Viac</string>
+    <string name="home_daily">Odporúčané</string>
     
 </resources>

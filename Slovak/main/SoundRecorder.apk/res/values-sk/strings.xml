@@ -199,5 +199,6 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="trash_box_delete_all">Vymazať všetky položky z koša?</string>
   <string name="no_network">Nebolo možné pripojiť sa k sieti</string>
     <string name="privacy_policy_title">Ochrana súkromia</string>
-  
+    <string name="uninstall_warning_content">Záznamník je systémová aplikácia. Ak ju odinštalujete, niektoré funkcie nemusia fungovať správne.</string>
+    <string name="uninstall_warning_title">Odinštalovať Záznamník?</string>  
 </resources>

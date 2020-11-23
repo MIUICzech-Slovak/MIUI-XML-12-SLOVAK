@@ -6711,5 +6711,16 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="accessibility_summary_state_disabled">Vyp</string>
     <string name="accessibility_summary_state_enabled">Zap</string>  
     <string name="input_device_category">Vstupné zariadenie</string>
-           
+
+    <string name="gxzw_anim_dialog_cancel_enroll">Zrušiť</string>
+    <string name="gxzw_anim_dialog_enroll">OK</string>
+    <string name="gxzw_anim_dialog_message">Najskôr musíte pridať odtlačok prsta. Chcete ho pridať teraz?</string>
+    <string name="gxzw_anim_dialog_title">Pridať odtlačok</string>
+    <string name="resolution_fhd">FHD+ (Full HD)</string>
+    <string name="resolution_fhd_summary">2400×1080</string>
+    <string name="resolution_qhd">QHD+ (Quad HD)</string>
+    <string name="resolution_qhd_summary">3200×1440 (Spotrebuje viac energie)</string>
+    <string name="save_battery_mode">Ušetriť energiu s QHD+</string>
+    <string name="save_battery_mode_summary">Prepnúť rozlíšenie displeja automaticky pre ušetrenie energie</string>
+	
 </resources>

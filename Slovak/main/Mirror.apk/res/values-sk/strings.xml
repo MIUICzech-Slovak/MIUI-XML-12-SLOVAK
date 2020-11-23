@@ -61,13 +61,13 @@
     <string name="settings_feature_characteristics">Špeciálne funkcie</string>
     <string name="settings_feature_dnd_summary">Stíšiť upozornenia ak je telefón pripojený k PC</string>
     <string name="settings_feature_dnd_title">Režim Nerušiť</string>
-    <string name="settings_feature_files_drag_summary">Podržte a potiahnute položky pre ich prenesenie medzi zariadeniami</string>
+    <string name="settings_feature_files_drag_summary">Podržte a potiahnite položky pre ich prenesenie medzi zariadeniami</string>
     <string name="settings_feature_files_drag_title">Prenos súborov</string>
     <string name="settings_feature_keep_screen_summary">Ponechajte odomknutý telefón pre zamedzenie náhodného odpojenia</string>
     <string name="settings_feature_keep_screen_title">Nezamykať displej</string>
     <string name="settings_feature_multi_window_summary">Kliknite pravým tlačidlom na displej vášho telefónu pre otvorenie ďalšieho okna</string>
     <string name="settings_feature_multi_window_title">Otvoriť viac okien</string>
-    <string name="settings_feature_pc_edit_files_summary">Kliknite pravým tlačidlom v Galérií alebo Súboroch pre ich pravenie v PC.</string>
+    <string name="settings_feature_pc_edit_files_summary">Kliknite pravým tlačidlom v Galérií alebo Súboroch pre ich upravenie v PC.</string>
     <string name="settings_feature_pc_edit_files_title">Upraviť položky v telefóne cez PC</string>
     <string name="settings_home">Zrkadlenie telefónu</string>
     <string name="settings_home_device_disconnect">Odpojiť</string>

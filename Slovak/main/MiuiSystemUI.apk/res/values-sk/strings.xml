@@ -2504,7 +2504,6 @@ Chcete ich naďalej zobrazovať?"</string>
     <string name="see_more_title">Zobraziť viac</string>
     <string name="sensor_privacy_mode">Senzory sú vypnuté</string>
     <string name="slice_permission_allow">Povoliť</string>
-    <string name="slice_permission_allow">Povoliť</string>
     <string name="slice_permission_checkbox">Povoliť aplikácii %1$s zobrazovať rezy z ľubovoľnej aplikácie</string>
     <string name="slice_permission_deny">Zamietnuť</string>
     <string name="slice_permission_text_1">– Môže čítať informácie z aplikácie %1$s</string>

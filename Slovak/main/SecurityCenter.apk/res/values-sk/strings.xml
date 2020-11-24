@@ -4311,7 +4311,7 @@ z vášho hrania hier"</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">Rozmazať náhľady citlivých aplikácií</string>
     <string name="privacy_risk_result_set_btn">Nastavenia</string>
     <string name="privacy_risk_result_success_empty_msg">Všetko vyzerá v poriadku!</string>
-    <string name="privacy_risk_result_success_msg">Opravené všetky chyby!</string>
+    <string name="privacy_risk_result_success_msg">Opravené všetky problémy!</string>
     <string name="privacy_risk_result_uninstall_btn">Odinštalovať</string>
     <string name="privacy_risk_sensitive">Citlivé povolenia</string>
     <string name="privacy_risk_sensitive_bar_title">Citlivé povolenia</string>
@@ -4374,7 +4374,7 @@ z vášho hrania hier"</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">Rýchlejšie uzamknutie zariadenia šetrí batériu</string>
     <string name="power_center_list_item_wake_notification_summary">Prichádzajúce upozornenia budú zobrazené len ak rozsvietite displej</string>
     <string name="power_center_optimize_title">Odporúčania</string>
-    <string name="power_center_problem_title">Opraviť chyby</string>
+    <string name="power_center_problem_title">Opraviť problémy</string>
     <string name="power_center_reduce_dpi_summary">QHD+ spotrebuje viac energie</string>
     <string name="power_center_reduce_resolution">Menšie rozlíšenie displeja</string>
     <string name="power_center_used_time_Introduction">Čas na batériu od posledného nabitia %s</string>
@@ -4398,7 +4398,7 @@ z vášho hrania hier"</string>
     <string name="power_optimize_darkmode_dialog_title">Povoliť Tmavý režim</string>
     <string name="power_optimize_darkmode_extend_summary">Tmavý režim zmení farebnú schému systému a vybraných aplikácií pre úsporu energie a proti únave vašich očí</string>
     <string name="power_optimize_darkmode_summary">Tmavý režim spotrebuje menej energie</string>
-	<string name="power_optimize_disable_5g_summary">5G pripojenie spotrebuje viac energie</string>
+    <string name="power_optimize_disable_5g_summary">5G pripojenie spotrebuje viac energie</string>
     <string name="power_optimize_disable_aod">Vypnúť Always-on displej</string>
     <string name="power_optimize_disable_start_other_app_summary">Aplikácie spotrebujú viac energie vzájomným spúšťaním</string>
     <string name="power_optimize_disconnect_data">Vypnúť mobilné dáta %dmin po uzamknutí</string>

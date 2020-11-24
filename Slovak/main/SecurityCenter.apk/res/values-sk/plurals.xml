@@ -761,4 +761,61 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d položiek potrebuje ochranu</item>
         <item quantity="one">%d položka potrebuje ochranu</item>
     </plurals>            
+	
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d chýb používania batérie</item>
+        <item quantity="one">%d chyba používania batérie</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimalizovať %d položiek pre úsporu batérie</item>
+        <item quantity="one">Optimalizovať %d položku pre úsporu batérie</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">krát</item>
+        <item quantity="one">krát</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d chýb používania batérie</item>
+        <item quantity="one">%d chyba používania batérie</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" h"</item>
+        <item quantity="one">" h"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Nabite naplno vaše zariadenie aspoň %2$d krát pre presnejšie štatistiky</item>
+        <item quantity="one">Nabite naplno vaše zariadenie aspoň %2$d krát pre presnejšie štatistiky</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Opraviť %d chýb používania batérie</item>
+        <item quantity="one">Opraviť %d chyba používania batérie</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Môžete opraviť %d chýb používania batérie</item>
+        <item quantity="one">Môžete opraviť %d chybu používania batérie</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d položiek môže byť optimalizovaných"</item>
+        <item quantity="one">" %d položka môže byť optimalizovaná"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Optimalizovať %d položiek pre úsporu batérie</item>
+        <item quantity="one">Optimalizovať %d položku pre úsporu batérie</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Môžete optimalizovať %d položiek pre úsporu batérie</item>
+        <item quantity="one">Môžete optimalizovať %d položku pre úsporu batérie</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d aplikácií sa často spustilo</item>
+        <item quantity="one">%d aplikácií sa často spustilo</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d aplikácií vybíja batériu</item>
+        <item quantity="one">%d aplikácia vybíja batériu</item>
+    </plurals>	
 </resources>

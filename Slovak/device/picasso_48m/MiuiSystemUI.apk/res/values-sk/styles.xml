@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="TextAppearance.StatusBar.Battery" parent="@android:style/TextAppearance.StatusBar.EventContent.Line2">
+    <style name="TextAppearance.StatusBar.Battery" parent="@android:style/TextAppearance.StatusBar">
         <item name="android:textSize">@dimen/statusbar_battery_size</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">@color/status_bar_textColor</item>
     </style>
-    <style name="TextAppearance.StatusBar.Carrier" parent="@android:style/TextAppearance.StatusBar.EventContent.Line2">
+    <style name="TextAppearance.StatusBar.Carrier" parent="@android:style/TextAppearance.StatusBar">
         <item name="android:textSize">@dimen/statusbar_carrier_size</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">@color/status_bar_textColor</item>
     </style>
-    <style name="TextAppearance.StatusBar.WifiGeneration" parent="@android:style/TextAppearance.StatusBar.EventContent.Line2">
+    <style name="TextAppearance.StatusBar.WifiGeneration" parent="@android:style/TextAppearance.StatusBar">
         <item name="android:textSize">@dimen/statusbar_wifi_generation_size</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">@color/status_bar_textColor</item>
         <item name="android:fontFamily">sans-serif-black</item>
     </style>
-    <style name="TextAppearance.StatusBar.WifiStandard" parent="@android:style/TextAppearance.StatusBar.EventContent.Line2">
+    <style name="TextAppearance.StatusBar.WifiStandard" parent="@android:style/TextAppearance.StatusBar">
         <item name="android:textSize">@dimen/statusbar_wifi_standard_size</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">@color/status_bar_textColor</item>
@@ -26,6 +26,6 @@
         <item name="android:textSize">@dimen/qs_time_expanded_size</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">?android:textColorPrimary</item>
-        <item name="android:fontFamily">@android:string/APKTOOL_DUMMY_236</item>
-    </style>    
+        <item name="android:fontFamily">@android:string/config_headlineFontFamilyMedium</item>
+    </style>
 </resources>

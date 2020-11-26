@@ -137,4 +137,8 @@
         <item quantity="other">Odomknuté %1$d krát %2$s</item>
         <item quantity="one">Odomknuté %1$d krát %2$s</item>
     </plurals>	 
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">Priem. %.2f krát</item>
+        <item quantity="one">Priem. %.2f krát</item>
+    </plurals>	
 </resources>

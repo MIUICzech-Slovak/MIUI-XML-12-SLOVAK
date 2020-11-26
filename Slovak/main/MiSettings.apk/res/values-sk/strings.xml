@@ -126,7 +126,7 @@
   <string name="back">Späť</string>
   <string name="search_menu_title">Vyhľadať</string>
   <string name="usage_state_accurate_date">dd.MMMM, yyyy</string>
-  <string name="usage_state_add_up_count">Sessions</string>
+  <string name="usage_state_add_up_count">Relácie</string>
   <string name="usage_state_add_up_days">Dní</string>
   <string name="usage_state_add_up_time">Celkový čas</string>
   <string name="usage_state_focus_mode_summary">Obmedziť všetky funkcie okrem SOS a fotoaparátu</string>
@@ -379,11 +379,23 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
   <string name="dc_light_hint_other">DC stmavenie môže ovplyvniť zobrazovaciu frekvenciu displeja.</string>
   <string name="dc_lignt_enable_hint">Anti-flicker režim nastaví frekvenciu displeja na 60Hz. Chcete zapnúť Anti-flicker režim?</string>  
   <string name="usage_device_limit_app_prolong_time5">Pridať čas len raz</string>  
-  <string name="fps_nature_summary">Vyššia obnovovacia frekvencia udrží ostrý a čístý obraz</string>
+  <string name="fps_nature_summary">Vyššia obnovovacia frekvencia udrží ostrý a čistý obraz</string>
   <string name="fps_nature_title">Vysoká</string>
   <string name="fps_smooth_summary">Stredná obnovovacia frekvencia zlepší plynulosť animácií</string>
   <string name="fps_smooth_title">Stredná</string>
   <string name="fps_standard_summary">Štandardná obnovovacia frekvencia šetrí batériu</string>
   <string name="fps_standard_title">Štandardná</string>
-  <string name="fps_user_tip">Tieto animácie sú prehrávané pomalšie kvoli ukážke rozdielu v obnovovacej frekvencii.</string>
+  <string name="fps_user_tip">Tieto animácie sú prehrávané pomalšie kvôli ukážke rozdielu v obnovovacej frekvencii.</string>
+  
+    <string name="usage_app_holiday_limit">Dni voľna</string>
+    <string name="usage_new_home_week_average_count">Priem. %s</string>
+    <string name="usage_new_home_week_compare_text1_new">(%s%% viac ako minulý týždeň)</string>
+    <string name="usage_new_home_week_compare_text2_new">(%s%% menej ako minulý týždeň)</string>
+    <string name="usage_new_home_week_unlock_compare_decrease">(%.2f menej ako minulý týždeň)</string>
+    <string name="usage_new_home_week_unlock_compare_increase">(%.2f viac ako minulý týždeň)</string>
+    <string name="usage_state_holiday_day_hour_minute">Dni voľna: %1$s %2$s</string>
+    <string name="usage_state_holiday_time">Dni voľna: %s</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary_new">Presné do minúty (spotrebuje viac energie)</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary_new">Presné do minúty počas %d ostávajúcich hodín (šetrí energiu)</string>
+	
 </resources>

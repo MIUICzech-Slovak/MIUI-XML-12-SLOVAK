@@ -6764,4 +6764,6 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="miheadset_rename_device">Premenovať</string>
     <string name="miheadset_soft">Jemné</string>
     <string name="miheadset_transparent">Transparentné</string>	
+    <string name="manage_external_storage_title">Prístup ku všetkým súborom</string>
+    
 </resources>

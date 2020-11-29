@@ -1981,5 +1981,14 @@
     <string name="toast_orientation_locked">Orientácia uzamknutá</string>
     <string name="watch_all_photo">Galéria</string>
     <string name="unsupport_type">Tento typ súboru nie je podporovaný</string>
+
+    <string name="pic_to_pdf_a4_format">A4 papier</string>
+    <string name="pic_to_pdf_all_not_support">Vybrané obrázky nemôžu byť uložené ako PDF</string>
+    <string name="pic_to_pdf_exit_notice">Toto PDF nebude uložené ak odídete. Chcete ukončiť?</string>
+    <string name="pic_to_pdf_not_support_video">Videá nemôžu byť uložené ako PDF</string>
+    <string name="pic_to_pdf_preview_loading">Načítavanie náhľadu...</string>
+    <string name="pic_to_pdf_save_in">Uložené PDF do %s</string>
+    <string name="operation_pic_to_pdf">Vytvoriť PDF</string>
+    
 	
 </resources>

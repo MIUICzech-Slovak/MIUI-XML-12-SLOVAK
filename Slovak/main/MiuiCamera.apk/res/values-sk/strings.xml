@@ -1077,5 +1077,14 @@ skenované dokumenty automaticky"</string>
     <string name="pref_camera_high_quality_preferred_title">Vylepšiť kvalitu fotografie</string>      
     <string name="time_stamp_date_format">dd.MM.yyyy</string>  
     <string name="pref_hdr10plus_video_mode_description">Optimalizovať farby a prispôsobiť kontrast pre 4K a 8K videá. Táto funkcia funguje len na HDR10+ zariadeniach.</string>
+    
+    <string name="doc_shortcut_long">Dokument</string>
+    <string name="doc_shortcut_short">Dokum.</string>
+    <string name="professional_shortcut_long">Povolanie</string>
+    <string name="professional_shortcut_short">Povol.</string>
+    <string name="video_shortcut_long">Video</string>
+    <string name="video_shortcut_short">Video</string>
+    <string name="capture_shortcut_long">Selfie</string>
+    <string name="capture_shortcut_short">Selfie</string>                
 	
 </resources>

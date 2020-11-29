@@ -65,8 +65,8 @@
         <item quantity="one">h</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">min</item>
-        <item quantity="one">min</item>
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
     </plurals>
     <plurals name="usage_days">
         <item quantity="other">%d dní</item>
@@ -141,4 +141,8 @@
         <item quantity="other">Priem. %.2f krát</item>
         <item quantity="one">Priem. %.2f krát</item>
     </plurals>	
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>    
 </resources>

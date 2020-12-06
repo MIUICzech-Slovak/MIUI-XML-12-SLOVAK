@@ -33,4 +33,8 @@
         <item quantity="other">Zakázali ste  %2$s prístup ku schránke %1$d krát. Chcete navždy zakázať %3$s prístup ku schránke?</item>
         <item quantity="one">Zakázali ste  %2$s prístup ku schránke %1$d krát. Chcete navždy zakázať %3$s prístup ku schránke?</item>
     </plurals>	
+<plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">Aplikácia %1$s sa pokúsila načítať schánku, blokované %2$d krát</item>
+        <item quantity="one">Aplikácia %1$s sa pokúsila načítať schánku, blokované %2$d krát</item>
+    </plurals>    
 </resources>

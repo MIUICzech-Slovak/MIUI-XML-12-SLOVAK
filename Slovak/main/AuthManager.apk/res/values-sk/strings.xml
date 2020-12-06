@@ -418,5 +418,12 @@
     <string name="HIPS_Perm_mediaVolume_Desc">Povoliť aplikácii upraviť hlasitosť médií</string>
     
     <string name="HIPS_SecurityPrompt_Reject_Never">Zakázať a viac sa nepýtať (%d)</string>
+    
+    <string name="clipboard_read_ai_deny_once">Aplikácia %1$s sa pokúsila načítať obsah schránky</string>
+    <string name="clipboard_read_deny_dialog_title">Aplikácii %1$s bolo zakázané načítať schránku</string>
+    <string name="go_behavior_record">Zobraziť históriu</string>
+    <string name="forbid_notice_me">Viac neupozorňovať</string>
+    <string name="keep_notice_me">Upozorniť ma</string>
+    <string name="notification_click_tip">Zobraziť podrobnosti</string>        
 
 </resources>

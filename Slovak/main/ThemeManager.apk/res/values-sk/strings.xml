@@ -151,7 +151,7 @@
   <string name="lockscreen_apply_success">Tapeta nastavená</string>
   <string name="lockscreen_apply_success_but_home_apply_failured">Tapeta zámku nastavená ale nie je možné nastaviť pre domácu obrazovku</string>
   <string name="lockscreen_magazine_subscribe">Sledujúcich: %1$s</string>
-  <string name="lockscreen_magazine_summary">Získajte každý deň nové tapety priamo na vašu zamykaciu obrazovku</string>
+  <string name="lockscreen_magazine_summary">Kategórie</string>
   <string name="lockscreen_magazine_system_subscribe">Tapety: %1$s</string>
   <string name="lockscreen_magazine_system_title">Predvolená</string>
   <string name="lockscreen_magazine_title">Denný balíček tapiet</string>
@@ -689,5 +689,13 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="detail_recommend_title">Môžu sa vám páčiť aj tieto</string>
     <string name="more">Viac</string>
     <string name="home_daily">Odporúčané</string>
+    
+    <string name="accessibiliy_description_content_more">Viac</string>
+    <string name="concentration_old_period">Viac</string>
+    <string name="de_more_info">Viac</string>
+    <string name="miuishare_title_more">Viac</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">Viac</string>
+    <string name="first_page_recommend">Odporúčané</string>
+    
     
 </resources>

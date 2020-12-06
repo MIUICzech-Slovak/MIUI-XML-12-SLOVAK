@@ -62,4 +62,8 @@
         <item quantity="other">Témy: %1$d</item>
         <item quantity="one">Témy: %1$d</item>
     </plurals>    
+    <plurals name="de_icon_count">
+        <item quantity="other">Ikony: %1$d</item>
+        <item quantity="one">Ikony: %1$d</item>
+    </plurals>    
 </resources>

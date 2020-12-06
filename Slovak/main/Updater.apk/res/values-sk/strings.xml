@@ -34,7 +34,7 @@
   <string name="install_desc">"Zariadenie sa reštartuje do TWRP a nainštaluje súbor: %1$s
 Vaše dáta nebudú vymazané."</string>
   <string name="install_title">Chcete pokračovať?</string>
-  <string name="menu_title_current_version_log">Informácie o aktualizácií</string>
+  <string name="menu_title_current_version_log">Informácie o aktualizácii</string>
   <string name="menu_title_pick_rom_file">Vybrať ZIP z úložiska</string>
   <string name="menu_title_recovery">Reštartovať do TWRP recovery</string>
   <string name="message_checkbox">Nezobrazovať oznámenia od miuios.cz</string>

@@ -1156,15 +1156,13 @@ Chcete opustiť túto web stránku?"</string>
   <string name="mw_save_password_never">Nikdy</string>
   <string name="mw_save_password_notnow">Neskôr</string>
   <string name="mw_save_password_remember">Zapamätať si</string>  
-  
     <string name="search_history">Prehľadať históriu</string>
     <string name="clear_input_history_confirm">Chcete vymazať históriu?</string>
-    <string name="clear_clipboard_confirm">Cchete vymazať schránku?</string>
+    <string name="clear_clipboard_confirm">Chcete vymazať schránku?</string>
     <string name="clear_input_history_confirm_bt_text">Potvrdiť</string>
     <string name="send_bookmark">Záložka</string>
     <string name="clipboard">Schránka</string>
-    <string name="incognito">Inkognito</string>
-    <string name="bookmark">Záložka</string>  
+    <string name="incognito">Inkognito</string>  
     <string name="no_content">Prázdne</string>
     <string name="book_mark_search_hint">Prehľadať %1$s</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.sk</string>

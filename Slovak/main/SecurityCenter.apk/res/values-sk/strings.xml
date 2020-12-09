@@ -4464,7 +4464,7 @@ z vášho hrania hier"</string>
     <string name="special_perm_intercept_setting_title">Čítať nastavenia zariadenia</string>
     <string name="special_perm_intercept_significance_msg">Prístup k informáciám o zariadení (môžu obsahovať osobné údaje)</string>
     <string name="special_perm_intercept_significance_title">Prístup k informáciám o zariadení</string>
-    <string name="special_perm_intercept_system_msg">nštalovať aplikácie, ktoré môžu obsahovať vírusy alebo sa správať iným spôsobom</string>
+    <string name="special_perm_intercept_system_msg">Inštalovať aplikácie, ktoré môžu obsahovať vírusy alebo sa správať iným spôsobom</string>
     <string name="special_perm_intercept_system_title">Ovplyvniť bezpečnosť a stabilitu systému</string>
     <string name="special_perm_intercept_title">"\"%s\" je veľmi citlivé povolenie. Ak udelíte toto povolenie, môže dôjsť k úniku vašich súkromných informácií. Tu sú povolenia čo budú môcť aplikácie robiť:"</string>
     <string name="special_perm_intercept_usb_title">"\"%s\" je vysoko citlivá služba určená iba pre vývojárov. Ak túto funkciu zapnete, môže dôjsť k úniku vašich súkromných informácií. Tu je čo sa môže stať:"</string>
@@ -4483,6 +4483,5 @@ z vášho hrania hier"</string>
     <string name="special_perm_vr_msg">Povoliť aplikáciám používať asistenta VR</string>
     <string name="special_perm_vr_title">Používať VR asistenta</string>
     <string name="special_perm_window_msg">Povoliť aplikáciám zobrazovať položky v režime PIP</string>
-    <string name="special_perm_window_title">Zobraziť položky v režime PIP</string>    
-      
+    <string name="special_perm_window_title">Zobraziť položky v režime PIP</string>          
 </resources>

@@ -2536,4 +2536,12 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     <string name="volume_ringer_status_normal">Prezvoniť</string>
     <string name="volume_ringer_status_silent">Vypnúť zvuk</string>
     <string name="volume_ringer_status_vibrate">Vibrovať</string>
+	
+    <string name="face_unlock_password_and_fingerprint">Enter password or use fingerprint to unlock</string>
+    <string name="face_unlock_pattern_and_fingerprint">Draw pattern or use fingerprint to unlock</string>
+    <string name="face_unlock_pin_and_fingerprint">Enter PIN or use fingerprint to unlock</string>
+    <string name="input_lockscreen_password_hint_text">Enter password</string>
+    <string name="input_lockscreen_pattern_hint_text">Draw pattern</string>
+    <string name="input_lockscreen_pin_hint_text">Enter PIN</string>
+	
 </resources>

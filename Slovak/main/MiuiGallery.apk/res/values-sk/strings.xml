@@ -1990,5 +1990,10 @@
     <string name="pic_to_pdf_save_in">Uložené PDF do %s</string>
     <string name="operation_pic_to_pdf">Vytvoriť PDF</string>
     
+    <string name="album_homepage_show_all_photos">Zobraziť všetky fotografie</string>
+    <string name="album_lockscreen_wallpapers">Tapety zamykacej obrazovky</string>
+    <string name="pic_to_pdf_saved_in_fileexplorer">Uložené.</string>
+    <string name="toast_orientation_unlock">Orientácia displeja je odomknutá</string>
+    <string name="send_files_by">Zdieľať cez</string>
 	
 </resources>

@@ -766,4 +766,10 @@
   <string name="txt_caldav_account_info_not_found">Nie je možné získať informácie o účte</string>
   <string name="txt_password">Heslo</string>
   <string name="import_help">Pomoc</string>
+  
+    <string name="icon_add_description">Pridať odkaz na plochu</string>
+    <string name="icon_remove_confirm">Odstrániť</string>
+    <string name="icon_remove_description_content">Kalendár je systémová aplikácia. Budete mať k nej prístup cez pridané widgety na ploche.</string>
+    <string name="icon_remove_description_title">Odstrániť \"Kalendár\" z plochy?</string>
+	
 </resources>

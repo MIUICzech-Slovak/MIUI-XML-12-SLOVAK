@@ -121,4 +121,8 @@
     <string name="wireless_charging_tips_disable">Viac nezobrazovať</string>
     <string name="wireless_charging_tips_message">Uložte zariadenie ktoré podporuje Qi bezdrôtové nabíjanie (telefón, príslušenstvo, atď.) na zadnú stranu tohto zariadenia.</string>
     <string name="wireless_charging_tips_title">Reverzné bezdrôtové nabíjanie</string>	
+	
+    <string name="accessibility_back">Späť</string>
+    <string name="slider_view_content_description">Potiahnite nahor pre vypnutie alebo nadol pre reštartovanie</string>
+	
  </resources>

@@ -777,4 +777,32 @@ Získali ste ďalších %1$s"</string>
   <string name="private_folder_update_msg_summary">Dešifrovanie súborov môže spomaliť ich vymazávanie.</string>
   <string name="private_folder_update_tips">Nová funkcia</string>
   <string name="use">Použiť</string>
+  
+    <string name="launcher_icon_add_description">Pridať odkaz na plochu</string>
+    <string name="launcher_icon_remove_description_content">Aplikácia Súbory je systémová aplikácia.</string>
+    <string name="launcher_icon_remove_description_title">Odstrániť aplikáciu \"Súbory\" z plochy?</string>
+    <string name="mirror_can_not_drag_mask">Potiahnite pre použitie MiShare</string>
+    <string name="mirror_new_name">Vytvoriť zložku (%s)</string>
+    <string name="mirror_new_name_first">Vytvoriť zložku</string>
+    <string name="mirror_paste_no_file">Tento súbor neexistuje</string>
+    <string name="mirror_progress_copy">Kopírovanie...…</string>
+    <string name="mirror_side_bar_tab_app_name">Aplikácie</string>
+    <string name="mirror_side_bar_tab_mine_name">MiShare</string>
+    <string name="mirror_side_bar_tab_phone_name">Interné úložisko</string>
+    <string name="mirror_side_bar_tab_recent_name">Nedávne</string>
+    <string name="mirror_side_bar_tab_type_name">Súbory</string>
+    <string name="mirror_storage_internal_desc">Interné úložisko</string>
+    <string name="mirror_tip_add_file">Vytvoriť zložku</string>
+    <string name="mirror_tip_backward">Späť</string>
+    <string name="mirror_tip_cloud">MiDrive</string>
+    <string name="mirror_tip_forward">Preposlať</string>
+    <string name="mirror_tip_grid">Mriežka</string>
+    <string name="mirror_tip_list">Zoznam</string>
+    <string name="mirror_tip_refresh">Obnoviť</string>
+    <string name="mirror_tip_show_type">Zoradiť</string>
+    <string name="operation_new_folder">Vytvoriť zložku</string>
+    <string name="operation_open">Otvoriť</string>
+    <string name="operation_paste_to_folder">Vložiť do zložky</string>
+    <string name="operation_send_to_pc">Presunúť do PC</string>
+	
 </resources>

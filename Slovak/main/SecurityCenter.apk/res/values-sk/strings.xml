@@ -4483,5 +4483,9 @@ z vášho hrania hier"</string>
     <string name="special_perm_vr_msg">Povoliť aplikáciám používať asistenta VR</string>
     <string name="special_perm_vr_title">Používať VR asistenta</string>
     <string name="special_perm_window_msg">Povoliť aplikáciám zobrazovať položky v režime PIP</string>
-    <string name="special_perm_window_title">Zobraziť položky v režime PIP</string>          
+    <string name="special_perm_window_title">Zobraziť položky v režime PIP</string>        
+
+	    <string name="allow_all">Povoliť všetko</string>
+    <string name="confirm_allow_all_permission">Povoliť všetkým aplikáciam používanie tejto funkcie?</string>
+
 </resources>

@@ -261,4 +261,7 @@
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
   <string name="wifi_call">VoWi-fi hovor</string>
+  
+    <string name="description_incoming_video">Profilové video pre prichádzajúce hovory</string>
+  
 </resources>

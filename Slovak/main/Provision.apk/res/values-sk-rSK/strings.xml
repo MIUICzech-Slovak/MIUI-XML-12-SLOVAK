@@ -237,4 +237,8 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     <string name="welcome">Vitajte</string>
     <string name="zone_picker_title">Vyberte časovú zónu</string>
   <string name="data_traffic_enable_dialog_title">Ak nie ste pripojený na Wi-Fi, vaše zariadenie použije mobilné dáta.</string>
+  
+    <string name="other_settings_ad_dialog_agree">Povoliť</string>
+    <string name="other_settings_ad_dialog_disagree">Vypnúť</string>
+  
 </resources>

@@ -5,9 +5,9 @@
         <item>Cvičenie</item>
     </string-array>
     <string-array name="ShareTabTitle">
-        <item>Image</item>
-        <item>Route</item>
-        <item>Card</item>
+        <item>Obrázok</item>
+        <item>Trasa</item>
+        <item>Karta</item>
     </string-array>
     <string-array name="SportTabTitle">
 	  <item> Beh </item>
@@ -59,9 +59,9 @@
         <item>O</item>
     </string-array>
     <string-array name="pager_titles">
-        <item>Day</item>
-        <item>Week</item>
-        <item>Month</item>
+        <item>Deň</item>
+        <item>Týždeň</item>
+        <item>Mesiac</item>
     </string-array>
     <string-array name="repeat_mode_mild_abnormal_array">
         <item>Mon, Wed, Fri</item>
@@ -98,31 +98,31 @@
         <item>This feature tracks your movement and sends reminders based on the results.</item>
     </string-array>
     <string-array name="week">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+	 <item> Nedeľa </item>
+         <item> Pondelok </item>
+         <item> Utorok </item>
+         <item> Streda </item>
+         <item> Štvrtok </item>
+         <item> Piatok </item>
+         <item> Sobota </item>
     </string-array>
     <string-array name="week_label">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+  	 <item> Neď </item>
+         <item> Po </item>
+         <item> Ut </item>
+         <item> St </item>
+         <item> Št </item>
+         <item> Pia </item>
+         <item> So </item>
     </string-array>
     <string-array name="week_short">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+  	 <item> Neď </item>
+         <item> Po </item>
+         <item> Ut </item>
+         <item> St </item>
+         <item> Št </item>
+         <item> Pia </item>
+         <item> So </item>
     </string-array>
     <string-array name="yes_no_array">
         <item>Nenastavené</item>

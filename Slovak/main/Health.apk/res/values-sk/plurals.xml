@@ -37,10 +37,6 @@
         <item quantity="other">%1$d-%2$d times</item>
         <item quantity="one">%1$d-%2$d time</item>
     </plurals>
-    <plurals name="cousume_unit_format">
-        <item quantity="other">%1$d Cal</item>
-        <item quantity="one">%1$d Cal</item>
-    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Walk at least %1$d steps every day</item>
         <item quantity="one">Walk at least %1$d step every day</item>
@@ -65,10 +61,6 @@
         <item quantity="other">Delete %1$d records?</item>
         <item quantity="one">Delete %1$d record?</item>
     </plurals>
-    <plurals name="distance_unit_kilometre">
-        <item quantity="other">%1$.1f km</item>
-        <item quantity="one">%1$.1f km</item>
-    </plurals>
     <plurals name="dream_talk_segment">
         <item quantity="other">%1$d recordings</item>
         <item quantity="one">%1$d recording</item>
@@ -90,16 +82,16 @@
         <item quantity="one">%1$d sec</item>
     </plurals>
     <plurals name="goal_format_with_unit">
-        <item quantity="other">Goal: %1$d steps</item>
-        <item quantity="one">Goal: %1$d step</item>
+        <item quantity="other">Cieľ: %1$d krokov</item>
+        <item quantity="one">Cieľ: %1$d krok</item>
     </plurals>
     <plurals name="goal_unit">
-        <item quantity="other">" steps"</item>
-        <item quantity="one">" step"</item>
+        <item quantity="other">" krokov"</item>
+        <item quantity="one">" krok"</item>
     </plurals>
     <plurals name="goal_unit_with_number">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
+        <item quantity="other">%1$d krokov</item>
+        <item quantity="one">%1$d krok</item>
     </plurals>
     <plurals name="group_unit">
         <item quantity="other">%1$d cycles</item>
@@ -248,21 +240,13 @@
         <item quantity="other">%1$d Calories</item>
         <item quantity="one">%1$d Calorie</item>
     </plurals>
-    <plurals name="sporting_unit_km">
-        <item quantity="other">%1$s km</item>
-        <item quantity="one">%1$s km</item>
-    </plurals>
     <plurals name="sporting_unit_step">
-        <item quantity="other">steps</item>
-        <item quantity="one">step</item>
+        <item quantity="other">krokov</item>
+        <item quantity="one">krok</item>
     </plurals>
     <plurals name="step_num_format">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
-    </plurals>
-    <plurals name="steps_format">
-        <item quantity="other">%1$d</item>
-        <item quantity="one">%1$d</item>
+        <item quantity="other">%1$d krokov</item>
+        <item quantity="one">%1$d krok</item>
     </plurals>
     <plurals name="subtitle_add_record">
         <item quantity="other">"You haven't recorded for %1$d days. Record your periods to get more accurate predictions."</item>
@@ -325,8 +309,8 @@
         <item quantity="one">Estimated day %1$d of the period</item>
     </plurals>
     <plurals name="title_today_exercise_steps">
-        <item quantity="other">%1$d steps today</item>
-        <item quantity="one">%1$d step today</item>
+        <item quantity="other">%1$d krokov dnes</item>
+        <item quantity="one">%1$d krok dnes</item>
     </plurals>
     <plurals name="unit_days">
         <item quantity="other">" days"</item>

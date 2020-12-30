@@ -724,5 +724,12 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="super_wallpaper_setting_coordinate_title">Poloha</string>
     <string name="super_wallpaper_setting_view_height_title">Výška</string>    
     <string name="wallpaper_setting_library">Knižnica</string>
-    
+
+<string name="system_aod_dialog_message">Najskôr povoľte Always-on displej.</string>    
+<string name="apply_success_not_enable_aod">Najskôr povoľte Always-on displej</string>
+    <string name="system_aod_dialog_positive_button">Nastavenia</string>
+    <string name="system_aod_dialog_title">Always-on displej je vypnutý</string>
+    <string name="dialog_show_never">Viac nezobrazovať.</string>
+    <string name="no_more_notice">Viac nezobrazovať.</string>
+        
 </resources>

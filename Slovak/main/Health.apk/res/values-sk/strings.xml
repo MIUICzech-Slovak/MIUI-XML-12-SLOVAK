@@ -242,7 +242,7 @@ Ak sa rozhodnete svoje údaje o zdravotnom stave vymazať potom, ako ste sa rozh
     <string name="device_data_manage"> Spravovať zariadenia </string>
     <string name="device_data_sync"> Synchronizovať údaje o zdravotnom stave </string>
     <string name="device_description"> "Toto zariadenie je spojené s Mi účtom %s. Ak nenájdete potrebné zariadenie, najskôr ho pridajte do Mi Fit alebo Xiaomi Wear." </string>
-    <string name="device_list_origin_description"> "Tieto zariadenia sú spojené s Mi účtom %1$s. Ak tu nenájdete požadované zariadenie, uistite sa, že ste ho už pridali do príslušnej aplikácie." </ string >
+    <string name="device_list_origin_description"> "Tieto zariadenia sú spojené s Mi účtom %1$s. Ak tu nenájdete požadované zariadenie, uistite sa, že ste ho už pridali do príslušnej aplikácie." </string>
     <string name="device_off_sync_description"> "Údaje o zdravotnom stave vygenerované v tomto zariadení nebudú synchronizované s programom Xiaomi Health" </string>
     <string name="device_unbound_from_account"> Toto zariadenie už nie je priradené k vášmu účtu </string>
     <string name="diagno_log_send_failed"> Denník diagnostiky bol odoslaný zlyhal. </string>
@@ -526,7 +526,7 @@ Začnite odznova. “</string>
     <string name="hr_re_detect_title"> Začať odznova </string>
     <string name="hr_report_active_desc"> Meranie srdcového rytmu ihneď po cvičení vám môže pomôcť upraviť vaše cvičebné návyky, pretože tréningy rôznej intenzity majú rôzne optimálne zóny srdcového rytmu. Ak je vaša srdcová frekvencia príliš vysoká, činnosť môže byť škodlivá pre vaše zdravie a viesť k závratom, tlaku na hrudníku a ďalším rizikám. Nízka srdcová frekvencia môže byť znakom nízkej účinnosti konkrétneho tréningu. </string>
     <string name="hr_report_active_high_desc"> "Váš srdcový rytmus nám hovorí, že sa venujete fyzickej aktivite pomerne vysokej intenzity. Vaše srdce a pľúca tvrdo pracujú." </string>
-    <string name="hr_report_active_higher_desc"> "Váš srdcový rytmus nám hovorí, že sa venujete fyzickej aktivite vysokej intenzity. Vaše srdce a pľúca tvrdo pracujú. Venujte pozornosť svojmu stavu a prestaňte cvičiť, ak sa necítite dobre." </ reťazec>
+    <string name="hr_report_active_higher_desc"> "Váš srdcový rytmus nám hovorí, že sa venujete fyzickej aktivite vysokej intenzity. Vaše srdce a pľúca tvrdo pracujú. Venujte pozornosť svojmu stavu a prestaňte cvičiť, ak sa necítite dobre." </string>
     <string name="hr_report_active_lower_mid_desc"> "Váš srdcový rytmus nám hovorí, že sa venujete fyzickej aktivite s relatívne nízkou intenzitou. Je vhodný na zahriatie a jednoduché cviky. Ľuďom s rôznymi zdravotnými problémami sa odporúča cvičiť od nízkych do stredná intenzita. “</string>
     <string name="hr_report_active_lowest_desc"> "Váš srdcový rytmus nám hovorí, že sa venujete fyzickej aktivite s nízkou intenzitou. Stimuluje vaše telo do istej miery bez toho, aby vyžadovalo veľa energie." </string>
     <string name="hr_report_active_mid_desc"> "Váš srdcový rytmus nám hovorí, že sa venujete fyzickej aktivite strednej intenzity. Väčšina zdravých dospelých sa odporúča venovať sa cvičeniu strednej až vysokej intenzity celkovo 150 minút týždenne." </string>
@@ -1479,7 +1479,7 @@ spánkový cyklus “</string>
     <string name="tb_snore_detection_main"> Informácie o funkciách týkajúcich sa rozprávania a chrápania:%1$s. Potiahnutím vodorovne po hornej časti obrazovky prejdete na ďalšiu stránku. </string>
     <string name="tb_snore_view_info"> Graf hovorenia a chrápania </string>
     <string name="tb_stand_card_finish_stand"> Postavte sa o prestávkach dnes:%1$s. Dnes ich musíte urobiť minimálne 12. Cieľ ste dosiahli medzi %2$s a%3$s. </string>
-    <string name="tb_stand_card_not_finish_stand"> "Postavte sa dnes na prestávky:%1$s. Dnes ich musíte urobiť najmenej 12. Dosiahli ste cieľ medzi %2$s a%3$s." </ string >
+    <string name="tb_stand_card_not_finish_stand"> "Postavte sa dnes na prestávky:%1$s. Dnes ich musíte urobiť najmenej 12. Dosiahli ste cieľ medzi %2$s a%3$s." </string>
     <string name="tb_stand_day_column_click"> Cieľ ste dosiahli medzi %1$s a %2$s. Zdroj:%3$s. </string>
     <string name="tb_stand_day_ring"> Postavte sa o prestávkach dnes:%1$s. Dnes ich musíte urobiť najmenej 12. </string>
     <string name="tb_stand_wm_column_chart"> Prestávky medzi %1$s a %2$s. Potiahnutím prstom vodorovne prepínate medzi časovými obdobiami. Klepnutím zobrazíte podrobnosti. </string>

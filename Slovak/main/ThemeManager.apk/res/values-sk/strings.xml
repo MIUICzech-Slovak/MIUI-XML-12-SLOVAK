@@ -715,4 +715,14 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="personalize_title">Tapeta a prispôsobenie</string>
     <string name="personalize_wallpaper_sub_title">Super tapety a pozadia</string>
     <string name="personalize_wallpaper_title">Tapeta</string>    
+
+    <string name="de_resource_author">Autor (%1$s)</string>
+    <string name="de_super_wp_apply_wallpaper_button_text">Použiť</string>
+    <string name="de_super_wp_dialog_tip_content">Super tapety sú použíté pre Zámok, Plochu a AOD.</string>
+    <string name="de_super_wp_dialog_tip_title">Super tapety</string>    
+    <string name="de_super_wp_land_position_default_des">Pristávací bod</string>
+    <string name="super_wallpaper_setting_coordinate_title">Poloha</string>
+    <string name="super_wallpaper_setting_view_height_title">Výška</string>    
+    <string name="wallpaper_setting_library">Knižnica</string>
+    
 </resources>

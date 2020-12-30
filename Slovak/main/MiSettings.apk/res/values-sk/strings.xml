@@ -518,7 +518,7 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
     <string name="tasmanian_devil_info">Tasmánski čerti sú malí mäsožraví mrchožrúti s nevrlou náladou.</string>
     <string name="tasmanian_native_hen">Tasmánska domorodá sliepka</string>
     <string name="title_mix_match_sound">Prírodný mix</string>
-    <string name="title_mix_match_tips">Dotknite sa zvierat pre prehranie ukážky. Môžete pridať maximálne 5 zvierat.</string>
+    <string name="title_mix_match_tips">Dotykom prehráte ukážku. Môžete pridať maximálne 5 zvierat.</string>
     <string name="title_submit_mix_match">Stlačte \"Použiť\" pre nastavenie zvonenia.</string>
     <string name="toco_toucan">Tukan</string>
     <string name="toucan_info">Tukany majú veľké, farebné bankovky. Hniezda si často vytvárajú v dutinách stromov.</string>
@@ -532,5 +532,6 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
     <string name="white_bellied_sea_eagle">Orol bielochvostý</string>
     <string name="willow_grouse">Willow ptarmigan</string>
     <string name="wombat">Wombat</string>                                                        
+    <string name="silent_ringtone_hint">Zvuky sú stíšené. Vypnite Tichý režim a skúste to znova.</string>
 	
 </resources>

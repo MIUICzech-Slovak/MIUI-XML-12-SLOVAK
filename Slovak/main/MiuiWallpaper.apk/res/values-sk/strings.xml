@@ -9,14 +9,14 @@
      <string name="miui_clock_city_name_local">Lokálny</string>
      <string name="miui_lock_screen_date">dd.MM EEEE</string>
      <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
-     <string name="miui_lock_screen_date_two_lines">"EEEE
+     <string name="miui_lock_screen_date_two_lines">"EEE
 d. MMMM"</string>
-     <string name="miui_lock_screen_date_two_lines_12">"EEEE
+     <string name="miui_lock_screen_date_two_lines_12">"EEE
 d. MMMM"</string>
      <string name="miui_lock_screen_large_date">"EEE
-dd.M"</string>
+dd.M."</string>
      <string name="miui_lock_screen_large_date_12">"EEE
-dd.M"</string>
+dd.M."</string>
      <string name="saturn_summary">Prstence Saturnu vytvárajú nádherné divadlo vo vesmíre</string>
      <string name="saturn_title">Saturn</string>
     <string name="super_wallpaper_list_label">Super tapety</string>

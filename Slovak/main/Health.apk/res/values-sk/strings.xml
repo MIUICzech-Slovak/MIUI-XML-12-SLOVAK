@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abnormal"> Abnormálne </string>
-    <string name="accessibility_add_datasource"> Klepnutím pridáte%1$s </string>
+    <string name="accessibility_add_datasource"> Klepnutím pridáte %1$s </string>
     <string name="accessibility_sync_closed_device"> Synchronizácia s %1$s je vypnutá </string>
     <string name="accessibility_unbound_device">%1$s už nie je priradený k vášmu účtu </string>
     <string name="reach_goals"> Dosiahnutý cieľ </string>
@@ -1050,7 +1050,7 @@ Začnite odznova. “</string>
     <string name="share_card_title_riding"> Jazda na bicykli %s </string>
     <string name="share_card_title_rope_skipping"> Švihadlo %s </string>
     <string name="share_card_title_rowing_machine"> Veslár %s </string>
-    <string name="share_card_title_running"> Beží%s </string>
+    <string name="share_card_title_running"> Beží %s </string>
     <string name="share_card_title_stair_climbing"> Lezenie po schodoch </string>
     <string name="share_card_title_swimming"> Plávanie%s </string>
     <string name="share_card_title_treadmill"> Bežecký pás %s </string>
@@ -1083,7 +1083,7 @@ Začnite odznova. “</string>
     <string name="sleep_chart_empty"> Žiadne údaje </string>
     <string name="sleep_chart_loading"> Len na chvíľu… </string>
     <string name="sleep_day"> Deň </string>
-    <string name="sleep_day_multi_short_title"> Zdriemnutie%1$d </string>
+    <string name="sleep_day_multi_short_title"> Zdriemnutie %1$d </string>
     <string name="sleep_day_single_short_title"> Zdriemnutie </string>
     <string name="sleep_day_title"> Denný spánok </string>
     <string name="sleep_deep"> Hlboký spánok </string>
@@ -1310,7 +1310,6 @@ spánkový cyklus “</string>
     <string name="stand_remind_setting_desc"> Dostať pripomenutie, aby ste vstali po 1 hodine nečinnosti </string>
     <string name="stand_setting"> Nastavenia </string>
     <string name="stand_stop_reminding"> "Už sa nezobrazovať" </string>
-    <string name="standard_format"> (štandard:% 1s) </string>
     <string name="standing_already"> "Postavili ste sa" </string>
     <string name="start_cycling"> Začnite bicyklovať </string>
     <string name="start_running"> Spustiť </string>
@@ -1385,7 +1384,7 @@ spánkový cyklus “</string>
     <string name="tb_exercise_detail_pillar_cancel"> Zrušiť výber </string>
     <string name="tb_exercise_detail_step_daily_no_data"> Žiadne údaje o počte krokov. Cieľ:%1$d. </string>
     <string name="tb_exercise_detail_step_daily_no_goal"> Celkový počet krokov:%1$d </string>
-    <string name="tb_exercise_detail_step_daily_normal"> Celkový počet krokov:%1$d. Cieľ:%2$d. Dokončené%3$d percent. </string>
+    <string name="tb_exercise_detail_step_daily_normal"> Celkový počet krokov:%1$d. Cieľ:%2$d. Dokončené %3$d percent. </string>
     <string name="tb_exercise_detail_step_no_goal_no_data"> Žiadne údaje o počte krokov. </string>
     <string name="tb_exercise_detail_step_w_m_no_data"> Žiadne údaje o počte krokov. Dni, keď ste dosiahli cieľ:%1$d. </string>
     <string name="tb_exercise_detail_step_w_m_no_goal"> Priemerný počet krokov za deň:%1$d. </string>
@@ -1488,7 +1487,7 @@ spánkový cyklus “</string>
     <string name="tb_user_account_unsigned"> Klepnutím sa prihlásite do účtu Mi </string>
     <string name="tb_user_sleep_card_info"> Denný cieľ spánku:%1$s. </string>
     <string name="tb_user_sleep_target_btn"> Zmeniť cieľ spánku </string>
-    <string name="tb_user_step_card_info"> Denný cieľ:%1$s, asi%2$s alebo%3$s. </string>
+    <string name="tb_user_step_card_info"> Denný cieľ:%1$s, asi %2$s alebo %3$s. </string>
     <string name="tb_user_step_target_btn"> Zmeniť cieľ </string>
     <string name="tb_user_weight_card_info"> BMI%1$s,%2$s. Odporúčaná hmotnosť:%3$s. </string>
     <string name="tb_weight_choice">%2$s z %1$s je %3$s </string>

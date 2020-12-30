@@ -65,4 +65,13 @@ http://www.miuios.cz/
         <item>Hlasové poznámky</item>
         <item>Môžete nahrať aj hlasovú poznámku.</item>
     </string-array>	 
+    
+    <string-array name="common_folder_operations">
+        <item>Nová</item>
+        <item>Premenovať</item>
+        <item>Vymazať</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>Nová</item>
+    </string-array>        
 </resources>

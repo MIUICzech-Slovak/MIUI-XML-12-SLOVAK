@@ -818,4 +818,17 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Aplikácie (%d) vybíjajú batériu</item>
         <item quantity="one">Aplikácie (%d) vybíjajú batériu</item>
     </plurals>	
+    
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Spojte aspoň %s bodky</item>
+        <item quantity="one">Spojte aspoň %s bodky</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Spojte aspoň %s bodky</item>
+        <item quantity="one">Spojte aspoň %s bodky</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Zadajte %s čisla</item>
+        <item quantity="one">Zadajte %s čislo</item>
+    </plurals>        
 </resources>

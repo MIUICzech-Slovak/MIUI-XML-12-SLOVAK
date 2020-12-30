@@ -31,4 +31,10 @@
 Vymazať heslo?</string>
   <string name="settings_clear_data_confirmation_title">Vymazanie hesiel</string>
   <string name="using_miui_autofill_message">Pre zadanie hesiel automaticky, MIUI uloží informácie o vašom účte a heslo do vášho zariadenia.</string>
+  
+    <string name="login_mi_account_alert">Upozornenie</string>
+    <string name="login_mi_account_summary">Pre povolenie správcu hesiel sa musíte prihlásiť ku Xiaomi účtu. Chcete sa prihlásiť?</string>
+    <string name="password_manager">Správca hesiel</string>
+    <string name="password_manager_summary">Cloudový správca hesiel</string>
+          
 </resources>

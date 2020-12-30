@@ -1085,6 +1085,7 @@ skenované dokumenty automaticky"</string>
     <string name="video_shortcut_long">Video</string>
     <string name="video_shortcut_short">Video</string>
     <string name="capture_shortcut_long">Selfie</string>
-    <string name="capture_shortcut_short">Selfie</string>                
+    <string name="capture_shortcut_short">Selfie</string>       
+    <string name="pref_hdr10_hdr10plus_video_mode_description">Optimalizovať farby pre 4K (HDR10+) a 8K (HDR10) videá.</string>             
 	
 </resources>

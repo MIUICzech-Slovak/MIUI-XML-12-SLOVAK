@@ -285,5 +285,6 @@
   <string name="input_method_clipboard_move_cursor_guide1">Stlačte a podržte modrú oblasť pre pohyb kurzoru ~</string>
   <string name="input_method_clipboard_move_cursor_guide2">Pohnite prstom horizontálne ~</string>  
     <string name="notification_channel_hotspot">Hotspot upozornenie</string>
-  
+    <string name="freeform_exchange_tip">Pustite pre otvorenie aplikácie</string>
+    <string name="freeform_exchange_tip2">Potiahnite do rohu pre zrušenie</string>  
 </resources>

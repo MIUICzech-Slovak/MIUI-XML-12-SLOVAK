@@ -618,5 +618,13 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
   <string name="copy_to_clipboard_successful">Skopírované</string> 
     <string name="help_center">Pomoc</string>
+
+    <string name="download_file">Sťahovanie %s…</string>
+    <string name="passport_login_other_phone">Použiť iný účet</string>
+    <string name="passport_provision_input_email_register_prompt">Vaše osobné údaje budú uložené v súlade so zákonmi a predpismi regiónu, ktorý si vyberiete.</string>
+    <string name="passport_registered_phone_num_v2">Telefónne číslo</string>
+    <string name="provision_back">Späť</string>
+    <string name="provision_next">Ďalej</string>
+    <string name="provision_skip_underline">Preskočiť</string>
    
 </resources>

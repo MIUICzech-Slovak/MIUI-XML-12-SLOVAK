@@ -4485,7 +4485,31 @@ z vášho hrania hier"</string>
     <string name="special_perm_window_msg">Povoliť aplikáciám zobrazovať položky v režime PIP</string>
     <string name="special_perm_window_title">Zobraziť položky v režime PIP</string>        
 
-	    <string name="allow_all">Povoliť všetko</string>
+    <string name="allow_all">Povoliť všetko</string>
     <string name="confirm_allow_all_permission">Povoliť všetkým aplikáciam používanie tejto funkcie?</string>
-
+    
+    <string name="app_behavior_access_gallery">%1s načítala galérií</string>
+    <string name="app_behavior_access_gallery_single">táto aplikácia načítala galéiu</string>
+    <string name="app_behavior_access_sociality">%1s načítala správy zo sociálnej aplikácie</string>
+    <string name="app_behavior_access_sociality_single">Táto aplikácia načítala správy zo sociálnej aplikácie</string>    
+    <string name="app_behavior_delete_pic">%1s vymazala položky z Galérie</string>
+    <string name="app_behavior_delete_pic_single">Táto aplikácia vymazala položky z Galérie</string>
+    <string name="dialog_skt_roaming_warning_cancel">Zrušiť</string>
+    <string name="dialog_skt_roaming_warning_message">"Prečítajte si podmienky používania dátového roamingu. Môžu sa účtovať poplatky za medzinárodný dátový roaming. Bez plánu dátového roamingu môžu byť aplikácie, ktoré sa automaticky aktualizujú, ako sú napríklad aplikácie súvisiace so sociálnymi sieťami, e-mailom a počasím, spoplatnené.
+  * Ak nesúhlasíte s využívaním dátového roamingu, dátový roaming bude deaktivovaný.
+  * HD Voice sa predvolene používa v podporovaných sieťach.
+  * Dátový roaming 5G je k dispozícii iba v našich partnerských sieťach..
+"</string>
+    <string name="dialog_skt_roaming_warning_ok">Súhlasím</string>
+    <string name="dialog_skt_roaming_warning_title">Dátový roaming</string>
+    <string name="file_confirm_start_activity">"%s nemá prístup ku Galérií a sociálnym médiám. Táto aplikácia chce získať prístup k súborom uloženým v tomto zariadení na zdieľanie položiek. Povoliť?"</string>
+    <string name="gallery_confirm_start_activity">"%s nemá prístup ku Galérií a sociálnym médiám. Táto aplikácia chce získať prístup k súborom uloženým v tomto zariadení na zdieľanie položiek. Povoliť?"</string>
+    <string name="provision_back">Späť</string>
+    <string name="provision_next">Ďalej</string>
+    <string name="provision_skip_underline">Preskočiť</string>
+    <string name="read_clipboard_ai_action_desc">Dostávať oznámenia vždy, keď je povolený alebo obmedzený prístup</string>
+    <string name="real_location_off">Približná poloha je zapnutá</string>
+    <string name="real_location_on">Približná poloha je vypnutá</string>
+    <string name="view_traffic_detail">Zobraziť podrobnosti</string>
+                
 </resources>

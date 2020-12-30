@@ -51,4 +51,17 @@
         <item>Povoliť synchr.</item>
         <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>	
+    
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Synchr. vaše kontakty, SMS, poznámky, kalendár a viac..</item>
+        <item>Zálohujte aplikácie, rozloženie plochy a tapety</item>
+        <item>Zálohujte dôležité nastavenia vrátane Wi-Fi</item>
+        <item>Uzamknite vaše zariadenie na diaľku v prípade straty alebo odcudzenia</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Synchr. vaše kontakty, SMS, poznámky, kalendár a viac..</item>
+        <item>Zálohujte aplikácie, rozloženie plochy a tapety</item>
+        <item>Zálohujte dôležité nastavenia vrátane Wi-Fi</item>
+        <item>Uzamknite vaše zariadenie na diaľku v prípade straty alebo odcudzenia</item>
+    </string-array>    
 </resources>

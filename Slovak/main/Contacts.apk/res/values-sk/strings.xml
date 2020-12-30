@@ -1421,4 +1421,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="restore_app_btn_restore">OK</string>
     <string name="restore_app_description_content">Pridať odkaz na plochu.</string>
     <string name="restore_app_description_title">Pridať \"Kontakty\" na plochu?</string>	
+    
+    <string name="bh_back">Späť</string>
+    
 </resources>

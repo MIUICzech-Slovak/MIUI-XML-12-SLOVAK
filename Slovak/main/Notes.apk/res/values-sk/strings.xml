@@ -447,5 +447,48 @@ http://www.miuios.cz/rom
     <string name="doodle_tool_background">Zmeniť pozadie</string>
     <string name="doodle_tool_text_dialog_hint">Zadajte text</string>
     <string name="toolbar_done_description">Hotovo</string>
-  
+    
+    <string name="action_to_link">Otvoriť URL</string>
+    <string name="alert_message_delete_excerpt">Vymazať túto poznámku? Úryvky budú vymazané tiež.</string>
+    <string name="continuous_default_hint">Skopírujte text, uložte obrázky a snímky obrazovky ako úryvky</string>
+    <string name="continuous_new_excerpt_title">Nový úryvok</string>
+    <string name="doodle_background_dot">Botkované</string>
+    <string name="doodle_background_white">Biele</string>
+    <string name="doodle_guide_brush_config_hint">Dotknite sa znova pre nastavenie šírky a priehľadnosti</string>
+    <string name="doodle_guide_dialog_confirm">OK</string>
+    <string name="doodle_guide_dialog_skip">Preskočiť</string>
+    <string name="doodle_guide_dialog_title">Kreslenie</string>
+    <string name="doodle_guide_quick_shape_hint" formatted="false">Stlačte a podržte skicu %d–%d sekúnd pre nastavenie automatickej šírky</string>
+    <string name="excerpt">Vytvoriť</string>
+    <string name="excerpt_bubble_tips">Skopírovaný text a uložené obrázky budú uložené do Poznámok</string>
+    <string name="excerpt_link_bubble_tips">Dotknite sa pre uloženie do Poznámok</string>
+    <string name="excerpt_note">Moje úryvky</string>
+    <string name="excerpted_to_note">Úryvok uložený do Poznámok</string>
+    <string name="excerpting">Vytváranie úryvku…</string>
+    <string name="float_note_empty">Žiadne poznámky</string>
+    <string name="float_note_title">Poznámky</string>
+    <string name="frequently_click_tips">Príliš rýchlo! Počkajte chvíľu a skúste to znova.</string>
+    <string name="last_excerpt_unfinish_hint">Posledný úryvok nie je kompletný</string>
+    <string name="menu_new_display_open">Otvoriť v novom okne</string>
+    <string name="menu_pc_open">Otvoriť v PC</string>
+    <string name="mind_note_first_enter_guide">Vytvoriť myšlienkovú mapu</string>
+    <string name="note_header_first_enter_guide">Potiahnutím nadol zobrazíte viac</string>
+    <string name="permission_storage_desc_v12">Pre pridanie obrázkov do poznámok a ukladanie poznámok</string>
+    <string name="pref_category_title_quick_func">Rýchle funkcie</string>
+    <string name="pref_excerpt_link_float">Dostávať upozornenie na vytvorenie úryvku ak je skopírovaná URL</string>
+    <string name="pref_quick_note_desc">Pomocou skratky na okraji obrazovky môžete vytvárať poznámky a úlohy, ako aj ukladať skopírované adresy URL, text a obrázky do aplikácie Poznámky..</string>
+    <string name="pref_title_excerpt_remind">Upozornenie na úryvky</string>
+    <string name="pref_title_quick_note">Rýchle poznámky</string>
+    <string name="quick_note_new_user_guide">Rýchle poznámky vám umožňujú vytvoriť poznámky a úryvky</string>
+    <string name="save_single_excerpt">Uložiť</string>
+    <string name="single_link_excerpt_saving">Ukladanie…</string>
+    <string name="single_new_excerpt_title">Úryvky</string>
+    <string name="toast_excerpt_end">Úryvok je vytvorený</string>
+    <string name="toast_excerpt_no_content">Žiadne úryvky</string>
+    <string name="toast_excerpt_open_note">Otvorená poznámka s úryvkom</string>
+    <string name="toast_excerpt_saved">Ukladanie úryvku do Poznámok…</string>
+    <string name="toast_refuse_to_use_storage_in_excerpt">Povoľte Poznámkam prístup na úložisko</string>
+    <string name="view_all_notes">Zobraziť všetko</string>
+    <string name="note_mindnote_entrance_icon_text">Vytvoriť myšlienkovú mapu</string>
+    <string name="note_mindnote_entrance_hint">"Začnite písať "</string>
 </resources>

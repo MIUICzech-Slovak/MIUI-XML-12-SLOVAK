@@ -284,4 +284,10 @@ Nie je možné zálohovať"</string>
 Skúste to znova"</string>    
     <string name="cloud_backup_detail_frequence_every_7_day">Zálohovať každých %d dní</string>
     <string name="cloud_backup_detail_frequence_every_day">Zálohovať každý deň</string>
+
+    <string name="provision_back">Späť</string>
+    <string name="provision_next">Ďalej</string>
+    <string name="provision_skip_underline">Preskočiť</string>
+
 </resources>
+

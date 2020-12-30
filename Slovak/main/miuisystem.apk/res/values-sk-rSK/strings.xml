@@ -10,7 +10,7 @@
   <string name="armed_forces_day"/>
   <string name="autumn_begins"/>
   <string name="autumn_equinox"/>
-  <string name="birdcicada_preview">Zvuky prírody 2</string>
+  <string name="birdcicada_preview">Vtáky a svetlušky</string>
   <string name="childrens_day"/>
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
@@ -112,7 +112,7 @@
   <string name="united_nations_day"/>
   <string name="valentines_day"/>
   <string name="vernal_equinox"/>
-  <string name="waterdrop_preview">Zvuky prírody 1</string>
+  <string name="waterdrop_preview">Kvapôčky</string>
   <string name="white_dews"/>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>
@@ -146,5 +146,14 @@ dd.MM"</string>
      <string name="wallpaper_group_natural_texture_title">Príroda</string>
      <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, the University of Arizona</string>
      <string name="wallpaper_group_red_mars_title">Mars</string>
-<string name="wallpaper_group_more_system_wallpaper_title">Viac systémových tapiet</string>     
+     <string name="wallpaper_group_more_system_wallpaper_title">Viac systémových tapiet</string>     
+
+    <string name="amazonanimals_preview">Dažďový prales</string>
+    <string name="arcticanimals_preview">Arktída</string>
+    <string name="australiaanimals_preview">Austrália</string>
+    <string name="southwestmountain_preview">Hory</string>
+    <string name="stoneskimming_preview">Svetelné kroky</string>
+    <string name="wallpaper_group_color_move_title">Tekuté farby</string>
+    <string name="wallpaper_group_sgn_mountain_title">Hora Siguniang</string>
+
 </resources>

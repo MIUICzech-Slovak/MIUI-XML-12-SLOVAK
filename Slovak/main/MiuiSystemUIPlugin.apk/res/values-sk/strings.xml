@@ -124,5 +124,8 @@
 	
     <string name="accessibility_back">Späť</string>
     <string name="slider_view_content_description">Potiahnite nahor pre vypnutie alebo nadol pre reštartovanie</string>
+    
+    <string name="quick_settings_pcmode_turn_off_description">Po ukončení PC režimu, nebudete môcť využívať väčšiu obrazovku. Chcete ukončiť?</string>
+    <string name="quick_settings_pcmode_turn_on_description">Po povolení PC režimu, budete môcť využívať väčšiu obrazovku. Chcete povoliť?</string>    
 	
  </resources>

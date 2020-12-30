@@ -100,4 +100,8 @@
         <item quantity="other">Nebolo možné synchr. %s položiek</item>
         <item quantity="one">Nebolo možné synchr. %s položku</item>
     </plurals>    
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">Poznámky: %d</item>
+        <item quantity="one">Poznámky: %d</item>
+    </plurals>    
 </resources>

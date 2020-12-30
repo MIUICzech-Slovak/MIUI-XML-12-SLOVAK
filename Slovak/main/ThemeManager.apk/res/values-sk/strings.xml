@@ -697,5 +697,22 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">Viac</string>
     <string name="first_page_recommend">Odporúčané</string>
     
-    
+    <string name="super_wallpaper_list_footer_text">Ďalšie super tapety už čoskoro!</string>
+    <string name="super_wallpaper_list_label">Super tapety</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">Super tapety</string>
+    <string name="personalize_alarm_ringtone_title">Budíky</string>
+    <string name="personalize_aod_title">AOD</string>
+    <string name="personalize_call_ringtone_title">Zvonenia</string>
+    <string name="personalize_charge_style_title">Nabíjanie</string>
+    <string name="personalize_default_font">Písmo</string>
+    <string name="personalize_fingerprint_style_title">Odtlačok prsta</string>
+    <string name="personalize_font_demo_content">Aa</string>
+    <string name="personalize_icon_title">Ikony</string>
+    <string name="personalize_notify_ringtone_title">Upozornenia</string>
+    <string name="personalize_notify_style_title">Efekty</string>
+    <string name="personalize_theme_entrance">Témy</string>
+    <string name="personalize_third_font">Písma</string>
+    <string name="personalize_title">Tapeta a prispôsobenie</string>
+    <string name="personalize_wallpaper_sub_title">Super tapety a pozadia</string>
+    <string name="personalize_wallpaper_title">Tapeta</string>    
 </resources>

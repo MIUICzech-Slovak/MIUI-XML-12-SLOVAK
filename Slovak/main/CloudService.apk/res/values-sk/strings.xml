@@ -899,4 +899,19 @@ Poloha nebude odoslaná ak je slabý signál siete."</string>
   <string name="micloud_manual_request_permission_content">Pre používanie našich služieb povoľte Xiaomi Cloudu nasledujúce povolenia v Nastaveniach: \"%s\".</string>
   <string name="micloud_manual_request_permission_content_on_provision">Povoľte požadované povolenia</string>
   <string name="micloud_manual_request_permission_title">Požadované povolenia</string>
+  
+    <string name="micloud_dspt_provision_china_v2">Použite Xiaomi Cloud pre synchr. vašich dát a vyhľadanie vášho zariadenia.</string>
+    <string name="micloud_dspt_provision_v2">Použite Xiaomi Cloud pre synchr. vašich dát a vyhľadanie vášho zariadenia.</string>
+    <string name="micloud_find_device_guide_micloud_sub_content_v2">Použiť Xiaomi Cloud na synchronizáciu dát</string>
+    <string name="micloud_setting_notes_summary_v2">Poznámky</string>
+    <string name="micloud_sync_alert_dialog_message_v2">Synchr. vaše fotografie, kontakty, poznámky a viac medzi vašimi zariadeniami.</string>
+    <string name="privacy_dialog_sync_all_purpose_china_v2">Vitajte v Xiaomi Cloude! Môžete využiť Xiaomi Cloud pre synchr. vašich SMS, histórie hovorov, kontaktov, poznámok, fotografií, Wi-Fi nastavenia, nahrávok.</string>
+    <string name="privacy_dialog_sync_all_purpose_v2">Vitajte v Xiaomi Cloude! Môžete využiť Xiaomi Cloud pre synchr. vašich SMS, histórie hovorov, kontaktov, poznámok, fotografií, Wi-Fi nastavenia, nahrávok.</string>
+    <string name="privacy_doc_cloudservice_china_v2">"Vitajte v Xiaomi Cloude! Môžete využiť Xiaomi Cloud pre synchr. vašich SMS, histórie hovorov, kontaktov, poznámok, fotografií, Wi-Fi nastavenia, nahrávok, aplikácií a kalendár. K synchronizovaným položkám máte prístup na i.mi.com. Pre aktiváciu tejto služby bude odoslaná bežná SMS. Pre správne fungovanie tejto služby sú vyžadované tieto povolenia:&lt;br /&gt;• Kalendár:&lt;br /&gt;Pre synchronizáciu udalostí&lt;br /&gt;• Prístup k SMS:&lt;br /&gt;Pre synchr. SMS&lt;br /&gt;• Prístup k MMS:&lt;br /&gt;Pre synch. MMS&lt;br /&gt;• Prístup ku kontaktom:&lt;br /&gt;Pre synchr. kontaktov&lt;br /&gt;• Upraviť kontakty:&lt;br /&gt;Pre synchr. kontaktov&lt;br /&gt;• Úložisko:&lt;br /&gt;Pre ukladanie súborov (napr. obrázkov, videí, skladieb)&lt;br /&gt;Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia"</string>
+    <string name="provision_back">Späť</string>
+    <string name="provision_next">Ďalej</string>
+    <string name="provision_skip_underline">Preskočiť</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_v2">MIUI aplikácie potrebujú Xiaomi Cloud pre zálohovanie vašich fotografií, SMS, poznámok a viac.</string>
+    <string name="sync_dspt_entrance_provision_v2">Synchr. vaše fotografie, kontakty, poznámky a viac medzi vašimi zariadeniami. Pre prístup k synchr. dátam navštívte %s.</string>
+                  
 </resources>

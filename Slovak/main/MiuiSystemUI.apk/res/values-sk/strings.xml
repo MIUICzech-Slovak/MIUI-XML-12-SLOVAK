@@ -2527,21 +2527,27 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     <string name="volume_dialog_ringer_guidance_ring">Hovory a upozornenia spustia zvonenie (%1$s)</string>
     <string name="volume_dialog_title">Ovládacie prvky hlasitosti %s</string>
     <string name="volume_odi_captions_content_description">Prekrytie titulkov</string>
-    <string name="volume_odi_captions_hint_disable">zakázať</string>
-    <string name="volume_odi_captions_hint_enable">povoliť</string>
+    <string name="volume_odi_captions_hint_disable">Zakázať</string>
+    <string name="volume_odi_captions_hint_enable">Povoliť</string>
     <string name="volume_odi_captions_tip">Automaticky pridávať titulky k médiám</string>
-    <string name="volume_ringer_hint_mute">vypnite zvuk</string>
-    <string name="volume_ringer_hint_unmute">zapnite zvuk</string>
-    <string name="volume_ringer_hint_vibrate">zapnite vibrovanie</string>
+    <string name="volume_ringer_hint_mute">Vypnite zvuk</string>
+    <string name="volume_ringer_hint_unmute">Zapnite zvuk</string>
+    <string name="volume_ringer_hint_vibrate">Zapnite vibrovanie</string>
     <string name="volume_ringer_status_normal">Prezvoniť</string>
     <string name="volume_ringer_status_silent">Vypnúť zvuk</string>
     <string name="volume_ringer_status_vibrate">Vibrovať</string>
 	
-    <string name="face_unlock_password_and_fingerprint">Enter password or use fingerprint to unlock</string>
-    <string name="face_unlock_pattern_and_fingerprint">Draw pattern or use fingerprint to unlock</string>
-    <string name="face_unlock_pin_and_fingerprint">Enter PIN or use fingerprint to unlock</string>
-    <string name="input_lockscreen_password_hint_text">Enter password</string>
-    <string name="input_lockscreen_pattern_hint_text">Draw pattern</string>
-    <string name="input_lockscreen_pin_hint_text">Enter PIN</string>
+    <string name="face_unlock_password_and_fingerprint">Zadajte heslo alebo použite odtlačok prsta pre odomknutie</string>
+    <string name="face_unlock_pattern_and_fingerprint">Nakreslite vzor alebo použite odtlačok prsta pre odomknutie</string>
+    <string name="face_unlock_pin_and_fingerprint">Zadajte PIN alebo použite odtlačok prsta pre odomknutie</string>
+    <string name="input_lockscreen_password_hint_text">Zadajte heslo</string>
+    <string name="input_lockscreen_pattern_hint_text">Nakreslite vzor</string>
+    <string name="input_lockscreen_pin_hint_text">Zadajte PIN</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobilné dáta (WCDMA/LTE) budú vypnuté. Ak nepoužívate Wi-Fi, nebudete môcť využívať aplikácie ktoré požadujú pripojenie na internet.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobilné dáta budú povolené. Môžu sa navýšiť vaše poplatky.</string>
+    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Zrušiť</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Vypnúť</string>
+    <string name="torch_high_temperature_warning">Vaše zariadenie je prehriate. Nie je možné využívať svietidlo.</string>
 	
 </resources>

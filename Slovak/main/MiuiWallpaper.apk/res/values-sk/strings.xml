@@ -44,4 +44,16 @@ dd.M"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>      
   <string name="title_system_wallpaper_resource">Systémové tapety</string>  
+  
+    <string name="geometry_summary">Tvary, svetlá a farby</string>
+    <string name="geometry_super_wallpaper_label">Geometria</string>
+    <string name="geometry_title">Geometria</string>  
+    <string name="update">Aktualizovať</string>    
+    <string name="snowmountain_summary">Slnečné horské svahy hory Siguniang</string>
+    <string name="snowmountain_super_wallpaper_label">Zasnežené hory</string>
+    <string name="snowmountain_title">Zasnežené hory</string>
+    <string name="weather_summary">Informácie o počasí</string>
+    <string name="weather_super_wallpaper_label">Počasie</string>
+    <string name="weather_title">Počasie</string>
+            
 </resources>

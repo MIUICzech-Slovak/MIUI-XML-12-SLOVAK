@@ -34,11 +34,9 @@
     <string name="abc_searchview_description_submit"> Odoslať dopyt </string>
     <string name="abc_searchview_description_voice"> Hlasové požadavky </string>
     <string name="abc_shareactionprovider_share_with"> Zdieľať s </string>
-    <string name="abc_shareactionprovider_share_with_application"> Zdieľať s aplikáciou%s </string>
+    <string name="abc_shareactionprovider_share_with_application"> Zdieľať s aplikáciou %s </string>
     <string name="abc_toolbar_collapse_description"> Zbaliť </string>
     <string name="abnormal"> Abnormálne </string>
-    <string name="above_speed_km_per_hour"> ≥%d km/h </string>
-    <string name="above_speed_km_per_hour_1"> ≥% .1f km/h </string>
     <string name="úřadujúci"> Napájanie </string>
     <string name="actionbar_button_up_description"> Späť </string>
     <string name="activity_title_basic_info"> Základné informácie </string>
@@ -96,8 +94,6 @@ pridať karty </string>
     <string name="bedTime_normal_description"> Išli ste spať včas. Len tak ďalej! </string>
     <string name="bedtime"> Bedtime </string>
     <string name="bedtime_description"> Večerka je okamih, keď idete spať a odložiť telefón. Odhaduje sa to na základe vášho časového harmonogramu večierky a používania zariadenia. </string>
-    <string name="below_speed_km_per_hour"> &lt;%d km/h </string>
-    <string name="below_speed_km_per_hour_1"> &lt;%. 1f km/h </string>
     <string name="bg_control_dialog_go_set"> Nastavenia </string>
     <string name="bg_control_dialog_msg"> Šetrenie batérií obmedzuje fungovanie aplikácií Xiaomi Zdravie na pozadí. Pre presnú štatistiku vždy povoľte spracovanie Xiaomi Zdravie na pozadí. </string>
     <string name="bg_control_dialog_title"> Obmedzenia na pozadí </string>
@@ -109,7 +105,6 @@ pridať karty </string>
     <string name="cancel_mark_end"> Menštruácia zatiaľ neskončila </string>
     <string name="cancel_mark_start"> Vymazať tento záznam </string>
     <string name="card_on_using"> Použitie </string>
-    <string name="centimeter_format">%1$d cm </string>
     <string name="certain"> v poriadku </string>
     <string name="channel_desc_background"> ​​Na poskytovanie služieb na pozadí </string>
     <string name="channel_id_background_service"> Služby na pozadí </string>
@@ -126,7 +121,6 @@ pridať karty </string>
     <string name="copy"> Kopírovať </string>
     <string name="copy_done"> Úspešne skopírované </string>
     <string name="copyright_statement"> Autorské práva © Xiaomi Inc. Všetky práva vyhradené. </string>
-    <string name="cousume_unit_float_format">%1$ .2f kal </string>
     <string name="cross_hiking"> Turistika </string>
     <string name="cumulative_decline"> Strata nadmorskej výšky </string>
     <string name="cumulative_rise"> Prevýšenie </string>
@@ -160,7 +154,7 @@ pridať karty </string>
     <string name="detection_running_detail"> Analyzuje sa spánok ... </string>
     <string name="detection_wait_generate_report"> Generujú sa štatistiky… </string>
     <string name="detection_wait_generate_report_detail"> Vráťte sa ďalej </string>
-    <string name="device_description"> Toto zariadenie je priradené k Mi účtu%s. Ak nenájdete potrebné zariadenie, najskôr ho pridajte do Mi Fit alebo Xiaomi Wear. </string>
+    <string name="device_description"> Toto zariadenie je priradené k Mi účtu %s. Ak nenájdete potrebné zariadenie, najskôr ho pridajte do Mi Fit alebo Xiaomi Wear. </string>
     <string name="dialog_abandon"> Zahodiť </string>
     <string name="dialog_abandon_sleep_edit"> Zahodiť zmeny? </string>
     <string name="dialog_account_perm_desc"> Na prístup a prihlásenie v systémovom konte </string>
@@ -210,7 +204,7 @@ Aplikácia Xiaomi Zdravie vás upozorňuje iba na dôležité položky. </string
     <string name="dialog_user_agreement_purpose"> Vitajte v aplikácii Xiaomi Zdravie! Túto aplikáciu môžete použiť na počítanie krokov, sledovanie spánku, čistenie, váhy, ako aj synchr. zaznamenané údaje s cloudom. </string>
     <string name="dialog_user_agreement_purpose2"> Vitajte v aplikácii Xiaomi Health! Túto aplikáciu môžete použiť na počítanie krokov, analýzu spánku, sledovanie období, zaznamenávanie hmotnosti a ďalšie. </string>
     <string name="disable"> Off </string>
-    <string name="dream_talk"> Hovorí sa s%1$s </string>
+    <string name="dream_talk"> Hovorí sa s %1$s </string>
     <string name="dream_talk_record"> Boli ste zaznamenaní, keď ste hovorili počas spánku </string>
     <string name="dream_talk_title"> Hovoriť </string>
     <string name="drink_water"> Napite sa na vodu a urobte sa. </string>
@@ -224,7 +218,6 @@ Aplikácia Xiaomi Zdravie vás upozorňuje iba na dôležité položky. </string
     <string name="enable_go_now"> Zapnúť </string>
     <string name="enable_not_now"> Teraz nie </string>
     <string name="enable_right_now"> Zapnúť </string>
-    <string name="engrgy_format">%1$d W </string>
     <string name="dosť"> Dosť </string>
     <string name="environment_detection_again"> Skúste to znova </string>
     <string name="environment_detection_fail"> Príliš hlučné prostredie </string>
@@ -237,11 +230,10 @@ Aplikácia Xiaomi Zdravie vás upozorňuje iba na dôležité položky. </string
     <string name="večer"> Popoludní </string>
     <string name="nadmerné"> Príliš veľa </string>
     <string name="exercise"> Cvičenia </string>
-    <string name="exercise_consume"> Spálený%1$d kal </string>
+    <string name="exercise_consume"> Spálené %1$d kal </string>
     <string name="exercise_consume_description"> Podľa pokynov o stravovaní pre obyvateľov Číny by denná fyzická aktivita mala spotrebovať viac ako 15% z celkového výdaja energie. Tu je zhrnutá energia vynaložená na vašu každodennú fyzickú aktivitu, nezahŕňa však bazálny metabolický výdaj. Ak máte obavy z regulácie hmotnosti, musíte sa tiež zamerať na príjem energie. </string>
     <string name="exercise_consume_exercise_description"> Toto je čas, ktorý venujete činnostiam strednej a vysokej intenzity. Podľa čínskych zdravotných úradov by týždenné trvanie cvičenia malo byť minimálne 150 minút (najmenej 30 minút na sedenie). Na aktivity, ako je rýchla chôdza (kadencia viac ako 100 krokov za minútu), beh a lezenie po schodoch, sa bude pozerať ako na tréningy strednej až vysokej intenzity. </string>
     <string name="exercise_correct"> Správne </string>
-    <string name="exercise_detail_duration">%1$s…%2$s… -…%3$s…%4$s </string>
     <string name="exercise_detail_no_consume_hint"> Vybratý zdroj údajov (%1$s) neposkytuje informácie o počte kalórií.
 Môžete zvoliť iný zdroj údajov v časti Viac> Zdroje údajov. </string>
     <string name="exercise_detail_no_exercise_hint"> Váš súčasný zdroj údajov (%1$s) neposkytuje podrobné štatistiky tréningu.
@@ -249,8 +241,7 @@ Môžete zvoliť iný zdroj v časti Viac> Zdroje údajov. </string>
     <string name="exercise_detail_no_steps_hint"> Vybraný zdroj údajov (%1$s) neposkytuje informácie o počte krokov.
 Môžete zvoliť iný zdroj údajov v časti Viac> Zdroje údajov. </string>
     <string name="exercise_duration"> Stredná až vysoká intenzita </string>
-    <string name="exercise_duration_consume"> Trvanie:%1$s | Spálené:%2$s </string>
-    <string name="exercise_fast_description">%1$s (%2$s) </string>
+    <string name="exercise_duration_consume"> Trvanie: %1$s | Spálené: %2$s </string>
     <string name="exercise_goal"> Cieľ aktivity </string>
     <string name="exercise_goal_accomplished"> Dosiahnutý cieľ </string>
     <string name="exercise_goal_lack_exercise"> Nedostatok aktivity </string>
@@ -264,16 +255,16 @@ Môžete zvoliť iný zdroj údajov v časti Viac> Zdroje údajov. </string>
     <string name="exercise_motor_perception_description"> Noste zariadenie so sebou po celý deň, aby ste mohli automaticky sledovať tréningy </string>
     <string name="exercise_no_question"> Prečo nevidíte svoje štatistiky? </string>
     <string name="exercise_notification_content">%1$d min. cvičení (%2$d kal.) </string>
-    <string name="exercise_notification_meet_title"> Dnešné kroky:%d. Cieľ bol dosiahnutý! </string>
-    <string name="exercise_notification_no_meet_title"> Dnešné kroky:%d. Stále dosahujte svoj cieľ! </string>
+    <string name="exercise_notification_meet_title"> Dnešné kroky: %d. Cieľ bol dosiahnutý! </string>
+    <string name="exercise_notification_no_meet_title"> Dnešné kroky: %d. Stále dosahujte svoj cieľ! </string>
     <string name="exercise_question_answer_one"> 1. Niektoré modely nie sú vybavené senzormi s nízkou spotrebou energie. Aplikácia Xiaomi Zdravie nesleduje údaje o činnosti, aby šetrila batériu na nasledujúcich zariadeniach: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3 , Mi 4.
 Ak ste v zozname našli vaše zariadenie, údaje o zdrojoch môžete pridať manuálne v prípade Xiaomi Zdravie> Menu> Dátové zdroje> Pridané dátové zdroje. </string>
     <string name="exercise_question_answer_two"> 2. Príležitostne sa môže stať, že sa senzory pohybu nebudú montovať. Reštartujte telefón a skontrolujte, či v takýchto prípadoch sledovanie začne normálne. </string>
     <string name="exercise_question_title"> Prečo nevidíte svoje štatistiky? </string>
-    <string name="exercise_recog_confirm_ridding"> Bicyklovali ste sa medzi %1$s a%2$s? </string>
-    <string name="exercise_recog_confirm_run"> Bežali ste medzi%1$s a%2$s? </string>
-    <string name="exercise_recog_confirm_stair_climb"> Chodili ste po schodoch medzi%1$s a%2$s? </string>
-    <string name="exercise_recog_confirm_walk"> Prechádzali ste medzi%1$s a%2$s? </string>
+    <string name="exercise_recog_confirm_ridding"> Bicyklovali ste sa medzi %1$s a %2$s? </string>
+    <string name="exercise_recog_confirm_run"> Bežali ste medzi %1$s a %2$s? </string>
+    <string name="exercise_recog_confirm_stair_climb"> Chodili ste po schodoch medzi %1$s a%2$s? </string>
+    <string name="exercise_recog_confirm_walk"> Prechádzali ste medzi %1$s a %2$s? </string>
     <string name="exercise_record"> História tréningu </string>
     <string name="exercise_record_no_data"> Zatiaľ tu nie sú žiadne položky </string>
     <string name="exercise_remind_content_improve_goal"> Zlepšite svoje zdravie postupným zvyšovaním svojho cieľu aktivity </string>
@@ -284,8 +275,8 @@ Ak ste v zozname našli vaše zariadenie, údaje o zdrojoch môžete pridať man
     <string name="exercise_reminder_title"> Pripomienka aktivity </string>
     <string name="exercise_reminder_unaccomplished"> Zatiaľ ste nedosiahli svoj cieľ. Neprestávajte! </string>
     <string name="exercise_result_reminder_content">%1$d min. cvičení (%2$d kal.). Klepnutím zobrazíte podrobnosti. </string>
-    <string name="exercise_result_reminder_title"> Dnešný počet krokov:%1$d. Dosiahli ste cieľ! </string>
-    <string name="exercise_result_reminder_title_unaccomplished"> Dnešný počet krokov:%1$d. Stále môžete dosiahnuť cieľ! </string>
+    <string name="exercise_result_reminder_title"> Dnešný počet krokov: %1$d. Dosiahli ste cieľ! </string>
+    <string name="exercise_result_reminder_title_unaccomplished"> Dnešný počet krokov: %1$d. Stále môžete dosiahnuť cieľ! </string>
     <string name="exercise_setting_label_reach_standard_remind"> Upozornenie na aktivitu </string>
     <string name="exercise_setting_page_title"> Nastavenia aktivity </string>
     <string name="exercise_speed"> Spread </string>
@@ -351,8 +342,6 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="history_statistics"> Statistiky </string>
     <string name="home_page_card_setting"> Karty na úvodnej stránke </string>
     <string name="hour"> H </string>
-    <string name="hour_in_day_format">%1$d </string>
-    <string name="hour_in_day_format_short">%1$d </string>
     <string name="improved_step_target"> Svoje ciele dosahujete veľmi často. Skúste si zmeniť vyššie ciele. </string>
     <string name="improved_your_health_default_tips"> Cvičenie a dostatok spánku pomáha ostať fit. </string>
     <string name="inactivated"> Neaktívne </string>
@@ -437,13 +426,13 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="mens_avg_menstrual_period"> Priemerná doba </string>
     <string name="mens_avg_period"> Priemerný cyklus </string>
     <string name="mens_cancel_mark"> Zrušiť </string>
-    <string name="mens_day_in_guess_menstrual_period"> Odhadovaný deň%1$d obdobia </string>
+    <string name="mens_day_in_guess_menstrual_period"> Odhadovaný deň %1$d obdobia </string>
     <string name="mens_day_in_guess_ovu_period"> Odhadovaný deň%1$d ovulácie </string>
-    <string name="mens_day_in_ovu_period"> Deň%3$d cyklu (%1$s-%2$s). Vysoká pravdepodobnosť ovulácie. </string>
-    <string name="mens_day_in_phy_period"> Deň%3$d cyklu (%1$s-%2$s) </string>
-    <string name="mens_day_in_predict_menstrual_period"> Odhadovaný deň%1$d obdobia </string>
-    <string name="mens_day_in_predict_ovu_period"> Odhadovaný deň%1$d ovulácie </string>
-    <string name="mens_day_in_predict_period"> Odhadovaný deň%3$d cyklu (%1$s-%2$s) </string>
+    <string name="mens_day_in_ovu_period"> Deň %3$d cyklu (%1$s-%2$s). Vysoká pravdepodobnosť ovulácie. </string>
+    <string name="mens_day_in_phy_period"> Deň %3$d cyklu (%1$s-%2$s) </string>
+    <string name="mens_day_in_predict_menstrual_period"> Odhadovaný deň %1$d obdobia </string>
+    <string name="mens_day_in_predict_ovu_period"> Odhadovaný deň %1$d ovulácie </string>
+    <string name="mens_day_in_predict_period"> Odhadovaný deň %3$d cyklu (%1$s-%2$s) </string>
     <string name="mens_guess_day_ovulation"> Zdá sa, že ovulujete </string>
     <string name="mens_guess_menstrual_period_end"> Zdá sa, že vaša menštruácia skončila </string>
     <string name="mens_guess_not_in_menstrual_period"> Zdá sa, že nemáte menštruáciu </string>
@@ -582,12 +571,10 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="outdoor_riding"> Vonkajší cyklus </string>
     <string name="outdoor_running"> Beží </string>
     <string name="outdoor_walking"> Chôdza </string>
-    <string name="page">%1$d /%2$d </string>
     <string name="passable"> v poriadku </string>
     <string name="passport_oauth_actionbar_title"> Mi Konto </string>
     <string name="passport_oauth_sucess_tip"> Autorizovaný úspech </string>
     <string name="pause_button_content_description"> Pozastaviť </string>
-    <string name="per_count_minutes1">%d SPM </string>
     <string name="per_time_minutes">%d za minútu </string>
     <string name="per_time_minutes1"> za minútu </string>
     <string name="period"> Cyklus </string>
@@ -595,9 +582,9 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="permission_check_result_failed"> Nepodarilo sa meniť </string>
     <string name="permission_manage"> Spravovať oprávnenia </string>
     <string name="permission_tip"> Udeľte liečbu Xiaomi Zdravie nasledovné povolenie, aby mohla presne sledovať váš spánok </string>
-    <string name="picker_day"> Vybraný deň:%1$d. Potiahnutím zvisle potiahnite. </string>
-    <string name="picker_month"> Vybratý mesiac:%1$d. Potiahnutím zvisle potiahnite. </string>
-    <string name="picker_year"> Zvolený rok:%1$d. Potiahnutím zvisle potiahnite. </string>
+    <string name="picker_day"> Vybraný deň: %1$d. Potiahnutím zvisle potiahnite. </string>
+    <string name="picker_month"> Vybratý mesiac: %1$d. Potiahnutím zvisle potiahnite. </string>
+    <string name="picker_year"> Zvolený rok: %1$d. Potiahnutím zvisle potiahnite. </string>
     <string name="placement_tips_recommend"> Odporúčané </string>
     <string name="placement_tips_recommend_1"> Batoh </string>
     <string name="placement_tips_recommend_2"> Ľadvinka </string>
@@ -611,16 +598,16 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="preference_about"> O spôsob </string>
     <string name="preference_basic_info"> Základné informácie </string>
     <string name="preference_click_login"> Prihlásiť sa </string>
-    <string name="preference_copied"> Položka%1$s bola skopírovaná do priečinkov. </string>
+    <string name="preference_copied"> Položka %1$s bola skopírovaná do priečinkov. </string>
     <string name="preference_feedback"> Spätná väzba </string>
     <string name="preference_health_info_proposal_title"> Získajte presné štatistiky a užitočné tipy </string>
     <string name="preference_health_score_tip"> Skóre zdravia </string>
     <string name="preference_not_set"> Nenastavené </string>
     <string name="preference_update_already_newest"> Aplikácia Xiaomi Zdravie je aktuálna. </string>
-    <string name="preference_update_current_version"> Aktuálna verzia:%1$s </string>
+    <string name="preference_update_current_version"> Aktuálna verzia: %1$s </string>
     <string name="preference_update_default_title"> Verzia </string>
     <string name="preference_update_find_new_version"> Vyplatiť načítať </string>
-    <string name="preference_update_find_newer_version"> Je dostupná aktualizácia:%1$s </string>
+    <string name="preference_update_find_newer_version"> Je dostupná aktualizácia: %1$s </string>
     <string name="privacy_policy"> Zásady ochrany osobných údajov </string>
     <string name="prompt_more_than_3h"> Viac ako 3 hodiny </string>
     <string name="prompt_sleep_time_night"> Nočný spánok </string>
@@ -641,8 +628,8 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="remember_query_menstruation_end"> Skončila sa vaša dcéra? Nezabudnite zaznamenať. </string>
     <string name="remember_query_menstruation_start"> Začať sa vaša dcéra? Nezabudnite zaznamenať. </string>
     <string name="remember_sleep_report_complete"> Štatistiky o spánku sú pripravené </string>
-    <string name="remember_sleep_report_content"> Včera v noci ste spali%1$d h (y)%2$d min. Klepnutím zobrazíte podrobnosti. </string>
-    <string name="remember_sleep_report_content_1"> Minulá noc ste spali%1$d hod .. Ťuknite pre zobrazenie podrobností. </string>
+    <string name="remember_sleep_report_content"> Včera v noci ste spali %1$d h (y) %2$d min. Klepnutím zobrazíte podrobnosti. </string>
+    <string name="remember_sleep_report_content_1"> Minulá noc ste spali %1$d hod .. Ťuknite pre zobrazenie podrobností. </string>
     <string name="remember_sleep_report_title"> Štatistiky spánku sú pripravené </string>
     <string name="remember_subtitle_menstruation_start"> Dostať pripomienku 2 dni pred možným začiatkom ďalšej fázy </string>
     <string name="remember_subtitle_record"> Dostávať pripomienky na zaznamenávanie začiatku a ukončenia vašich procesov </string>
@@ -698,7 +685,7 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="skipping_start_counting"> Štart </string>
     <string name="skipping_time"> Doba trvania </string>
     <string name="skipping_upload_dialog_agree_and_upload"> Nahrať </string>
-    <string name="skipping_upload_dialog_msg"> Vaše zariadenie je pripojené k%s. Teraz si môžete zistiť nahrať zvuk nahraný počas cvičení a zlepšiť tak prítomnosť svojich údajov o cvičení. Z dôvodu ochrany vášho súkromia budú zvukové súbory šifrované. </string>
+    <string name="skipping_upload_dialog_msg"> Vaše zariadenie je pripojené k %s. Teraz si môžete zistiť nahrať zvuk nahraný počas cvičení a zlepšiť tak prítomnosť svojich údajov o cvičení. Z dôvodu ochrany vášho súkromia budú zvukové súbory šifrované. </string>
     <string name="skipping_upload_dialog_reject_not_remind"> Nie, ďakujem </string>
     <string name="skipping_upload_dialog_title"> Nahrať zvuk </string>
     <string name="skipping_upload_tips"> Nahrať zvuk pre dosiahnutie najnovších štatistík </string>
@@ -708,7 +695,7 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="sleep_chart_empty"> Žiadne údaje </string>
     <string name="sleep_chart_loading"> Malý okamih ... </string>
     <string name="sleep_day"> Deň </string>
-    <string name="sleep_day_multi_short_title"> Zdriemnutie%1$d </string>
+    <string name="sleep_day_multi_short_title"> Zdriemnutie %1$d </string>
     <string name="sleep_day_single_short_title"> Zdriemnutie </string>
     <string name="sleep_day_title"> Spánok cez deň </string>
     <string name="sleep_deep"> Hlboký spánok </string>
@@ -717,7 +704,7 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="sleep_deep_light_no_data"> Spánok nebolo možné zaznamenať. Umiestnenie mobilného zariadenia vedľa vankúša spresní údaje o spánku. </string>
     <string name="sleep_detection_enable"> Analyzovať spánkový cyklus </string>
     <string name="sleep_detection_feedback"> Spätná väzba </string>
-    <string name="sleep_detection_guide_four_description"> Sledovanie spánku spotrebuje za noc iba asi 1% vašej batérie </string>
+    <string name="sleep_detection_guide_four_description"> Sledovanie spánku spotrebuje za noc iba asi 1%% vašej batérie </string>
     <string name="sleep_detection_guide_four_high_power_description"> Pred spánkom sa uistite, že je vaše zariadenie dostatočne nabité. Slabá batéria môže prerušiť sledovanie spánku. </string>
     <string name="sleep_detection_guide_four_high_power_title"> Udržujte svoje zariadenie nabité </string>
     <string name="sleep_detection_guide_four_title"> Nízka spotreba energie </string>
@@ -756,7 +743,7 @@ Ak sa tento problém vyskytuje často, skontrolujte v prístroji naplánované v
     <string name="sleep_duration_more_description"> Mali ste viac spánku, ako je potrebné. </string>
     <string name="sleep_empty_data_tips"> Prejsť celý spánkový cyklus </string>
     <string name="sleep_goal"> Ciele </string>
-    <string name="sleep_goal_by_hours_minutes"> Cieľ:%1$s%2$s </string>
+    <string name="sleep_goal_by_hours_minutes"> Cieľ: %1$s %2$s </string>
     <string name="sleep_goal_compliance"> Dobrý spánok </string>
     <string name="sleep_goal_maybe_compliance"> Relatívny dobrý spánok </string>
     <string name="sleep_goal_not_compliance"> Nedostatok spánku </string>
@@ -765,7 +752,7 @@ Ak sa tento problém vyskytuje často, skontrolujte v prístroji naplánované v
     <string name="sleep_keep_hard"> Problémy so spánkom </string>
     <string name="sleep_light"> Ľahký spánok </string>
     <string name="sleep_management_content1"> Nastaviť pripomienky týkajúce sa spánku a vstávania </string>
-    <string name="sleep_management_exp_hours_minutes"> Aktuálne nastavenie vám nezaručí%1$s%2$s spánku denne. Potrebujete viac než to. </string>
+    <string name="sleep_management_exp_hours_minutes"> Aktuálne nastavenie vám nezaručí %1$s %2$s spánku denne. Potrebujete viac než to. </string>
     <string name="sleep_management_label"> Spravovať večierku </string>
     <string name="sleep_month"> Mesiac </string>
     <string name="sleep_need_auto_start"> Povoliť liečbu Xiaomi Zdravie automatické spustenie pre získanie presnejších údajov </string>
@@ -807,7 +794,7 @@ spánkový cyklus </string>
     <string name="sleep_state_this_week"> Spánok tento týždeň </string>
     <string name="sleep_status"> Stav spánku </string>
     <string name="sleep_time_edit"> Upraviť </string>
-    <string name="sleep_time_standard_pattern"> Štandard:%1$d hod. </string>
+    <string name="sleep_time_standard_pattern"> Štandard: %1$d hod. </string>
     <string name="sleep_tip_default"> Pokúste sa ísť spať pred 23:00 hod. </string>
     <string name="sleep_tip_keep_not_enough"> zdá sa, že máte dosť spánku. </string>
     <string name="sleep_tip_keep_on"> Všetko vyzerá byť v poriadku. Skvelé! </string>
@@ -847,10 +834,9 @@ spánkový cyklus </string>
     <string name="snore_label"> Chrápanie </string>
     <string name="snore_record_audio_delete_message"> Tento záznam je uložený iba vo vašom zariadení. Ak ho odstránite, nebudete ho môcť obnoviť. Chcete napriek tomu odstrániť? </string>
     <string name="snore_record_audio_delete_title"> Odstrániť záznam? </string>
-    <string name="snore_section"> Chrápanie%1$s </string>
+    <string name="snore_section"> Chrápanie %1$s </string>
     <string name="snore_write_description"> Na ukladanie zvukových nahrávok do vášho zariadenia </string>
     <string name="sport_type"> Typ tréningu </string>
-    <string name="standard_format"> (štandard:% 1s) </string>
     <string name="state_agree"> Súhlasím </string>
     <string name="state_auto_run_disenable"> Vypnúť </string>
     <string name="state_auto_run_enable"> Povoliť </string>
@@ -872,7 +858,6 @@ spánkový cyklus </string>
     <string name="suggestion_move_title"> Čas na pohyb! </string>
     <string name="suggestion_title"> Odporúčania </string>
     <string name="vhodné"> Vhodné </string>
-    <string name="summary_collapsed_preference_list">%1$s,%2$s </string>
     <string name="sunday"> Nedeľa </string>
     <string name="sunday_short"> Neď </string>
     <string name="sunday_shortest"> Neď </string>
@@ -882,7 +867,7 @@ spánkový cyklus </string>
     <string name="swipe_right_to_end"> Pred ukončením potiahnuť dopravu </string>
     <string name="swipe_up_to_end"> Pred ukončením potiahnuť nahor </string>
     <string name="tb_mens_mark_success"> Úspešne označené </string>
-    <string name="tb_mens_select_column"> Cyklus sa začína%1$s.%2$s.%3$s. </string>
+    <string name="tb_mens_select_column"> Cyklus sa začína %1$s.%2$s.%3$s. </string>
     <string name="tb_mens_unmark_success"> Úspešne zrušené </string>
     <string name="text_edit_exercise_goal"> Zmeniť cieľ </string>
     <string name="text_save_exercise_goal"> Hotovo </string>
@@ -937,7 +922,7 @@ spánkový cyklus </string>
     <string name="title_click_record_menstruation"> Zaznamenať dĺžkuáciu </string>
     <string name="title_data_collect"> Použitie osobných údajov </string>
     <string name="title_improve_health"> Buďte zdraví </string>
-    <string name="title_menstruation_predict_start"> Menštruácia pravdepodobne začne%1$s </string>
+    <string name="title_menstruation_predict_start"> Menštruácia pravdepodobne začne %1$s </string>
     <string name="title_month_exercise_sum"> Mesačné štatistiky </string>
     <string name="title_network_license"> Sieťový prístup </string>
     <string name="title_no_record_menstruation"> Zatiaľ ste nezaznamenali žiadnu dlhú sériu. </string>
@@ -981,15 +966,14 @@ spánkový cyklus </string>
     <string name="unit_kilometre"> km </string>
     <string name="unit_metre"> m </string>
     <string name="unit_min"> min. </string>
-    <string name="unit_number_format">%1$d </string>
     <string name="unit_second"> sek. </string>
     <string name="unknown_state"> Neznámy stav </string>
     <string name="update_notify_dialog_ignore"> Ďalej </string>
-    <string name="update_notify_dialog_msg"> Je dostupná aktualizácia:%1$s.
+    <string name="update_notify_dialog_msg"> Je dostupná aktualizácia: %1$s.
 Čo je nové:
 %2$s
 Aktualizovať teraz? </string>
-    <string name="update_notify_dialog_msg2"> Je k dispozícii aktualizácia:%1$s. Aktualizovať teraz? </string>
+    <string name="update_notify_dialog_msg2"> Je k dispozícii aktualizácia: %1$s. Aktualizovať teraz? </string>
     <string name="update_notify_dialog_title"> Je dostupná aktualizácia </string>
     <string name="update_notify_no_update_log"> Nič sa nenašlo. ​​</string>
     <string name="upgrade_suggestion"> Aktualizujte Xiaomi Health na najnovšiu verziu a skúste to znova. </string>

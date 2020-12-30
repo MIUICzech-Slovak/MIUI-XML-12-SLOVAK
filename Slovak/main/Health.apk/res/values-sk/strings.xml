@@ -37,7 +37,6 @@
     <string name="abc_shareactionprovider_share_with_application"> Zdieľať s aplikáciou %s </string>
     <string name="abc_toolbar_collapse_description"> Zbaliť </string>
     <string name="abnormal"> Abnormálne </string>
-    <string name="úřadujúci"> Napájanie </string>
     <string name="actionbar_button_up_description"> Späť </string>
     <string name="activity_title_basic_info"> Základné informácie </string>
     <string name="activity_title_exercise"> Aktivita </string>
@@ -51,7 +50,6 @@
     <string name="add_model_card"> Klepnite na tlačidlo v ľavom hornom rohu
 pridať karty </string>
     <string name="add_record"> Pridať </string>
-    <string name="odpoledne"> Popoludní </string>
     <string name="all_records"> Všetky záznamy </string>
     <string name="nadmorská výška"> nadmorská výška </string>
     <string name="depth_pressure_hint"> * Nadmorská výška vypočítaná na základe atmosférického tlaku je približná </string>
@@ -130,11 +128,7 @@ pridať karty </string>
     <string name="daily_steps"> Kroky </string>
     <string name="daily_time_label"> Čas </string>
     <string name="date_format_m_d"> d.M. </string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar"> Čínsky tradičný kalendár </string>
-    <string name="date_week_index"> 'W'ww yyyy </string>
     <string name="day"> Deň </string>
     <string name="deep_light_detection_open_prompt"> Váš spánkový cyklus bude analyzovaný, keď idete spať </string>
     <string name="deep_sleep"> Hlboký spánok </string>
@@ -225,10 +219,6 @@ Aplikácia Xiaomi Zdravie vás upozorňuje iba na dôležité položky. </string
     <string name="environment_detection_hint_one"> Predbežné údaje sa odstránia hlučnými miestami. </string>
     <string name="environment_detection_hint_two"> Vaše cvičenie sa pozastaví a automaticky obnoví na základe zvukových povelov. </string>
     <string name="environment_detection_ing"> Kontroluje sa prostredie pre cvičenie… </string>
-    <string name="eras_ad"> CE </string>
-    <string name="eras_bc"> p.n.l. </string>
-    <string name="večer"> Popoludní </string>
-    <string name="nadmerné"> Príliš veľa </string>
     <string name="exercise"> Cvičenia </string>
     <string name="exercise_consume"> Spálené %1$d kal </string>
     <string name="exercise_consume_description"> Podľa pokynov o stravovaní pre obyvateľov Číny by denná fyzická aktivita mala spotrebovať viac ako 15% z celkového výdaja energie. Tu je zhrnutá energia vynaložená na vašu každodennú fyzickú aktivitu, nezahŕňa však bazálny metabolický výdaj. Ak máte obavy z regulácie hmotnosti, musíte sa tiež zamerať na príjem energie. </string>
@@ -347,7 +337,6 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="inactivated"> Neaktívne </string>
     <string name="indoor_rinding"> Vnútorný cyklus </string>
     <string name="indoor_running"> Bežecký pás </string>
-    <string name="dostatečné"> Nedostatok </string>
     <string name="internal_training"> HIIP </string>
     <string name="jump_freq"> Frekvencia skokov </string>
     <string name="jump_over"> Preskočiť </string>
@@ -391,7 +380,6 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="low_intensity"> Nízka </string>
     <string name="low_intensity_description"> Bežné dýchanie, ktoré vám umožňuje zvládnuť konverzáciu </string>
     <string name="minimum_freq"> Najnižšia frekvencia </string>
-    <string name="nejnižší_jump"> Najnižší skok </string>
     <string name="manage_home"> Spravovať úvodnú stránku </string>
     <string name="manual_add"> Pridať ručne </string>
     <string name="manual_adjust"> Upraviť </string>
@@ -851,13 +839,11 @@ spánkový cyklus </string>
     <string name="subtitle_record_and_start_predict"> Zaznamenávať frekvenciu a predpoklad začatia ďalšej </string>
     <string name="subtitle_run_in_background"> ​​Pre presnú štatistiku označiť \"Žiadne obmedzenia \ </string>
     <string name="subtitleise_record"> Zaznamenávať svoje prerušenia a dostávať presnejšie odhady </string>
-    <string name="dostatečné"> dosť </string>
     <string name="suggestion_drink_content"> Dávajte si pozor na napätie vo viacerých televíziách a relaxujte. </string>
     <string name="suggestion_drink_title"> Napite sa vody a oddýchnite si </string>
     <string name="suggestion_move_content"> Prejdite stovku krokov alebo vystúpajte pár schodov. </string>
     <string name="suggestion_move_title"> Čas na pohyb! </string>
     <string name="suggestion_title"> Odporúčania </string>
-    <string name="vhodné"> Vhodné </string>
     <string name="sunday"> Nedeľa </string>
     <string name="sunday_short"> Neď </string>
     <string name="sunday_shortest"> Neď </string>
@@ -998,6 +984,5 @@ Aktualizovať teraz? </string>
     <string name="well"> Dobré </string>
     <string name="write_strorage_perm_description"> Na ukladanie informácií o problémoch, na ktoré narazíte </string>
     <string name="year"> Rok </string>
-    <string name="čera "> Včera </string>
     <string name="yoga"> Jóga </string>
 </resources>    

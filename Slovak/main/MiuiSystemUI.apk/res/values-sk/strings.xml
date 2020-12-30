@@ -2543,11 +2543,8 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     <string name="input_lockscreen_password_hint_text">Zadajte heslo</string>
     <string name="input_lockscreen_pattern_hint_text">Nakreslite vzor</string>
     <string name="input_lockscreen_pin_hint_text">Zadajte PIN</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobilné dáta (WCDMA/LTE) budú vypnuté. Ak nepoužívate Wi-Fi, nebudete môcť využívať aplikácie ktoré požadujú pripojenie na internet.</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobilné dáta budú povolené. Môžu sa navýšiť vaše poplatky.</string>
-    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Zrušiť</string>
-    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
-    <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Vypnúť</string>
-    <string name="torch_high_temperature_warning">Vaše zariadenie je prehriate. Nie je možné využívať svietidlo.</string>
+
+
+
 	
 </resources>

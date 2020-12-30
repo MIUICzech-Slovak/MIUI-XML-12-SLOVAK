@@ -6583,9 +6583,6 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="allow_all_rotations_title">Povoliť 180° otočenie</string>  
     <string name="control_center_style">Vzhľad Ovládačov</string>
     <string name="control_center_style_summary">Vyberte ako chcete aby vyzerali prepínače a upozornenia</string>
-    <string name="display_animate_category">Animované efekty</string>
-    <string name="display_animate_content">Obmedziť animácie ktoré sú zobrazené počas odomknutia zariadenia</string>
-    <string name="display_animate_title">Obmedziť animácie</string>
     <string name="legacy_control_center_desc">Potiahnite lištu nadol pre zobrazenie prepínačov a upozornení</string>
     <string name="legacy_control_center_title">Stará verzia</string>
     <string name="lock_screen_action">Položky zobrazené na Zamknutej obrazovke po potiahnutí nadol</string>

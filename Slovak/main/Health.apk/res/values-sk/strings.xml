@@ -305,7 +305,7 @@ Spoločnosť Xiaomi Health vás upozorní iba na dôležité položky. “</stri
     <string name="dream_talk_title"> Hovoriť </string>
     <string name="drink_water"> Napite sa vody a choďte na prechádzku. </string>
     <string name="each_week_day_format1"> Každé %1$s </string>
-    <string name="each_week_day_format2"> Každé %1$s,% 2$s a %3$s </string>
+    <string name="each_week_day_format2"> Každé %1$s,%2$s a %3$s </string>
     <string name="each_week_day_format3"> Každých %1$s až %2$s </string>
     <string name="early"> Včasné </string>
     <string name="edit_aid_file"> Upraviť </string>
@@ -561,7 +561,6 @@ Začnite odznova. “</string>
     <string name="inquire_recover_data"> Obnoviť zdravotné údaje teraz? </string>
     <string name="inquire_recover_data_subtitle"> "Zdá sa, že k vášmu účtu Mi (%1$s) sú spojené zdravotné údaje. Chcete zapnúť synchronizáciu s cloudom a obnoviť dáta teraz?" </string>
     <string name="instructions_provider"> Pokyny poskytnuté spoločnosťou Miao Health </string>
-    <string name="dostatečné"> Nedostatok </string>
     <string name="internal_training"> HIIP </string>
     <string name="jump_freq"> Frekvencia skokov </string>
     <string name="jump_over"> Preskočiť </string>

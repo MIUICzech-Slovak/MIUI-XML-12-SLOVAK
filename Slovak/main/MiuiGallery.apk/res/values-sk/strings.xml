@@ -2157,7 +2157,7 @@
     <string name="support_single_image">Vyberte jeden obrázok</string>
     <string name="support_single_video">Vyberte jedno video</string>   
     <string name="text_edit_dialog_style_stroke">Okraj</string>
-    <string name="text_edit_dialog_style_toast">Nie je možné umiestniť text na "Can't place outlined text na pozadie.</string>
+    <string name="text_edit_dialog_style_toast">Nie je možné umiestniť text na pozadie.</string>
     <string name="text_tab_idp1">Bežné</string>
     <string name="text_tab_idp2">Cestovanie</string>
     <string name="text_tab_idp3">Práca</string>

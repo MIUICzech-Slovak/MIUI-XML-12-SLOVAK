@@ -99,7 +99,7 @@
     <string name="date_time_picker_dialog_title">Nastaviť dátum a čas</string>
     <string name="default_error_msg">Neznáma chyba</string>
     <string name="download_aborted">Nebolo možné preniesť z dôvodu prerušenia spojenia</string>
-    <string name="download_canceled_title">Prijaté %1$s</string>
+    <string name="download_canceled_title">Neprijaté %1$s</string>
     <string name="download_succeeded_title">Prijaté %1$s</string>
     <string name="fingerprint_dialog_touch_sensor">Dotknite sa senzora odtlačku prsta</string>
     <string name="fingerprint_error_hw_not_available">Nie je dostupný senzor odtlačku prsta.</string>

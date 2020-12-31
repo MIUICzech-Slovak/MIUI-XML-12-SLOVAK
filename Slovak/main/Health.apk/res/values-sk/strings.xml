@@ -11,7 +11,7 @@
     <string name="activity_title_exercise"> Aktivita </string>
     <string name="activity_title_exercise_goal"> Cieľ aktivity </string>
     <string name="activity_title_settings"> Nastavenia </string>
-    <string name="activity_title_sleep"> Spať </string>
+    <string name="activity_title_sleep"> Spánok </string>
     <string name="activity_title_sleep_details"> Podrobnosti o spánku </string>
     <string name="activity_title_sleep_detection"> Analyzovať spánkový cyklus </string>
     <string name="activity_title_sleep_detection_question"> Časté otázky </string>
@@ -73,7 +73,7 @@ Ak nechcete získať prístup k odporúčaným kurzom, môžete stále používa
     <string name="avg_low_pressure"> Priemerný diastolický (dolný) </string>
     <string name="avg_pace"> Priemerné tempo </string>
     <string name="avg_steps"> Denné kroky </string>
-    <string name="awake_count"> Prebudil sa </string>
+    <string name="awake_count"> Prebudenie </string>
     <string name="awake_count_abnormal_description"> V noci ste sa veľa prebudili. </string>
     <string name="awake_count_normal_description"> Prebudili ste sa raz v noci. Je to normálne. </string>
     <string name="awake_duration"> Trvanie prebudenia </string>
@@ -594,7 +594,7 @@ Začnite odznova. “</string>
     <string name="label_start_time"> Spustiť </string>
     <string name="label_today_exercise_consumption"> Spálené </string>
     <string name="label_today_exercise_summary"> "Dnešné kroky" </string>
-    <string name="label_today_sleep_summary"> Spať včera večer </string>
+    <string name="label_today_sleep_summary"> Spánok včera večer </string>
     <string name="label_wake_up"> Prebudil sa </string>
     <string name="label_wake_up_time"> Prebudil sa </string>
     <string name="lack_permisson"> Ak chcete pokračovať, udelte spoločnosti Xiaomi Health všetky potrebné povolenia. </string>
@@ -871,7 +871,7 @@ Začnite odznova. “</string>
     <string name="other_question"> Iné </string>
     <string name="outdoor_hiking"> Turistika </string>
     <string name="outdoor_riding"> Vonkajší cyklus </string>
-    <string name="outdoor_running"> Beží </string>
+    <string name="outdoor_running"> Beh </string>
     <string name="outdoor_walking"> Chôdza </string>
     <string name="passport_oauth_actionbar_title"> Mi účet </string>
     <string name="passport_oauth_sucess_tip"> Autorizovaný úspech </string>
@@ -988,7 +988,7 @@ Začnite odznova. “</string>
     <string name="rope_skipping_environment_warning"> Vyvarujte sa hlučnému prostrediu </string>
     <string name="rope_skipping_ways"> Identifikujte švihadlo podľa hlasu </string>
     <string name="rowing_machine"> Veslári </string>
-    <string name="run"> Beží </string>
+    <string name="run"> Beh </string>
     <string name="saturday"> sobota </string>
     <string name="saturday_short"> so </string>
     <string name="saturday_shortest"> so </string>
@@ -1040,17 +1040,17 @@ Začnite odznova. “</string>
     <string name="share_card_title_free_training"> Freestyle tréning </string>
     <string name="share_card_title_high_interval_training"> HIIT </string>
     <string name="share_card_title_indoor_rinding"> Stacionárny bicykel %s </string>
-    <string name="share_card_title_indoor_running"> Beží %s </string>
+    <string name="share_card_title_indoor_running"> Beh %s </string>
     <string name="share_card_title_open_swimming"> Plávanie na otvorenej vode %s </string>
     <string name="share_card_title_outdoor_hiking"> Turistika%s </string>
     <string name="share_card_title_outdoor_riding"> Jazda na bicykli %s </string>
-    <string name="share_card_title_outdoor_running"> Beží %s </string>
+    <string name="share_card_title_outdoor_running"> Beh %s </string>
     <string name="share_card_title_outdoor_walking"> Chôdza po %s </string>
     <string name="share_card_title_pool_swimming"> Bazén plávať %s </string>
     <string name="share_card_title_riding"> Jazda na bicykli %s </string>
     <string name="share_card_title_rope_skipping"> Švihadlo %s </string>
     <string name="share_card_title_rowing_machine"> Veslár %s </string>
-    <string name="share_card_title_running"> Beží %s </string>
+    <string name="share_card_title_running"> Beh %s </string>
     <string name="share_card_title_stair_climbing"> Lezenie po schodoch </string>
     <string name="share_card_title_swimming"> Plávanie%s </string>
     <string name="share_card_title_treadmill"> Bežecký pás %s </string>
@@ -1077,7 +1077,7 @@ Začnite odznova. “</string>
     <string name="skipping_upload_dialog_reject_not_remind"> Nie, ďakujem </string>
     <string name="skipping_upload_dialog_title"> Nahrať zvuk </string>
     <string name="skipping_upload_tips"> Nahrajte zvuk, aby boli štatistiky presnejšie </string>
-    <string name="sleep"> Spať </string>
+    <string name="sleep"> Spánok </string>
     <string name="sleep_and_get_up_time"> Časový rozvrh večierok </string>
     <string name="sleep_auto_start_perm_grant"> Povolenia udelené </string>
     <string name="sleep_chart_empty"> Žiadne údaje </string>
@@ -1176,8 +1176,8 @@ spánkový cyklus “</string>
     <string name="sleep_snore_audio_hight_power_desc"> "Pamätajte, že použitie tejto funkcie spotrebuje značné množstvo energie. Je dobré ponechať nabíjačku pripojenú, keď spíte, aby ste predišli neočakávaným prerušeniam." </string>
     <string name="sleep_snore_detection"> Zistiť chrápanie a rozhovor </string>
     <string name="sleep_snore_detection_desc"> Zistiť chrápanie a rozhovory a dozvedieť sa viac o svojom spánku </string>
-    <string name="sleep_sober"> Prebuďte sa </string>
-    <string name="sleep_sober_times_title"> Prebudil sa </string>
+    <string name="sleep_sober"> Prebudenie </string>
+    <string name="sleep_sober_times_title"> Prebudenie </string>
     <string name="sleep_state_this_month"> "Spánok tohto mesiaca" </string>
     <string name="sleep_state_this_week"> "Tento týždeň spí" </string>
     <string name="sleep_status"> Stav spánku </string>
@@ -1247,7 +1247,7 @@ spánkový cyklus “</string>
     <string name="sport_invalid_dialog_title"> Príliš rýchle! </string>
     <string name="sport_menu_share"> Zdieľať </string>
     <string name="sport_no_internet_toast"> "Nemám prístup k vašej presnej polohe z dôvodu slabého sieťového signálu." </string>
-    <string name="sport_outdoor_running"> Beží </string>
+    <string name="sport_outdoor_running"> Beh </string>
     <string name="sport_pace_chart_last_km"> Menej ako 1 km </string>
     <string name="sport_pace_step_unit"> SPM </string>
     <string name="sport_pref_category_voice"> Zvuk </string>
@@ -1291,7 +1291,7 @@ spánkový cyklus “</string>
     <string name="sporting_location"> Vyhľadať </string>
     <string name="sporting_title_outdoor_riding"> Cyklistika </string>
     <string name="sporting_title_pause"> Pozastavené </string>
-    <string name="sporting_title_running"> Beží </string>
+    <string name="sporting_title_running"> Beh </string>
     <string name="sporting_title_waking"> Chôdza </string>
     <string name="stand"> Postavenie </string>
     <string name="stand_assistant"> Postavenie </string>
@@ -1425,8 +1425,8 @@ spánkový cyklus “</string>
     <string name="tb_home_heart_rate_card"> Tep. %1$d úderov za minútu. Zaznamenané%2$s. </string>
     <string name="tb_home_heart_rate_card_no_data"> Tep. Žiadne údaje. </string>
     <string name="tb_home_sleep_card"> "Dnešný spánok:%1$s,%2$s" </string>
-    <string name="tb_home_sleep_card_no_data"> Spať. Dnes neexistujú žiadne údaje. </string>
-    <string name="tb_home_sleep_card_not_open_trace"> Spať. Analýza spánkového cyklu je vypnutá. </string>
+    <string name="tb_home_sleep_card_no_data"> Spánok. Dnes neexistujú žiadne údaje. </string>
+    <string name="tb_home_sleep_card_not_open_trace"> Spánok. Analýza spánkového cyklu je vypnutá. </string>
     <string name="tb_home_tip_open_data_sync"> Synchronizujte položky Xiaomi Health so službou Xiaomi Cloud, aby ste k nim mali prístup na iných zariadeniach. Začnite dvojitým klepnutím. </string>
     <string name="tb_home_weight_card"> Hmotnosť. %1$.2f kilogramov. Čas váženia:%2$s. Stav:%3$s. </string>
     <string name="tb_home_weight_card_no_data"> Hmotnosť. Žiadne údaje. </string>
@@ -1529,11 +1529,11 @@ spánkový cyklus “</string>
     <string name="title_start_use"> Spustiť </string>
     <string name="title_start_use_menstruation_assistant"> Zaznamenajte si menštruačný cyklus </string>
     <string name="title_today_exercise_detail"> "Dnešná aktivita" </string>
-    <string name="today"> Today </string>
+    <string name="today"> Dnes </string>
     <string name="today_hh_mm"> Dnes HH: mm </string>
     <string name="today_label"> Dnes </string>
     <string name="today_no_data"> Pre dnešok zatiaľ neexistujú žiadne údaje </string>
-    <string name="today_single"> Today </string>
+    <string name="today_single"> Dnes </string>
     <string name="tomorrow"> Zajtra </string>
     <string name="too_little"> Príliš málo </string>
     <string name="total"> Celkom </string>
@@ -1608,5 +1608,8 @@ Veľkosť aktualizácie Delta:%2$s "</string>
     <string name="year"> Rok </string>
     <string name="čera "> Včera </string>
     <string name="yoga"> Jóga </string>
+    <string name="sufficient">Dostatočné</string>    
+     <string name="insufficient">Nedostatočné</string>    
+
 </resources>
 

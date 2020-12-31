@@ -137,4 +137,141 @@
         <item>Zálohovať fotografie</item>
         <item>Zálohovať fotografie na MiCloud</item>
     </string-array>	 
+    
+    <string-array name="acc_category_color_description">
+	<item>Biela</item>
+	<item>Tmavomodrá</item>
+	<item>Svetlomodrá</item>
+	<item>Červená</item>
+	<item>Zelená</item>
+	<item>Ružová</item>
+	<item>Hnedá</item>
+	<item>Šedá</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Vyberte obrázok</item>
+        <item>Priehľadne pozadie</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+	<item>Voľnýčas</item>
+	<item>Vánok</item>
+	<item>Sny</item>
+	<item>Mraky</item>
+	<item>Myšlienky</item>
+	<item>Púčiky</item>
+	<item>Metamorfóza</item>
+	<item>Hĺbka</item>
+	<item>Odrazy</item>
+	<item>Minimalistické</item>
+	<item>Mystery</item>
+	<item>Hmla</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Premeňte pozadie na skicu</item>
+        <item>Pozadie vodových farieb</item>
+        <item>Cyberpunk retro</item>
+        <item>Vertikálne segmenty</item>
+        <item>Rozmazanie</item>
+        <item>Budúcnosť</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Skica</item>
+        <item>Vodové farby</item>
+        <item>RGB</item>
+        <item>Rolety</item>
+        <item>Zahmlené okno</item>
+        <item>Tech</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Farebný okraj</item>
+        <item>Prerušovaný okraj</item>
+        <item>Fluorescentný okraj</item>
+        <item>Farebný tieň</item>
+        <item>Electrická vlna</item>
+        <item>Napätie</item>
+        <item>Text</item>
+        <item>Krídla</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Bežné</item>
+        <item>Cestovanie</item>
+        <item>Práca</item>
+        <item>Dokumenty</item>
+        <item>Vzdelanie</item>
+        <item>Skúšky</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Občiansky preukaz</item>
+        <item>Zdravotný preukaz</item>
+        <item>Karta poistenca</item>
+        <item>ID</item>
+        <item>Osobná karta</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>Jeden palec</item>
+        <item>Dva palce</item>
+        <item>Menší palec</item>
+        <item>Menšie dva palce</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+	 <item>Žiadosť o prijatie</item>
+         <item>Študentská sieť</item>
+         <item>Sieť študentov pre základné školy</item>
+         <item>Profil študentskej siete</item>
+         <item>Prijatie na univerzitu</item>
+         <item>NCEE</item>
+         <item>Životopis</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+	 <item>Osvedčenie učiteľa pre základné a stredné školy</item>
+         <item>Certifikácia učiteľa</item>
+         <item>Vodičský preukaz</item>
+         <item>Sprievodné povolenie</item>
+         <item>Povolenie elektronického sprievodcu</item>
+         <item>Vnútroštátne súdne preskúmanie</item>
+         <item>Elektronický certifikát prvotriedneho konštruktéra</item>
+         <item>Certifikát konštruktora druhej triedy</item>
+         <item>Skúška účtovného titulu junior</item>
+         <item>Certifikovaný verejný účtovník</item>
+         <item>povolenie pre pekingský sprievodca</item>
+         <item>Skúška priebežného účtovného titulu</item>
+         <item>Skúška účtovníckeho titulu senior</item>
+         <item>Osvedčenie o účtovníckej kvalifikácii</item>
+         <item>Certifikované verejné účtovníctvo</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+	 <item>USA</item>
+         <item>Vietnam</item>
+         <item>Japonsko</item>
+         <item>Hongkong a Macao</item>
+         <item>Južná Kórea</item>
+         <item>Thajsko (turistické)</item>
+         <item>Thajsko (pri príchode)</item>
+         <item>India</item>
+         <item>Izrael</item>
+         <item>Taiwan</item>
+         <item>Malajzia</item>
+         <item>Nový Zéland</item>
+         <item>Taliansko</item>
+         <item>Argentína</item>
+         <item>Brazília</item>
+         <item>Island</item>
+         <item>Keňa</item>
+    </string-array>
 </resources>

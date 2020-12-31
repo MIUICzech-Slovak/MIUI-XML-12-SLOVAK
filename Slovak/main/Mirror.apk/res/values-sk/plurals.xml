@@ -4,4 +4,12 @@
         <item quantity="other">%2$d súborov, vrátane %1$s</item>
         <item quantity="one">%2$d súbor, vrátane %1$s</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">Prijatých %2$d súborov, vrátane %1$s</item>
+        <item quantity="one">Prijatý %2$d súbor, vrátane %1$s</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">Prijatých %2$d súborov, vrátane %1$s</item>
+        <item quantity="one">Prijatý %2$d súbor, vrátane %1$s</item>
+    </plurals>    
 </resources>

@@ -749,8 +749,8 @@
     <string name="powerful_acceleration_notification_summary">Dotykom uvoľnite miesto</string>
     <string name="powerful_acceleration_notification_title">Defragmentácia dokončená</string>
     <string name="powerful_acceleration_tip">Interné úložisko trpí fragmentáciou, ktorá by mohla zariadenie výrazne spomaliť. Defragmentácia fyzicky usporiada vaše súbory do najmenšieho počtu fragmentov, ktoré znižujú oneskorenie.</string>
-    <string name="powerful_acceleration_tip_high">Vaše dáta sú veľmi fragmentované. Defragmentácia vám môže vyriešiť tento problém.</Data></string>
-    <string name="powerful_acceleration_tip_middle">Vaše dáta sú mierne fragmentované. Defragmentácia vám môže vyriešiť tento problém.</Data></string>
+    <string name="powerful_acceleration_tip_high">Vaše dáta sú veľmi fragmentované. Defragmentácia vám môže vyriešiť tento problém.</string>
+    <string name="powerful_acceleration_tip_middle">Vaše dáta sú mierne fragmentované. Defragmentácia vám môže vyriešiť tento problém.</string>
     <string name="powerful_acceleration_toast">Defragmentácia bude prebiehať v čase keď nepoužívate zariadenie</string>
     <string name="rs_clean_size_free_space">Uvoľniť %s</string>
     <string name="rs_clean_size_storage_size">Obsadené %1$s/%2$s</string>

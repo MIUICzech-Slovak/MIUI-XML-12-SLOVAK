@@ -2185,7 +2185,7 @@
     
     <string name="vlog_nav_title_audio">Zvuk</string>
     <string name="vlog_nav_title_caption">Titulky</string>
-    <string name="vlog_nav_title_clip">Upravenie</string>
+    <string name="vlog_nav_title_clip">Orezanie</string>
     <string name="vlog_nav_title_filter">Filtre</string>
     <string name="vlog_nav_title_ratio">Pomer strán</string>
     <string name="vlog_nav_title_template">Šablóny</string>

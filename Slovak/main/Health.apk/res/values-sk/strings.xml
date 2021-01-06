@@ -484,8 +484,8 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="home_tip_syncing"> Synchronizujú sa údaje o zdravotnom stave ... </string>
     <string name="hr_camera_permission_desc"> Na získanie frekvencie zmien svetla okolo prsta fotoaparátom s cieľom určiť hodnotu srdcového rytmu </string>
     <string name="hr_choose_detect_state"> Vyberte stav pri detekcii </string>
-    <string name="hr_cover_to_red"> "Fotoaparát úplne zakryte prstom.
-Počkajte, kým kruh nesčervená. “</string>
+    <string name="hr_cover_to_red">"Fotoaparát úplne zakryte prstom.
+Počkajte, kým kruh nesčervená."</string>
     <string name="hr_detect"> Detekcia srdcového tepu </string>
     <string name="hr_detect_desc"> "Počas merania bude ako nepretržitý zdroj svetla použitý blesk vášho telefónu a fotoaparát detekuje zmeny v prietoku krvi. Obrázky budú potom analyzované a bude určená vaša srdcová frekvencia. na základe opakovaných vzorov. “</string>
     <string name="hr_detect_finished"> Detekcia dokončená </string>

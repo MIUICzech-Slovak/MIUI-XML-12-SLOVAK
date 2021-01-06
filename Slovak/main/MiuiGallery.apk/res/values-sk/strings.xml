@@ -2182,4 +2182,15 @@
     <string name="yuzhitiaojie">Upravenie hrúbky</string>
     <string name="zi_ding_yi_wenben">Vlastná veľkosť</string>	
     <string name="home_menu_magic_matting">Mágia</string>
+    
+    <string name="vlog_nav_title_audio">Zvuková stopa</string>
+    <string name="vlog_nav_title_caption">Titulky</string>
+    <string name="vlog_nav_title_clip">Upravenie</string>
+    <string name="vlog_nav_title_filter">Filtre</string>
+    <string name="vlog_nav_title_ratio">Pomer strán</string>
+    <string name="vlog_nav_title_template">Šablóny</string>
+    <string name="vlog_exit_message">Všetky neuložené zmeny budú stratené</string>
+    <string name="vlog_exit_title">Zrušenie zmien</string>
+    <string name="vlog_back_dialog_exit_cancel">Zrušiť</string>
+            
 </resources>

@@ -6872,5 +6872,10 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="title_font_settings">Nastavenie písma</string>
     <string name="toast_apply_font_fail">Nie je možné nastaviť písmo</string>
     <string name="user_experience_open_url">Dozvedieť sa viac o User Experience Program</string>
-                                                
+
+    <string name="error_apn_not_allowed">Toto APN nie je povolené. Skúste iné.</string>
+    <string name="intelligence_suppression_summary">Dynamicky prispôsobiť veľkosť oblasti pri krajoch kde budú ignorované dotyky</string>
+    <string name="truetone_summary">Prispôsobiť farby okolitému svetlu</string>
+    <string name="truetone_title">Adaptívne farby</string>
+                                                        
 </resources>

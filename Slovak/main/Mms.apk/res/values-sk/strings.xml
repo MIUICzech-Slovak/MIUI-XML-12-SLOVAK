@@ -922,4 +922,7 @@ Pokus: %s."</string>
   <string name="verification_code_safety_warning">Nezdieľajte tieto kódy s inými ľudmi</string>
   <string name="ad_notification_title">Nedôležité správy</string>  
     <string name="go_to">"Otvoriť "</string>
+    
+    <string name="no_dialogue_yet">Vyberte konverzáciu</string>
+    
 </resources>

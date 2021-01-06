@@ -737,5 +737,39 @@
     <string name="notification_low_storage_size_1p5_gb_hint">Vyprázdnite odpad pre zrýchlenie vášho zariadenia</string>
     <string name="notification_uninstall_clean_hint">Vyprázdnite odpad pre uvoľnenie miesta na úložisku</string>
     <string name="notification_uninstall_clean_text">Odinštalované aplikácie zanechávajú odpad vo vašom zariadení</string>
-	
+    
+    <string name="hints_quick_deep_clean2">Uvoľniť %s</string>
+    <string name="powerful_acceleration">Defragmentácia</string>
+    <string name="powerful_acceleration_after">Potom</string>
+    <string name="powerful_acceleration_before">Pred</string>
+    <string name="powerful_acceleration_enable_summary">Defragmentácia bude prebiehať v čase keď nepoužívate zariadenie</string>
+    <string name="powerful_acceleration_enable_title">Vykonať defragmentáciu na pozadí</string>
+    <string name="powerful_acceleration_item_button">Povoliť</string>
+    <string name="powerful_acceleration_item_tip_normal">Vaše úložisko je v poriadku!</string>
+    <string name="powerful_acceleration_notification_summary">Dotykom uvoľnite miesto</string>
+    <string name="powerful_acceleration_notification_title">Defragmentácia dokončená</string>
+    <string name="powerful_acceleration_tip">Interné úložisko trpí fragmentáciou, ktorá by mohla zariadenie výrazne spomaliť. Defragmentácia fyzicky usporiada vaše súbory do najmenšieho počtu fragmentov, ktoré znižujú oneskorenie.</string>
+    <string name="powerful_acceleration_tip_high">Vaše dáta sú veľmi fragmentované. Defragmentácia vám môže vyriešiť tento problém.</Data></string>
+    <string name="powerful_acceleration_tip_middle">Vaše dáta sú mierne fragmentované. Defragmentácia vám môže vyriešiť tento problém.</Data></string>
+    <string name="powerful_acceleration_toast">Defragmentácia bude prebiehať v čase keď nepoužívate zariadenie</string>
+    <string name="rs_clean_size_free_space">Uvoľniť %s</string>
+    <string name="rs_clean_size_storage_size">Obsadené %1$s/%2$s</string>
+    <string name="rs_clean_size_storage_title">Úložisko</string>
+    <string name="video_clean">Vymazať videá z cache</string>
+    <string name="video_clean_auto_clean">Vyčistiť automaticky</string>
+    <string name="video_clean_auto_clean_summary">Vymazať videá z cache automaticky po kontrole</string>
+    <string name="video_clean_cache_tip">Vymazané videá môžu byť načítané znova</string>
+    <string name="video_clean_create_desktop_icon">Odkaz na ploche</string>
+    <string name="video_clean_create_desktop_icon_summary">Pridať odkaz na plochu</string>
+    <string name="video_clean_desktop_icon_created">Pridané</string>
+    <string name="video_clean_garbage">Videá v cache</string>
+    <string name="video_clean_garbage_cleared">Videá v cache vymazané</string>
+    <string name="video_clean_notification_summary">Vymazané videá z cache</string>
+    <string name="video_clean_notification_title">Uvoľniť %s</string>
+    <string name="video_clean_personal_settings_title">Ďalšie nastavenia</string>
+    <string name="video_clean_remind_settings_title">Pripomenúť vyčistenie</string>
+    <string name="video_clean_scan_app_tip">Kontrola aplikácií %1$d/%2$d</string>
+    <string name="video_clean_video_manager_summary">Spravovať všetky videá vo vašom zariadení</string>
+    <string name="video_clean_video_manager_title">Video manager</string>
+ 	
 </resources>

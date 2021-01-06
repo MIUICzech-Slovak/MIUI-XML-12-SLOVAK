@@ -626,5 +626,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="provision_back">Späť</string>
     <string name="provision_next">Ďalej</string>
     <string name="provision_skip_underline">Preskočiť</string>
+    <string name="passport_login_other_way">Iný spôsob prihlásenia</string>
    
 </resources>

@@ -127,5 +127,42 @@
     
     <string name="quick_settings_pcmode_turn_off_description">Po ukončení PC režimu, nebudete môcť využívať väčšiu obrazovku. Chcete ukončiť?</string>
     <string name="quick_settings_pcmode_turn_on_description">Po povolení PC režimu, budete môcť využívať väčšiu obrazovku. Chcete povoliť?</string>    
-	
- </resources>
+    
+    <string name="character_counter_content_description">Zadané znaky %1$d z %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limit znakov prekročený %1$d z %2$d</string>
+    <string name="chip_text">Chip text</string>
+    <string name="clear_text_end_icon_content_description">Vymazať text</string>
+    <string name="error_icon_content_description">chyba</string>
+    <string name="exposed_dropdown_menu_content_description">Zobraziť ponuku</string>
+    <string name="icon_content_description">Ikona</string>
+    <string name="item_view_role_description">Karta</string>
+    <string name="material_slider_range_end">Interval končí,</string>
+    <string name="material_slider_range_start">Interval začína,</string>
+    <string name="mtrl_badge_numberless_content_description">Nové upozornenie</string>
+    <string name="mtrl_chip_close_icon_content_description">Odstrániť %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Viac ako %1$d nových upozornení</string>
+    <string name="mtrl_picker_a11y_next_month">Zmeniť na ďalší mesiac</string>
+    <string name="mtrl_picker_a11y_prev_month">Zmeniť na predch. mesiac</string>
+    <string name="mtrl_picker_announce_current_selection">Vybrané: %1$s</string>
+    <string name="mtrl_picker_date_header_title">Vyberte dátum</string>
+    <string name="mtrl_picker_date_header_unselected">Vybraný dátum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Stĺpec dní: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Chybný formát.</string>
+    <string name="mtrl_picker_invalid_format_example">Príklad: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Použiť: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Nesprávny interval.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigovať do roku %1$s</string>
+    <string name="mtrl_picker_out_of_range">Mimo intervalu: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Štart – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Koniec</string>
+    <string name="mtrl_picker_range_header_title">Vyberte interval dátumu</string>
+    <string name="mtrl_picker_range_header_unselected">Začiatok – Koniec</string>
+    <string name="mtrl_picker_save">Uložiť</string>
+    <string name="mtrl_picker_text_input_date_hint">Dátum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Koniec</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Začiatok</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Prepnúť na kalendár</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Dotykom prepnete na výber dňa</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Prepnúť na zadávanie textu</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Dotykom prepnete na výber roku</string>
+</resources>

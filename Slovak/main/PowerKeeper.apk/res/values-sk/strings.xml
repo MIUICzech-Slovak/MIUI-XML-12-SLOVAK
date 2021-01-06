@@ -43,7 +43,7 @@
   <string name="config_mode_title">Nastavenia na pozadí</string>
   <string name="config_no_restrict_description">Úspora batérie neobmedzuje aktivity aplikácií</string>
   <string name="config_no_restrict_title">Žiadne obmedzenia</string>
-  <string name="config_restrict_function_description">Niektoré funkcie (napr.: push správy a oznámenia) môžu byť ovplyvnené ale aplikácie nebudú ukončené.</string>
+  <string name="config_restrict_function_description">Ukončiť aplikáciu po 10 minútach bez aktivity.</string>
   <string name="config_restrict_function_title">Zakázať aplikácie na pozadí</string>
   <string name="config_restrict_running_description">Aplikácie budú ukončené pre úsporu batérie</string>
   <string name="config_restrict_running_title">Zakázať činnosť na pozadí</string>

@@ -533,5 +533,8 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
     <string name="willow_grouse">Willow ptarmigan</string>
     <string name="wombat">Wombat</string>                                                        
     <string name="silent_ringtone_hint">Zvuky sú stíšené. Vypnite Tichý režim a skúste to znova.</string>
+
+    <string name="animal_select_alert_info">Môžete vybrať maximálne 5 položiek</string>
+    <string name="random_play_sound_alert">Budete počuť zvuky zvierat z tohto regiónu keď dostanete upozornenie</string>
 	
 </resources>

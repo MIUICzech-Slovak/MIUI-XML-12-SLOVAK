@@ -574,4 +574,7 @@
     <string name="icon_style">Štýl</string>
     <string name="remove_dialog_message">Vybrané aplikácie obsahujú systémové funkcie. Môžete odstrániť len ich ikony z plochy.</string>
     <string name="remove_dialog_title_format">Odstrániť \"%s\" z plochy?</string>        
+    <string name="launcher_icon_management">Spravovať odkazy na ploche</string>
+    <string name="restore_icon_successful">Pridané</string>
+    
 </resources>

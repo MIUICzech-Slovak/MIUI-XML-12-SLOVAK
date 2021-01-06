@@ -174,5 +174,17 @@
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Vymazať %d inštalačných balíčkov</item>
         <item quantity="one">Vymazať %d inštalačný balíček</item>
-    </plurals>	
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d apl. s videami v cache</item>
+        <item quantity="one">%d apl. s videami v cache</item>
+    </plurals>    
+    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Dosť pre %d fotografií</item>
+        <item quantity="one">Dosť pre %d fotografií</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Dosť pre %d skladieb</item>
+        <item quantity="one">Dosť pre %d skladieb</item>
+    </plurals>    	
 </resources>

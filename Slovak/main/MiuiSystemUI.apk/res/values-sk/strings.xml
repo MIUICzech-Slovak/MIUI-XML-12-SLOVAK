@@ -2544,7 +2544,10 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     <string name="input_lockscreen_pattern_hint_text">Nakreslite vzor</string>
     <string name="input_lockscreen_pin_hint_text">Zadajte PIN</string>
 
-
-
+    <string name="heads_up_snooze_toast">Upozornenia z tejto aplikácie sa zobrazia až po odomknutí zariadenia</string>
+    <string name="zen_mode_warnings_all_time_content">Upozornenia a hovory budú stíšené</string>
+    <string name="zen_mode_warnings_keyguard_content">Upozornenia a hovory budú stíšené ak je zariadenie uzamknuté</string>
+    <string name="zen_mode_warnings_quit_immediately">Vypnúť</string>
+    <string name="zen_mode_warnings_title">Režim Nerušiť je zapnutý</string>
 	
 </resources>

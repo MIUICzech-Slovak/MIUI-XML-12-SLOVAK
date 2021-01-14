@@ -491,4 +491,9 @@ http://www.miuios.cz/rom
     <string name="view_all_notes">Zobraziť všetko</string>
     <string name="note_mindnote_entrance_icon_text">Vytvoriť myšlienkovú mapu</string>
     <string name="note_mindnote_entrance_hint">"Začnite písať "</string>
+    
+    <string name="blackboard_note">Inteligentná tabuľa</string>
+    <string name="note_mindnote_entrance_hint_newversion">"Začnite písať "</string>
+    <string name="note_mindnote_entrance_icon_text_newversion">Vytvoriť myšlienkovú mapu</string>
+    
 </resources>

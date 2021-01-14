@@ -913,5 +913,10 @@ Poloha nebude odoslaná ak je slabý signál siete."</string>
     <string name="provision_skip_underline">Preskočiť</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">MIUI aplikácie potrebujú Xiaomi Cloud pre zálohovanie vašich fotografií, SMS, poznámok a viac.</string>
     <string name="sync_dspt_entrance_provision_v2">Synchr. vaše fotografie, kontakty, poznámky a viac medzi vašimi zariadeniami. Pre prístup k synchr. dátam navštívte %s.</string>
+    
+    <string name="retain_data_high_quality_photo_waring_message">Po odhlásení sa z Galérie odstránia obrázky vo vysokej kvalite. Pôvodné súbory budú naďalej uložené v cloude. Pred odhlásením si môžete tiež stiahnuť pôvodné súbory.</string>
+    <string name="retain_data_high_quality_photo_waring_title">Obrázky vo vysokom rozlíšení nebudú dostupné</string>
+    <string name="share_location_menu_create_shortcut">Odkaz na ploche</string>
+        
                   
 </resources>

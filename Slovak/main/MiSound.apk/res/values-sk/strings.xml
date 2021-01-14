@@ -206,5 +206,6 @@
     <string name="sound_transmission_stop">Zastaviť</string>
     <string name="sound_transmission_title">Wireless mikrofón</string>
     <string name="transmission_volume_option_title">Citlivosť mikrofónu</string>
-    
+
+<string name="sound_transmission_function_generalize">Prenášať zvuk z mikrofónu v telefóne do externého Bluetooth zariadenia</string>    
 </resources>

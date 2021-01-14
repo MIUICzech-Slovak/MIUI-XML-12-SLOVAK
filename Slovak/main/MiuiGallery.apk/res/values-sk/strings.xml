@@ -2192,5 +2192,9 @@
     <string name="vlog_exit_message">Všetky neuložené zmeny budú stratené</string>
     <string name="vlog_exit_title">Zrušenie zmien</string>
     <string name="vlog_back_dialog_exit_cancel">Zrušiť</string>
+    
+    <string name="photodetail_rename_title">Premenovať</string>
+    <string name="operation_photo_rename">Premenovať</string>
+    
             
 </resources>

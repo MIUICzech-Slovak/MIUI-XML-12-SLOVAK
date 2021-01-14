@@ -576,5 +576,7 @@
     <string name="remove_dialog_title_format">Odstrániť \"%s\" z plochy?</string>        
     <string name="launcher_icon_management">Spravovať odkazy na ploche</string>
     <string name="restore_icon_successful">Pridané</string>
+    <string name="clearable_edittext_clear_description">Vyčistiť</string>
+    
     
 </resources>

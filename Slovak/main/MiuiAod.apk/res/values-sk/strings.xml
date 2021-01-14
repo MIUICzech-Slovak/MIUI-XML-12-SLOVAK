@@ -172,5 +172,7 @@ N e"</string>
     <string name="on">Zap</string>
     <string name="scheduled_style_summary">Nastaviť vlastný čas</string>
     <string name="temporary_style_summary">Odporúčané</string>
+    <string name="aod_theme_store">Always-on displej témy</string>
 	
 </resources>
+

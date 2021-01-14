@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
     <plurals name="delete_selection">
         <item quantity="other">Vymazať zvolené položky?</item>
@@ -41,4 +40,12 @@
         <item quantity="other">Vymazať %1$d?</item>
         <item quantity="one">Vymazať %1$d?</item>
     </plurals>    
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Nahrať %ds</item>
+        <item quantity="one">Nahrať %ds</item>
+    </plurals>    
+    <plurals name="timefreeze_guide_tip1">
+  	<item quantity="other">Môžete nahrať zamrznuté videa s max %d objektami.</item>
+        <item quantity="one">Môžete nahrať zamrznuté videa s max %d objektom.</item>
+    </plurals>   
 </resources>

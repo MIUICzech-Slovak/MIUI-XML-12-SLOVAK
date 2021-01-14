@@ -771,5 +771,8 @@
     <string name="video_clean_scan_app_tip">Kontrola aplikácií %1$d/%2$d</string>
     <string name="video_clean_video_manager_summary">Spravovať všetky videá vo vašom zariadení</string>
     <string name="video_clean_video_manager_title">Video manager</string>
+    
+    <string name="video_clean_image_clean_summary">Vymazať duplicitné fotografie pre uvoľnenie miesta na úložisku</string>
+    <string name="video_clean_image_clean_title">Vymazať duplicitné fotografie</string>    
  	
 </resources>

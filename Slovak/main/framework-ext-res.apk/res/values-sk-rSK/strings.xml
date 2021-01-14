@@ -287,4 +287,9 @@
     <string name="notification_channel_hotspot">Hotspot upozornenie</string>
     <string name="freeform_exchange_tip">Pustite pre otvorenie aplikácie</string>
     <string name="freeform_exchange_tip2">Potiahnite do rohu pre zrušenie</string>  
+    
+  <string name="disable_nfc">Vypnuté NFC pre bezdrôtové nabíjanie</string>
+  <string name="disable_nfc_reverse">Vypnuté NFC pro reverzné bezdrôtové nabíjanie</string>
+  <string name="enable_nfc">Neprebieha nabíjanie.  NFC je opäť zapnuté.</string>
+  <string name="enable_nfc_reverse">Neprebieha nabíjanie.  NFC je opäť zapnuté.</string>    
 </resources>

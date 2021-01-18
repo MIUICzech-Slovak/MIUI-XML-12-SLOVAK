@@ -1123,7 +1123,6 @@ skenované dokumenty automaticky"</string>
     <string name="cta_perm_storage_desc">For viewing and saving photos</string>
     <string name="cta_perm_voice">Use microphone</string>
     <string name="cta_perm_voice_desc">For recording audio while shooting videos</string>
-    <string name="doc_shortcut_short">Docs</string>
     <string name="dolly_zoom_capture_tip1">Place your subject into the frame and keep the device at least %d meter away</string>
     <string name="dolly_zoom_capture_tip2">Move the device away from your subject steadily</string>
     <string name="dolly_zoom_capture_tip3">Lost track of the subject. Start over.</string>
@@ -1156,7 +1155,6 @@ skenované dokumenty automaticky"</string>
     <string name="masterfilter_description_title">Movie filters</string>
     <string name="parameter_manual_picturestyle_description">Saturation allows you to control the depth and intensity of colors, adjusting contrast brings out or minimizes the difference between light and dark, and sharpness renders the details along the outlines.</string>
     <string name="parameter_videos_title">Movie effects</string>
-    <string name="parameter_zoom_slider_description">Drag the zoom slider horizontally to change your shot smoothly from a long shot to a close-up.</string>
     <string name="pref_a_c_f">Sonograph</string>
     <string name="pref_camera_new_coloreffect_title">Movie filters</string>
     <string name="pref_camera_reference_capture_title">Reference lines</string>

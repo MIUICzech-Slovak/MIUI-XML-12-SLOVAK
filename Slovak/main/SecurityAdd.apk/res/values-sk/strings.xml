@@ -209,4 +209,17 @@
   <string name="tool_box_active_loading">Načítavanie...</string>
   <string name="tool_box_active_no_networ">Nebolo možné pripojiť sa k sieti</string>
   <string name="tool_box_active_reload">Obnoviť</string>  
+  
+    <string name="gb_adv_touch_adv_title">Klasický režim (predvolené)</string>
+    <string name="gb_adv_touch_custom1">Odozva na potiahnutie</string>
+    <string name="gb_adv_touch_custom2">Citlivosť na plynulé dotyky</string>
+    <string name="gb_adv_touch_custom3">Presnosť mierenia</string>
+    <string name="gb_adv_touch_custom4">Stabilita dotyku</string>
+    <string name="gb_adv_touch_custom_tip1">Vyššia odozva potiahnutia zvyšuje rýchlosť reakcie na toto gesto, zatiaľ čo nižšia odozva potiahnutia robí gesto stabilnejším.</string>
+    <string name="gb_adv_touch_custom_tip2">Vyššia citlivosť na nepretržité klepanie zvyšuje rýchlosť reakcie na toto gesto, zatiaľ čo nižšia citlivosť robí gesto stabilnejším.</string>
+    <string name="gb_adv_touch_custom_tip3">Vyššia presnosť mierenia spresňuje menšie pohyby, zatiaľ čo nižšia presnosť mierenia robí toto gesto stabilnejším.</string>
+    <string name="gb_adv_touch_custom_tip4">Vyššia stabilita klepnutia robí dotyky stabilnejšími, zatiaľ čo nižšia stabilita klepnutia zvyšuje presnosť menších pohybov prstov.</string>
+    <string name="gb_adv_touch_custom_title">Prispôsobiť</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Tento režim je navrhnutý pre profesionálnych hráčov. Bežným hráčom nemusí vyhovovať.</string>
+    <string name="gb_adv_touch_pro_title">Pro režim</string>  
 </resources>

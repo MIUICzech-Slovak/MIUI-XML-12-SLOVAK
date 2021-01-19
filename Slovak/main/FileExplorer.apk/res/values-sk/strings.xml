@@ -804,5 +804,6 @@ Získali ste ďalších %1$s"</string>
     <string name="operation_open">Otvoriť</string>
     <string name="operation_paste_to_folder">Vložiť do zložky</string>
     <string name="operation_send_to_pc">Presunúť do PC</string>
+    <string name="more">Viac</string>
 	
 </resources>

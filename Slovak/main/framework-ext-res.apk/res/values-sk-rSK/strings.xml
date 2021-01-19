@@ -292,4 +292,9 @@
   <string name="disable_nfc_reverse">Vypnuté NFC pro reverzné bezdrôtové nabíjanie</string>
   <string name="enable_nfc">Neprebieha nabíjanie.  NFC je opäť zapnuté.</string>
   <string name="enable_nfc_reverse">Neprebieha nabíjanie.  NFC je opäť zapnuté.</string>    
+<string name="help">Nenašli ste zariadenia?</string>  
+<string name="send_files_by">Zdieľať cez</string>  
+    <string name="nearby_share">Nearby Share</string>
+    <string name="turn_on_work_profile">Povoliť</string>
+
 </resources>

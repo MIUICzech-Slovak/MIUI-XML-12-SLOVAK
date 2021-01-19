@@ -2549,5 +2549,12 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     <string name="zen_mode_warnings_keyguard_content">Upozornenia a hovory budú stíšené ak je zariadenie uzamknuté</string>
     <string name="zen_mode_warnings_quit_immediately">Vypnúť</string>
     <string name="zen_mode_warnings_title">Režim Nerušiť je zapnutý</string>
+    
+    <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Navýšenie rýchlosti</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Zrušiť</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Potvrdiť</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Viac nezobrazovať</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Prepínanie medzi sieťami</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dvojpásmové Wi-Fi zrýchlenie potrebuje dva rôzne kanály.</string>    
 	
 </resources>

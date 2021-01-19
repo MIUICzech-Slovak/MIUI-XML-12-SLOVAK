@@ -120,5 +120,17 @@
     <string name="play_decode_audio">Prehrať zvuk</string>
     <string name="start_speech">Začať rozprávať</string>
     <string name="stop_speech">Ukončiť rozprávanie</string>
-	
+
+    <string name="fast_connect_anti_lost_content">Nastavte si upozornenie ktoré sa vám ukáže v prípade straty jedného slúchadla.</string>
+    <string name="fast_connect_new_feture_anti_lost">Upozornenie straty slúchadla</string>
+    <string name="fast_connect_new_feture_same_account">Pripojiť synchr. zariadenia</string>
+    <string name="fast_connect_new_feture_sound_normalizer">Lepší zvuk</string>
+    <string name="fast_connect_new_feture_title">Čo je nové</string>
+    <string name="fast_connect_same_account_content">Bluetooth zariadenia môžu byť synchr. s vašim Mi účtom a pripojené bez spárovania na ostatných zariadeniach.</string>
+    <string name="fast_connect_same_accout_devices_connecting">Pripájanie cez Xiaomi Cloud…</string>
+    <string name="fast_connect_same_accout_devices_title">Máte pripojené %1$s k ostatným zariadeniam</string>
+    <string name="fast_connect_same_accout_ok">OK</string>
+    <string name="fast_connect_sound_normalizer_content">"Lepší zvuk hovorov.
+Rýchlejšie pripojenie."</string>
+
 </resources>

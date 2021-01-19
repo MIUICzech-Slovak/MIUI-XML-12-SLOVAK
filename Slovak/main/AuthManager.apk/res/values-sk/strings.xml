@@ -440,5 +440,7 @@
     <string name="miuix_appcompat_select_all">Všetko</string>
     <string name="miuix_appcompat_select_item">Vyberte položky</string>
     <string name="stop_blur_location">Vypnúť</string>
+    <string name="date_time_picker_dialog_title">Nastaviť dátum a čas</string>
+    
       
 </resources>

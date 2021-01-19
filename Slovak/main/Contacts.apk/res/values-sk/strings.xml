@@ -1424,4 +1424,17 @@ Zvoľte jednu z nasledujúcich možností:</string>
     
     <string name="bh_back">Späť</string>
     
+    <string name="cancel">Zrušiť</string>
+    <string name="contacts_trash_activity_hint">Vyberte kontakty na obnovenie</string>
+    <string name="contacts_trash_activity_title">Nedávno vymazané kontakty</string>
+    <string name="contacts_trash_delete">Vymazať</string>
+    <string name="contacts_trash_delete_dialog_continue">Vymazať</string>
+    <string name="contacts_trash_delete_dialog_hint">Nebude možné ich vrátiť.</string>
+    <string name="contacts_trash_delete_dialog_loading">Vymazávanie…</string>
+    <string name="contacts_trash_delete_dialog_title">Vymazať vybrané kontakty?</string>
+    <string name="contacts_trash_restore">Obnoviť</string>
+    <string name="contacts_trash_restore_loading">Obnovenie…</string>
+    <string name="ensure">OK</string>
+                
+    
 </resources>

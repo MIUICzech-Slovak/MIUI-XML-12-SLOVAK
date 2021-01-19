@@ -186,4 +186,13 @@
         <item quantity="other">Importované kontakty: %1$d</item>
         <item quantity="one">Importované kontakty: %1$d</item>
     </plurals>	
+    
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">Vymazaných kontaktov: %d</item>
+        <item quantity="one">Vymazaných kontaktov: %d</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">Obnovených kontaktov: %d</item>
+        <item quantity="one">Obnovených kontaktov: %d</item>
+    </plurals>    
 </resources>

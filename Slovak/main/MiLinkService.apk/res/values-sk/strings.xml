@@ -229,7 +229,7 @@ Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našimi zmlu
     <string name="global_privacy_main">Vysielanie položiek z obrazovky vášho telefónu na TV.</string>
     <string name="global_privacy_negative">Nesúhlasím</string>
     <string name="global_privacy_positive">Súhlasím</string>
-    <string name="global_privacy_tip">Potrebujeme zhromaždiť potrebné osobné informácie, aby sme vám mohli poskytnúť základné služby a optimalizovať postup vysielania.</Data></string>
+    <string name="global_privacy_tip">Potrebujeme zhromaždiť potrebné osobné informácie, aby sme vám mohli poskytnúť základné služby a optimalizovať postup vysielania.</string>
     <string name="close">Zatvoriť</string>
     <string name="date_time_picker_dialog_title">Nastaviť dátum a čas</string>
     <string name="send">Odoslať</string>

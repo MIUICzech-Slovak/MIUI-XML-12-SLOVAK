@@ -6877,5 +6877,21 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="intelligence_suppression_summary">Dynamicky prispôsobiť veľkosť oblasti pri krajoch kde budú ignorované dotyky</string>
     <string name="truetone_summary">Prispôsobiť farby okolitému svetlu</string>
     <string name="truetone_title">Adaptívne farby</string>
-                                                        
+
+	    <string name="activity_check_context">Vaše zariadenie sa teraz pokúša pripojiť k internetu. Tento proces môže trvať dlhšie, ako sa očakávalo, ak používate mobilné dáta. Môžete sa vrátiť späť a namiesto toho sa pripojiť k sieti Wi-Fi alebo počkať, kým sa nadviaže mobilné dátové pripojenie.</string>
+    <string name="activity_check_title">Pripájanie k internetu</string>
+    <string name="dialog_check_button_negative">Skúsiť znova</string>
+    <string name="dialog_check_button_positive">Pripojiť k Wi-Fi</string>
+    <string name="dialog_check_context">"Vaše zariadenie sa nemôže pripojiť k sieti.
+1. Stlačte \"Pripojiť k Wi-Fi\" a vyberte dostupnú sieť.
+2. Ak sa chcete pripojiť k mobilnej sieti, stlačte \"Skúsiť znova\" alebo znova vložte SIM kartu."</string>
+    <string name="dialog_check_title">Nebolo možné pripojiť sa k sieti</string>
+    <string name="dialog_wifi_button_negative">Nie</string>
+    <string name="dialog_wifi_button_positive">Áno</string>
+    <string name="dialog_wifi_context">Pre nastavenie zariadenia je potrebné pripojiť sa k sieti.</string>
+    <string name="dialog_wifi_title">Použiť mobilné dáta</string>
+    <string name="font_size_kddi">Stredné</string>
+    <string name="magic_window_name">Rozdeliť okno</string>
+    <string name="miheadset_connect_toast_tips">Najskôr pripojte slúchadlá</string>
+                                                                    
 </resources>

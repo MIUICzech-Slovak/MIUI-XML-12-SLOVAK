@@ -459,7 +459,7 @@ http://www.miuios.cz/rom
     <string name="doodle_guide_dialog_skip">Preskočiť</string>
     <string name="doodle_guide_dialog_title">Kreslenie</string>
     <string name="doodle_guide_quick_shape_hint" formatted="false">Stlačte a podržte skicu %d–%d sekúnd pre nastavenie automatickej šírky</string>
-    <string name="excerpt">Vytvoriť</string>
+    <string name="excerpt">Úryvky</string>
     <string name="excerpt_bubble_tips">Skopírovaný text a uložené obrázky budú uložené do Poznámok</string>
     <string name="excerpt_link_bubble_tips">Dotknite sa pre uloženie do Poznámok</string>
     <string name="excerpt_note">Moje úryvky</string>

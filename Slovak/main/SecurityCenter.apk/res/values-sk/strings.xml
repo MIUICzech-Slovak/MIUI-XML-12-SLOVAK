@@ -4551,5 +4551,7 @@ Použivanie tejto funkcie zvýši spotrebu batérie."</string>
     <string name="vb_video_super_division_tips">"Nie je dosť ostré?
 Skúste zväčšiť rozlíšenie!"</string>
     <string name="videobox_settings_timing">Výstražné upozornenie</string>
-    <string name="videobox_settings_timing_desc">Dostávajte hodinové výstrahy, ktoré vám pripomínajú, aby ste si urobili prestávku</string>                                
+    <string name="videobox_settings_timing_desc">Dostávajte hodinové výstrahy, ktoré vám pripomínajú, aby ste si urobili prestávku</string>       
+    <string name="date_time_picker_dialog_title">Nastaviť čas a dátum</string>
+                             
 </resources>

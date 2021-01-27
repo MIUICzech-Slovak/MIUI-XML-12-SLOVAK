@@ -1199,6 +1199,13 @@ skenované dokumenty automaticky"</string>
     <string name="video_effect_entry_northern_europe_describe">Low saturation and contrast bring some Nordic noir into cloudy and soft-lit indoor environments.</string>
     <string name="video_effect_entry_rome_describe">Warm retro monochrome works for most scenes.</string>
     <string name="video_effect_entry_summer_day_describe">Low contrast and bright tones perform well when you need to preserve skin tones. This filter is suitable for sunny outdoor scenes.</string>
-                  
+    <string name="close_night_algo_toast_low_power">Charge your device to be able to set exposure</string>
+    <string name="close_night_algo_toast_thermal">Cool down your device to be able to set exposure</string>
+    <string name="pref_camera_predictive_shutter_description">Track movement to minimize blur on the photos of children, pets, and other active subjects</string>
+    <string name="pref_camera_predictive_shutter_title">Track movement</string>
+    <string name="pref_super_night_se_summary">Detect low light conditions and improve image quality automatically</string>
+    <string name="pref_super_night_se_title">Auto night mode</string>
+            
+                      
 	
 </resources>

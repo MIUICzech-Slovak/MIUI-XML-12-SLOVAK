@@ -774,5 +774,8 @@
     
     <string name="video_clean_image_clean_summary">Vymazať duplicitné fotografie pre uvoľnenie miesta na úložisku</string>
     <string name="video_clean_image_clean_title">Vymazať duplicitné fotografie</string>    
+    
+    <string name="junk_temporary_file">Dočasné súbory</string>
+    
  	
 </resources>

@@ -1102,5 +1102,10 @@ Postupujte podľa pokynov"</item>
         <item>Plné farby</item>
         <item>Svetlé farby</item>
         <item>Čierna a biela</item>
-    </string-array>    
+    </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>Výrazné</item>
+        <item>Jemné</item>
+        <item>Stredné</item>
+	</string-array>
 </resources>

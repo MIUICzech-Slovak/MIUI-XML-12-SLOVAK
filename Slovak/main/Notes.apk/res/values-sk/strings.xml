@@ -291,10 +291,10 @@ Povoľte aplikácií Poznámky prístup k mikrofónu."</string>
   <string name="todo_edit_btn_today">Dnes</string>
   <string name="todo_edit_btn_tomorrow">Zajtra</string>
   <string name="todo_edit_text_hint">Zadajte popis úlohy</string>
-  <string name="todo_event_description_a_week_ago">Pred týždňom</string>
-  <string name="todo_event_description_a_week_later">O týždeň</string>
-  <string name="todo_event_description_day_after_tomorrow">O 2 týždne</string>
-  <string name="todo_event_description_day_before_yesterday">Pred 2 dňami</string>
+  <string name="todo_event_description_a_week_ago">Pred %1$d týždňom</string>
+  <string name="todo_event_description_a_week_later">O %1$d týždeň</string>
+  <string name="todo_event_description_day_after_tomorrow">O %1$d týždne</string>
+  <string name="todo_event_description_day_before_yesterday">Pred %1$d dňami</string>
   <string name="todo_event_description_today">Dnes</string>
   <string name="todo_event_description_tomorrow">Zajtra</string>
   <string name="todo_event_description_yesterday">Včera</string>
@@ -341,7 +341,7 @@ Povoľte aplikácií Poznámky prístup k mikrofónu."</string>
   <string name="toolbar_undo_description">Späť</string>
   <string name="toolbar_voice_description">Hlas</string>
   <string name="trash_folder_name">Kôš</string>
-  <string name="trash_folder_reminder">Poznámky ktoré vymažete budú navždy odstránené o 30 dní.</string>
+  <string name="trash_folder_reminder">Poznámky ktoré vymažete budú navždy odstránené o %1$d dní.</string>
   <string name="unclassfied_folder_name">Nerozdelené</string>
   <string name="undo">Späť</string>
   <string name="unknown_source">Neznámy zdroj</string>

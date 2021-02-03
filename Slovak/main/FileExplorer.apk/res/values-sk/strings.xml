@@ -805,5 +805,13 @@ Získali ste ďalších %1$s"</string>
     <string name="operation_paste_to_folder">Vložiť do zložky</string>
     <string name="operation_send_to_pc">Presunúť do PC</string>
     <string name="more">Viac</string>
+    
+    <string name="cdd_message">Kvôli obmedzeniam Android 11, nie je možné zobrazovať niektoré súbory vytvorené aplikáciami tretích strán.</string>
+    <string name="cdd_title">Upozornenie</string>
+    <string name="mirror_can_not_drag_mask_new">Potiahnite položky do %s</string>
+    <string name="mirror_side_bar_tab_tranfer_name">Prenosy a sťahovanie</string>
+    <string name="transfer">Prenosy a sťahovanie</string>
+    <string name="transfer_summary">Sťahovanie a prenos cez Mi Share</string>
+        
 	
 </resources>

@@ -266,4 +266,10 @@
     <string name="sst_wallpaper_define_title2">Pridať obrázky</string>
     <string name="theme_title_lock_style">Prepnúť na predvolený zámok obrazovky</string>
     <string name="theme_des_maml">Môže to chvíľku trvať. Ostatné komponenty vzhľadu nebudú ovplyvnené.</string>
+    
+    <string name="disable_dlg_cancel">Zrušiť</string>
+    <string name="disable_dlg_content">Nebudete dostávať jedinečné pozadia na vašu plochu a zamykaciu obrazovku. Chcete vypnúť túto funkciu?</string>
+    <string name="disable_dlg_ok">Vypnúť</string>
+    <string name="disable_dlg_title">Vypnúť Dennú Tapetu?</string>
+    
 </resources>

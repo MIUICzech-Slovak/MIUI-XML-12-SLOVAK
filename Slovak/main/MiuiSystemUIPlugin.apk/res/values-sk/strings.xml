@@ -170,5 +170,6 @@
     <string name="dnd_popup_message">Môžete zapnúť režim Nerušiť pre stíšenie hovorov a upozornení bez vypnutia zvukov médií.</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Hovory a upozornenia budú stíšené keď je zariadenie uzamknuté</string>
     <string name="wireless_charging_tips_sub_message">Druhé zariadenie musí podporovať Qi bezdrôtové nabíjanie.</string>
+    <string name="smart_home_title">Inteligentné zariadenia</string>
 
 </resources>

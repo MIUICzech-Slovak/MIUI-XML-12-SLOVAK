@@ -77,5 +77,8 @@
         <item quantity="other">o %1$d dní</item>
         <item quantity="one">o %1$d deň</item>
     </plurals>
-	
+    <plurals name="item_terms">
+        <item quantity="other">Položiek: %1$s</item>
+        <item quantity="one">Položiek: %1$s</item>
+    </plurals>	
 </resources>

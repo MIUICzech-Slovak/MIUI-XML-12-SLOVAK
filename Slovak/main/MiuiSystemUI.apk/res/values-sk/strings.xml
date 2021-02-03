@@ -2556,5 +2556,7 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Viac nezobrazovať</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Prepínanie medzi sieťami</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dvojpásmové Wi-Fi zrýchlenie potrebuje dva rôzne kanály.</string>    
-	
+    
+    <string name="control_center_notification_switch_guide">Potiahnutím do strán prepnete medzi upozorneniami a Centrom ovládania</string>
+
 </resources>

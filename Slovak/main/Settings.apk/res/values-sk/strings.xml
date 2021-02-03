@@ -6859,7 +6859,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="screen_enhance_engine_ai_note">%d. Táto funkcia mierne zvyšuje spotrebu energie.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Vylepšiť sa dajú iba obrázky z aplikácie Galéria.</string>
     <string name="screen_enhance_engine_ai_note_3">%d. Táto funkcia nebude fungovať, ak sa rozhodnete zobraziť pôvodné farby alebo použiť rozšírené úpravy.</string>
-    <string name="screen_enhance_engine_memc_note_1">Táto funkcia mierne zvyšuje spotrebu energie.</string>
+    <string name="screen_enhance_engine_memc_note_1">%d. Táto funkcia mierne zvyšuje spotrebu energie.</string>
     <string name="screen_enhance_engine_sr_note">Táto funkcia mierne zvyšuje spotrebu energie.</string>
     <string name="show_charging_in_non_lockscreen_animation">Po odomknutí zariadenia zobraziť animáciu nabíjania</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Po odomknutí zariadenia zobraziť animáciu nabíjania. Bude skrytá len ak sa prehráva video.</string>
@@ -6880,5 +6880,27 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="font_size_kddi">Stredné</string>
     <string name="magic_window_name">Rozdeliť okno</string>
     <string name="miheadset_connect_toast_tips">Najskôr pripojte slúchadlá</string>
-                                                                    
+    
+    <string name="color_game_led_applications_title">Vyberte aplikácie</string>
+    <string name="color_game_led_applications_title_summary">Môžete zakázať používanie LED pre jednotlivé aplikácie</string>
+    <string name="color_game_led_battery_title">Ponechať zapnuté počas nabíjania</string>
+    <string name="color_game_led_charging_summary">Bude vypnutá po plnom nabití batérie</string>
+    <string name="color_game_led_end_time">Koniec</string>
+    <string name="color_game_led_game_mode_summary">Zobraziť efekty pre hry ak je zapnuté Zrýchlenie hier</string>
+    <string name="color_game_led_game_mode_title">Použiť pre Zrýchlenie hier</string>
+    <string name="color_game_led_incall_pulse_title">Použiť pre prichádzajúce hovory</string>
+    <string name="color_game_led_notification_pulse_title">Pulzovať pre upozornenia ak je displej vypnutý</string>
+    <string name="color_game_led_remind_title">Efekty na upozornenie</string>
+    <string name="color_game_led_special_scene_title">Špeciálne efekty</string>
+    <string name="color_game_led_start_time">Začiatok</string>
+    <string name="color_game_led_summary">Nefunguje v režime Nerušiť</string>
+    <string name="color_game_led_time_title">LED v čase</string>
+    <string name="color_game_led_title">LED</string>
+    <string name="screen_enhance_engine_memc_note_2">%d. Táto funkcia funguje len ak sú zapnuté video nástroje.</string>
+    <string name="setup_password_skip">Preskočiť</string>
+    <string name="var_font_switch_title">Variabilné písmo v celom systéme</string>
+    <string name="wifi_tether_checkbox_kddi_text">Wi-Fi tethering</string>
+    <string name="wifi_tether_configure_ap_kddi_text">Nastaviť Wi-Fi tethering</string>
+    <string name="wlan_scanner_unresizeble">Nie je možné zobraziť Wi-Fi nastavenia v režime rozdelenia obrazovky</string>
+                                                                   
 </resources>

@@ -215,5 +215,5 @@
     <string name="bt_audio_share_notification_content">Zobraziť nastavenia</string>
     <string name="bt_audio_share_notification_title">Zdieľanie zvuku</string>
     <string name="notice_audio_share_disconnected">Zdieľanie zvuku prerušené</string>
-      
+    <string name="snapdragon_sound_notification_content">Toto zariadenie podporuje Qualcomm® Snapdragon Sound™ technológiu</string>      
 </resources>

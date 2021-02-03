@@ -4545,7 +4545,7 @@ z vášho hrania hier"</string>
     <string name="summary_password_manager">Správca hesiel umožňuje zašifrovať vaše heslá a uložiť ich v cloude</string>
     <string name="title_password_manager">Povoliť Správcu hesiel</string>
     <string name="vb_video_super_division">Zväčšiť</string>
-    <string name="vb_video_super_division_desc">"Zväčšiť rozlíšenie automaticky ak je nenšie ako 720p.
+    <string name="vb_video_super_division_desc">"Zväčšiť rozlíšenie automaticky ak je menšie ako 720p.
 
 Použivanie tejto funkcie zvýši spotrebu batérie."</string>
     <string name="vb_video_super_division_tips">"Nie je dosť ostré?
@@ -4554,5 +4554,12 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="videobox_settings_timing_desc">Dostávajte hodinové výstrahy, ktoré vám pripomínajú, aby ste si urobili prestávku</string>       
     <string name="date_time_picker_dialog_title">Nastaviť čas a dátum</string>
     <string name="power_center_battery_health_poor_tip">Vyzerá to, že je stav batérie slabý. Skontrolujte batériu v autorizovanom servisnom stredisku</string>
-    <string name="power_center_battery_health_summary">Plne nabite a vybite zariadenie %1$d-%2$d krát, aby ste zlepšili presnosť štatistík stavu batérie</string>                         
+    <string name="power_center_battery_health_summary">Plne nabite a vybite zariadenie %1$d-%2$d krát, aby ste zlepšili presnosť štatistík stavu batérie</string>        
+    
+    <string name="Settings_title_anti_virus_kddi">Nastavenia kontroly zabezpečenia</string>
+    <string name="activity_title_antivirus_kddi">Kontrola zabezpečenia</string>
+    <string name="antivirus_privacy_dialog_title_kddi">Podmienky používania</string>
+    <string name="antivirus_third_privacy_title">Ochrana súkromia</string>
+    <string name="menu_text_antivirus_kddi">Kontrola zabezpečenia</string>
+                     
 </resources>

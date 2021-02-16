@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="common_use_phrase_bottom_bar_org_txt">.sk</string>
+    <string name="common_use_phrase_bottom_bar_slash_txt">.eu</string>
+    <string name="common_use_phrase_bottom_bar_point_txt">.cz</string>
+    <string name="action_menu_text_web_mode">Režim PC</string>
+    <string name="current_version_pc">Režim PC</string>
+    <string name="pref_nav_mode_title">Režim PC</string>
+</resources>

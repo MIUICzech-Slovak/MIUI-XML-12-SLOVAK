@@ -6,4 +6,7 @@
     <string name="action_menu_text_web_mode">Režim PC</string>
     <string name="current_version_pc">Režim PC</string>
     <string name="pref_nav_mode_title">Režim PC</string>
+    <string name="action_menu_text_video_download">Stiahnuté videá</string>    
+    <string name="speed_test_upload">Nahrávanie</string>    
+    <string name="url_hint">Vyhľadať alebo zadajte adresu</string>    
 </resources>

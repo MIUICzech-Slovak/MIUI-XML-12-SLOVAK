@@ -6902,5 +6902,26 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="wifi_tether_checkbox_kddi_text">Wi-Fi tethering</string>
     <string name="wifi_tether_configure_ap_kddi_text">Nastaviť Wi-Fi tethering</string>
     <string name="wlan_scanner_unresizeble">Nie je možné zobraziť Wi-Fi nastavenia v režime rozdelenia obrazovky</string>
-                                                                   
+    
+    <string name="miheadset_key_config_call_ai">Hlasový asistent</string>
+    <string name="miheadset_key_config_close">Vyp</string>
+    <string name="miheadset_key_config_close_summary">Vypnúť potlačenie okolitého hluku</string>
+    <string name="miheadset_key_config_gesture_control">Gestá</string>
+    <string name="miheadset_key_config_next_music">Ďalšia skladba</string>
+    <string name="miheadset_key_config_noise_control">Aktívne potlačenie hluku</string>
+    <string name="miheadset_key_config_noise_control_summary">Stlačte a podržte pre prepínanie medzi dvoma režimami</string>
+    <string name="miheadset_key_config_noise_summary">Blokovať vonkajšie zvuky</string>
+    <string name="miheadset_key_config_press_left">Stlačte a podržte ľavé slúchadlo</string>
+    <string name="miheadset_key_config_press_right">Stlačte a podržte pravé slúchadlo</string>
+    <string name="miheadset_key_config_trans_summary">Povoliť externé zvuky</string>
+    <string name="miheadset_key_config_triple_left">Trojité poklepanie ľavého slúchadla</string>
+    <string name="miheadset_key_config_triple_right">Trojité poklepanie pravého slúchadla</string>
+    <string name="miheadset_key_config_volume_down">Znížiť hlasitosť</string>
+    <string name="miheadset_key_config_volume_up">Hlasitosť nahor</string>
+    <string name="wifi_assistant_keep_wifi_connection">Nie</string>
+    <string name="wifi_assistant_prompt">Zostať pripojený</string>
+    <string name="wifi_assistant_prompt_button">Rozumiem</string>
+    <string name="wifi_assistant_prompt_checkbox">Opýtať sa na povolenie používania mobilných dát</string>
+    <string name="wifi_assistant_prompt_summary">Vaše zariadenie sa pripojí na inú dostupnú Wi-Fi sieť alebo použije mobilné dáta ak vaša súčasná Wi-Fi sieť nebude mať pripojenie na internet.</string>        
+
 </resources>

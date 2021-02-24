@@ -2196,5 +2196,30 @@
     <string name="photodetail_rename_title">Premenovať</string>
     <string name="operation_photo_rename">Premenovať</string>
     
-            
+    <string name="auto_download_title">Vyberte kvalitu fotografií</string>
+    <string name="backup_settings">Synchr. s MiCloud</string>
+    <string name="backup_settings_more">Ďalšie nastavenia</string>    
+    <string name="cloud_backup_enable_title">Synchr.</string>
+    <string name="cloud_backup_open_button">Povoliť</string>
+    <string name="cloud_backup_space">Cloudové úložisko</string>
+    <string name="cloud_backup_status_disable">Vyp</string>
+    <string name="cloud_backup_status_eneble">Zap</string>
+    <string name="cloud_backup_title">Synchr. s MiCloud</string>
+    <string name="cloud_bacup_disable_button">Vypnúť synchr.</string>
+    <string name="cloud_bacup_disable_processing">Spracovávanie...</string>
+    <string name="cloud_login_ok">Rozumiem</string>
+    <string name="cloud_login_settings_title">Nastavenia synchr.</string>
+    <string name="cloud_privacy_with_ai_album">Funkcie a súkromie</string>
+    <string name="cloud_privacy_with_face">Funkcie a súkromie</string>
+    <string name="mi_mover_working_desc">MiMover prenáša položky...</string>
+    <string name="photo_size_not_support">Toto rozlíšenie nie je podporované</string>
+    <string name="see_more_settings">Ďalšie nastavenia</string>
+    <string name="sync_backup_disable_confirm_message_downloading">Ak vypnete synchr., prebiehajúce sťahovanie originálnych fotografií bude prerušené. Chcete pokračovať?</string>
+    <string name="sync_backup_disable_confirm_message_wait">Fotografie vo vysokej kvalite uložené v tomto zariadení nebudú dostupné ak vypnete synchr. Môžete stiahnuť originálne súbory z MiCloudu a potom vypnúť synchr.</string>
+    <string name="sync_backup_disable_confirm_title">Vypnúť synchr.</string>
+    <string name="sync_backup_enable_confirm_message">Ak je zapnutá synchr. s MiCloud, fotografie z tohto zariadenia budú odoslané do MiCloudu.</string>
+    <string name="sync_backup_enable_confirm_title">Spojiť sycnhr. položky</string>
+    <string name="vlog_filter_master_close">Odstránené efekty videa</string>
+    <string name="vlog_filter_master_open">Použité efekty videa</string>        
+    
 </resources>

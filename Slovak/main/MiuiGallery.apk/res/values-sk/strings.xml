@@ -2219,7 +2219,4 @@
     <string name="sync_backup_disable_confirm_title">Vypnúť synchr.</string>
     <string name="sync_backup_enable_confirm_message">Ak je zapnutá synchr. s MiCloud, fotografie z tohto zariadenia budú odoslané do MiCloudu.</string>
     <string name="sync_backup_enable_confirm_title">Spojiť sycnhr. položky</string>
-    <string name="vlog_filter_master_close">Odstránené efekty videa</string>
-    <string name="vlog_filter_master_open">Použité efekty videa</string>        
-    
 </resources>

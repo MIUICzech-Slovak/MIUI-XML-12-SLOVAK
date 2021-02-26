@@ -2209,8 +2209,6 @@
     <string name="cloud_bacup_disable_processing">Spracovávanie...</string>
     <string name="cloud_login_ok">Rozumiem</string>
     <string name="cloud_login_settings_title">Nastavenia synchr.</string>
-    <string name="cloud_privacy_with_ai_album">Funkcie a súkromie</string>
-    <string name="cloud_privacy_with_face">Funkcie a súkromie</string>
     <string name="mi_mover_working_desc">MiMover prenáša položky...</string>
     <string name="photo_size_not_support">Toto rozlíšenie nie je podporované</string>
     <string name="see_more_settings">Ďalšie nastavenia</string>
@@ -2219,4 +2217,6 @@
     <string name="sync_backup_disable_confirm_title">Vypnúť synchr.</string>
     <string name="sync_backup_enable_confirm_message">Ak je zapnutá synchr. s MiCloud, fotografie z tohto zariadenia budú odoslané do MiCloudu.</string>
     <string name="sync_backup_enable_confirm_title">Spojiť sycnhr. položky</string>
+    <string name="vlog_filter_master_close">Odstránené efekty videa</string>	
+    <string name="vlog_filter_master_open">Použité efekty videa</string>   
 </resources>

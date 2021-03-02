@@ -221,4 +221,20 @@
   <string name="function">Funkcie</string>
   <string name="if_open_result">Zobraziť výsledky skenovania po návrate do aplikácie</string>
   <string name="my_document">Moje dokumenty</string>
+
+    <string name="createQRCode_hint">Zadajte text</string>
+    <string name="createQRCode_save">Uložiť</string>  
+    <string name="document_take_a_single">Jedná strana</string>
+    <string name="document_take_multiple_shots">Viac strán</string>
+    <string name="identify_the_results">Výsledok</string>
+    <string name="document_read">Prečítať</string>
+    <string name="document_save_text">Uložiť</string>
+    <string name="save">Uložiť</string>
+    <string name="share">Zdieľať</string>
+    <string name="document_list">Dokumenty</string>
+    <string name="document_list_is_empty">Zoznam dokumentov je prázdny</string>
+    <string name="document_list_rename">Zadajte názov</string>	
+    <string name="delete">Vymazať</string>
+    <string name="choosed_title">Vybrané</string>
+	
 </resources>

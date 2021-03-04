@@ -240,5 +240,10 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
   
     <string name="other_settings_ad_dialog_agree">Povoliť</string>
     <string name="other_settings_ad_dialog_disagree">Vypnúť</string>
+
+<string name="item_contents_wwarning">Ak stratíte vaše zariadenie, nebudete môcť zabrániť jeho zneužitiu. Aj tak chcete preskočiť?</string>
+    <string name="item_return">Nastaviť</string>
+    <string name="item_skip">Preskočiť</string>
+    <string name="title_set_fingerprint">Zámok displeja</string>
   
 </resources>

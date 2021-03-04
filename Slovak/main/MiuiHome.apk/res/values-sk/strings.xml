@@ -578,5 +578,7 @@
     <string name="restore_icon_successful">Pridané</string>
     <string name="clearable_edittext_clear_description">Vyčistiť</string>
     
+    <string name="assistant_edge_gesture_summary">Potiahnite zo spodného ľavého alebo pravého rohu pre spustenie Google Asistenta</string>
+    <string name="assistant_edge_gesture_title">Potiahnuť z rohu pre Google Asistent</string>
     
 </resources>

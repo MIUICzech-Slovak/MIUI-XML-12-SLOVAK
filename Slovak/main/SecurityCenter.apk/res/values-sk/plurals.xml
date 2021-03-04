@@ -848,5 +848,14 @@ If you turn on mobile data again, your carrier may charge you for additional dat
 Dajte si pauzu!"</item>
         <item quantity="one">"Pozerali ste videá už %d hodinu.
 Dajte si pauzu!"</item>
-    </plurals>                
+    </plurals>              
+    
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Odinštalovať apl.: %d</item>
+        <item quantity="one">Odinštalovať apl.: %d</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">Môžete odinštalovať %d apl.</item>
+        <item quantity="one">Môžete odinštalovať %d apl.</item>
+    </plurals>
 </resources>

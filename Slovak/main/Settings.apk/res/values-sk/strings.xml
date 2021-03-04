@@ -6923,5 +6923,17 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="wifi_assistant_prompt_button">Rozumiem</string>
     <string name="wifi_assistant_prompt_checkbox">Opýtať sa na povolenie používania mobilných dát</string>
     <string name="wifi_assistant_prompt_summary">Vaše zariadenie sa pripojí na inú dostupnú Wi-Fi sieť alebo použije mobilné dáta ak vaša súčasná Wi-Fi sieť nebude mať pripojenie na internet.</string>        
+    
+    <string name="device_activation_info">Aktivácia zariadenia</string>
+    <string name="miheadset_ancClosed">Vyp</string>
+    <string name="miheadset_ancHigh">Vysoké</string>
+    <string name="miheadset_ancLow">Nízke</string>
+    <string name="miheadset_ancMedium">Stredné</string>
+    <string name="miheadset_enhanceVoice">Vylepšiť hlas</string>
+    <string name="miheadset_transparentMode">Transparency</string>
+    <string name="miui_sos_pa_title">Núdzová poloha</string>
+    <string name="miui_sos_pa_turn_off">Vyp</string>
+    <string name="miui_sos_pa_turn_on">Zap</string>
+    <string name="title_special_features_health_global">Tep srdca</string>
 
 </resources>

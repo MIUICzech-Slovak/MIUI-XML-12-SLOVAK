@@ -208,4 +208,11 @@
     <string name="transmission_volume_option_title">Citlivosť mikrofónu</string>
 
 <string name="sound_transmission_function_generalize">Prenášať zvuk z mikrofónu v telefóne do externého Bluetooth zariadenia</string>    
+
+    <string name="dolby_dax_geq_select_title">Predvoľby</string>
+    <string name="dolby_dax_geq_title">Grafický ekvalizér</string>
+    <string name="dolby_dax_profile_dynamic">Dynamický</string>
+    <string name="dolby_dax_setting">Dolby efekty</string>
+    <string name="dolby_dax_title">Surround sound</string>
+
 </resources>

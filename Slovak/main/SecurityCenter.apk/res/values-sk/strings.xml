@@ -4561,5 +4561,32 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="antivirus_privacy_dialog_title_kddi">Podmienky používania</string>
     <string name="antivirus_third_privacy_title">Ochrana súkromia</string>
     <string name="menu_text_antivirus_kddi">Kontrola zabezpečenia</string>
+
+    <string name="app_manager_tab_app">Aplikácie</string>
+    <string name="app_manager_tab_manager">Spravovať</string>
+    <string name="app_manager_to_appstore">Viac aplikácií</string>
+    <string name="app_manager_uninstall_button_text">Odinštalovať</string>
+    <string name="app_manager_uninstall_notify_title">Odinštalujte málo používané aplikácie</string>
+    <string name="auto_task_edit_condition_summary_new">Napríklad, \"Na %s\"</string>
+    <string name="auto_task_notify_task_cancel_count_down_new">Automatické úlohy budú zrušené o %ds</string>
+    <string name="auto_task_notify_task_count_down_new">Automatické úlohy budú spustené o %ds</string>
+    <string name="card_uninstall_button_text">Spravovať</string>
+    <string name="card_uninstall_summary">Odinštalujte málo používané aplikácie pre uvoľnenie miesta na úložisku</string>
+    <string name="card_uninstall_title_1">Odinštalujte málo používané aplikácie</string>
+    <string name="deep_power_save_item_summary_lock_screen_time_new">Uspať displej po %ds bez aktivity pre úsporu batérie</string>
+    
+    
+    <string name="never_new">%d krát</string>
+    <string name="power_center_list_item_set_lockscreen_time_new">Uspať displej po %ds bez aktivity</string>
+    <string name="power_save_mode_auto_exit_summary_new">Vypnúť ak je batéria na %s alebo plne nabitá</string>
+    <string name="superpower_notification_title_new">Ostáva menej ako %s batérie</string>
+    <string name="superpower_settins_autoenter_summary_new">Zapnúť Ultra šetrenie batérie automaticky ak je batéria vybitá na %s</string>
+    <string name="superpower_settins_autoleave_summary_new">Vypnúť Ultra šetrenie batérie automaticky ak je batéria nabitá na %s</string>
+    <string name="vb_video_effects_dolby_dialog_enhancer">Vylepšiť dialógy</string>
+    <string name="vb_video_effects_dolby_headset">" (Len slúchadlá)"</string>
+    <string name="vb_video_effects_dolby_open">Dolby Atmos je povolený</string>
+    <string name="vb_video_effects_dolby_stereo_expansion">Rozšírené stereo</string>
+    <string name="view_traffic_details">Zobraziť spotrebu dát</string>
+
                      
 </resources>

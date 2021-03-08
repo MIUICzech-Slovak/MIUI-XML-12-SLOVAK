@@ -704,7 +704,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="face_unlock_rotated_left">Otočte hlavu doprava</string>
   <string name="face_unlock_rotated_right">Otočte hlavu doľava</string>
   <string name="face_unlock_stay_away_screen">Držte sa 25-40cm od obrazovky</string>
-  <string name="face_unlock_success">Tvár úspešne overená</string>
   <string name="face_unlock_success_show_message_dialog_msg">Povoliť upozorneniam zobrazenie na zamknutej obrazovke.</string>
   <string name="face_unlock_success_show_message_dialog_negative_btn">Nie</string>
   <string name="face_unlock_success_show_message_dialog_positive_btn">Povoliť</string>

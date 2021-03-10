@@ -289,5 +289,7 @@ Skúste to znova"</string>
     <string name="provision_next">Ďalej</string>
     <string name="provision_skip_underline">Preskočiť</string>
 
-</resources>
+    <string name="button_confirm">Rozumiem</string>
+    <string name="pc_mode_not_support_restore_warning">Nie je možné obnoviť položky v režime PC. Vypnite PC režim a skúste to znova.</string>
 
+</resources>

@@ -2516,7 +2516,7 @@ Chcete ich naďalej zobrazovať?"</string>
 Keď ho budete môcť znova použiť, upozorníme vás."</string>
     <string name="usb_contaminant_title">Port USB je deaktivovaný</string>
     <string name="usb_debugging_allow">Povoliť</string>
-    <string name="usb_device_confirm_prompt_warn">"Chcete otvoriť aplikáciu %1$s na správu zariadenia %2$s ?
+    <string name="usb_device_confirm_prompt_warn">"Chcete otvoriť aplikáciu %1$s na správu zariadenia %2$s?
 Tejto aplikácii nebolo udelené povolenie na nahrávanie, ale môže nasnímať zvuk cez toto zariadenie USB."</string>
     <string name="usb_device_permission_prompt_warn">"Povoliť aplikácii %1$s pristupovať k zariadeniu %2$s?
 Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať zvuk cez toto zariadenie USB."</string>
@@ -2558,5 +2558,6 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     
     <string name="control_center_notification_switch_guide">Potiahnutím do strán prepnete medzi upozorneniami a Centrom ovládania</string>
     <string name="face_unlock_success">Odomknuté</string>
+    <string name="finger_error_single_mode">V režime jednej ruky nie je možné používať senzor odtlačkov prsta.</string>
 
 </resources>

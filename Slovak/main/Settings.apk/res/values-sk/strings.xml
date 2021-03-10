@@ -6935,5 +6935,16 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="miui_sos_pa_turn_off">Vyp</string>
     <string name="miui_sos_pa_turn_on">Zap</string>
     <string name="title_special_features_health_global">Tep srdca</string>
-
+    
+    <string name="already_delete_system_app">Odinštalované systémové aplikácie</string>
+    <string name="bt_leaudio_open_dialog_summary">Nebudete môcť pripojiť viaceré zariadenia ak je povolené LC3. Chcete povoliť LC3?</string>
+    <string name="bt_leaudio_open_dialog_title">Upozornenie</string>
+    <string name="bt_leaudio_summary">Vysoká kvalita zvuku</string>
+    <string name="codec_low_latency_video_summary">Poskytovať nízke oneskorenie zvuku počas hier a videí.</string>
+    <string name="face_data_introduction_add">Spustiť</string>
+    <string name="headset_notification_switch_summary">Zobraziť stav v roletke ak sú pripojené slúchadlá</string>
+    <string name="headset_notification_switch_title">Zobraziť v roletke</string>
+    <string name="keyboard_skin_follow_system_enable">Prepnúť do tmavého režimu spolu so systémom</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">Zrušiť</string>
+    <string name="miui_face_enroll_risk_warning_title_text">Upozornenie</string>
 </resources>

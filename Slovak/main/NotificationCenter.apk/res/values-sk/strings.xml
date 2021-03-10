@@ -80,7 +80,7 @@ Nahláste tento problém &gt;"</string>
   <string name="mune_setting_prefix_category">"Zoskupiť s "</string>
   <string name="setting_menu_success">Nastavené</string>
   <string name="channel_name_aggregation">Zlúčené upozornenia</string>
-  <string name="channel_name_notification">Upzoronenia aplikácií</string>
+  <string name="channel_name_notification">Upozornenia aplikácií</string>
   <string name="channel_name_recovered">Obnovené upozornenia</string>  
     <string name="show_weather">Zobraziť info o počasí</string>
 
@@ -101,5 +101,5 @@ Nahláste tento problém &gt;"</string>
     <string name="summary_fold_importance_important">Upozornenie bude zobrazené v roletke</string>
     <string name="summary_fold_importance_unimportant">Upozornenie bude zobrazené v zložke</string>
     <string name="title_aggregate_default">Zlúčiť upozornenia</string>
-    <string name="title_aggregate_home">Nezlučovať upozornenia</string>                      
+    <string name="title_aggregate_home">Nezlučovať upozornenia</string>               
 </resources>

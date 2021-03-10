@@ -1761,5 +1761,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="v7_preference_off">Vyp</string>
     <string name="v7_preference_on">Zap</string>  
     <string name="select_apn_list_title">Vyberte vaše predvolené APN: pre SIM %1$s</string>
+<string name="wifi_call_available_message_for_ATT_MX">Budete pripojený k Wi-Fi sieti. Kvalita hovoru môže kolísať podľa kvality pripojenia.</string>
     
 </resources>

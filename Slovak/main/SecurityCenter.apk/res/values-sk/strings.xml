@@ -4588,5 +4588,39 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Rozšírené stereo</string>
     <string name="view_traffic_details">Zobraziť spotrebu dát</string>
 
-                     
+    <string name="battery_low_percent_format_save_mode_closed_new_version">Batéria je slabá. Pripojte nabíjačku.</string>
+    <string name="battery_low_percent_format_save_mode_open_new_version">Povoľte Šetrenie batérie pre pridanie %s.</string>
+    <string name="exo_controls_cc_disabled_description">Povoliť titulky</string>
+    <string name="exo_controls_cc_enabled_description">Vypnúť titulky</string>
+    <string name="exo_controls_fullscreen_enter_description">Režim na celú obrazovku</string>
+    <string name="exo_controls_fullscreen_exit_description">Ukončiť režim celej obrazovky</string>
+    <string name="exo_controls_hide">Skryť ovládanie prehrávača</string>
+    <string name="exo_controls_next_description">Ďalej</string>
+    <string name="exo_controls_overflow_hide_description">Skryť ďalšie nastavenia</string>
+    <string name="exo_controls_overflow_show_description">Zobraziť ďalšie nastavenia</string>
+    <string name="exo_controls_playback_speed">Rýchlosť</string>
+    <string name="exo_controls_playback_speed_normal">Normálna</string>
+    <string name="exo_controls_previous_description">Predch.</string>
+    <string name="exo_controls_seek_bar_description">Stav prehrávania</string>
+    <string name="exo_controls_settings_description">Nastavenia</string>
+    <string name="exo_controls_show">Zobraziť ovládanie prehrávača</string>
+    <string name="exo_controls_shuffle_off_description">Náhodné vyp.</string>
+    <string name="exo_controls_shuffle_on_description">Náhodné zap.</string>
+    <string name="exo_track_role_alternate">Striedavo</string>
+    <string name="exo_track_role_commentary">Výklad</string>
+    <string name="exo_track_role_supplementary">Doplnky</string>
+    <string name="notification_enter_power_save_mode_subtitle">Vypnúť ak je zariadenie %s plne nabité</string>
+    <string name="notification_enter_power_save_mode_title">Povolené Šetrenie batérie</string>
+    <string name="notification_exit_power_save_mode">Povolené Ultra Šetrenie batérie</string>
+    <string name="notification_exit_power_save_mode_full_subtitle">Vaše zariadenie je plne nabité</string>
+    <string name="notification_exit_power_save_mode_now">Vypnúť</string>
+    <string name="notification_exit_power_save_mode_subtitle">Vaše zariadenie je nabité na %s</string>
+    <string name="pp_privacy_lab_blur_location">Približná poloha</string>
+    <string name="pp_privacy_lab_blur_location_summary">Nedovoľte aplikáciam načítať vašu presnú polohu</string>
+    <string name="pp_privacy_lab_clipboard">Ochrana schránky</string>
+    <string name="pp_privacy_lab_clipboard_summary">Povoliť MIUI rozhodovať či aplikácia môže pristupovať ku skopírovaným dátam v schránke</string>
+    <string name="pp_privacy_protection_lab">Experimentálna ochrana súkromia</string>
+    <string name="pp_privacy_protection_lab_summary">Udržte si súkromie</string>
+    <string name="settings_battery_power_save_suggest_title">Odporúčania a varovania šetrenia batérie</string>
+	
 </resources>

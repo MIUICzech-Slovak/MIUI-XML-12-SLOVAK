@@ -536,5 +536,6 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
 
     <string name="animal_select_alert_info">Môžete vybrať maximálne 5 položiek</string>
     <string name="random_play_sound_alert">Budete počuť zvuky zvierat z tohto regiónu keď dostanete upozornenie</string>
-	
+	<string name="close">Zatvoriť</string>
+	<string name="send">Odoslať</string>
 </resources>

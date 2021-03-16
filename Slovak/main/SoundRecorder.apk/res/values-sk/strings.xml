@@ -201,4 +201,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
     <string name="privacy_policy_title">Ochrana súkromia</string>
     <string name="uninstall_warning_content">Záznamník je systémová aplikácia. Ak ju odinštalujete, niektoré funkcie nemusia fungovať správne.</string>
     <string name="uninstall_warning_title">Odinštalovať Záznamník?</string>  
+	
+    <string name="notification_save_as_complete">Uložené</string>
+    <string name="save_as">Uložiť ako</string>	
 </resources>

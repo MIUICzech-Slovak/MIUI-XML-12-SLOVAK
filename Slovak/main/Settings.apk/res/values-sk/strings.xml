@@ -6947,4 +6947,6 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="keyboard_skin_follow_system_enable">Prepnúť do tmavého režimu spolu so systémom</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Zrušiť</string>
     <string name="miui_face_enroll_risk_warning_title_text">Upozornenie</string>
+    <string name="miheadset_key_config_ANC_list_title">Kontrola hluku</string>
+	
 </resources>

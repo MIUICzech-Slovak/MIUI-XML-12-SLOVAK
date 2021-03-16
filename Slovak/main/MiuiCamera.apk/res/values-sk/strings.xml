@@ -1205,7 +1205,49 @@ skenované dokumenty automaticky"</string>
     <string name="pref_camera_predictive_shutter_title">Track movement</string>
     <string name="pref_super_night_se_summary">Detect low light conditions and improve image quality automatically</string>
     <string name="pref_super_night_se_title">Auto night mode</string>
-            
-                      
+    <string name="audio_map_summary_tip">Monitor the volume of the left and right channels in real time and adjust it using the slider</string>
+    <string name="dialog_button_accept">Accept</string>
+    <string name="dialog_button_back">Back</string>	
+    <string name="dialog_button_cancel">Cancel</string>                      
+    <string name="dialog_button_connect">Connect</string>	
+    <string name="dialog_button_disconnect">Exit</string>
+    <string name="dialog_button_exit">Turn off</string>
+    <string name="dialog_button_reject">Reject</string>
+    <string name="dialog_button_scan">Search for devices</string>
+    <string name="histogram_summary_tip">Show real-time exposure feedback</string>
+    <string name="network_connection_failed">"Couldn't connect"</string>
+    <string name="network_connection_ongoing">Connecting…</string>
+    <string name="network_connection_prerequisites">Turn on Bluetooth and Wi-Fi to be able to use Dual phone recording.</string>
+    <string name="network_connection_prerequisites_china">Turn on Bluetooth and Wi-Fi to be able to use Dual phone recording.</string>
+    <string name="network_connection_rejected">Rejected</string>
+    <string name="network_connection_timed_out">Connection timed out</string>	
+    <string name="pref_customization_style">Custom style</string>
+    <string name="pref_multi_camera_dual_video_remote">Dual phone recording</string>
+    <string name="pref_video_cast_setting_summary">Turn on to be able to shoot one video with multiple devices</string>
+    <string name="pref_video_cast_setting_title">Dual phone recording</string>
+    <string name="remote_online_connecting">Select device to connect</string>
+    <string name="remote_online_disconnect_confirmation">Cancel connecting to %1$s?</string>
+    <string name="remote_online_exit_confirmation">Turn off Dual phone recording now?</string>
+    <string name="remote_online_exit_connecting">Disconnect and exit Dual phone recording now?</string>
+    <string name="remote_online_guide">Turn on Dual phone recording on the other device using the Control center toggle.</string>
+    <string name="remote_online_interrupted">Disconnected. Connect again to continue.</string>
+    <string name="remote_online_introduction_i">"Dual phone recording allows combining feeds from two different devices into one video. You'll be able to preview both feeds and the final video on this device. Note that audio will only be recorded by this device."</string>
+    <string name="remote_online_introduction_ii">To make this feature work, the other Mi or Redmi device must support Dual phone recording. It can be turned on using the Control center toggle.</string>
+    <string name="remote_online_searching">Searching for devices…</string>
+    <string name="remote_online_service_name">Dual phone recording</string>
+    <string name="remote_online_unavailable">"Couldn't find devices nearby"</string>
+    <string name="remote_online_waiting">Waiting for the other device to connect…</string>
+    <string name="remote_online_whats">How does Dual phone recording work?</string>
+    <string name="timerburst_pressed_hint">Tap again to stop</string>
+    <string name="video_cast_connecting">Connecting…</string>
+    <string name="video_cast_exit_confirmation">Exit now?</string>
+    <string name="video_cast_exit_warning">"Your feed won't be available to the other device."</string>
+    <string name="video_cast_inviting">%1$s wants to use Dual phone recording with this device.</string>
+    <string name="video_cast_notification_content">Tap to stop</string>
+    <string name="video_cast_notification_title">Using multiple cameras in the background…</string>
+    <string name="video_cast_service_error">"Couldn't turn on Dual phone recording in the background"</string>
+    <string name="video_cast_service_name">Dual phone</string>
+    <string name="video_cast_state_exited">Exited Dual phone recording</string>
+    <string name="video_cast_state_paused">Paused</string>
 	
 </resources>

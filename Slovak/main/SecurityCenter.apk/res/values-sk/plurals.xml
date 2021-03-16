@@ -858,4 +858,17 @@ Dajte si pauzu!"</item>
         <item quantity="other">Môžete odinštalovať %d apl.</item>
         <item quantity="one">Môžete odinštalovať %d apl.</item>
     </plurals>
+	
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Dopredu %ds</item>
+        <item quantity="one">Dopredu %ds</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Dozadu %ds</item>
+        <item quantity="one">Dozadu %ds</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Vaše zariadenie sa vypne o %ds</item>
+        <item quantity="one">Vaše zariadenie sa vypne o %ds</item>
+    </plurals>	
 </resources>

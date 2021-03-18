@@ -1834,7 +1834,6 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="notification_exit_extreme_mode_text">Batéria má viac ako %s</string>
   <string name="notification_exit_extreme_mode_title">Vypnutá Extrémna úspora batérie</string>
   <string name="notification_exit_power_save_mode">Vypnuté Šetrenie batérie</string>
-  <string name="notification_exit_power_save_mode_subtitle">Batéria %s nabitá.</string>
   <string name="notification_item">Zabezpečte vaše aplikácie</string>
   <string name="notification_mask_summary">Nezobrazovať obsah upozornení na zamykacej obrazovke a v roletke</string>
   <string name="notification_mask_title">Skryť obsah upozornení</string>
@@ -4611,10 +4610,9 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="exo_track_role_supplementary">Doplnky</string>
     <string name="notification_enter_power_save_mode_subtitle">Vypnúť ak je zariadenie %s plne nabité</string>
     <string name="notification_enter_power_save_mode_title">Povolené Šetrenie batérie</string>
-    <string name="notification_exit_power_save_mode">Povolené Ultra Šetrenie batérie</string>
     <string name="notification_exit_power_save_mode_full_subtitle">Vaše zariadenie je plne nabité</string>
     <string name="notification_exit_power_save_mode_now">Vypnúť</string>
-    <string name="notification_exit_power_save_mode_subtitle">Vaše zariadenie je nabité na %s</string>
+    <string name="notification_exit_power_save_mode_subtitle">Batéria je nabitá na %s</string>
     <string name="pp_privacy_lab_blur_location">Približná poloha</string>
     <string name="pp_privacy_lab_blur_location_summary">Nedovoľte aplikáciam načítať vašu presnú polohu</string>
     <string name="pp_privacy_lab_clipboard">Ochrana schránky</string>

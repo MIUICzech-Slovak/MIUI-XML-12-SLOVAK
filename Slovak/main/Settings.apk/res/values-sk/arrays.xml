@@ -1108,4 +1108,13 @@ Postupujte podľa pokynov"</item>
         <item>Jemné</item>
         <item>Stredné</item>
 	</string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>Doplnkové</item>
+        <item>Plné</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Zvýšiť rýchlosť použitím mobilných dát len ak je slabý signál Wi-Fi</item>
+        <item>Kombinovať Wi-Fi a mobilné dáta pre zvýšenie rýchlosti</item>
+    </string-array>
+
 </resources>

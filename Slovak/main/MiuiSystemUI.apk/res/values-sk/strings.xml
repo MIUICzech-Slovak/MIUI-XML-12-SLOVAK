@@ -2560,4 +2560,13 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     <string name="face_unlock_success">Odomknuté</string>
     <string name="finger_error_single_mode">V režime jednej ruky nie je možné používať senzor odtlačkov prsta.</string>
 
+    <string name="miui_snooze_always_float">Neskrývať</string>
+    <string name="miui_snooze_cancel">Zrušiť</string>
+    <string name="miui_snooze_default_time">Na %d min</string>
+    <string name="miui_snooze_to_settings">Nastavenia</string>
+    <string name="miui_snooze_toast_hint_default">Nasledujúce upozornenia budú skryté na %d min.</string>
+    <string name="miui_snooze_toast_hint_until_unlock_screen">Nasledujúce upozornenia budú skryté kým neuzamknete zariadenie.</string>
+    <string name="miui_snooze_until_unlock_screen">Kým neuzamknete</string>
+    <string name="miui_snooze_user_set_fail">Choďte do Nastavenia > Upozornenia a Centrum ovládania pre viac možností</string>
+    <string name="miui_snooze_user_set_success">Nastavené</string> 
 </resources>

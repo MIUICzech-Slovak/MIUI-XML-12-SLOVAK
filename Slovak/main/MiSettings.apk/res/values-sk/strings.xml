@@ -385,7 +385,7 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
   <string name="fps_smooth_title">Stredná</string>
   <string name="fps_standard_summary">Štandardná obnovovacia frekvencia šetrí batériu</string>
   <string name="fps_standard_title">Štandardná</string>
-  <string name="fps_user_tip">Tieto animácie sú prehrávané pomalšie kvôli ukážke rozdielu v obnovovacej frekvencii.</string>
+  <string name="fps_user_tip">1. Tieto animácie sú prehrávané pomalšie kvôli ukážke rozdielu v obnovovacej frekvencii.</string>
   
     <string name="usage_app_holiday_limit">Dni voľna</string>
     <string name="usage_new_home_week_average_count">Priem. %s</string>
@@ -538,4 +538,8 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
     <string name="random_play_sound_alert">Budete počuť zvuky zvierat z tohto regiónu keď dostanete upozornenie</string>
 	<string name="close">Zatvoriť</string>
 	<string name="send">Odoslať</string>
+	
+<string name="adaptive_fps_tip">2. Dosiahnite najlepší pomer medzi plynulosťou systému a spotreby batérie pomocou dynamickej obnovovacej frekvencie.</string>
+    <string name="close">Zatvoriť</string>
+    <string name="send">Odoslať</string>    	
 </resources>

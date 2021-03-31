@@ -6948,5 +6948,20 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="miui_face_enroll_risk_warning_btn_cancel">Zrušiť</string>
     <string name="miui_face_enroll_risk_warning_title_text">Upozornenie</string>
     <string name="miheadset_key_config_ANC_list_title">Kontrola hluku</string>
-	
+
+    <string name="bluetooth_message_access_dialog_content">"Nepovolené Bluetooth zariadenie, %1$s, sa snaží o prístup k vašim správam.
+
+Nikdy ste neboli pripojený k %2$s."</string>
+    <string name="bluetooth_message_access_dialog_title">Povoliť prístup k správam?</string>
+    <string name="bluetooth_message_access_notification_content">Nepovolené Bluetooth zariadenie, sa snaží o prístup k vašim správam.</string>
+    <string name="bluetooth_phonebook_access_dialog_content">"Nepovolené Bluetooth zariadenie, %1$s, sa snaží o prístup k vašim kontaktom a hovorom.
+
+Nikdy ste neboli pripojený k %2$s."</string>
+    <string name="bluetooth_phonebook_access_dialog_title">Povoliť prístup ku kontaktom a hovorom?</string>
+    <string name="bluetooth_phonebook_access_notification_content">Nepovolené Bluetooth zariadenie, sa snaží o prístup ku kontaktom a hovorom.</string>
+    <string name="mechanical_ime">Mechanická klávesnica</string>
+    <string name="mechanical_ime_hint">Podporované len s Xiaomi klávesnicami</string>
+    <string name="xiaomi_hp_location">Presná poloha</string>
+    <string name="xiaomi_hp_location_description">Informácie o presnej polohe umožňujú lepšiu navigáciu</string>
+                	
 </resources>

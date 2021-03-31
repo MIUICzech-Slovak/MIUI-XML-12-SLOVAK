@@ -4621,4 +4621,17 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="pp_privacy_protection_lab_summary">Udržte si súkromie</string>
     <string name="settings_battery_power_save_suggest_title">Odporúčania a varovania šetrenia batérie</string>
 	
+    <string name="power_center_night_charge_noti_subtitle">Batéria bude plne nabitá %s</string>
+    <string name="power_center_night_charge_noti_title">Optimalizované nabíjanie je zapnuté</string>
+    <string name="power_center_night_charge_protection">Optimalizované nabíjanie</string>
+    <string name="power_center_night_charge_protection_setting">Zobraziť viac nastavení v Optimalizácia > Batéria.</string>
+    <string name="power_center_night_charge_protection_summary">Pre zníženie starnutia batérie, MIUI sa naučí vaše zvyky nabíjania batérie pre obmedzenie nepretržitého nabíjania</string>
+    <string name="power_dailog_night_charge_protection_done">Rozumiem</string>
+    <string name="power_dailog_night_charge_protection_summary">Vyzerá to tak, že vaša batéria je takmer stále nabitá naplno, čo spôsobuje jej rýchle starnutie. MIUI povolilo optimalizáciu nabíjania pre zamedzenie tohto problému.</string>
+    <string name="storage_clear_available_total_size">%1$s/%3$s obsadené | %2$s dostupné</string>
+    <string name="storage_clear_cache">Uvoľniť %s</string>
+    <string name="storage_clear_cache_deep">Uvoľniť úložisko</string>
+    <string name="storage_clear_cache_large">Uvoľniť %s</string>
+    <string name="storage_clear_more_tools">Viac nástrojov pre čistenie</string>
+    <string name="storage_clear_video">Vymazať video cache</string>        	
 </resources>

@@ -777,5 +777,10 @@
     
     <string name="junk_temporary_file">Dočasné súbory</string>
     
+    <string name="whatsapp_cache_clear">Vymazávanie cache…</string>
+    <string name="whatsapp_detail_cache_result">Uvoľnené %s</string>
+    <string name="whatsapp_detail_sort_created">Zoradiť podľa dátumu</string>
+    <string name="whatsapp_file_recv">Prijaté</string>
+    <string name="whatsapp_file_send">Odoslané</string>        
  	
 </resources>

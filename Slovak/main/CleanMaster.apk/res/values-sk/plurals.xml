@@ -187,4 +187,9 @@
         <item quantity="other">Dosť pre %d skladieb</item>
         <item quantity="one">Dosť pre %d skladieb</item>
     </plurals>    	
+    <plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">Nahrávok: %1$s</item>
+        <item quantity="one">Nahrávok: %1$s</item>
+    </plurals>    
 </resources>
+

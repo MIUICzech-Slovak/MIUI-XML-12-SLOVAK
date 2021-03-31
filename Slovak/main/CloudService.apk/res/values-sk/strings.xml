@@ -937,5 +937,6 @@ Poloha nebude odoslaná ak je slabý signál siete."</string>
     <string name="sync_page_route_message">Správca hesiel umožňuje šifrovať uložené heslá v cloude. Chcete ho povoliť?</string>
     <string name="sync_page_route_not_now">Nie</string>
     <string name="sync_page_route_ok">Povoliť</string>
-    <string name="sync_page_route_remember">Viac nezobrazovať</string>                      
+    <string name="sync_page_route_remember">Viac nezobrazovať</string>       
+    <string name="ks_name_high_precise_position">Vysoká presnosť polohy</string>                   
 </resources>

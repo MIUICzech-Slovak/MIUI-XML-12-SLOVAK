@@ -204,4 +204,6 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
 	
     <string name="notification_save_as_complete">Uložené</string>
     <string name="save_as">Uložiť ako</string>	
+    <string name="remove_icon_description_content">Záznamník je systémová aplikácia.</string>
+    <string name="remove_icon_description_title">Odstrániť ikonu z plochy?</string>    
 </resources>

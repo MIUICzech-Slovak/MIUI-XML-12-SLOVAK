@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_clock_size">11.5sp</dimen>
+    <dimen name="statusbar_battery_size">10.5dip</dimen>     
+</resources>

@@ -2219,20 +2219,6 @@
     <string name="sync_backup_enable_confirm_title">Spojiť sycnhr. položky</string>
     <string name="vlog_filter_master_close">Odstránené efekty videa</string>	
     <string name="vlog_filter_master_open">Použité efekty videa</string>   
-    
-    <string name="auto_download_title">Vyberte kvalitu fotografií</string>
-    <string name="backup_settings">Synchr. s MiCloud</string>
-    <string name="backup_settings_more">Ďalšie nastavenia</string>
-    <string name="cloud_backup_enable_title">Synchr.</string>
-    <string name="cloud_backup_open_button">Povoliť</string>
-    <string name="cloud_backup_space">MiCloud úložisko</string>
-    <string name="cloud_backup_status_disable">Vyp</string>
-    <string name="cloud_backup_status_eneble">Zap</string>
-    <string name="cloud_backup_title">Synchr. s MiCloud</string>
-    <string name="cloud_bacup_disable_button">Vypnúť synchr.</string>
-    <string name="cloud_bacup_disable_processing">Spracovávanie...</string>
-    <string name="cloud_login_ok">Rozumiem</string>
-    <string name="cloud_login_settings_title">Nastavenia synchr.</string>
     <string name="date_time_picker_dialog_title">Nastaviť dátum a čas</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Preskočiť</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">OK</string>
@@ -2244,14 +2230,7 @@
     <string name="nearby_share">Zdieľanie nablízku</string>
     <string name="no_network">Nebolo možné pripojiť sa k sieti</string>
     <string name="ocr_save_to_note_new">Uložiť do Poznámok</string>
-    <string name="see_more_settings">Ďalšie nastavenia</string>
     <string name="send">Odoslať</string>
-    
-    <string name="sync_backup_disable_confirm_message_downloading">Ak teraz vypnete synchr., prebiehajúce sťahovania originálnych fotografií bude prerušené. Fotografie vo vysokej kvalite nebudú dostupné ani v tomto zariadení. Chcete ju vypnúť?</string>
-    <string name="sync_backup_disable_confirm_message_wait">Ak teraz vypnete synchr. fotografie vo vysokej kvalite nebudú dostupné v tomto zariadení. Môžete stiahnuť originálne súbory z MiCloud a potom vypnúť synchr.</string>
-    <string name="sync_backup_disable_confirm_title">Vypnúť synchr.</string>
-    <string name="sync_backup_enable_confirm_message">Ak je povolená synchr. s MiCloud, položky z tohto zariadenia budú odoslané do MiCloud.</string>
-    <string name="sync_backup_enable_confirm_title">Synchr. položky</string>
     <string name="toast_download_with_metered_network_btn_continue">Stiahnuť</string>
     <string name="toast_download_with_metered_network_msg">Vaše zariadenie nie je pripojené k Wi-Fi sieti. Chcete stiahnuť položky cez mobilné dáta?</string>
     <string name="toast_download_with_metered_network_title">Mobilné dáta</string>

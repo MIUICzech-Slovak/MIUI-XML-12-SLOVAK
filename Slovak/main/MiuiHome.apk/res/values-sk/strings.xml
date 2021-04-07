@@ -581,4 +581,9 @@
     <string name="assistant_edge_gesture_summary">Potiahnite zo spodného ľavého alebo pravého rohu pre spustenie Google Asistenta</string>
     <string name="assistant_edge_gesture_title">Potiahnuť z rohu pre Google Asistent</string>
     
+    <string name="network_error">Nebolo možné pripojiť sa k sieti.</string>
+    <string name="remove_sys_app_content">Ikonu na plochu môžete pridať v Nastaveniach. Odstrániť teraz?</string>
+    <string name="remove_sys_app_title">Odstrániť ikonu z plochy?</string>
+    <string name="server_error">Nastala chyba servera.</string>            
+    
 </resources>

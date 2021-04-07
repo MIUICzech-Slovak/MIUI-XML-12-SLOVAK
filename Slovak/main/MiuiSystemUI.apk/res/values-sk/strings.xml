@@ -2569,4 +2569,7 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     <string name="miui_snooze_until_unlock_screen">Kým neuzamknete</string>
     <string name="miui_snooze_user_set_fail">Choďte do Nastavenia > Upozornenia a Centrum ovládania pre viac možností</string>
     <string name="miui_snooze_user_set_success">Nastavené</string> 
+    
+    <string name="choose_clock_dual_clock_hint_text">Nie je možné zmeniť formát ak sú aktívne duálne hodiny</string>
+    <string name="start_camera_error_try_again">Nebolo možné spustiť fotoaparát.</string>        
 </resources>

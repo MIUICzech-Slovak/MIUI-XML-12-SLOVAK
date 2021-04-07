@@ -290,4 +290,6 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>   
   <string name="dialog_delete_positive">Vymazať</string>  
+    <string name="dialog_download_dir_content" formatted="false">Predvolená cieľová zložka pre vaše stiahnuté súbory bola zmenená z \"%s\" na \"%s/DLManager\".</string>
+    <string name="dialog_download_dir_title">Nová cieľová zložka</string>  
 </resources>

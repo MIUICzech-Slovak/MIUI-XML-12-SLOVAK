@@ -812,6 +812,8 @@ Získali ste ďalších %1$s"</string>
     <string name="mirror_side_bar_tab_tranfer_name">Prenosy a sťahovanie</string>
     <string name="transfer">Prenosy a sťahovanie</string>
     <string name="transfer_summary">Sťahovanie a prenos cez Mi Share</string>
+    <string name="access_tips">Prístup k systémovým súborom je túto aplikáciu zakázaný. Otvorte túto zložku v Android správcovi súborov.</string>
+    <string name="go_ahead">Otvoriť</string>
         
 	
 </resources>

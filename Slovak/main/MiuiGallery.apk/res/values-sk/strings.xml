@@ -2237,5 +2237,7 @@
     <string name="web_sso_login_fail">Musíte sa prihlásiť znova</string>
     <string name="web_sso_login_message">Prihlasovanie…</string>
     <string name="webview_reload">Skúste to znova</string>
-                                                                    
+    <string name="miuix_appcompat_deselect_all">Odznačiť</string>
+    <string name="miuix_appcompat_select_all">Všetko</string>
+    <string name="miuix_appcompat_select_item">Vyberte položky</string>                                                                    
 </resources>

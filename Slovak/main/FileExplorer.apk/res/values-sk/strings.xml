@@ -814,6 +814,5 @@ Získali ste ďalších %1$s"</string>
     <string name="transfer_summary">Sťahovanie a prenos cez Mi Share</string>
     <string name="access_tips">Prístup k systémovým súborom je túto aplikáciu zakázaný. Otvorte túto zložku v Android správcovi súborov.</string>
     <string name="go_ahead">Otvoriť</string>
-        
-	
+    <string name="access_limit">Obmedzený prístup</string>
 </resources>

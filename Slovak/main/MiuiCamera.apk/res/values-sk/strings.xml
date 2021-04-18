@@ -1256,4 +1256,16 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="wideselfie_rotate_to_left_slowly">Natočte telefón doľava</string>
   <string name="wideselfie_rotate_to_right_slowly">Natočte telefón doprava</string>
   <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režime</string>	
+  
+    <string name="pref_camera_fastmotion_duration">Doba trvania</string>
+    <string name="pref_camera_fastmotion_duration_description">Dĺžka relácie snímania je predvolene neobmedzená. Môžete tiež nastaviť časovač, ktorý zastaví reláciu v presne stanovenom okamihu.</string>
+    <string name="pref_camera_fastmotion_duration_infinity">Neobmedzené</string>
+    <string name="pref_camera_fastmotion_speed">Rýchlosť</string>
+    <string name="pref_camera_fastmotion_speed_150x">Východy a západy slnka</string>
+    <string name="pref_camera_fastmotion_speed_1800x">Rastliny</string>
+    <string name="pref_camera_fastmotion_speed_30x">Ulica</string>
+    <string name="pref_camera_fastmotion_speed_750x">Súmrak</string>
+    <string name="pref_camera_fastmotion_speed_90x">Oblaky</string>
+    <string name="pref_camera_fastmotion_speed_description">Videá vytvorené zrýchleným záberom nasnímané vyššou rýchlosťou sú kratšie a hutnejšie. Tu sú hodnoty rýchlosti vhodné pre rôzne scény:</string>
+      
 </resources>

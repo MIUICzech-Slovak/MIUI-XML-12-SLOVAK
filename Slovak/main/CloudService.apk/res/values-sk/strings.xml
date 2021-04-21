@@ -938,5 +938,37 @@ Poloha nebude odoslaná ak je slabý signál siete."</string>
     <string name="sync_page_route_not_now">Nie</string>
     <string name="sync_page_route_ok">Povoliť</string>
     <string name="sync_page_route_remember">Viac nezobrazovať</string>       
-    <string name="ks_name_high_precise_position">Vysoká presnosť polohy</string>                   
+    <string name="ks_name_high_precise_position">Vysoká presnosť polohy</string>    
+    
+    <string name="loading_server_key_info">Načítanie položiek…</string>
+    <string name="keybag_dialog_cancel">Zrušiť</string>
+    <string name="keybag_dialog_ok">OK</string>
+    <string name="keybag_password_check_screen_lock">Zadajte zámok obrazovky</string>
+    <string name="keybag_password_checking_screen_lock">Overenie zámku obrazovky…</string>
+    <string name="keybag_password_confirm_prompt">Potvrďte prístupový kód</string>
+    <string name="keybag_password_create_prompt">Nastaviť prístupový kód</string>
+    <string name="keybag_password_error_inconsistent">Prístupové kódy se nezhodujú</string>
+    <string name="keybag_password_forget">Zabudli ste heslo?</string>
+    <string name="keybag_password_input_cancel">Zrušiť</string>
+    <string name="keybag_password_input_hint">Zadajte prístupový kód</string>
+    <string name="keybag_password_input_next">Ďalšie</string>
+    <string name="keybag_password_input_prompt">Zadajte prístupový kód</string>
+    <string name="keybag_password_length_prompt">Kombinácia %d číslic a písmen</string>
+    <string name="keybag_password_reset_tip">Keď obnovíte prístupový kód, šifrované položky uložené v cloude budú automaticky vymazané. Aj tak chcete obnoviť?</string>
+    <string name="keybag_password_screen_lock_unknown">Momentálne nie je možné overiť zámok obrazovky. Zadajte prístupový kód.</string>
+    <string name="keybag_password_screen_lock_wrong">Zadaný zámok obrazovky nie je správny</string>
+    <string name="keybag_password_too_short">Formát hesla nie je správny</string>
+    <string name="keybag_set_password_content">Aby ste mohli používať Správcu hesiel, nastavte prístupový kód. Tento prístupový kód nám umožní overiť vašu identitu, pokiaľ zmeníte zariadenie.</string>
+    <string name="keybag_set_password_negative">Nastaviť</string>
+    <string name="keybag_set_password_positive">Použiť zámok obrazovky</string>
+    <string name="keybag_set_password_success_close">Ukončiť</string>
+    <string name="keybag_set_password_success_get">Hotovo</string>
+    <string name="keybag_set_password_success_tip">Úspešne nastavené. Tento prístupový kód budete musieť zadať na ostatných zariadeniach pre prístup k šifrovaným položkám.</string>
+    <string name="keybag_set_password_title">Upozornenie</string>
+    <string name="sync_item_autofill_summary">Automatické šifrovanie a synchronizovanie hesiel s MiCloud</string>
+    <string name="sync_item_autofill_title">Synchronizovať automaticky</string>
+    <string name="sync_off_confirm_content">Po vypnutí správcu hesiel nebudete môcť synchronizovať nové hesla.</string>
+    <string name="sync_off_confirm_title">Upozornenie</string>
+    <string name="sync_page_autofill_title">Správca hesiel</string>
+    	                   
 </resources>

@@ -103,4 +103,8 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
+  
+    <string name="app_notification_channel_record_complete">Upozornenie o ukončenom nahrávaní</string>
+    <string name="app_notification_record_complete">"Nahrávka je uložená do Galérie
+Dotykom ju zobrazíte"</string>      
 </resources>

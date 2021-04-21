@@ -24,4 +24,11 @@
   <string name="how_to_slide_up_to_close">Zatvoriť plávajúce okno</string>
   <string name="how_to_slide_up_to_close_summary">Potiahnite nahor lištu plávajúceho okna</string>
   <string name="how_to_use_freeform">Ako používať plávajúce okná</string>
+  
+    <string name="bottom_bar_smallwindow_text">Pustite pre pripnutie</string>
+    <string name="freeform_slide_to_small_freeform">Potiahnite pre zmenšenie</string>
+    <string name="freeform_slide_to_small_freeform_summary">Stlačte a potiahnite do lišty plávajúceho okna v pravom hornom rohu</string>
+    <string name="fullscreen_slide_to_small_freeform">Fullscreen slide to freeform</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Swipe from the bottom of the screen to the upper right corner of the screen</string>
+          
 </resources>

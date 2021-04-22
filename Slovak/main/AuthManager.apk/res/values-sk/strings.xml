@@ -436,9 +436,6 @@
     <string name="gold_master_dialog_reject">Odmietnuť (%d)</string>
     <string name="gold_master_dialog_title">%1$s chce načítať schránku</string>
     <string name="keep_blur_location">Ponechať</string>
-    <string name="miuix_appcompat_deselect_all">Odznačiť</string>
-    <string name="miuix_appcompat_select_all">Všetko</string>
-    <string name="miuix_appcompat_select_item">Vyberte položky</string>
     <string name="stop_blur_location">Vypnúť</string>
     <string name="date_time_picker_dialog_title">Nastaviť dátum a čas</string>
     

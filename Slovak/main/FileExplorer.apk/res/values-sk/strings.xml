@@ -861,7 +861,6 @@ Získali ste ďalších %1$s"</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
   <string name="search_events">Vyhľadať udalosť</string>
-  <string name="search_history">História</string>
   <string name="sunday">Nedeľa</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
@@ -878,7 +877,6 @@ Získali ste ďalších %1$s"</string>
   <string name="wednesday">Streda</string>
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
-  <string name="yesterday">Včera</string>
   <string name="friday">Piatok</string>
   <string name="friday_short">Pia</string>
   <string name="friday_shortest">Pia</string>  

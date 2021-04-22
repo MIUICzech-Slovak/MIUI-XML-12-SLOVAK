@@ -970,5 +970,19 @@ Poloha nebude odoslaná ak je slabý signál siete."</string>
     <string name="sync_off_confirm_content">Po vypnutí správcu hesiel nebudete môcť synchronizovať nové hesla.</string>
     <string name="sync_off_confirm_title">Upozornenie</string>
     <string name="sync_page_autofill_title">Správca hesiel</string>
+    
+	<string name="error_canceled">Zrušené</string>
+     <string name="error_credential_fail">Chyba hesla</string>
+     <string name="error_keybag_unknown">Nastala neznáma chyba. Skúste to znova.</string>
+     <string name="error_masterkey_changed">Heslo bolo zmenené</string>
+     <string name="error_masterkey_exists">Heslo už existuje</string>
+     <string name="error_request_error">Chyba požiadavky</string>
+     <string name="error_reset_retry_exceed_limit">Príliš mnoho pokusov o obnovenie hesla</string>
+     <string name="error_retry_exceed_limit">Príliš mnoho neúspešných pokusov</string>
+     <string name="error_screen_pwd_retry_exceed_limit">Príliš mnoho neúspešných pokusov</string>
+     <string name="error_server_busy">Servery sú zaneprázdnené. Skúste to znova.</string>
+     <string name="error_server_error">Chyba servera</string>
+     <string name="error_timeout">Vypršal časový limit požiadavky</string>
+     <string name="error_token_expired">Prihláste sa znova k svojmu Xiaomi účtu</string>    
     	                   
 </resources>

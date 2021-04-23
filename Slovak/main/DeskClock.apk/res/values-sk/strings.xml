@@ -282,7 +282,7 @@
   <string name="timer_pause_timer">Zastaviť</string>
   <string name="timer_running">Časovať je spustený</string>
   <string name="timer_running_hint">Pokračovať</string>
-  <string name="timer_start_alarm">Časovač vypršal</string>
+  <string name="timer_start_alarm">Čas vypršal</string>
   <string name="timer_start_timer">Štart</string>
   <string name="timer_title">Časovač</string>
   <string name="timezone_exist_error_message">Časovú zónu nie je možné pridať, lebo už existuje.</string>

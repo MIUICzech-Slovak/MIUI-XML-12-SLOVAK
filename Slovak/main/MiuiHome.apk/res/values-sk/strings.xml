@@ -340,7 +340,7 @@
   <string name="status_installing">Inštaluje sa</string>
   <string name="status_paused">Pozastavené</string>
   <string name="status_pending">Čaká</string>
-  <string name="system_shortcuts_more_operation">Info o aplikácií</string>
+  <string name="system_shortcuts_more_operation">Info</string>
   <string name="title_select_live_folder">Vybrať zložku</string>
   <string name="title_select_shortcut">Vybrať zástupcu</string>
   <string name="toast_screen_icons_misplaced">Obnoviť zo starej databázy. Niektoré ikony môžu zmeniť svoje miesto.</string>
@@ -354,7 +354,7 @@
   <string name="transformation_type_leftpage">Stránka</string>
   <string name="transformation_type_rotate">3D rotácia</string>
   <string name="transformation_type_stack">Stoh</string>
-  <string name="uninstall">Odinštalovať</string>
+  <string name="uninstall">Odinšt.</string>
   <string name="uninstall_dialog_message">Odobrať aplikáciu</string>
   <string name="uninstall_dialog_title_format">Odobrať \"%s\"</string>
   <string name="uninstall_dialog_title_multi_format" formatted="false">Odinštalovať %s a %d ďalších apl.?</string>

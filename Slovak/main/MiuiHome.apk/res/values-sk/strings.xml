@@ -586,4 +586,7 @@
     <string name="remove_sys_app_title">Odstrániť ikonu z plochy?</string>
     <string name="server_error">Nastala chyba servera.</string>            
     
+    <string name="default_folder_title_hot">Populárne aplikácie</string>
+    <string name="deleted_system_applications">Odinštalované systémové aplikácie</string>        
+    
 </resources>

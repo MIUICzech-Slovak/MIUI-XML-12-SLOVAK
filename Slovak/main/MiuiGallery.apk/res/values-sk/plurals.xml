@@ -597,4 +597,21 @@
         <item quantity="other">Vybraných: %d</item>
         <item quantity="one">Vybraných: %d</item>
     </plurals>	    
+    
+    <plurals name="photo_count">
+        <item quantity="other">Fotografie: %d</item>
+        <item quantity="one">Fotografie: %d</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">Synchr. fotografie: %d</item>
+        <item quantity="one">Synchr. fotografie: %d</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">Synchr. videá: %d</item>
+        <item quantity="one">Synchr. videá: %d</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">Videá: %d</item>
+        <item quantity="one">Videá: %d</item>
+    </plurals>            
 </resources>

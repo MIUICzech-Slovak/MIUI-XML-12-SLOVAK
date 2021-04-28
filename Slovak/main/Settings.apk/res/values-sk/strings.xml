@@ -6985,6 +6985,17 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="fingerprint_gxzw_add_fingerprint_finish">Uložené ako \"%s\"</string>
     <string name="miheadset_fitness_check_result_l_not_ok">Nastavte slúchadlo</string>
     <string name="miheadset_fitness_check_result_r_not_ok">Nastavte slúchadlo</string>
-    <string name="voip_assistant_settings">VoIP asistent</string>                    
+    <string name="voip_assistant_settings">VoIP asistent</string>                  
+    
+    <string name="external_ram_dialog_btn_cancel">Neskôr</string>
+    <string name="external_ram_dialog_btn_ok">Reštart</string>
+    <string name="external_ram_dialog_message">Reštartuje vaše zariadenie pre aplikovanie zmien.</string>
+    <string name="external_ram_dialog_title">Reštartujte zariadenie</string>
+    <string name="external_ram_summary">Pridať %1$s %2$s RAM na internom úložisku. Použite túto funkciu len ak máte dostatok voľného miesta na internom úložisku.</string>
+    <string name="external_ram_title">Rozšírenie RAM</string>
+    <string name="external_ram_toast">Nie je možné zväčšiť RAM kvôli nedostatku voľného miesta na úložisku</string>
+    <string name="miheadset_network_not_available">Skontrolujte nastavenie siete a skúste to znova</string>
+    <string name="permission_records">Používanie povolení</string>
+    <string name="permission_records_summary">Zobrazenie ako aplikácie využívajú povolenia</string>              
           	
 </resources>

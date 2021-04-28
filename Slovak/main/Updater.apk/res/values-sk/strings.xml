@@ -70,4 +70,6 @@ Vaše dáta nebudú vymazané."</string>
     <string name="channel_service">Služby Aktualizácie</string>
     <string name="notif_service_summary">Podržte pre deaktivovanie upozornenia</string>
     <string name="notif_service_title">Aplikácia Aktualizácia beží na pozadí</string>      
+    
+    <string name="downgrade_warning">Pokúšate sa nainštalovať staršiu verziu MIUI! Inštalácia je zablokovaná aby nedošlo k poškodeniu systému!</string>    
 </resources>

@@ -1361,4 +1361,10 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  
+    <string name="pref_camera_track_focus_preferred_description">Povoľte pre automatické nastavenie zaostrenia na ľudí alebo zvieratá.</string>
+    <string name="pref_camera_track_focus_preferred_title">Sledovanie zaostrenia</string>  
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Zvuky zo zaostreného objektu sú zosilnené v režime na šírku</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Zvuky spoza displeja sú odfiltrované v režime na šírku</string>
+            
 </resources>  

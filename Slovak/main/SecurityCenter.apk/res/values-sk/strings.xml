@@ -4739,4 +4739,27 @@ Skúste zväčšiť rozlíšenie!"</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  
+    <string name="app_behavior_about_setting">Nastavenia</string>
+    <string name="app_behavior_dashboard_desc">Aktivita počas posledných %dh</string>
+    <string name="app_behavior_dashboard_total_usage_title">Zobraziť všetky záznamy</string>
+    <string name="app_behavior_dashboard_usage">Správanie aplikácií</string>
+    <string name="app_behavior_dashboard_usage_list_title">Podľa povolenia</string>
+    <string name="app_behavior_desc_allowed">Povolené</string>
+    <string name="app_behavior_desc_allowed_on_background">Povolené na pozadí</string>
+    <string name="app_behavior_desc_denied">Zakázané</string>
+    <string name="app_behavior_desc_denied_on_background">Zakázané na pozadí</string>
+    <string name="app_behavior_desc_other_perm_allowed">Posledná aktivita: %s</string>
+    <string name="app_behavior_desc_other_perm_denied">Aktivita počas posledných %dh</string>
+    <string name="app_behavior_global_settings_perm_tips">Zobraziť upozornenie ak aplikácie nahrajú zvuk alebo použijú fotoaparát</string>
+    <string name="app_behavior_record_setting_button_title">Zobraziť správanie systémových služieb</string>
+    <string name="app_behavior_record_setting_show_system">Zobraziť správanie systémových služieb</string>
+    <string name="app_behavior_record_setting_show_system_desc">Povoľte pre zobrazenie správania systémových služieb.</string>
+    <string name="app_behavior_record_setting_show_system_title">Zobraziť správanie systémových služieb</string>
+    <string name="app_behavior_record_setting_title">Záznamy o správaní</string>
+   <string name="network_assistant_privacy">Aby sme mohli sledovať využitie dát pomocou aplikácie, zhromažďujeme informácie, ako sú názvy balíkov, využitie Wi-Fi a mobilných dát. Tieto informácie sú uložené lokálne vo vašom zariadení.</string>
+    <string name="privacy_global_guide_permission_guide_text">Zobraziť upozornenie ak aplikácie nahrajú zvuk alebo použijú fotoaparát</string>
+    <string name="privacy_hide_other_permissions">Skryť ostatné povolenia</string>
+    <string name="privacy_show_other_permissions">Zobraziť ostatné povolenia</string>
+                                      
 </resources>  

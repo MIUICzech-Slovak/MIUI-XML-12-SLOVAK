@@ -930,4 +930,13 @@ Dajte si pauzu!"</item>
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>                   
+    
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">Aplikácie: %d</item>
+        <item quantity="one">Aplikácie: %d</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">Aplikácie: %d</item>
+        <item quantity="one">Aplikácie: %d</item>
+    </plurals>    
 </resources>

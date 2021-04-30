@@ -112,7 +112,7 @@
   <string name="edit_mode_group_error_nothing_be_selected">Najskôr vyberte aplikáciu</string>
   <string name="edit_mode_group_error_one_folder">Nie je možné zduplikovať zložku s vybranými ikonami</string>
   <string name="edit_mode_top_menu_finish">Hotovo</string>
-  <string name="edit_mode_uninstall">Odinštalovať</string>
+  <string name="edit_mode_uninstall">Odinšt.</string>
   <string name="editing_add_widget_tips">Widgety</string>
   <string name="editing_mode_enter_tip_text">Posuňte dva prsty k sebe pre úpravu plochy</string>
   <string name="editing_mode_title">Vybraných: %1$d</string>

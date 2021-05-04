@@ -1367,4 +1367,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="prep_video_ai_audio_new_desc_tip_alone">Zvuky zo zaostreného objektu sú zosilnené v režime na šírku</string>
     <string name="prep_video_ai_audio_single_desc_tip_alone">Zvuky spoza displeja sú odfiltrované v režime na šírku</string>
             
+  
+
+    <string name="today">Dnes</string>
+    <string name="tomorrow">Zajtra</string>   
 </resources>  

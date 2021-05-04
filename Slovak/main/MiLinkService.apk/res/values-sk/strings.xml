@@ -329,4 +329,8 @@ Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našimi zmlu
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  
+
+    <string name="today">Dnes</string>
+    <string name="tomorrow">Zajtra</string>   
 </resources>  

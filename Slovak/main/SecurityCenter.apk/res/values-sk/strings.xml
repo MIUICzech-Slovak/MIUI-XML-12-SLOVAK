@@ -4762,4 +4762,8 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="privacy_hide_other_permissions">Skryť ostatné povolenia</string>
     <string name="privacy_show_other_permissions">Zobraziť ostatné povolenia</string>
                                       
+  
+
+    <string name="today">Dnes</string>
+    <string name="tomorrow">Zajtra</string>   
 </resources>  

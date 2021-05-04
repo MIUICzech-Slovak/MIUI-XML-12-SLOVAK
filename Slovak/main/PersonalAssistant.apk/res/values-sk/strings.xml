@@ -727,4 +727,10 @@
      
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+    
+  <string name="cta_dialog_all_purpose">Vitajte v Asistentovi! Táto aplikácia je jediným miestom pre prácu, životný štýl a služby spojené s cestovaním.</string>
+     <string name="cta_dialog_desc_calendar">Pre zobrazenie udalostí kalendára a plánovaných ciest</string>
+     <string name="cta_dialog_desc_location">Na výpočet doby vášho denného dochádzania</string>
+     <string name="cta_dialog_desc_phone_state">Pre identifikáciu vášho zariadenia pomocou IMEI</string>
+     <string name="cta_dialog_desc_storage">Pre ukladanie položiek do zariadenia</string>    
 </resources>  

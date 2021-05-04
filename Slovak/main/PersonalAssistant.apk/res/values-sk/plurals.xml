@@ -100,5 +100,22 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
-    </plurals>                   
+    </plurals>            
+    
+     <plurals name="agenda_anniversary_day">
+        <item quantity="other">·%1$d dní</item>
+        <item quantity="one">·%1$d deň</item>
+     </plurals>
+     <plurals name="agenda_anniversary_year">
+        <item quantity="other">·%1$d rokov</item>
+        <item quantity="one">·%1$d rok</item>
+     </plurals>
+     <plurals name="agenda_countdown_day">
+        <item quantity="other">·o %1$d dní</item>
+        <item quantity="one">·o %1$d deň</item>
+     </plurals>
+     <plurals name="agenda_tip_count_down">
+        <item quantity="other">Začína o %1$d min.</item>
+        <item quantity="one">Začína o %1$d min.</item>
+     </plurals>           
 </resources>

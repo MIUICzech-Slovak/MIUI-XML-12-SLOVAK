@@ -711,7 +711,20 @@
     <string name="app_pa_setting_global_display_backdrop_blur_option">Rozmazať pozadie kariet</string>
     <string name="app_pa_setting_global_display_backdrop_blur_summary">Táto funkcia môže spomaliť animácie.</string>
       
-
+     <string name="agenda_anniversary_subtitle">Výročie | %1$s</string>
+     <string name="agenda_assistant_account_num">Účet</string>
+     <string name="agenda_assistant_tail_num">Číslo</string>
+     <string name="agenda_bill_account">Účet: %1$s</string>
+     <string name="agenda_birthday_title">"%1$s narodeniny"</string>
+     <string name="agenda_countdown_subtitle">Odpočítavanie | %1$s</string>
+     <string name="agenda_empty_content">Žiadne udalosti.</string>
+     <string name="agenda_empty_title">Bez názvu</string>
+     <string name="agenda_i_known">Rozumiem</string>
+     <string name="agenda_settings_ainnersary">Zobraziť výročia</string>
+     <string name="agenda_settings_countdown">Zobraziť odpočítavanie</string>
+     <string name="agenda_today">·Dnes</string>
+     <string name="agenda_view_event">Všetky udalosti</string>
+     
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
 </resources>  

@@ -708,7 +708,9 @@
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
   
 <string name="app_first_loading_txt">Načítavanie...</string>  
-  
+    <string name="app_pa_setting_global_display_backdrop_blur_option">Rozmazať pozadie kariet</string>
+    <string name="app_pa_setting_global_display_backdrop_blur_summary">Táto funkcia môže spomaliť animácie.</string>
+      
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   

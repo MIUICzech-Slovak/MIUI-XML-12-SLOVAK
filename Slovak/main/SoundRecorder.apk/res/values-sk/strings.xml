@@ -300,7 +300,10 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
   
-
+     <string name="clear_data_dialog_content">Načítané položky, dáta aplikácie a nastavenia budú vymazané ale vaše nahrávky vám ostanú.</string>
+     <string name="clear_data_dialog_title">Vymazať dáta?</string>
+     <string name="clearable_edittext_clear_description">Vymazať</string>
+     
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
 </resources>  

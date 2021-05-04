@@ -193,7 +193,8 @@
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
-  
+     <string name="miui_feedback_main_submit_dialog_title">Odoslať</string>
+     <string name="miui_feedback_main_title">Spätná väzba</string>  
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   

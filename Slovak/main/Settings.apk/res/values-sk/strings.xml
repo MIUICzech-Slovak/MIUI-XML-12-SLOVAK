@@ -6996,6 +6996,6 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="external_ram_toast">Nie je možné zväčšiť RAM kvôli nedostatku voľného miesta na úložisku</string>
     <string name="miheadset_network_not_available">Skontrolujte nastavenie siete a skúste to znova</string>
     <string name="permission_records">Používanie povolení</string>
-    <string name="permission_records_summary">Zobrazenie ako aplikácie využívajú povolenia</string>              
-          	
+    <string name="permission_records_summary">Zobrazenie ako aplikácie využívajú povolenia</string>         
+    <string name="mute_media_sound_summary">Hry, hudba, videá a iné aplikácie</string>
 </resources>

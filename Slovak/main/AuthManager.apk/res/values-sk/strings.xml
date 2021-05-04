@@ -533,8 +533,10 @@
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
-  
-
+     <string name="HIPS_Perm_Access_Gallery">Prístup ku Galérií</string>
+     <string name="HIPS_Perm_Access_Gallery_Desc">Povoliť tejto aplikácií prístup k vašej Galérií</string>
+     <string name="HIPS_Perm_tencentControl">Prístup k správam v sociálnych apl.</string>
+     <string name="HIPS_Perm_tencentControl_Desc">Povoliť tejto aplikácií prístup k správam v sociálnych sieťach</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
 </resources>  

@@ -593,4 +593,24 @@ http://www.miuios.cz/rom
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+    
+     <string name="image_action_annotate">Pridať popis obrázku</string>
+     <string name="image_action_browse">Zobraziť obrázok</string>
+     <string name="image_action_delete">Vymazať obrázok</string>
+     <string name="image_action_save_to_gallery">Uložiť do Galérie</string>
+     <string name="image_action_zoom_in">Priblížiť</string>
+     <string name="image_action_zoom_out">Oddialiť</string>
+     <string name="image_annotation_edit_hint">Popis obrázku</string>
+     <string name="image_annotation_edit_length_warning">Popis obrázku môže obsahovať max %d znakov</string>
+     <string name="option_menu_delete">Vymazať</string>
+     <string name="option_menu_multi_choice">Vybrať</string>
+     <string name="option_menu_new">Vytvoriť</string>
+     <string name="option_menu_rename">Premenovať</string>
+     <string name="option_menu_restore_note">Obnoviť</string>
+     <string name="option_menu_save_as">Uložiť ako</string>
+     <string name="snippet_image_stub">Obrazová poznámka</string>
+     <string name="sync_desc_state_complete">Synchr. s MiCloud</string>
+     <string name="sync_desc_state_complete_china">Všetky %1$s boli synchr.</string>
+     <string name="sync_desc_state_disable">Povoľte synchr. s MiCloud</string>
+     <string name="sync_desc_state_running">Synchr. s MiCloud</string>                   
 </resources>  

@@ -2260,4 +2260,29 @@
     <string name="cloud_full_space_tip_title">Nedostatočné MiCloud úložisko</string>
     <string name="mishare_all_devices">Všetky zariadenia</string>
     <string name="synced_photo_video_count">Synchr. %1$s a %2$s</string>          
+    
+     <string name="backup_pause_dialog_title">Zastaviť synchr.</string>
+     <string name="btn_cancel_send">Zrušiť prenos</string>
+     <string name="btn_exit_send">Ukončiť</string>         
+     <string name="card_description_annual_babys">Rok rastu</string>
+     <string name="card_description_annual_peoples">Tváre, príbehy, miesta</string>
+     <string name="card_title_annual_babys">Roztomilosť %1$s</string>
+     <string name="card_title_annual_peoples">Tváre %1$s</string>
+     <string name="card_title_three_month_baby">Ten čas letí</string>
+     <string name="empty_description_conditions_new">Pripojte nabíjačku a vypnite obrazovku pre rýchlejšiu synchronizáciu</string>
+     <string name="internal_storage_device">Interné úložisko</string>
+     <string name="main_save_cancel">Zrušiť</string>
+     <string name="main_save_compress">Komprimovať a uložiť</string>
+     <string name="main_save_origin">Uložiť originálny súbor</string>
+     <string name="network_message">Táto funkcia vyžaduje pripojenie na internet. Pripojte sa k Wi-Fi alebo chcete použiť mobilné dáta?</string>
+     <string name="network_title">Pripojenie na internet</string>
+     <string name="operation_replace_album_cover_status_default_mode_success">Predvolený obal albumu obnovený</string>
+     <string name="operation_replace_album_cover_status_success">Obal albumu je zmenený</string>
+     <string name="toast_invalid_char">Názov nesmie obsahovať \"%s\"</string>
+     <string name="toast_invalid_prefix">Názov nesmie začínať \".\" or \"_\"</string>
+     <string name="toast_rename_exit">Tento súbor už existuje</string>
+     <string name="trash_size">Vymazané položky (%s)</string>
+     <string name="unsupport_raw">%s nefunguje s RAW</string>
+     <string name="unsupport_raw_and_video">%s nefunguje s videom v RAW</string>
+     <string name="problem_feedback">Spätná väzba</string>                                       
 </resources>

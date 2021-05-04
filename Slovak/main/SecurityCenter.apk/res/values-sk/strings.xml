@@ -4761,8 +4761,17 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="privacy_global_guide_permission_guide_text">Zobraziť upozornenie ak aplikácie nahrajú zvuk alebo použijú fotoaparát</string>
     <string name="privacy_hide_other_permissions">Skryť ostatné povolenia</string>
     <string name="privacy_show_other_permissions">Zobraziť ostatné povolenia</string>
-                                      
+<string name="ai_allow_all">Rozhodnúť za mna</string>                                      
   
+     <string name="daily_card_setting_fragment_daily_card_brand">Operátor</string>
+     <string name="daily_card_setting_fragment_daily_card_brand_value">Vyberte operátora</string>
+     <string name="daily_card_setting_fragment_daily_card_setting">Nastavenie denného balíčku</string>
+     <string name="daily_card_setting_fragment_daily_card_summary">MIUI nastaví limit dát a aplikácie s neobmedzenými dátami podľa vybraného operátora. Ak váš operátor nie je v zozname, vyberte možnosť \"Ostatní\" a nastavte váš limit manuálne.</string>
+     <string name="daily_card_setting_fragment_daily_package">Denný limit dát</string>
+     <string name="daily_card_setting_fragment_package_summary">Ak váš program obsahuje mesačný dátový balíček, bude použitý ešte pred denným balíčkom dát.</string>
+     <string name="databooster_tips_message">Povoľte pre obmedzenie všetkých SIM kariet okrem dátovej karty.</string>
+     <string name="databooster_tips_title">Upozornenie</string>
+       
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   

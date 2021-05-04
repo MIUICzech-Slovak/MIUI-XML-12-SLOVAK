@@ -170,4 +170,8 @@
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Výsledky</string>
   <string name="xiaomi_suggest_base"/>
+  
+     <string name="setting_other">Ostatné</string>
+     <string name="setting_version">Verzia</string>
+     <string name="setting_version_title">Verzia</string>  
 </resources>

@@ -719,7 +719,11 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>       
 
-
+     <string name="passport_google_login">Prihlásiť sa s predchádzajúcim Google účtom?</string>
+     <string name="passport_google_login_agree">Google účet</string>
+     <string name="passport_google_login_disagree">Mi účet</string>
+     <string name="passport_google_login_failed">Nebolo možné prihlásiť sa s Google. Prihláste sa s Mi účtom.</string>
+     
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
 </resources>  

@@ -1414,7 +1414,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="device_miui_more">View more</string>
   <string name="device_miui_version">MIUI</string>
   <string name="device_miui_version_parameters">MIUI verzia</string>
-  <string name="device_miui_version_update">MIUI update is available</string>
+  <string name="device_miui_version_update">Aktualizácia</string>
   <string name="device_name">Názov zariadenia</string>
   <string name="device_name_input_error">Ukladanie názvu zariadenia zlyhalo, zadajte ho znova</string>
   <string name="device_name_input_hint">Zadajte názov vášho zariadenia</string>

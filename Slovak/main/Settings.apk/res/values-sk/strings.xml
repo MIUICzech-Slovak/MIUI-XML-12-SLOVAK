@@ -7004,7 +7004,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="knock_guide_drive_desc">Zhotoviť screenshot počas šoférovania</string>
     <string name="knock_guide_set_screenshot">Screenshot</string>
     <string name="knock_guide_title">Dvojité poklepanie kĺbom prsta</string>
-    <string name="knock_long_press_horizontal_slid">Stlačte a potiahnite horizontálne s kĺbom prsta</string>
-    <string name="knock_slide_shape">Nakreslite kruh s kĺbom prsta</string>
-    <string name="knock_slide_v">Nakreslite V s kĺbom prsta</string>    
+    <string name="knock_long_press_horizontal_slid">Stlačte a potiahnite horizontálne kĺbom prsta</string>
+    <string name="knock_slide_shape">Nakreslite kruh kĺbom prsta</string>
+    <string name="knock_slide_v">Nakreslite V kĺbom prsta</string>    
 </resources>

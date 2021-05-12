@@ -604,7 +604,7 @@
     <string name="app_pa_setting_head_info_default">Prázdne</string>
     <string name="app_pa_setting_head_info_set">Pridané</string>
     <string name="app_pa_setting_head_setting">Hlavička</string>    
-    <string name="app_display_linkage_default">Inovácie pre každého</string>
+    <string name="app_display_linkage_default">Váš asistent</string>
     <string name="app_display_setting_edit_hint">Zadajte text</string>
     <string name="app_display_setting_edit_instruction">Hlavička je zobrazená na vrchu asistenta. Môže obsahovať maximálne 28 znakov.</string>
     <string name="app_display_setting_edit_toast">Táto hlavička je príliš dlhá</string>

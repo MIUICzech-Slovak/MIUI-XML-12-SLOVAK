@@ -830,6 +830,7 @@ Veľkosť Delta aktualizácie: %2$s"</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>      
 
+    <string name="not_enough_storage_tips">Nie je dostatok voľného miesta na úložisku.</string>                    
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   

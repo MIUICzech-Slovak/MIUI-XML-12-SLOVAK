@@ -977,7 +977,7 @@ Ak chcete získať inú SIM kartu, kontaktujte svojho poskytovateľa bezdrôtov�
   <string name="kg_invalid_confirm_pin_hint">Kódy PIN sa nezhodujú</string>
   <string name="kg_invalid_puk">Znova zadajte správny kód PUK. Opakované pokusy zakážu SIM kartu natrvalo.</string>
   <string name="kg_invalid_sim_pin_hint">Zadajte kód PIN s dĺžkou 4 až 8 číslic.</string>
-  <string name="kg_invalid_sim_puk_hint">Kód PUK musí obsahovať 8 alebo viac číslic.</string>
+  <string name="kg_invalid_sim_puk_hint">Kód PUK musí obsahovať %1$d alebo viac číslic.</string>
   <string name="kg_login_too_many_attempts">Príliš veľa pokusov o nakreslenie vzoru</string>
   <string name="kg_password_instructions">Zadajte heslo</string>
   <string name="kg_password_pin_failed">SIM PIN zlyhal!</string>

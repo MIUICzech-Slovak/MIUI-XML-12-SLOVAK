@@ -306,4 +306,13 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
      
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+    
+    <string name="all_record">Všetky nahrávky</string>
+    <string name="no_content">Prázdne</string>
+    <string name="no_playback_file">Vyberte nahrávku pre zobrazenie podrobností</string>
+    <string name="normal_settings_pref_title">Všeobecné nastavenia</string>
+    <string name="other_settings_pref_title">Ďalšie nastavenia</string>
+    <string name="recorder_record">Zvuk</string>
+    <string name="remind_settings_pref_title">Upozornenia</string>
+    <string name="tap_to_record">Dotknite sa tlačidla pre spustenie nahrávania</string>                                
 </resources>  

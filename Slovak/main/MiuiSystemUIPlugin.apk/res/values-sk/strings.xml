@@ -265,7 +265,10 @@
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
   
-
+    <string name="wireless_charging_fg_control_cancel">Zrušiť</string>
+    <string name="wireless_charging_fg_control_messgae">Reverzné nabíjanie bolo deaktivované lebo ostáva menej ako %d%% batérie. Môžete nastaviť dlhšie využívanie reverzného nabíjania.</string>
+    <string name="wireless_charging_fg_control_ok">Nastaviť</string>
+    
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
 </resources>  

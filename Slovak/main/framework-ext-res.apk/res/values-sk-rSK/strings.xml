@@ -294,7 +294,13 @@
   <string name="enable_nfc_reverse">Neprebieha nabíjanie.  NFC je opäť zapnuté.</string>    
 <string name="help">Nenašli ste zariadenia?</string>  
 <string name="send_files_by">Zdieľať cez</string>  
-    <string name="nearby_share">Nearby Share</string>
+    <string name="nearby_share">Zdieľanie nablízku</string>
     <string name="turn_on_work_profile">Povoliť</string>
+    
+    <string name="dock_tip_floatwindow">Podržte lištu a potiahnite na kraj displeja pre zobrazenie rozdelenia obrazovky.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">Potiahnite lištu horizontálne pre prehodenie pozície okien.</string>
+    <string name="dock_tip_splitscreen_landscape_float">Podržte a potiahnite nadol pre prepnutie na plávajúce okno.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">Potiahnite lištu vertikálne pre prehodenie okien.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Podržte a potiahnite do%lava alebo doprava pre prepnutie plávajúcich okien.</string>    
 
 </resources>

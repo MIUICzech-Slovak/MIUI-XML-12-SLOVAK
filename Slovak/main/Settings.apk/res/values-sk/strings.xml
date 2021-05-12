@@ -6516,7 +6516,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
   <string name="passpoint_r1_privacy_dialog_yes">Súhlasím</string>  
   <string name="app_enable_bluetooth_record">Aplikácie ktoré zapínajú Bluetooth</string>
   <string name="back_double_tap">Dvojité poklepanie</string>
-  <string name="back_tap">Poklepanie</string>
+  <string name="back_tap">Poklepanie na zadnú stranu</string>
   <string name="back_triple_tap">Trojité poklepanie</string>
   <string name="bluetooth_unlock_settings_devices_prompt">Sú podporované iba vybrané Bluetooth zariadenia (napr. MiBand a MiWatch)</string>
   <string name="bt_absVolume_open_dialog_summary">Kvôli problémom s kompatibilitou, niektoré Bluetooth zariadenia môžu mať nesprávnu úroveň hlasitosti, čo môže byť vyriešené deaktivovaním tejto funkcie.</string>
@@ -6998,4 +6998,13 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="permission_records">Používanie povolení</string>
     <string name="permission_records_summary">Zobrazenie ako aplikácie využívajú povolenia</string>         
     <string name="mute_media_sound_summary">Hry, hudba, videá a iné aplikácie</string>
+    
+    <string name="knock_edge_area_invalid">Toto gesto nefunguje v blízkosti kraja displeja</string>
+    <string name="knock_guide_dialog_title">Vyberte akciu pre toto gesto. Môžete to neskôr zmeniť v Nastaveniach.</string>
+    <string name="knock_guide_drive_desc">Zhotoviť screenshot počas šoférovania</string>
+    <string name="knock_guide_set_screenshot">Screenshot</string>
+    <string name="knock_guide_title">Dvojité poklepanie kĺbom prsta</string>
+    <string name="knock_long_press_horizontal_slid">Stlačte a potiahnite horizontálne s kĺbom prsta</string>
+    <string name="knock_slide_shape">Nakreslite kruh s kĺbom prsta</string>
+    <string name="knock_slide_v">Nakreslite V s kĺbom prsta</string>    
 </resources>

@@ -63,7 +63,9 @@
   <string name="cta_agree_desc">Povoľte tejto aplikácií prístup na internet a požadované povolenia pre jej správne fungovanie.</string>  
  
 
-
+    <string name="first_using_dialog_message_no_camera">Kompas potrebuje pripojenie na internet a prístup k vašej polohe pre jeho správne fungovanie. Povoliť?</string>
+    <string name="open_perm_msg_no_camera">Kompas potrebuje prístup k vašej polohe pre jeho správne fungovanie. Povoliť?</string>
+        
   <string name="monday">Pondelok</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>

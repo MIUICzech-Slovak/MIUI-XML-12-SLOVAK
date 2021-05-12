@@ -1018,4 +1018,18 @@ Pokus: %s."</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
   <string name="tomorrow">Zajtra</string>   
+  
+    <string name="date_time_picker_dialog_title">Nastaviť dátum a čas</string>
+        <string name="message_unread">Neprečítané</string>
+    <string name="miuix_appcompat_deselect_all">Odznačiť</string>
+    <string name="miuix_appcompat_select_all">Všetko</string>
+    <string name="miuix_appcompat_select_item">Vybrať</string>
+    <string name="privacy_revoke_nonetwork_msg">Vaše zariadenie potrebuje pripojenie na internet pre sťahovanie obsahu. Skontrolujte nastavenia a skúste to znovu.</string>
+    <string name="privacy_revoke_nonetwork_ok">Rozumiem</string>
+    <string name="privacy_revoke_nonetwork_title">Nebolo možné pripojiť sa k sieti</string>
+    <string name="small_window_log_text">Fotoaparát nie je možné používať v režime rozdelenia obrazovky</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Synchr. s MiCloud je vyp.</string>
+    <string name="miuix_appcompat_cloud_state_finished">Synchr. s MiCloud je dokončená</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Synchr. s MiCloud…</string>    
+                              
 </resources>  

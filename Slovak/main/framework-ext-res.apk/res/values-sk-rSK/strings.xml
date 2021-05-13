@@ -301,6 +301,6 @@
     <string name="dock_tip_splitscreen_landscape_drag">Potiahnite lištu horizontálne pre prehodenie pozície okien.</string>
     <string name="dock_tip_splitscreen_landscape_float">Podržte a potiahnite nadol pre prepnutie na plávajúce okno.</string>
     <string name="dock_tip_splitscreen_portrait_drag">Potiahnite lištu vertikálne pre prehodenie okien.</string>
-    <string name="dock_tip_splitscreen_portrait_float">Podržte a potiahnite do%lava alebo doprava pre prepnutie plávajúcich okien.</string>    
+    <string name="dock_tip_splitscreen_portrait_float">Podržte a potiahnite dolava alebo doprava pre prepnutie plávajúcich okien.</string>    
 
 </resources>

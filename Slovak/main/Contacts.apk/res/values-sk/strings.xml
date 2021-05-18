@@ -965,7 +965,7 @@ Synchronizujte ich teraz."</string>
   <string name="preference_auto_ip_summary_disable">Nie je povolené</string>
   <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
   <string name="preference_auto_ip_title">Auto IP</string>
-  <string name="preference_contacts">Kontakt</string>
+  <string name="preference_contacts">Kontakty</string>
   <string name="preference_contacts_display">Zobrazenie kontaktov</string>
   <string name="preference_contacts_filter">Kontakty na zobrazenie</string>
   <string name="preference_contacts_more">Viac nastavení kontaktov</string>

@@ -306,7 +306,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
      
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
-    
+    <string name="preference_clear_data">Vymazať dáta</string>    
     <string name="all_record">Všetky nahrávky</string>
     <string name="no_content">Prázdne</string>
     <string name="no_playback_file">Vyberte nahrávku pre zobrazenie podrobností</string>

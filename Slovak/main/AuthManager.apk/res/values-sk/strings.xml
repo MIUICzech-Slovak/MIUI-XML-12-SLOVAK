@@ -536,7 +536,7 @@
      <string name="HIPS_Perm_Access_Gallery">Prístup ku Galérií</string>
      <string name="HIPS_Perm_Access_Gallery_Desc">Povoliť tejto aplikácií prístup k vašej Galérií</string>
      <string name="HIPS_Perm_tencentControl">Prístup k správam v sociálnych apl.</string>
-     <string name="HIPS_Perm_tencentControl_Desc">Povoliť tejto aplikácií prístup k správam v sociálnych sieťach</string>
+     <string name="HIPS_Perm_tencentControl_Desc">Povoliť tejto aplikácii prístup k správam v sociálnych sieťach</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
 </resources>  

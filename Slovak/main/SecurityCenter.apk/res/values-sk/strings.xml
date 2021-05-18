@@ -4179,14 +4179,14 @@ z vášho hrania hier"</string>
     <string name="other">Ostatné nastavenia</string>
     <string name="gb_storage_game_uninstall">Odinštalovať hry</string>
 
-    <string name="HIPS_Perm_Access_Gallery">Prístup ku Galérií</string>
-    <string name="HIPS_Perm_Access_Gallery_Desc">Povoliť tejto aplikácií prístup ku Galérií</string>
+    <string name="HIPS_Perm_Access_Gallery">Prístup ku Galérii</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Povoliť tejto aplikácii prístup ku Galérii</string>
     <string name="HIPS_Perm_External_Storage">Načítať a uložiť položky na úložisku</string>
     <string name="HIPS_Perm_External_Storage_Desc">Prístup a uložiť súbory a fotografie na interné úložisko</string>
     <string name="HIPS_Perm_External_Storage_Group">Spravovať povolenia úložiska</string>
     <string name="HIPS_Perm_External_Storage_Group_Desc">Vyberte ktoré aplikácie majú povolenie pre prístup</string>
     <string name="HIPS_Perm_tencentControl">Prístup k správam v sociálnych aplikáciach</string>
-    <string name="app_manager_permission_dcimcontrol_title">Prístup ku Galérií</string>
+    <string name="app_manager_permission_dcimcontrol_title">Prístup ku Galérii</string>
     <string name="comprehensive_protection_measures">Komplexná ochrana</string>
     <string name="fully_informed_privacy">Povedomie o ochrane súkromia</string>
     <string name="image_protect_auto_del">%s sa pokúša o vymazanie obrázkov</string>
@@ -4761,7 +4761,7 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="privacy_global_guide_permission_guide_text">Zobraziť upozornenie ak aplikácie nahrajú zvuk alebo použijú fotoaparát</string>
     <string name="privacy_hide_other_permissions">Skryť ostatné povolenia</string>
     <string name="privacy_show_other_permissions">Zobraziť ostatné povolenia</string>
-<string name="ai_allow_all">Rozhodnúť za mna</string>                                      
+<string name="ai_allow_all">Rozhodnúť za mňa</string>                                      
   
      <string name="daily_card_setting_fragment_daily_card_brand">Operátor</string>
      <string name="daily_card_setting_fragment_daily_card_brand_value">Vyberte operátora</string>

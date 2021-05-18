@@ -2284,5 +2284,7 @@
      <string name="trash_size">Vymazané položky (%s)</string>
      <string name="unsupport_raw">%s nefunguje s RAW</string>
      <string name="unsupport_raw_and_video">%s nefunguje s videom v RAW</string>
-     <string name="problem_feedback">Spätná väzba</string>                                       
+     <string name="problem_feedback">Spätná väzba</string>         
+    <string name="cleaner_empty">Vymazať všetko</string>
+                                  
 </resources>

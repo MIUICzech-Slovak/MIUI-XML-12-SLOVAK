@@ -14,7 +14,7 @@ táto funkcia bude automaticky aktívna aj v Druhom profile."</string>
   <string name="air_space_setting">Nastavenie Pracovného priestoru</string>
   <string name="airspace_users_full">Nebolo možné vytvoriť viac pracovných priestorov</string>
   <string name="appData">Nainštalované apl.</string>
-  <string name="app_name">Security Core Component</string>
+  <string name="app_name">Bezpečnostné jádro</string>
   <string name="back">Späť</string>
   <string name="button_input_password">Zadajte heslo</string>
   <string name="button_touch">Priložte prst na senzor odtlačku prsta</string>
@@ -416,7 +416,7 @@ Rozdeľte a zabezpečte svoje dáta."</string>
     <string name="xspace_guide_description">"Každý účet
 si zaslúži vlastnú aplikáciu"</string>
     <string name="xspace_start">Vytvoriť</string>
-    <string name="app_name">Bezpečnostné jádro</string>
+
   <string name="menu_item_about_privacy_title">Ochrana súkromia</string>
   <string name="xspace_install_complete">Vytvorenie klonovanej apl. dokončené. Otvoriť teraz.</string>
   <string name="xspace_setting_label">Nastavenie klonovaných aplikácií</string>    

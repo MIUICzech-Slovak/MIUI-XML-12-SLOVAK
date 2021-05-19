@@ -416,5 +416,9 @@ Rozdeľte a zabezpečte svoje dáta."</string>
     <string name="xspace_guide_description">"Každý účet
 si zaslúži vlastnú aplikáciu"</string>
     <string name="xspace_start">Vytvoriť</string>
+    <string name="app_name">Bezpečnostné jádro</string>
+  <string name="menu_item_about_privacy_title">Ochrana súkromia</string>
+  <string name="xspace_install_complete">Vytvorenie klonovanej apl. dokončené. Otvoriť teraz.</string>
+  <string name="xspace_setting_label">Nastavenie klonovaných aplikácií</string>    
 
 </resources>

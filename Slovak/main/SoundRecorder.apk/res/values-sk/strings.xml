@@ -303,7 +303,8 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
      <string name="clear_data_dialog_content">Načítané položky, dáta aplikácie a nastavenia budú vymazané ale vaše nahrávky vám ostanú.</string>
      <string name="clear_data_dialog_title">Vymazať dáta?</string>
      <string name="clearable_edittext_clear_description">Vymazať</string>
-     
+       <string name="download">Stiahnuť</string>
+  <string name="send">Odoslať</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
     <string name="preference_clear_data">Vymazať dáta</string>    

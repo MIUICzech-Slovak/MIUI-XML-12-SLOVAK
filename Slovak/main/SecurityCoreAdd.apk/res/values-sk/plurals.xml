@@ -16,4 +16,8 @@
         <item quantity="other">Vyhľadať %d apl.</item>
         <item quantity="one">Vyhľadať %d apl.</item>
     </plurals>
+	 <plurals name="xspace_guide_content">
+        <item quantity="other">Môžete vytvoriť %d klonovaných apl.</item>
+        <item quantity="one">Môžete vytvoriť %d klonovanú apl.</item>
+     </plurals>    
 </resources>

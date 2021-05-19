@@ -525,5 +525,9 @@
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>    
+
+    <string name="select_operation">Vybrať</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Vypnutie budíkov ak je vaše zariadenie vypnuté. Iba budíky ktoré sú nastavené aspoň %d minút po vypnutí zariadenia budú vypnuté.</string>
+	
 </resources>  

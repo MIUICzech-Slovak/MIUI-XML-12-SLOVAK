@@ -238,7 +238,7 @@
   <string name="wifi_assistant_wifi_no_internet">Táto Wi-Fi sieť nemá prístup na internet</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Zobraziť podrobnosti</string>
   <string name="wireless_charging_notification_message1">Nenašlo sa žiadne zariadenie pre nabíjanie. Reverzné bezdrôtové nabíjanie je deaktivované.</string>
-  <string name="wireless_charging_notification_message2">Batéria má menej ako 30% kapacity. Reverzné bezdrôtové nabíjanie je deaktivované.</string>
+  <string name="wireless_charging_notification_message2">Batéria má menej ako %s kapacity. Reverzné bezdrôtové nabíjanie je deaktivované.</string>
   <string name="wireless_charging_notification_message3">Nastala chyba počas nabíjania. Reverzné bezdrôtové nabíjanie je deaktivované.</string>
   <string name="wireless_charging_notification_titile">Reverzné bezdrôtové nabíjanie je deaktivované</string>
   <string name="xspace_head">Klonovaná aplikácia</string>

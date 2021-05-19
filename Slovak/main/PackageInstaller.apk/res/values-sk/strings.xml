@@ -609,4 +609,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="wifi_verbose_logging">Enable Wi‑Fi Verbose Logging</string>
   <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
   <string name="window_animation_scale_title">Window animation scale</string>
+    <string name="close">Zatvoriť</string>
+    <string name="date_time_picker_dialog_title">Nastaviť čas a dátum</string>
+    <string name="send">Odoslať</string>	
 </resources>

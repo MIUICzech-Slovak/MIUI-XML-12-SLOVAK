@@ -7007,4 +7007,8 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="knock_long_press_horizontal_slid">Stlačte a potiahnite horizontálne kĺbom prsta</string>
     <string name="knock_slide_shape">Nakreslite kruh kĺbom prsta</string>
     <string name="knock_slide_v">Nakreslite V kĺbom prsta</string>    
+    <string name="adjust_ligth">Prispôsobenie jasu</string>	
+    <string name="miheadset_single_ear_indicate">Noste obe slúchadlá pre použitie redukcie hluku</string>
+    <string name="smooth_adjust_ligth">Jemnejšie prechody</string>
+    <string name="smooth_adjust_ligth_summary">Jemnejšie prechody zmeny jasu pri manuálnom režime. Môžu sa vyskytnúť farebné nerovnomernosti pri použití tejto funkcie.</string>	
 </resources>

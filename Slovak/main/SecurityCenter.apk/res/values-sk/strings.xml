@@ -4772,7 +4772,14 @@ Skúste zväčšiť rozlíšenie!"</string>
      <string name="databooster_tips_message">Povoľte pre obmedzenie všetkých SIM kariet okrem dátovej karty.</string>
      <string name="databooster_tips_title">Upozornenie</string>
        
+    <string name="xspace_warning_dialog_button">Rozumiem</string>
+    <string name="xspace_warning_dialog_message">Kvôli obmedzeniam v Android %d, všetky klonované aplikácie majú prístup len k fotografiám a videám zhotovenými klonovanou aplikáciou.</string>
+    <string name="xspace_warning_dialog_title">Upozornenie</string>	   
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+	
+    <string name="applock_mixtype_hidepwd_icon">Skryť</string>
+    <string name="applock_mixtype_showpwd_icon">Zobraziť</string>
+    <string name="exception_checking">Kontrola...</string>	
 </resources>  

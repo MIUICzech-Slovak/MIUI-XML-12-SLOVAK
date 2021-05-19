@@ -7044,4 +7044,7 @@ Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržan�
      <string name="accessibility_summary_shortcut_enabled">Skratky zapnuté</string>
      <string name="accessibility_summary_state_stopped">Nefunguje. Stlačte pre info.</string>
      <string name="accessibility_vibration_intensity_off">Vypnuté</string>	 
+    <string name="permit_manage_external_storage">Povoliť prístup ku všetkým súborom</string>
+    <string name="allow_manage_external_storage_description">Povoľte tejto aplikácii čítať, upravovať a odstraňovať všetky súbory v tomto zariadení alebo akýchkoľvek pripojených úložiskách. Po udelení tohto povolenia bude môcť aplikácia používať súbory bez vášho vedomia.</string>
+ 
 </resources>

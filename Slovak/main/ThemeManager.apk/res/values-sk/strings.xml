@@ -826,7 +826,17 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
   
-
+	<string name="hide_free_aod">Nezobrazovať AOD témy zdarma</string>
+     <string name="hide_free_icons">Nezobrazovať ikony zdarma</string>
+     <string name="hide_free_miwallpaper">Nezobrazovať tapety zdarma</string>
+     <string name="hide_mamual_hide_aod">Nezobrazovať manuálne skryté AOD témy</string>
+     <string name="hide_mamual_hide_icons">Nezobrazovať manuálne skryté ikony</string>
+     <string name="hide_mamual_hide_miwallpaper">Nezobrazovať manuálne skryté tapety</string>
+     <string name="hide_pull_down_message">Skryť nezaujímavé?</string>
+     <string name="hide_pull_down_negative">Neskrývať</string>
+     <string name="hide_pull_down_positive">Skryť</string>
+     <string name="hide_retract_button">Skryť</string>
+	 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
 </resources>  

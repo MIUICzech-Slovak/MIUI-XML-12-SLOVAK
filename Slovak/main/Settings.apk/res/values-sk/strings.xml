@@ -7011,4 +7011,37 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="miheadset_single_ear_indicate">Noste obe slúchadlá pre použitie redukcie hluku</string>
     <string name="smooth_adjust_ligth">Jemnejšie prechody</string>
     <string name="smooth_adjust_ligth_summary">Jemnejšie prechody zmeny jasu pri manuálnom režime. Môžu sa vyskytnúť farebné nerovnomernosti pri použití tejto funkcie.</string>	
+     <string name="accessibility_shortcut_type_software_gesture">Potiahnutie nahor dvoma prstami</string>
+     <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">Rýchlo trikrát poklepte na obrazovku. Táto skratka môže vaše zariadenie spomaliť.</string>
+
+
+
+	<string name="accessibility_shortcut_description">Povoliť zapnutie funkcie skratky na zamknutej obrazovke.  Na niekoľko sekúnd podržte obe tlačidla hlasitosti.</string>
+     <string name="accessibility_shortcut_edit_dialog_summary_hardware">Stlačte a podržte obe tlačidlá hlasitosti</string>
+     <string name="accessibility_shortcut_edit_dialog_summary_software">"Klepnite na tlačidlo prístupnosti %s v spodnej časti obrazovky.
+
+Medzi funkciami môžete prepínať podržaním tlačidla prístupnosti."</string>
+     <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Potiahnutie nahor dvoma prstami zo spodnej časti obrazovky.
+
+Medzi funkciami môžete prepínať potiahnutím dvoma prstami nahor a podržaním."</string>
+     <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Potiahnutie nahor troma prstami zo spodnej časti obrazovky.
+
+Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržaním."</string>
+     <string name="accessibility_shortcut_edit_dialog_title_advance">Rozšírené</string>
+     <string name="accessibility_shortcut_edit_dialog_title_software">Klepnite na tlačidlo prístupnosti</string>
+     <string name="accessibility_shortcut_edit_dialog_title_software_gesture">Potiahnutie dvoma prstami nahor</string>
+     <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Potiahnutie troma prstami nahor</string>
+     <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Trojité poklepanie obrazovky</string>
+     <string name="accessibility_shortcut_edit_summary_software">Tlačidlo prístupnosti</string>
+     <string name="accessibility_shortcut_hardware_keyword">Podržte tlačidlá hlasitosti</string>
+     <string name="accessibility_shortcut_service_on_lock_screen_title">Skratky na zamknutej obrazovke</string>
+     <string name="accessibility_shortcut_service_title">Skratky</string>
+     <string name="accessibility_shortcut_settings">Nastavenie skratiek</string>
+     <string name="accessibility_shortcut_triple_tap_keyword">Trojité poklepanie obrazovky</string>
+     <string name="accessibility_shortcut_type_software">Tlačidlo prístupnosti</string>
+     <string name="accessibility_shortcut_type_triple_tap">Trojité poklepanie obrazovky</string>
+     <string name="accessibility_summary_shortcut_disabled">Vypnuté</string>
+     <string name="accessibility_summary_shortcut_enabled">Skratky zapnuté</string>
+     <string name="accessibility_summary_state_stopped">Nefunguje. Stlačte pre info.</string>
+     <string name="accessibility_vibration_intensity_off">Vypnuté</string>	 
 </resources>

@@ -9,8 +9,8 @@
         <item quantity="one">Povolení: %d</item>
     </plurals>
     <plurals name="miui_app_all_permission_number">
-        <item quantity="other">%d permissions</item>
-        <item quantity="one">%d permission</item>
+        <item quantity="other">%d povolení</item>
+        <item quantity="one">%d povolení</item>
     </plurals>
     <plurals name="miui_app_privacy_permission_number">
         <item quantity="other">Súkromné povolenia</item>

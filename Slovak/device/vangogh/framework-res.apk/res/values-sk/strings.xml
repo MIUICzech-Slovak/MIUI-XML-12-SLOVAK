@@ -1490,7 +1490,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="slice_more_content">+ %1$d</string>
   <string name="slices_permission_request">%1$s chce zobrazovať rezy z aplikácie %2$s</string>
   <string name="sms">Poslať správu</string>
-  <string name="sms_control_message">Aplikácia &lt;b&gt;%1$s&lt;/b&gt; posiela veľký počet správ SMS. Chcete tejto aplikácií povoliť, aby aj naďalej posielala správy?</string>
+  <string name="sms_control_message">Aplikácia &lt;b&gt;%1$s&lt;/b&gt; posiela veľký počet správ SMS. Chcete tejto aplikácii povoliť, aby aj naďalej posielala správy?</string>
   <string name="sms_control_no">Zamietnuť</string>
   <string name="sms_control_title">Odosielanie správ SMS</string>
   <string name="sms_control_yes">Povoliť</string>

@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="fast_connect_headset_reset">
-        <item quantity="other">Stlačte a podržte tlačidlo na krabičke %1$ds</item>
-        <item quantity="one">Stlačte a podržte tlačidlo na krabičke %1$ds</item>
-    </plurals>
-    <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Stlačte a podržte dotykovú plochu na slúchadle %1$ds</item>
-        <item quantity="one">Stlačte a podržte dotykovú plochu na slúchadle %1$ds</item>
-    </plurals>	
-    <plurals name="fast_connect_reset_nzbt">
-        <item quantity="other">Podržte vrchné tlačidlo %1$s sekúnd keď je vypnuté</item>
-        <item quantity="one">Podržte vrchné tlačidlo %1$s sekundu keď je vypnuté</item>
-    </plurals>	
-    
     <plurals name="a_hour_ago">
         <item quantity="other">Pred hodinou</item>
     </plurals>

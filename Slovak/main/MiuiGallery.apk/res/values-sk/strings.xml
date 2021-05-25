@@ -315,7 +315,7 @@
   <string name="cleaner_slim_start">Optimalizovať</string>
   <string name="cleaner_slim_title">Optimalizovať fotografie</string>
   <string name="cleaner_space_description">môže byť uvoľnené</string>
-  <string name="cleaner_space_detail_description">Vymažte fotografie vo vašej galérií pre uvoľnenie úložiska</string>
+  <string name="cleaner_space_detail_description">Vymažte fotografie vo vašej Galérii pre uvoľnenie úložiska</string>
   <string name="cleaner_stop_scan">Zastaviť kontrolu</string>
   <string name="cleaner_video_action">Vymazať</string>
   <string name="cleaner_video_description">Vymazať videá ktoré zaberajú miesto na úložisku</string>
@@ -558,7 +558,7 @@
   <string name="error_invalid_link">Tento odkaz je neplatný. Požiadajte vlastníka o vytvorenie nového odkazu.</string>
   <string name="error_link_has_expired">Platnosť odkazu vypršala</string>
   <string name="error_network_restrict_action">Zobraziť podrobnosti</string>
-  <string name="error_network_restrict_msg">Povoľte Galérií pripojenie k sieti.</string>
+  <string name="error_network_restrict_msg">Povoľte Galérii pripojenie k sieti.</string>
   <string name="error_network_restrict_tip">Nie je možné pripojiť sa k sieti.</string>
   <string name="error_no_account_action">Prihlásiť sa</string>
   <string name="error_no_account_msg">Prihláste sa k vášmu Mi účtu a skúste to znova.</string>
@@ -614,7 +614,7 @@
   <string name="ext_sdcard_operation_failed_title">Nebolo možné dokončiť</string>
   <string name="ext_sdcard_permission_request_button_text">Rozumiem</string>
   <string name="ext_sdcard_permission_request_reason">Galéria vyžaduje povolenie k prístupu na SD kartu.</string>
-  <string name="ext_sdcard_permission_request_title">Povoliť Galérií prístup k SD karte</string>
+  <string name="ext_sdcard_permission_request_title">Povoliť Galérii prístup k SD karte</string>
   <string name="ext_sdcard_request_failed_button_text">OK</string>
   <string name="ext_sdcard_request_succeed_toast_text">Hotovo!</string>
   <string name="face_album_detecting_tip">Načítavanie...</string>
@@ -1376,7 +1376,7 @@
   <string name="search_set_network_connection">Nastavenia siete</string>
   <string name="search_setting_sub_title">Vylepšené vyhľadávanie obrázkov</string>
   <string name="search_setting_sub_title_open">Schválené. Chvíľku počkajte.</string>
-  <string name="search_setting_title">Vyhľadať fotografie v Galérií</string>
+  <string name="search_setting_title">Vyhľadať fotografie v Galérii</string>
   <string name="search_syncing">Prebieha synchronizácia...</string>
   <string name="search_title_album">Album</string>
   <string name="search_title_app_screenshot">Screenshoty</string>

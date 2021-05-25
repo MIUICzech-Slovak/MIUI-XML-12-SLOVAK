@@ -321,7 +321,7 @@
   <string name="installing">Inštaluje sa</string>
   <string name="item_title_process_mode">Vyberte akciu</string>
   <string name="junk_tag_RF_EmptyFolders">Prázdne zložky</string>
-  <string name="junk_tag_RF_ImageThumbnails">Náhľady v galérií</string>
+  <string name="junk_tag_RF_ImageThumbnails">Náhľady v Galérii</string>
   <string name="just_now">Teraz</string>
   <string name="label_image_list_none">Žiadne</string>
   <string name="label_preserve_the_best_image">Uložiť ostrejšiu fotografiu</string>
@@ -456,7 +456,7 @@
   <string name="safety_check_detail">%1$d položiek, získaných %2$d bodov</string>
   <string name="safety_rank">Lepšie ako %d%% MIUI užívateľov v zmysle bezpečnosti</string>
   <string name="sc_allow_network_dialog_button">Povoliť</string>
-  <string name="sc_allow_network_dialog_message">Povoliť tejto aplikácií pripojenie na internet pre kontrolu aktualizácií?</string>
+  <string name="sc_allow_network_dialog_message">Povoliť tejto aplikácii pripojenie na internet pre kontrolu aktualizácií?</string>
   <string name="scanning">Kontrola...</string>
   <string name="search_history">História vyhľadávania</string>
   <string name="security_center_slogan">Staráme sa o vašu bezpečnosť.</string>

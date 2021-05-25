@@ -55,7 +55,7 @@
   <string name="cw_added_toast">Táto položka už bola pridaná.</string>
   <string name="cw_adding">Pridanie (%1$d)</string>
   <string name="cw_album_no_pic">Nenašli sa žiadne obrázky v zariadení</string>
-  <string name="cw_album_no_right">Povoľte prístup ku Galérií</string>
+  <string name="cw_album_no_right">Povoľte prístup ku Galérii</string>
   <string name="cw_all_folder">Nedávne obrázky</string>
   <string name="cw_batch_all_added_tip">Nie je možné pridať položky ktoré už sú pridané.</string>
   <string name="cw_batch_part_tip_fail">Niektoré položky boli pridané</string>
@@ -77,7 +77,7 @@
   <string name="declaration">Táto služba vyžaduje pripojenie na internet.</string>
   <string name="declaration_lockscreen_title">Povoliť dennú tapetu zamyk. obr.</string>
   <string name="declaration_title">Podmienky používania</string>
-  <string name="deny_des">Denná tapeta vyžaduje prístup ku Galérií pre jej správne fungovanie.</string>
+  <string name="deny_des">Denná tapeta vyžaduje prístup ku Galérii pre jej správne fungovanie.</string>
   <string name="detail_ad_type_video">Populárne videá</string>
   <string name="detail_add_cw">Pridať tapetu</string>
   <string name="detail_add_shortcut_new">Vytvoriť odkaz na ploche</string>

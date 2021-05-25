@@ -834,4 +834,7 @@ Veľkosť Delta aktualizácie: %2$s"</string>
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+    
+    <string name="apps_item_desc">Apl.</string>
+    <string name="new_pc_restore_content1_pad">%d. Pripojte vaše zariadenie k PC pomocou USB kábla.</string>        
 </resources>  

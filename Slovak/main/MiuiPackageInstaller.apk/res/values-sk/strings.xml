@@ -636,7 +636,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
      <string name="dlg_msg_unoffical_ok">OK</string>
      <string name="external_sources_settings_negative">Zakázať</string>
      <string name="external_sources_settings_positive">Povoliť</string>
-     <string name="game_center_intercept_trust_app">Dôverujem tejto aplikácií a prijímam možné riziká.</string>
+     <string name="game_center_intercept_trust_app">Dôverujem tejto aplikácii a prijímam možné riziká.</string>
      <string name="high_risk_perms">Rizikové povolenia</string>
      <string name="install_failed_system_incompatible">Táto aplikácia nie je kompatibilná s MIUI</string>
      <string name="install_finished_notification_summary">Vyčistiť</string>

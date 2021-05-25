@@ -436,7 +436,7 @@ http://www.miuios.cz/rom
   <string name="toast_refuse_to_record_when_in_multi_window_new">Túto funkciu nie je možné použiť v rozdelenej obrazovke alebo plávajúcom okne</string>  
   <string name="trash_folder_reminder_new">Vymazané poznámky sú uložené v koši na %d dní. Po tejto dobe budú navždy vymazané.</string>  
   <string name="cloud_service_state_open_reminder_note_and_todo">Povoľte synchr. s MiCloud</string>
-  <string name="cta_v2_agree_desc">Povoľte tejto aplikácií pripojenie k sieti a potrebné povolenia.</string>
+  <string name="cta_v2_agree_desc">Povoľte tejto aplikácii pripojenie k sieti a potrebné povolenia.</string>
   <string name="sync_all_terms">%1$s, %2$s, a %3$s</string>
   <string name="sync_folder_todo">%1$s a %2$s</string>
   <string name="sync_note_folder">%1$s a %2$s</string>
@@ -613,6 +613,8 @@ http://www.miuios.cz/rom
      <string name="sync_desc_state_complete_china">Všetky %1$s boli synchr.</string>
      <string name="sync_desc_state_disable">Povoľte synchr. s MiCloud</string>
      <string name="sync_desc_state_running">Synchr. s MiCloud</string>               
-     
+    <string name="data_empty_folder">Žiadne ďalšie zložky</string>
+    <string name="handwrite_description">Ručne napísaná poznámka</string>
+    <string name="menu_add_handwrite_description">Pridať ručne napísanú poznámku</string>             
     <string name="pref_remind_type_summary_new_2">Prehrať zvuk v Tichom režime</string>         
 </resources>  

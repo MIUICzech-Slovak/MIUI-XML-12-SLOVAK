@@ -60,7 +60,7 @@
   <string name="preference_privacy_title">Ochrana súkromia</string>
   <string name="using_camera_confirm_cancel">Ukončiť</string>
   <string name="using_camera_confirm_ok">OK</string>
-  <string name="cta_agree_desc">Povoľte tejto aplikácií prístup na internet a požadované povolenia pre jej správne fungovanie.</string>  
+  <string name="cta_agree_desc">Povoľte tejto aplikácii prístup na internet a požadované povolenia pre jej správne fungovanie.</string>  
  
 
     <string name="first_using_dialog_message_no_camera">Kompas potrebuje pripojenie na internet a prístup k vašej polohe pre jeho správne fungovanie. Povoliť?</string>

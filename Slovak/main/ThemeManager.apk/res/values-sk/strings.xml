@@ -636,7 +636,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
   <string name="de_mix_mode_lockscreen_desc">Tapeta a hodiny</string>
   <string name="theme_not_include_module_desc">Táto téma neobsahuje tieto položky: %s</string>   
   <string name="apply_choosen_type_resource">Použiť vybrané položky</string>  
-  <string name="system_cta_agree_desc">Povoľte tejto aplikácií pripojenie k internetu a uvedené povolenia.</string>
+  <string name="system_cta_agree_desc">Povoľte tejto aplikácii pripojenie k internetu a uvedené povolenia.</string>
   <string name="system_cta_all_purpose">Vitajte v Témach! Pomocou tejto aplikácie môžete spravovať vzhľady, tapety, zvuky a písma. </string>
   <string name="system_cta_main_purpose">Spravujte a používajte online a offline témy, tapety, zvuky, písma a video tapety</string>
   <string name="system_cta_runtime_perm_desc_get_accounts">Pre prístup k IMEI a poskytovaniu služieb</string>

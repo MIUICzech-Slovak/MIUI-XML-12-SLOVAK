@@ -186,7 +186,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>  
-  <string name="agree_description">Povoľte tejto aplikácií pripojenie na internet pre jej správne fungovanie.</string>  
+  <string name="agree_description">Povoľte tejto aplikácii pripojenie na internet pre jej správne fungovanie.</string>  
   <string name="app_record">Nahrávky aplikácie</string>
   <string name="app_record_preference_title">Nahrávky aplikácie</string>
   <string name="record_list_app">Nahrávky aplikácie</string>  

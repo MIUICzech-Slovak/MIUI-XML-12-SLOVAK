@@ -67,7 +67,7 @@
     <string name="settings_feature_keep_screen_title">Nezamykať displej</string>
     <string name="settings_feature_multi_window_summary">Kliknite pravým tlačidlom na displej vášho telefónu pre otvorenie ďalšieho okna</string>
     <string name="settings_feature_multi_window_title">Otvoriť viac okien</string>
-    <string name="settings_feature_pc_edit_files_summary">Kliknite pravým tlačidlom v Galérií alebo Súboroch pre ich upravenie v PC.</string>
+    <string name="settings_feature_pc_edit_files_summary">Kliknite pravým tlačidlom v Galérii alebo Súboroch pre ich upravenie v PC.</string>
     <string name="settings_feature_pc_edit_files_title">Upraviť položky v telefóne cez PC</string>
     <string name="settings_home">MIUI+</string>
     <string name="settings_home_device_disconnect">Odpojiť</string>

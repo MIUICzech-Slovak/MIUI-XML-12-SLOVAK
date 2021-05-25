@@ -407,7 +407,7 @@
      <string name="preference_copied">\"%1$s\" skopírované do schránky.</string>
      <string name="reach_upper_limit">Nie je možné pridať viac časovačov</string>
      <string name="sleep_analysis_chart_date_format">dd.MM</string>
-     <string name="system_permission_agree_desc">Povoľte tejto aplikácií prístup na internet pre jej správne fungovanie.</string>
+     <string name="system_permission_agree_desc">Povoľte tejto aplikácii prístup na internet pre jej správne fungovanie.</string>
      <string name="system_permission_main_purpose">Zobrazenie času, nastavenie budíkov, stopky...</string>
      <string name="timer_item_delete">Vymazať</string>
      <string name="worldclock_local_time">Lokálny čas</string>
@@ -530,4 +530,10 @@
     <string name="select_operation">Vybrať</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Vypnutie budíkov ak je vaše zariadenie vypnuté. Iba budíky ktoré sú nastavené aspoň %d minút po vypnutí zariadenia budú vypnuté.</string>
 	
+    <string name="close_alarm_new">Zastaviť</string>
+    <string name="not_set_temporarily">Nie ďakujem</string>
+    <string name="set_now">Nastaviť</string>
+    <string name="slider_text_new">Potiahnite nahor pre zastavenie</string>
+    <string name="timer_got_it_new">Stíšiť</string>
+    <string name="week_ringtone_recommend_desc">Prírodný budík prehráva rôzne zvuky v závislosti od dátumu. Nastaviť ako predvolený budík?</string>                    	
 </resources>  

@@ -83,8 +83,8 @@
     <string name="permission_exit">Ukončiť</string>
     <string name="permission_external_storage_introduce">Pre odoslanie spätnej väzby</string>
     <string name="permission_first_start_network_title">Podmienky používania</string>
-    <string name="permission_imei_disable_desc">Povoľte tejto aplikácií pripojenie k internetu.</string>
-    <string name="permission_imei_enable_desc">Povoľte tejto aplikácií pripojenie k internetu a požadované povolenia.</string>
+    <string name="permission_imei_disable_desc">Povoľte tejto aplikácii pripojenie k internetu.</string>
+    <string name="permission_imei_enable_desc">Povoľte tejto aplikácii pripojenie k internetu a požadované povolenia.</string>
     <string name="permission_location_introduce">Pre zobrazenie najbližšieho servisného centra</string>
     <string name="permission_main_purpose">Zobrazenie ukážky MIUI funkcií.</string>
     <string name="permission_privacy">Ochrana súkromia</string>

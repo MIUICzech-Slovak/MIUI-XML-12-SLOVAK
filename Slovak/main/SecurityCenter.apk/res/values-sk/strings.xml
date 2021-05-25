@@ -2541,7 +2541,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="saving_conflict_dialog_ok">OK</string>
   <string name="saving_conflict_dialog_title">Upozornenie</string>
   <string name="saving_conflict_restrictbackground_msg">Nie je možné použiť Úsporu dát ak sú dáta na pozadí zakázané. Povoliť dáta na pozadí a Úsporu dát?</string>
-  <string name="sc_allow_network_dialog_message">Je nutné povoliť tejto aplikácií prístup k sieťovému pripojeniu.</string>
+  <string name="sc_allow_network_dialog_message">Je nutné povoliť tejto aplikácii prístup k sieťovému pripojeniu.</string>
   <string name="sc_allow_network_dialog_tiltle">Nie je možné využívať úsporu dát</string>
   <string name="sc_system_risk_fix_info_xspace">Riziko nemôže byť opravené v Druhom profile.</string>
   <string name="scan_installed_games">Kontrola nainštalovaných hier...</string>
@@ -3518,7 +3518,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="gs_game_manual_record_subtitle_child_carton">Nahrávanie videí z hier vyžaduje vyšší výkon zariadenia a môže viesť k zásekom hry.</string>
   <string name="gs_game_manual_record_subtitle_child_conflict">Ostatné funkcie nahrávania nemusia fungovať správne.</string>
   <string name="gs_game_record_intro_tips">*Nahrávanie videí z hier je dostupné len pre kompatibilné hry</string>
-  <string name="ac_recommend_guide_dialog_app_content">Použite Zámok aplikácií pre ochranu vašich osobných dát v tejto aplikácií.</string>
+  <string name="ac_recommend_guide_dialog_app_content">Použite Zámok aplikácií pre ochranu vašich osobných dát v tejto aplikácii.</string>
   <string name="ac_recommend_guide_dialog_content">Môžete chrániť vaše osobné informácie Zámkom aplikácií.</string>
   <string name="ac_recommend_guide_dialog_ignore">Viac nezobrazovať</string>
   <string name="ac_recommend_guide_dialog_open">Povoliť</string>
@@ -3571,7 +3571,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_behavior_monitor_off_content">Nebudete dostávať upozornenia o citlivých akciách vykonaných touto aplikáciou. Vypnúť upozornenia?</string>
   <string name="app_behavior_monitor_off_positive">Vypnúť</string>
   <string name="app_behavior_monitor_off_select">Viac nezobrazovať</string>
-  <string name="app_behavior_monitor_tips_if_trust">Ak dôverujete tejto aplikácií môžete vypnúť upozornenia na vykonané citlivé akcie</string>
+  <string name="app_behavior_monitor_tips_if_trust">Ak dôverujete tejto aplikácii môžete vypnúť upozornenia na vykonané citlivé akcie</string>
   <string name="app_behavior_monitor_tips_key">Upozornenia citlivé akcie</string>
   <string name="app_behavior_monitor_tips_summary">Môžete dostávať upozornenia ak aplikácia bude nahrávať zvuk, získa prístup k vašej polohe alebo vykoná citlivú akciu na pozadí.</string>
   <string name="app_behavior_no_recorder">Nič sa nenašlo</string>
@@ -4293,7 +4293,7 @@ z vášho hrania hier"</string>
     <string name="privacy_risk_install_app">Nespoľahlivé aplikácie</string>
     <string name="privacy_risk_photo_delete">Fotografie môžu byť vymazané bez vášho povolenia</string>
     <string name="privacy_risk_photo_location">Fotografie s informáciou o polohe</string>
-    <string name="privacy_risk_photo_location_msg">Obmedziť prístup ku Galérií ak to nie je potrebné</string>
+    <string name="privacy_risk_photo_location_msg">Obmedziť prístup ku Galérii ak to nie je potrebné</string>
     <string name="privacy_risk_photo_msg">Fotografie s citlivými informáciami</string>
     <string name="privacy_risk_result_cancel_msg">Nebolo možné dokončiť kontrolu.</string>
     <string name="privacy_risk_result_detection_continue">Pokračovať</string>
@@ -4487,7 +4487,7 @@ z vášho hrania hier"</string>
     <string name="allow_all">Povoliť všetko</string>
     <string name="confirm_allow_all_permission">Povoliť všetkým aplikáciam používanie tejto funkcie?</string>
     
-    <string name="app_behavior_access_gallery">%1s načítala galérií</string>
+    <string name="app_behavior_access_gallery">%1s načítala Galérii</string>
     <string name="app_behavior_access_gallery_single">táto aplikácia načítala galéiu</string>
     <string name="app_behavior_access_sociality">%1s načítala správy zo sociálnej aplikácie</string>
     <string name="app_behavior_access_sociality_single">Táto aplikácia načítala správy zo sociálnej aplikácie</string>    
@@ -4501,8 +4501,8 @@ z vášho hrania hier"</string>
 "</string>
     <string name="dialog_skt_roaming_warning_ok">Súhlasím</string>
     <string name="dialog_skt_roaming_warning_title">Dátový roaming</string>
-    <string name="file_confirm_start_activity">"%s nemá prístup ku Galérií a sociálnym médiám. Táto aplikácia chce získať prístup k súborom uloženým v tomto zariadení na zdieľanie položiek. Povoliť?"</string>
-    <string name="gallery_confirm_start_activity">"%s nemá prístup ku Galérií a sociálnym médiám. Táto aplikácia chce získať prístup k súborom uloženým v tomto zariadení na zdieľanie položiek. Povoliť?"</string>
+    <string name="file_confirm_start_activity">"%s nemá prístup ku Galérii a sociálnym médiám. Táto aplikácia chce získať prístup k súborom uloženým v tomto zariadení na zdieľanie položiek. Povoliť?"</string>
+    <string name="gallery_confirm_start_activity">"%s nemá prístup ku Galérii a sociálnym médiám. Táto aplikácia chce získať prístup k súborom uloženým v tomto zariadení na zdieľanie položiek. Povoliť?"</string>
     <string name="provision_back">Späť</string>
     <string name="provision_next">Ďalej</string>
     <string name="provision_skip_underline">Preskočiť</string>
@@ -4782,4 +4782,8 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="applock_mixtype_hidepwd_icon">Skryť</string>
     <string name="applock_mixtype_showpwd_icon">Zobraziť</string>
     <string name="exception_checking">Kontrola...</string>	
+    
+    <string name="exit_dialog_release_storage_message_new">Je obsadených viac ako %s úložiska vo vašom zariadení. Uvolnite miesto odinštalovaním nepotrebných aplikácií.</string>
+    <string name="vb_ve_settings_display_style_tips_new">*Efekty budú použité len pri prehrávaní videa</string>
+            
 </resources>  

@@ -276,5 +276,8 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>    
     <string name="accessibility_service_description">Inteligentná úspora energie</string>
+    
+    <string name="kill_pkg_toast_message">Vaše zariadenie sa prehrieva. Aplikácia bude ukončená.</string>
+    <string name="stricter_high_temp_state_message">Vaše zariadenie sa prehrieva. Môžete používať len aplikáciu Telefón a Kontakty.</string>        
   
 </resources>

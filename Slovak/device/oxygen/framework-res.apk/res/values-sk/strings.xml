@@ -1205,7 +1205,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="sipAddressTypeOther">Iné</string>
   <string name="sipAddressTypeWork">Práca</string>
   <string name="skip_button_label">Preskočiť</string>
-  <string name="sms_control_message">Aplikácia &lt;b&gt;%1$s&lt;/b&gt; posiela veľký počet správ SMS. Chcete tejto aplikácií povoliť, aby aj naďalej posielala správy?</string>
+  <string name="sms_control_message">Aplikácia &lt;b&gt;%1$s&lt;/b&gt; posiela veľký počet správ SMS. Chcete tejto aplikácii povoliť, aby aj naďalej posielala správy?</string>
   <string name="sms_control_no">Odmietnuť</string>
   <string name="sms_control_title">Odosielanie správ SMS</string>
   <string name="sms_control_yes">Povoliť</string>

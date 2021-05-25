@@ -266,11 +266,11 @@
   <string name="Privacy_App_Launch">Spustiť</string>
   <string name="Privacy_App_Log">Záznamy</string>
   <string name="Privacy_App_Manage">Detaily</string>
-  <string name="Privacy_App_Trust">Verím tejto aplikácií</string>
+  <string name="Privacy_App_Trust">Verím tejto aplikácii</string>
   <string name="Privacy_App_TrustDialog_Content">MIUI nebude pre túto aplikáciu požadovať žiadne potvrdenie týkajúce sa bezpečnosti a súkromia.</string>
-  <string name="Privacy_App_TrustDialog_Title">Dôverovať tejto aplikácií</string>
+  <string name="Privacy_App_TrustDialog_Title">Dôverovať tejto aplikácii</string>
   <string name="Privacy_App_Trust_Summary_Off">MIUI bude túto aplikáciu sledovať</string>
-  <string name="Privacy_App_Trust_Summary_On">MIUI bude tejto aplikácií dôverovať</string>
+  <string name="Privacy_App_Trust_Summary_On">MIUI bude tejto aplikácii dôverovať</string>
   <string name="Privacy_App_Uninstall">Odinštalovať</string>
   <string name="Privacy_Perm_Count">Povolené: %1$d Zakázané: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s sa pokúša získať práva ROOT, čo je z dôvodu bezpečnosti štandardne zakázané. Ak chcete oprávnenia povoliť, urobte tak v nastavení aplikácie Povolenia.</string>
@@ -533,8 +533,8 @@
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
-     <string name="HIPS_Perm_Access_Gallery">Prístup ku Galérií</string>
-     <string name="HIPS_Perm_Access_Gallery_Desc">Povoliť tejto aplikácií prístup k vašej Galérií</string>
+     <string name="HIPS_Perm_Access_Gallery">Prístup ku Galérii</string>
+     <string name="HIPS_Perm_Access_Gallery_Desc">Povoliť tejto aplikácii prístup k vašej Galérii</string>
      <string name="HIPS_Perm_tencentControl">Prístup k správam v sociálnych apl.</string>
      <string name="HIPS_Perm_tencentControl_Desc">Povoliť tejto aplikácii prístup k správam v sociálnych sieťach</string>
     <string name="today">Dnes</string>

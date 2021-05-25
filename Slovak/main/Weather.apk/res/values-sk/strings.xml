@@ -243,7 +243,7 @@ Zadajte vaše mesto manuálne"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>   
   <string name="rain_sound_setting_summary_text">Zvukové efekty stavu počasia</string>
   <string name="rain_sound_setting_title_text">Zvukové efekty</string>
-  <string name="request_cta_connect_net">Povoľte tejto aplikácií pripojenie na internet a požadované povolenia.</string>
+  <string name="request_cta_connect_net">Povoľte tejto aplikácii pripojenie na internet a požadované povolenia.</string>
   <string name="widget_cta_not_agree">Dotknite sa pre info o počasí</string>  
   <string name="minute_rain">Predpoveď zrážok</string>  
   <string name="international_details_humidity_title">VLHKOSŤ</string>

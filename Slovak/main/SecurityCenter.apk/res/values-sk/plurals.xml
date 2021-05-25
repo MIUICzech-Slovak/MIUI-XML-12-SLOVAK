@@ -943,4 +943,9 @@ Dajte si pauzu!"</item>
         <item quantity="other">Rozumiem (%ds)</item>
         <item quantity="one">Rozumiem (%ds)</item>
     </plurals>	
+    
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Skóre vášho zariadenia je menšie ako %d bodov. Chcete ho optimalizovať?</item>
+        <item quantity="one">Skóre vášho zariadenia je menšie ako %d bod. Chcete ho optimalizovať?</item>
+    </plurals>    
 </resources>

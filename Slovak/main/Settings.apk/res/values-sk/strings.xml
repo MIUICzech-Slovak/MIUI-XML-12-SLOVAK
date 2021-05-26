@@ -7160,5 +7160,9 @@ Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržan�
     <string name="headphone_assisted_summary">Prenášať zvuk z mikrofónu do slúchadiel</string>
     <string name="headphone_assisted_title">Live in-ear monitor</string>
     <string name="miui_sos_remind_sendnow_donot_send">Neodoslať</string>
-                       
+	
+    <string name="smart_home_select_smart_device">Aplikácia pre správu SmartHome zariadení</string>
+    <string name="upload_debug_log_detail">Pomôžte vylepšiť svoje zážitky zo zariadenia MIUI automatickým odosielaním diagnostických údajov, údajov o používaní zariadenia a aplikácií do spoločnosti Xiaomi.</string>
+    <string name="upload_debug_log_summary">Zdieľať dáta pre zlepšenie MIUI</string>
+    <string name="upload_debug_log_title">Používanie a diagnostika</string>
 </resources>

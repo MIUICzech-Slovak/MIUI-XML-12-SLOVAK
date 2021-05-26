@@ -541,7 +541,9 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
 	
 <string name="adaptive_fps_tip">2. Dosiahnite najlepší pomer medzi plynulosťou systému a spotreby batérie pomocou dynamickej obnovovacej frekvencie.</string>
 	
-  
+      <string name="authorization_btn_text">Štart</string>
+    <string name="authorization_tips">Vyžadujú sa povolenia</string>
+	
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   

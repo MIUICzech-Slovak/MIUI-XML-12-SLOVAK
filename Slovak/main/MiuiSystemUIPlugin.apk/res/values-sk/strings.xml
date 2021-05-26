@@ -271,4 +271,15 @@
     
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+	
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">Zrušiť</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">Zapnúť</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">Live in-ear monitor len ak je zapnuté Bluetooth. Chcete ho zapnúť?</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">Zapnite Bluetooth</string>
+    <string name="hearing_assist_transmission_label">Live in-ear monitor</string>
+    <string name="hearing_assist_transmission_tips_cancel">Zrušiť</string>
+    <string name="hearing_assist_transmission_tips_continue">Zapnúť</string>
+    <string name="hearing_assist_transmission_tips_summary">Live in-ear monitor prenáša zvuk z mikrofónu zariadenia do pripojených slúchadiel. Chcete ho zapnúť?</string>
+    <string name="hearing_assist_transmission_tips_title">Live in-ear monitor</string>
+	
 </resources>  

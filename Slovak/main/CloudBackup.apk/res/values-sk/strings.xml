@@ -385,8 +385,15 @@ Skúste to znova"</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
-  
-
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+
+    <string name="backup_action_access_permission">Nastavenia</string>
+    <string name="backup_failed_reason_app_usage_denied">Povoľte požadované povolenia pre zálohovanie súborov</string>
+    <string name="backup_warning_reason_app_usage_denied">"Nebolo možné synchr. dáta.
+Vyžadujú sa povolenia."</string>
+     <string name="dialog_app_usage_denied">Povoľte Zálohe povolenia v Nastaveniach pre jej správne fungovanie.</string>
+    <string name="dialog_btn_confirm2">Rozumiem</string>
+    <string name="dialog_btn_enter">Nastavenia</string>	
+    <string name="dialog_need_permission">Vyžadujú sa povolenia</string>	
 </resources>  

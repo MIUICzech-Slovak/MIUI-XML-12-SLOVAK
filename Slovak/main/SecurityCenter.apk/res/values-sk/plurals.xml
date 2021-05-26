@@ -948,4 +948,9 @@ Dajte si pauzu!"</item>
         <item quantity="other">Skóre vášho zariadenia je menšie ako %d bodov. Chcete ho optimalizovať?</item>
         <item quantity="one">Skóre vášho zariadenia je menšie ako %d bod. Chcete ho optimalizovať?</item>
     </plurals>    
+	
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d riziká súkromia</item>
+        <item quantity="one">%d riziko súkromia</item>
+    </plurals>	
 </resources>

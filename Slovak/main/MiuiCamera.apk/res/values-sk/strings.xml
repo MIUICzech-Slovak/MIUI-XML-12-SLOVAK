@@ -1361,14 +1361,33 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
-  
     <string name="pref_camera_track_focus_preferred_description">Povoľte pre automatické nastavenie zaostrenia na ľudí alebo zvieratá.</string>
     <string name="pref_camera_track_focus_preferred_title">Sledovanie zaostrenia</string>  
     <string name="prep_video_ai_audio_new_desc_tip_alone">Zvuky zo zaostreného objektu sú zosilnené v režime na šírku</string>
     <string name="prep_video_ai_audio_single_desc_tip_alone">Zvuky spoza displeja sú odfiltrované v režime na šírku</string>
-            
-  
-
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+
+
+     <string name="super_moon">Supermesiac</string>
+     <string name="super_moon_black_cat">Mačka</string>
+     <string name="super_moon_branch_bird">Slávik</string>
+     <string name="super_moon_cable_car">Lanovka</string>
+     <string name="super_moon_climb">Lezenie</string>
+     <string name="super_moon_flight">Lietadlo</string>
+     <string name="super_moon_flying_bird">Vták</string>
+     <string name="super_moon_improve_effect_tips">Umiestnite mesiac do kruhu</string>
+     <string name="super_moon_in_city">Mesačné ulice</string>
+     <string name="super_moon_leaf">Listy</string>
+     <string name="super_moon_miss">Mesačné svetlo padá na kraj mojej postele a na zamrznutej zemi sa javí ako mráz.</string>
+     <string name="super_moon_under">Mesačné svetlo</string>
+     <string name="super_moon_window">Okno</string>
+     <string name="super_night_owl_toast">Nehýbte s telefónom</string>
+     <string name="watermark_tab_super_moon_silhouette">Silueta</string>
+     <string name="watermark_tab_super_moon_text">Text</string>     
+     <string name="ai_watermark_title">AI vodoznak</string>     
+     <string name="document_blur_warn">Text je rozmazaný</string>
+     <string name="download_in_progress">Sťahovanie...</string>
+     <string name="dual_video_record_remote">Nahrávanie z dvoch zariadení</string>     
+
 </resources>  

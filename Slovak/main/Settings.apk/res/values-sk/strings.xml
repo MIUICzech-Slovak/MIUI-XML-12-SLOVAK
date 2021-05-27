@@ -7047,15 +7047,7 @@ Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržan�
     <string name="permit_manage_external_storage">Povoliť prístup ku všetkým súborom</string>
     <string name="allow_manage_external_storage_description">Povoľte tejto aplikácii čítať, upravovať a odstraňovať všetky súbory v tomto zariadení alebo akýchkoľvek pripojených úložiskách. Po udelení tohto povolenia bude môcť aplikácia používať súbory bez vášho vedomia.</string>
  
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Pustite pre obnovenie</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Žiadne dáta</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">Žiadne dáta</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Načítavanie…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>     
-  
+ 
   <string name="monday">Pondelok</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -7163,6 +7155,4 @@ Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržan�
 	
     <string name="smart_home_select_smart_device">Aplikácia pre správu SmartHome zariadení</string>
     <string name="upload_debug_log_detail">Pomôžte vylepšiť svoje zážitky zo zariadenia MIUI automatickým odosielaním diagnostických údajov, údajov o používaní zariadenia a aplikácií do spoločnosti Xiaomi.</string>
-    <string name="upload_debug_log_summary">Zdieľať dáta pre zlepšenie MIUI</string>
-    <string name="upload_debug_log_title">Používanie a diagnostika</string>
 </resources>

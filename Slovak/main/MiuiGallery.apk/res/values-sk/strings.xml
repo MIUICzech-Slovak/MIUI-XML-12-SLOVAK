@@ -2286,5 +2286,7 @@
      <string name="unsupport_raw_and_video">%s nefunguje s videom v RAW</string>
      <string name="problem_feedback">Spätná väzba</string>         
     <string name="cleaner_empty">Vymazať všetko</string>
-                                  
+    <string name="home_page_all_photos">Všetko</string>
+    <string name="home_page_camera">Fotoaparát</string>
+    <string name="home_page_custom">Vlastné</string>                                  
 </resources>

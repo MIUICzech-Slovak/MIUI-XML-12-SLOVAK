@@ -1389,5 +1389,6 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
      <string name="document_blur_warn">Text je rozmazaný</string>
      <string name="download_in_progress">Sťahovanie...</string>
      <string name="dual_video_record_remote">Nahrávanie z dvoch zariadení</string>     
+     <string name="module_name_super_moon">Supermesiac</string>
 
 </resources>  

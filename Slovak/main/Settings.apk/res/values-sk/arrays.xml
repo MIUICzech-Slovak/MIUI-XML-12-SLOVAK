@@ -1116,5 +1116,13 @@ Postupujte podľa pokynov"</item>
         <item>Zvýšiť rýchlosť použitím mobilných dát len ak je slabý signál Wi-Fi</item>
         <item>Kombinovať Wi-Fi a mobilné dáta pre zvýšenie rýchlosti</item>
     </string-array>
-
+    <string-array name="dark_ui_mode_entries">
+        <item>Zapnutý</item>
+        <item>Vypnutý</item>
+    </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>Vypnuté</item>
+        <item>Ladenie</item>
+        <item>Podrobné informácie</item>
+    </string-array>	
 </resources>

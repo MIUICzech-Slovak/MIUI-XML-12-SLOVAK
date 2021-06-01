@@ -7221,5 +7221,9 @@ Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržan�
     <string name="oaid_apps_title">Spravovať virtuálne ID</string>
     <string name="time_floating_window">Plávajúce hodiny</string>
     <string name="time_floating_window_summary">Zobraziť hodiny v plávajúcom okne</string>
-	
+    <string name="charge_animation_style_none">Vypnutá</string>
+    <string name="charge_animation_style_lollipop">Prúd</string>
+    <string name="charge_animation_style_video">Žiara</string>
+    <string name="charge_animation_style_wave">Vlna</string>
+    <string name="charge_animation_style_particle">Častice</string>	
 </resources>

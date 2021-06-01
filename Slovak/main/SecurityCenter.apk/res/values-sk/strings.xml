@@ -4813,4 +4813,13 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="cetus_invisible_mode_warn_location">Ste inkognito. Povolenia pre polohu sú pozastavené.</string>
     <string name="cetus_invisible_mode_warn_open">Režim Inkognito pozastaví povolenia pre mikrofón, fotoaparát a polohu všetkým aplikáciam. Chcete ho zapnúť teraz?</string>
     <string name="cetus_invisible_mode_warn_record_audio">Ste inkognito. Povolenia pre mikrofón sú pozastavené.</string>
+	
+    <string name="oaid_apps_title">Spravovať virtuálne ID</string>
+    <string name="oaid_tips_content">Virtuálne IDs (OAID) môže byť použité pre sledovanie vášho správania a prispôsobenie reklám. Môžete vybrať ktoré aplikácie budú mať povolenie pre prístup k virtuálnemu ID.</string>	
+    <string name="pc_hidemode_normal">Vyvážené</string>
+    <string name="pc_hidemode_performance">Výkon</string>
+    <string name="pc_hidemode_performance_title">Výkonný režim</string>
+    <string name="pc_hidemode_power_save">Sila</string>
+    <string name="pc_performance_mode_dialog_summary">Vaše zariadenie bude schopné fungovať %s vo Výkonnom režime. Výkonný režim môže zvýšiť spotrebu batérie a spôsobiť prehrievanie zariadenia.</string>
+    <string name="pc_performance_mode_dialog_title">Výkonný režim</string>	
 </resources>  

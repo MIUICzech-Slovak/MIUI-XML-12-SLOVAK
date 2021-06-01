@@ -4,4 +4,9 @@
         <item quantity="other">Súborov: %1$d</item>
         <item quantity="one">Súborov: %1$d</item>
     </plurals>
+	
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">Batéria skončila. Vaše zariadenie bude vypnuté o %ds.</item>
+        <item quantity="one">Batéria skončila. Vaše zariadenie bude vypnuté o %ds.</item>
+    </plurals>	
 </resources>

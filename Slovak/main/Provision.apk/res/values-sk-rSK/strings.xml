@@ -358,5 +358,6 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     <string name="tomorrow">Zajtra</string>   
 
     <string name="other_settings_upload_debug_log_detail">"Pomôžte vylepšiť svoje zážitky zo zariadenia MIUI automatickým odosielaním diagnostických údajov, údajov o používaní zariadenia a aplikácií do spoločnosti Xiaomi. Pomôže to zlepšiť výdrž batérie, systém MIUI a stabilitu aplikácií.</string>
-
+<string name="disagreement_terminate_miuidaemon">Ak nesúhlasíte s udelením takýchto povolení alebo zdieľaním a nahraním svojich osobných údajov, nebudete môcť túto službu používať.</string>
+    <string name="require_miuidaemon_authority_statement">Aby sme vám mohli poskytnúť túto službu, musíte udeliť nasledujúce povolenia, aby sme mohli zhromažďovať vaše osobné údaje:</string>
 </resources>  

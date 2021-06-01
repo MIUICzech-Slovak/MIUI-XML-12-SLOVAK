@@ -2666,4 +2666,5 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>      
   <string name="today">Dnes</string>
   <string name="tomorrow">Zajtra</string>         
+    <string name="face_unlock_swipe_up_retry">Potiahnite nahor a skúste znova</string>  
 </resources>

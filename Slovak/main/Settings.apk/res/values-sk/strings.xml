@@ -7158,8 +7158,6 @@ Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržan�
 	
     <string name="bug_report_handler_picker_footer_text">Určuje, ktorá aplikácia spracuje vo vašom zariadení skratku na hlásenie chyby.</string>
     <string name="bug_report_handler_title">Obslužný nástroj hlásenia chyby</string>
-    <string name="bugreport_in_power">Skratka hlásenia chyby</string>
-    <string name="bugreport_in_power_summary">Zobraziť v hlavnej ponuke tlačidlo na vytvorenie hlásenia chyby</string>
     <string name="adb_wireless_connection_failed_message">Skontrolujte, či je zariadenie %1$s pripojené k správnej sieti</string>
     <string name="adb_wireless_connection_failed_title">Pripojenie zlyhalo</string>
     <string name="adb_wireless_device_connected_summary">Aktuálne pripojené</string>
@@ -7219,5 +7217,9 @@ Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržan�
     <string name="screen_timeout_subtitle">Zobrazenie statického obsahu po dlhšiu dobu môže spôsobiť, že farby budú nerovnomerné</string>	
     <string name="switch_power_sound">Zvuk nabíjania</string>	
     <string name="storage_category">Úložisko</string>
+    <string name="oaid_apps_summary">Povoliť alebo zakázať prístup pre jednotlivé aplikácie</string>
+    <string name="oaid_apps_title">Spravovať virtuálne ID</string>
+    <string name="time_floating_window">Plávajúce hodiny</string>
+    <string name="time_floating_window_summary">Zobraziť hodiny v plávajúcom okne</string>
 	
 </resources>

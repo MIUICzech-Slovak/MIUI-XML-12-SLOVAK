@@ -7226,4 +7226,5 @@ Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržan�
     <string name="charge_animation_style_video">Žiara</string>
     <string name="charge_animation_style_wave">Vlna</string>
     <string name="charge_animation_style_particle">Častice</string>	
+    <string name="security_center_title">Bezpečnosť</string>	
 </resources>

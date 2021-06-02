@@ -1767,4 +1767,14 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="mobile_special_network_optimization_config_summary">Pokúsiť sa automaticky opraviť nastavenie siete ak dôjde k chybe</string>
     <string name="mobile_special_network_optimization_config_title">Špeciálna optimalizácia siete</string>
     <string name="invalid_secretcode_format_txt">Chybný formát kódu!</string>	
+	
+    <string name="full_forwarding_number">Presmerované číslo</string>
+    <string name="full_forwarding_number_error_msg">Podporované sú len čísla začínajúce s \"0\".</string>
+    <string name="full_forwarding_number_error_title">Nesprávne telefónne číslo</string>
+    <string name="full_forwarding_number_prefix">"Telefónne číslo: "</string>
+    <string name="full_forwarding_option_forwarding">Presmerovanie</string>
+    <string name="full_forwarding_option_voicemail">Hlasová schránka</string>
+    <string name="full_forwarding_settings">Plné presmerovanie</string>
+    <string name="play_voicemail_settings">Prehrať hlasovú schránku</string>
+    <string name="voicemail_callforward_settings">Hlasová schránka a presmerovanie</string>	
 </resources>

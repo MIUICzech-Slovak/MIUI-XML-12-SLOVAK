@@ -187,7 +187,7 @@ Zobraziť Zásady ochrany osobných údajov pre vybranú klávesnicu."</string>
     <string name="sim_card_detecting">Kontrola SIM karty…</string>
     <string name="sim_card_detecting_check">SIM karta sa nenašla. Uistite sa, že je SIM karta riadne nainštalovaná a máte na účte dostatok prostriedkov.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Povoliť pripojenie k mobilným dátovým sieťam? Ak to urobíte, SIM karta, ktorú vložíte bude využívať mobilné dátové siete.</string>
-    <string name="sim_card_detecting_title">Skontrolovať SIM kartu</string>
+    <string name="sim_card_detecting_title">Kontrola SIM karty</string>
     <string name="sim_card_detection">SIM karta sa nenašla</string>
     <string name="sim_card_detection_info">Pre vytvorenie Xiaomi účtu sa vyžaduje SIM karta.</string>
     <string name="sim_card_detection_mobile_not_available">SIM karta sa nepripojila do siete</string>

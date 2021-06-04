@@ -39,7 +39,7 @@ Vaše dáta nebudú vymazané."</string>
   <string name="menu_title_recovery">Reštartovať do TWRP recovery</string>
   <string name="message_checkbox">Nezobrazovať oznámenia od miuios.cz</string>
   <string name="message_title">Oznámenie!</string>
-  <string name="new_version">Je dostupná nová verzia MIUI!</string>
+  <string name="new_version">Nová verzia MIUI!</string>
   <string name="no_info">Informácie nie sú dostupné</string>
   <string name="no_network">Žiaden prístup k sieti.</string>
   <string name="no_update">Nie je dostupná nová verzia MIUI alebo nastala chyba na serveri. Skontrolujte miuios.cz pre stiahnutie novej verzie.</string>

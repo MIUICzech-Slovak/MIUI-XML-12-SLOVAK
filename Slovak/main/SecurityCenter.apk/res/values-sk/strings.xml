@@ -4822,4 +4822,21 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="pc_hidemode_power_save">Sila</string>
     <string name="pc_performance_mode_dialog_summary">Vaše zariadenie bude schopné fungovať %s vo Výkonnom režime. Výkonný režim môže zvýšiť spotrebu batérie a spôsobiť prehrievanie zariadenia.</string>
     <string name="pc_performance_mode_dialog_title">Výkonný režim</string>	
+	
+
+    <string name="power_setting_wireless_reverse_charging_fg_control_title">Limit nabíjania</string>
+    <string name="power_wireless_need_update_text">Aktualizácia...</string>
+    <string name="power_wireless_update_button_text">Aktualizovať</string>
+    <string name="power_wireless_update_dialog_button">Rozumiem</string>
+    <string name="power_wireless_update_dialog_message">Nabite vaše zariadenie aspoň na %s pre aktualizáciu firmware bezdrôtového nabíjania.</string>
+    <string name="power_wireless_update_dialog_title">Slabá batéria</string>
+    <string name="power_wireless_update_driver">Aktualizácia firmware</string>
+    <string name="power_wireless_update_notification_button">Zobraziť</string>
+    <string name="power_wireless_update_notification_subtitle">Aktualizujte firmware pre zlepšenie stability bezdrôtového nabíjania</string>
+    <string name="power_wireless_update_notification_title">Aktualizácia bezdrôtového nabíjania</string>
+    <string name="power_wireless_update_text">Aktuálne</string>
+    <string name="power_wireless_update_tv_text">Aktualizácia firmware - Nevypínajte zariadenie.</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Zastaviť reverzné bezdrôtové nabíjanie ak batéria tohto zariadenia klesne na %s</string>
+    <string name="setting_wireless_reverse_charging_summary">Umiestnite zariadenie ktoré podporuje Qi bezdrôtové nabíjanie (napr. telefón, slúchadlá, hodinky) do stredu zadnej strany tohto zariadenia</string>
+	
 </resources>  

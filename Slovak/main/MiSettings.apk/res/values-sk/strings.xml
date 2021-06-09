@@ -538,13 +538,13 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
     <string name="random_play_sound_alert">Budete počuť zvuky zvierat z tohto regiónu keď dostanete upozornenie</string>
 	<string name="close">Zatvoriť</string>
 	<string name="send">Odoslať</string>
-	
 <string name="adaptive_fps_tip">2. Dosiahnite najlepší pomer medzi plynulosťou systému a spotreby batérie pomocou dynamickej obnovovacej frekvencie.</string>
-	
-      <string name="authorization_btn_text">Štart</string>
+    <string name="authorization_btn_text">Štart</string>
     <string name="authorization_tips">Vyžadujú sa povolenia</string>
-	
-
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+	
+    <string name="usage_state_focus_mode_experience_warning_message_pad">Režim sústredenia umožňuje použiť len Fotoaparát. Nebude možné vypnúť režim sústredenia na stálo.</string>
+    <string name="usage_state_focus_mode_warning_message_pad">Režim sústredenia umožňuje použiť len Fotoaparát. Nebude možné vypnúť režim sústredenia na stálo.</string>
+    <string name="usage_state_focus_weak_summary_pad">Odložte vaše zariadenie</string>	
 </resources>  

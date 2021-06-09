@@ -315,5 +315,8 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
     <string name="other_settings_pref_title">Ďalšie nastavenia</string>
     <string name="recorder_record">Zvuk</string>
     <string name="remind_settings_pref_title">Upozornenia</string>
-    <string name="tap_to_record">Dotknite sa tlačidla pre spustenie nahrávania</string>                                
+    <string name="tap_to_record">Dotknite sa tlačidla pre spustenie nahrávania</string>      
+
+	<string name="delete_recorder">Vymazať</string>
+    <string name="play_speed">%1$.1fX rýchlosť</string>		
 </resources>  

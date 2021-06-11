@@ -1391,7 +1391,7 @@
   <string name="searching_cast_devices">Vyhľadávanie projektora...</string>
   <string name="secret_album_card_description">Najlepšie miesto pre vaše tajomstvá</string>
   <string name="secret_album_card_title">Skúste tajné albumy</string>
-  <string name="secret_album_display_name">Vybrať album</string>
+  <string name="secret_album_display_name">Tajný album</string>
   <string name="secret_album_password_first_use_msg">Heslo Ochrany súkromia chráni vaše fotografie, poznámky, tajné zložky, atď.</string>
   <string name="secret_album_password_first_use_title">Ochrana súkromia heslom</string>
   <string name="secret_album_password_update_dialog_cancel">Zrušiť</string>

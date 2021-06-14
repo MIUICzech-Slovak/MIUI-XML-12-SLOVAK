@@ -836,6 +836,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
      <string name="hide_pull_down_negative">Neskrývať</string>
      <string name="hide_pull_down_positive">Skryť</string>
      <string name="hide_retract_button">Skryť</string>
+    <string name="incompatible_dialog_cancel">Nepoužiť</string>
 	 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   

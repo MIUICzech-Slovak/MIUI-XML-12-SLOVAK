@@ -7238,4 +7238,6 @@ Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržan�
     <string name="bt_audiorepair_summary">Opraviť sekanie zvuku na pripojených Bluetooth zariadeniach</string>
     <string name="bt_audiorepair_working">Oprava zvuku...</string>
     <string name="miui_input_method_attention">Upozornenie</string>	
+    <string name="date_picker_lunar">Čínsky kalendár</string>
+    
 </resources>

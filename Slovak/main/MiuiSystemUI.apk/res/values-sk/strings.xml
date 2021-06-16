@@ -2667,4 +2667,15 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
   <string name="today">Dnes</string>
   <string name="tomorrow">Zajtra</string>         
     <string name="face_unlock_swipe_up_retry">Potiahnite nahor a skúste znova</string>  
+    
+    <string name="device_locked_without_biometric">Biometrická detekcia nefunguje z dôvodu používania upraveného zámku obrazovky</string>
+    <string name="miui_notification_menu_msg_unfold">Zobraziť %1$s upozornenia oddelene?</string>
+    <string name="miui_notification_menu_unfold">Označiť ako dôležité</string>
+    <string name="miui_unimportant_notifications">Nedôležité upozornenia</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">Nie je možné nastaviť počas hovoru</string>
+    <string name="quick_settings_vowifi_label">Wi-Fi Volanie</string>
+    <string name="quick_settings_vowifi_sim1_label">Wi-Fi Volanie SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">Wi-Fi Volanie SIM2</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content">Stlačte a podržte [Power] a [Volume +] tlačidlá.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content">Vyberte [Wipe data] a potom stlačte [Reboot].</Data></string>                            
 </resources>

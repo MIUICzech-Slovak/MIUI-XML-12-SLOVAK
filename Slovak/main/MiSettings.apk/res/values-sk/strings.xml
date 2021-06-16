@@ -547,4 +547,9 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
     <string name="usage_state_focus_mode_experience_warning_message_pad">Režim sústredenia umožňuje použiť len Fotoaparát. Nebude možné vypnúť režim sústredenia na stálo.</string>
     <string name="usage_state_focus_mode_warning_message_pad">Režim sústredenia umožňuje použiť len Fotoaparát. Nebude možné vypnúť režim sústredenia na stálo.</string>
     <string name="usage_state_focus_weak_summary_pad">Odložte vaše zariadenie</string>	
+
+    <string name="all_ringtone_summary_pad">Vyberte zvonenia</string>
+    <string name="steady_on_screen_notification_title_pad">Odložte váš telefón a oddýchnite si</string>
+    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">Režim sústredenia umožňuje použiť len Fotoaparát a núdzové volania. Nebude možné vypnúť režim sústredenia na stálo.</string>
+    <string name="usage_state_focus_mode_warning_message_sim_pad">Režim sústredenia umožňuje použiť len Fotoaparát a núdzové volania. Nebude možné vypnúť režim sústredenia na stálo.</string>            
 </resources>  

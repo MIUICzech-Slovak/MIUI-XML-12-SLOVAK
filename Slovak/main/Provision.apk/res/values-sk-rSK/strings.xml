@@ -363,4 +363,7 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
 
 	<string name="msim_setting_default_data">Dátová SIM</string>
      <string name="msim_setting_default_voice">Predvolená SIM pre volanie</string>    
+     
+<string name="terms_of_use_lable_apps_wifi_device">Mi služby, MiCloud, Vyhľadávanie zariadenia, Plocha, Hry.</string>     
+<string name="user_agreement_declare_wifi_device">Pred používaním MIUI, musíte súhlasiť s našimi Podmienkami používania a Ochranou súkromia.</string>
 </resources>  

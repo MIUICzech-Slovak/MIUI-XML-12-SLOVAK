@@ -330,6 +330,7 @@
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
   
+    <string name="document_rename_error">Chyba premenovania</string>  
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   

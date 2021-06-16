@@ -198,4 +198,7 @@
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+    
+    <string name="public_authorize_now">Nastavenia</string>
+    <string name="public_please_authorize">Požadované povolenia</string>        
 </resources>  

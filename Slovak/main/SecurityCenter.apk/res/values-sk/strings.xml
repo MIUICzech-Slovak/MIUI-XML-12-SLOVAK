@@ -4838,5 +4838,54 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="power_wireless_update_tv_text">Aktualizácia firmware - Nevypínajte zariadenie.</string>
     <string name="setting_wireless_reverse_charging_fg_control_summary">Zastaviť reverzné bezdrôtové nabíjanie ak batéria tohto zariadenia klesne na %s</string>
     <string name="setting_wireless_reverse_charging_summary">Umiestnite zariadenie ktoré podporuje Qi bezdrôtové nabíjanie (napr. telefón, slúchadlá, hodinky) do stredu zadnej strany tohto zariadenia</string>
-	
+
+
+    <string name="antivirus_browser_check">Skontrolovať webstránky v MiBrowser</string>
+    <string name="antivirus_browser_check_summary">Skontrolovať webstránky v MiBrowser automaticky a dostávať upozornenia o rizikách</string>
+    <string name="antivirus_monitored_tips">Skontrolovať platobné prostredie pre možné riziká</string>
+    <string name="antivirus_sms_check">Skontrolovať URL v Správach</string>
+    <string name="antivirus_sms_check_summary">Skontrolovať URL v prichádzajúcich SMS/MMS</string>
+    <string name="antivirus_website_check_status">Zap</string>
+    <string name="antivirus_website_check_title">Bezpečné prehliadanie</string>
+    <string name="gb_shoulder_key_light_effect">Farebné animácie</string>
+    <string name="gb_shoulder_key_light_effect_color">Farba</string>
+    <string name="gb_shoulder_key_light_effect_subtitle">Farebné animácie budú zobrazené počas hrania hry</string>
+    <string name="gb_shoulder_key_light_effect_title">Animácie</string>
+    <string name="security_protection_bottom_slogon">Najlepšie zabezpečenie</string>
+    <string name="security_protection_title">Bezpečnosť</string>
+    <string name="sp_abnormal_scan_summary">Zistiť a vyriešiť problémy</string>
+    <string name="sp_abnormal_scan_title">Vyriešiť problémy</string>
+    <string name="sp_antispam_scan_summary">Chráňte sa pred podvodmi</string>
+    <string name="sp_antispam_scan_title">Čierna listina</string>
+    <string name="sp_device_security_title">Bezpečnosť zariadenia</string>
+    <string name="sp_find_device_summary">Vyhľadať vaše zariadenie na diaľku</string>
+    <string name="sp_find_device_title">Vyhľadať zariadenie</string>
+    <string name="sp_guard_summary">Spravovať zariadenia vo vašej rodine</string>
+    <string name="sp_guard_title">Rodinný strážca</string>
+    <string name="sp_lock_screen_password_summary">Nastaviť zámok obrazovky</string>
+    <string name="sp_lock_screen_password_title">Zámok obrazovky</string>
+    <string name="sp_micare_summary">Osobné zabezpečenie</string>
+    <string name="sp_more_security_settings">Ďalšie nastavenia</string>
+    <string name="sp_payment_protect_summary">Chrániť online platby</string>
+    <string name="sp_payment_protect_title">Bezpečnosť platieb</string>
+    <string name="sp_person_security_title">Osobná bezpečnosť</string>
+    <string name="sp_phone_scan_summary">Nájsť bezpečnostné riziká</string>
+    <string name="sp_phone_scan_title">Kontrola</string>
+    <string name="sp_power_off_password_summary">Vyžadovať heslo pred vypnutím zariadenia</string>
+    <string name="sp_power_off_password_title">Potvrdenie vypnutia</string>
+    <string name="sp_privacy_protect_summary">Chrániť súkromné informácie</string>
+    <string name="sp_privacy_protect_title">Ochrana súkromia</string>
+    <string name="sp_property_security_title">Bezpečnosť financií</string>
+    <string name="sp_security_center_title">Bezpečnosť</string>
+    <string name="sp_security_check_status_off">Vyp</string>
+    <string name="sp_security_check_status_on">Zap</string>
+    <string name="sp_security_scan_summary">Skontrolovať vírusy vo vašom zariadení</string>
+    <string name="sp_security_scan_title">Kontrola bezpečnosti</string>
+    <string name="sp_sim_protect_summary">Chrániť SIM info</string>
+    <string name="sp_sim_protect_title">Zabezpečenie SIM</string>
+    <string name="sp_sos_summary">Získať pomoc v nebezpečenstve</string>
+    <string name="sp_sos_title">Núdzové SOS</string>
+    <string name="sp_system_security_title">Bezpečnosť systému</string>
+    <string name="sp_website_scan_summary">Bezpečné prehľadanie internetu</string>
+    <string name="sp_website_scan_title">Kontrola webstránok</string>            
 </resources>  

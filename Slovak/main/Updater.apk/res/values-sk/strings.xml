@@ -72,4 +72,5 @@ Vaše dáta nebudú vymazané."</string>
     <string name="notif_service_title">Aplikácia Aktualizácia beží na pozadí</string>      
     
     <string name="downgrade_warning">Pokúšate sa nainštalovať staršiu verziu MIUI! Inštalácia je zablokovaná aby nedošlo k poškodeniu systému!</string>    
+    <string name="menu_title_show_notifications">Zobraziť upozornenia</string>    
 </resources>

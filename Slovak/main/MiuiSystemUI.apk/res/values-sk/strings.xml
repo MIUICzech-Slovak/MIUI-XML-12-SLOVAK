@@ -2676,6 +2676,6 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     <string name="quick_settings_vowifi_label">Wi-Fi Volanie</string>
     <string name="quick_settings_vowifi_sim1_label">Wi-Fi Volanie SIM1</string>
     <string name="quick_settings_vowifi_sim2_label">Wi-Fi Volanie SIM2</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content">Stlačte a podržte [Power] a [Volume +] tlačidlá.</Data></string>
-    <string name="shut_down_password_forget_password_suggesstion_two_content">Vyberte [Wipe data] a potom stlačte [Reboot].</Data></string>                            
+    <string name="shut_down_password_forget_password_suggesstion_one_content">Stlačte a podržte [Power] a [Volume +] tlačidlá.</string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content">Vyberte [Wipe data] a potom stlačte [Reboot].</string>                            
 </resources>

@@ -2674,5 +2674,8 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     <string name="miui_unimportant_notifications">Nedôležité upozornenia</string>
     <string name="msim_set_sub_not_supported_phone_in_call">Nie je možné nastaviť počas hovoru</string>
     <string name="shut_down_password_forget_password_suggesstion_one_content">Stlačte a podržte [Power] a [Volume +] tlačidlá.</string>
-    <string name="shut_down_password_forget_password_suggesstion_two_content">Vyberte [Wipe data] a potom stlačte [Reboot].</string>                            
+    <string name="shut_down_password_forget_password_suggesstion_two_content">Vyberte [Wipe data] a potom stlačte [Reboot].</string>          
+    
+    <string name="pad_zen_mode_warnings_all_time_content">Upozornenia budú stíšené</string>
+    <string name="pad_zen_mode_warnings_keyguard_content">Upozornenia budú stíšené ak je zariadenie uzamknuté</string>                      
 </resources>

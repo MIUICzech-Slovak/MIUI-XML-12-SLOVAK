@@ -910,4 +910,31 @@ Získali ste ďalších %1$s"</string>
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+    
+    <string name="added_category">Pridané</string>
+    <string name="available_size">Dostupné: %s</string>
+    <string name="by_date">Dátumu úpravy</string>
+    <string name="by_name">Názvu</string>
+    <string name="by_size">Veľkosti</string>
+    <string name="by_type">Typu</string>
+    <string name="category_editor_mode">Upraviť</string>
+    <string name="category_exit_editor_mode">Ukončiť</string>
+    <string name="category_more">Viac</string>
+    <string name="display_setting">Zobrazené položky</string>
+    <string name="edit_quick_category">Upraviť</string>
+    <string name="entry_phone_storage_internal">Interné úložisko</string>
+    <string name="entry_storage_cloned_app">Klonované apl.</string>
+    <string name="entry_storage_usb">USB zariadenie</string>
+    <string name="least_quick_category_hint">Pridajte aspoň %d skratku</string>
+    <string name="most_quick_category_hint">Môžete pridať maximálne %d skratiek</string>
+    <string name="not_added_category">Dostupné</string>
+    <string name="recent_hide_camera_and_screenshots">Nezobrazovať fotografie a screenshoty v nedávnych súboroch</string>
+    <string name="remainder_size">Ostáva: %s</string>
+    <string name="search_category">Hľadať podľa kategórie</string>
+    <string name="search_category_folder">Zložky</string>
+    <string name="search_more_category">Viac</string>
+    <string name="size_lv1">Menšie ako %d KB</string>
+    <string name="size_lv6">Väčšie ako %d GB</string>
+    <string name="total_size">Celkom: %s</string>
+                                                                            
 </resources>  

@@ -333,4 +333,13 @@ Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našimi zmlu
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+    
+    <string name="audio_record_des">Pre prenášanie zvuku z vášho zariadenia do externého monitora</string>
+    <string name="dialog_location_permission_message">Táto aplikácia potrebuje prístup k polohe. Vyberte \"Vždy povoliť\" pre zamedzenie prípadným problémom.</string>
+    <string name="dialog_location_permission_title">Vyžadujú sa povolenia</string>
+    <string name="file_read_des">Pre zobrazenie fotografií na externom monitore</string>
+    <string name="mipaly_server_exit_touping">Najskôr ukončite vysielanie</string>
+    <string name="notify">Vysielanie pracuje na pozadí</string>
+    <string name="p2p_location_des">Pre pripojenie vášho zariadenia k externému monitoru</string>
+                            
 </resources>  

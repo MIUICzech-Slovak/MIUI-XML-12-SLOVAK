@@ -506,4 +506,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>      
   <string name="today">Dnes</string>
   <string name="tomorrow">Zajtra</string>     
+  
+    <string name="message_no_voice_capability">Na tomto zariadení nie je možné volať</string>  
 </resources>

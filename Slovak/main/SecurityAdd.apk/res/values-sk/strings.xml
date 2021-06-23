@@ -321,4 +321,8 @@
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+    
+    <string name="gb_gpu_tips_lod">Vylepšiť kvalitu obrázkov optimalizovaním textúr</string>
+    <string name="gb_gpu_tips_render">Použiť multivláknové vykresľovanie pre optimalizovanie výkonu</string>
+            
 </resources>  

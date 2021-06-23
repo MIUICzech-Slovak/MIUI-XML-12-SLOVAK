@@ -726,4 +726,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
      
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+    
+    <string name="skip_query_account">Preskočiť</string>    
 </resources>  

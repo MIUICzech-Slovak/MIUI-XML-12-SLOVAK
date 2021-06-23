@@ -1466,4 +1466,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>    
     <string name="no_contact_selected">Vyberte kontakt pre zobrazenie podrobností</string>  
+    
+    <string name="wifi_pad_disable_phone">Z tohto zariadenia nie je možné volať</string>    
 </resources>  

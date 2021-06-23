@@ -1390,5 +1390,10 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
      <string name="download_in_progress">Sťahovanie...</string>
      <string name="dual_video_record_remote">Nahrávanie z dvoch zariadení</string>     
      <string name="module_name_super_moon">Supermesiac</string>
+     
+    <string name="time_freeze_action_end_tip">Stlačte tlačidlo pre odmrazenie pozadia</string>
+    <string name="time_freeze_action_start_tip">Stlačte tlačidlo pre zmrazenie pozadia</string>
+    <string name="time_freeze_adjust_button_title">Upraviť</string>
+    <string name="time_freeze_clipbox_tint">Zmraziť</string>                 
 
 </resources>  

@@ -886,6 +886,11 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   
 
     <string name="today">Dnes</string>
-    <string name="tomorrow">Zajtra</string>         
+    <string name="tomorrow">Zajtra</string>       
+    
+<string name="anonymous_source_warning_tablet">Vaše zariadenia a osobné údaje sú zraniteľnejšie voči útokom neznámych aplikácií. Inštaláciou tejto aplikácie vyjadrujete súhlas s tým, že nesiete zodpovednosť za akékoľvek poškodenie vášho zariadenia alebo stratu údajov, ktorá môže vzniknúť v dôsledku ich používania.</string>
+    <string name="install_failed_incompatible_tablet">Táto aplikácia nie je kompatibilná s vašim zariadením.</string>
+    <string name="install_failed_msg_tablet">%1$s nemôže byť nainštalovaná do tohto zariadenia.</string>
+	<string name="miui_other_permission">Ostatné</string>              
 
 </resources>

@@ -1675,4 +1675,9 @@ Chcete ju zavrieť?"</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Natrvalo</string>
   <string name="app_running_notification_tip_text">Toto môže spomaliť vaše zariadenie a zvýšiť spotrebu batérie. Dotykom ukončíte aplikáciu.</string>
+  
+  <string name="notification_channel_developer_important">Dôležité správy pre vývojárov</string>
+  <string name="notification_channel_network_alerts">Sieťové upozornenia</string>
+  <string name="notification_channel_network_available">Sieť k dispozícii</string>
+  <string name="notification_channel_network_status">Stav siete</string>  
 </resources>

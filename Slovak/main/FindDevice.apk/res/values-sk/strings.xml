@@ -184,4 +184,7 @@ Prihláste sa na i.mi.com a skúste odblokovať vaše zariadenie odtiaľ"</strin
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+    
+    <string name="find_device_capture_notification_content">Iné autorizované zariadenie zhotovuje fotografiu cez Vyhľadávanie zariadenia na i.mi.com.</string>
+    <string name="find_device_capture_notification_title">Vyhľadávanie zariadenia zhotovuje fotografiu...</string>    
 </resources>  

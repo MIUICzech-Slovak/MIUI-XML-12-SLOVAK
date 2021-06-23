@@ -7242,5 +7242,46 @@ Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržan�
     <string name="lockpassword_confirm_your_lock_pin_header">Potvrďte váš PIN</string>
     <string name="miheadset_dual_connect_mode">Pripojenie k dvom zariadeniam</string>
     <string name="miheadset_dual_connect_mode_summary">Povoľte pre pripojenie vašich slúchadiel k dvom Bluetooth zariadeniam naraz</string>
+    
+    <string name="default_document_title">Dokumenty</string>
+    <string name="document_default_status">Vybrať</string>
+    <string name="document_excel_title">Excel</string>
+    <string name="document_pdf_title">PDF</string>
+    <string name="document_powerpoint_title">PowerPoint</string>
+    <string name="document_word_title">Word</string>
+    <string name="face_password_unlock">Zámok obrazovky a zamykanie tvárou</string>
+    <string name="fingerprint_face_password_unlock">Odtlačky prsta, Tvár, a zámok obrazovky</string>
+    <string name="fingerprint_password_unlock">Odtlačky prsta a zámok obrazovky</string>
+    <string name="launch_smarthome">Xiaomi Rýchle pripojenie</string>
+    <string name="pad_backup_summary">Zálohovať a obnoviť položky v zariadení</string>
+    <string name="pad_backup_title">Mobilné zariadenie</string>
+    <string name="pad_computer_backup_summary">Zálohovať a obnoviť položky pomocou PC</string>
+    <string name="pad_how_backup_content">"Zálohy môžete ukladať lokálne alebo do cloudu. Lokálne zálohy je možné uložiť na vašom mobilnom zariadení, počítači alebo USB disku.
+
+Mobilné zariadenie
+Uložte nastavenia systému, účty, údaje aplikácií a ďalšie položky do samostatného súboru uloženého vo vašom zariadení (MIUI-backup-AllBackup). Poznámka: Obnovením továrenských nastavení sa tieto zálohy natrvalo odstránia. Nezabudnite skopírovať zálohy do počítača.
+
+Počítač
+Vytvorte zálohu na tomto zariadení, potom prejdite na MIUI-backup-AllBackup a skopírujte zálohu do počítača pomocou kábla USB.
+
+USB disk
+Uložte svoje systémové nastavenia, účty, údaje aplikácií a ďalšie položky na jednotku USB.
+
+Xiaomi Cloud
+Synchronizujte svoje kontakty, fotografie, videá, zoznam vašich aplikácií, nastavenia systému a rozloženie plochy s cloudom."</string>
+    <string name="pad_how_restore_backup_content">"Tu je postup, ako môžete obnoviť položky, ktoré boli zálohované pomocou rôznych metód:
+
+Mobilné zariadenie
+Klepnutím na položku „Mobilné zariadenie“ vyhľadajte možnosť obnovenia položiek a pokračujte výberom zálohy.
+
+Počítač
+Skopírujte zálohu z počítača na MIUI-backup-AllBackup pomocou kábla USB a obnovte položky z mobilného zariadenia.
+
+USB disk
+Skopírujte zálohu z jednotky USB do programu MIUI-backup-AllBackup a pokračujte výberom možnosti obnovenia položiek z jednotky USB.
+
+Xiaomi Cloud
+Otvorte Xiaomi Cloud a odtiaľ obnovujte položky."</string>
+    <string name="password_unlock">Zámok obrazovky</string>                            
             
 </resources>

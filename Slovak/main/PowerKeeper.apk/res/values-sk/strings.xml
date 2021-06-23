@@ -259,8 +259,8 @@
   <string name="still">Obrázky</string>
   <string name="sucess">Hotovo</string>
   <string name="ui">Štandard</string>
-  <string name="update_profile_failture_not_connect_wifi">Update failed, no Wifi connection</string>
-  <string name="update_profile_sucess">Update form server sucess</string>
+  <string name="update_profile_failture_not_connect_wifi">Aktualizácia zlyhala, pripojte sa k Wi-Fi sieti</string>
+  <string name="update_profile_sucess">Aktualizované</string>
   <string name="user_define_mode">Názov</string>
   <string name="warm_configure">Nastavenie kontroly teploty</string>
   <string name="warm_performance_tip">Vo výkonných operáciach sa môže teplota zariadenia zvýšiť viac ako je bežné</string>
@@ -278,6 +278,8 @@
     <string name="accessibility_service_description">Inteligentná úspora energie</string>
     
     <string name="kill_pkg_toast_message">Vaše zariadenie sa prehrieva. Aplikácia bude ukončená.</string>
-    <string name="stricter_high_temp_state_message">Vaše zariadenie sa prehrieva. Môžete používať len aplikáciu Telefón a Kontakty.</string>        
+    <string name="stricter_high_temp_state_message">Vaše zariadenie sa prehrieva. Môžete používať len aplikáciu Telefón a Kontakty.</string>       
+    <string name="softbank_high_temp_toast_time_10min">Vypnite svietidlo pre zamedzenie prehrievania</string>
+    <string name="softbank_high_temp_toast_time_4min">Svietidlo vypnuté pre zamedzenie prehrievania</string>     
   
 </resources>

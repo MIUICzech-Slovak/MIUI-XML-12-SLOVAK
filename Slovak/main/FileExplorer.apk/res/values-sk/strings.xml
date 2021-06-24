@@ -937,7 +937,7 @@ Získali ste ďalších %1$s"</string>
     <string name="size_lv6">Väčšie ako %d GB</string>
     <string name="total_size">Celkom: %s</string>
 
-     <string name="app_all_purpose_pad"Vitajte v aplikácií Súbory! Pomocou tejto aplikácie môžete spravovať vaše súbory na úložisku.</string>
+     <string name="app_all_purpose_pad">Vitajte v aplikácií Súbory! Pomocou tejto aplikácie môžete spravovať vaše súbory na úložisku.</string>
      <string name="enter">Otvoriť správcu súborov</string>
      <string name="guide_one_summary">Nedávne súbory sú zoskupené podľa dátumu.</string>
      <string name="guide_one_title">Položky zoradené do časovej osi</string>

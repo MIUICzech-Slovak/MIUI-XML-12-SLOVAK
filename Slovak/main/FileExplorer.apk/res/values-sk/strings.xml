@@ -906,11 +906,8 @@ Získali ste ďalších %1$s"</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
-  
-
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
-    
     <string name="added_category">Pridané</string>
     <string name="available_size">Dostupné: %s</string>
     <string name="by_date">Dátumu úpravy</string>
@@ -930,13 +927,11 @@ Získali ste ďalších %1$s"</string>
     <string name="not_added_category">Dostupné</string>
     <string name="recent_hide_camera_and_screenshots">Nezobrazovať fotografie a screenshoty v nedávnych súboroch</string>
     <string name="remainder_size">Ostáva: %s</string>
-    <string name="search_category">Hľadať podľa kategórie</string>
     <string name="search_category_folder">Zložky</string>
     <string name="search_more_category">Viac</string>
     <string name="size_lv1">Menšie ako %d KB</string>
     <string name="size_lv6">Väčšie ako %d GB</string>
     <string name="total_size">Celkom: %s</string>
-
      <string name="app_all_purpose_pad">Vitajte v aplikácií Súbory! Pomocou tejto aplikácie môžete spravovať vaše súbory na úložisku.</string>
      <string name="enter">Otvoriť správcu súborov</string>
      <string name="guide_one_summary">Nedávne súbory sú zoskupené podľa dátumu.</string>
@@ -947,4 +942,4 @@ Získali ste ďalších %1$s"</string>
      <string name="guide_two_title">Zobraziť len základné položky</string>
      <string name="next">Ďalej</string>
      <string name="start_all">Všetko</string>  
-</resources>  
+</resources>

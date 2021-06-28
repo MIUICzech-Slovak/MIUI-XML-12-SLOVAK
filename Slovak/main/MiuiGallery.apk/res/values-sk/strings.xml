@@ -803,7 +803,7 @@
   <string name="ignore_face">Ignorovať túto osobu</string>
   <string name="ignore_faces_title">Ignorované</string>
   <string name="image_decode_failed">Nie je možné dekódovať obrázok</string>
-  <string name="image_download_item_title">Sťahovanie obrázku (%s)</string>
+  <string name="image_download_item_title">Stiahnuť originál (%s)</string>
   <string name="image_invalid_path">Neplatná cesta</string>
   <string name="image_not_found">Nie je možné nájsť obrázok</string>
   <string name="image_quota_fulfiled">"Nie je možné vytvoriť obrázok, Počet obrázkov presiahol limit."</string>

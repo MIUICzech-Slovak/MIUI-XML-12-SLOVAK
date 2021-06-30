@@ -4914,4 +4914,17 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="pc_hidemode_power_save">Výkon</string>
     <string name="pc_performance_mode_dialog_summary">Vaše zariadenie bude schopné fungovať %s vo Výkonnom režime. Výkonný režim môže zvýšiť spotrebu batérie a prehrievanie zariadenia.</string>
     <string name="pc_performance_mode_dialog_title">Výkonný režim</string>	
+	
+	<string name="privacy_dialog_content_part1">Vitajte v Optimalizácii! Táto aplikácia stráži vaše zariadenie, či neobsahuje odpad a vírusy, a tiež vám umožňuje spravovať aplikácie, riadiť využitie mobilných dát, blokovať hovory a správy atď.</string>
+     <string name="privacy_dialog_content_part2"><Data>Optimalizácia musí zhromažďovať nevyhnutné osobné údaje, aby vám mohla poskytovať svoje služby a vylepšovať svoje funkcie. Ako nakladáme s informáciami, ktoré zhromažďujeme sa dozviete v &lt;a href=\"%1$s\">Ochrane súkromia&lt;/a>. Svoj súhlas s podmienkami použitia a ochranou súkromia môžete kedykoľvek odvolať v Nastavenia.</Data></string>
+     <string name="privacy_dialog_content_part3"><Data>Prečítajte si a súhlas s našimi &lt;a href=\"%2$s\">Podmienky použitia&lt;/a> a &lt;a href=\"%1$s\">Ochranou súkromia&lt;/a> pred používaním Optimalizácia . Ak nesúhlasíte s používaním vyššie uvedených služieb, nebudete môcť používať niektoré funkcie tejto aplikácie, jej základné funkcie vám však budú aj naďalej k dispozícii.</Data></string>	
+	 <string name="privacy_dialog_message">Keď sa pripojíte k internetu, bude táto správa spolu s informáciami o operátorovi zašifrované a nahraná na Xiaomi servery, čo nám pomôže zlepšiť monitorovanie využitie dát.</string>
+     <string name="privacy_dialog_revoking">Odvolávanie súhlasu…</string>
+     <string name="privacy_dialog_title">Pravidla a podmienky</string>
+     <string name="privacy_revoke_dialog_content">Prepnutím prepínača odvoláte svoj súhlas s ochranou súkromia v Optimalizácia. Prestaneme zhromažďovať vaše osobné údaje. Osobné údaje, ktoré už boli zhromaždené a uchované, budú v konkrétnej lehote vymazané, ako to vyžadujú príslušné zákony. Optimalizácia musí zhromažďovať nevyhnutné osobné údaje, aby vám mohla poskytovať základné služby. Vaše odvolanie súhlasu s ochranou súkromia bude považované za neprijatie zhromažďovania osobných údajov.</string>
+     <string name="privacy_revoke_dialog_negetive_text">Zrušiť</string>
+     <string name="privacy_revoke_dialog_positive_text">Odvolať</string>
+     <string name="privacy_revoke_dialog_title">Odvolanie súhlasu</string>
+	 <string name="exit_dialog_exit">Odísť</string>
+     <string name="exit_dialog_garbage_clean_message_new"><Data>Čistič môže uvolniť &lt;font color=#0099ff>%s&lt;/font> z úložiska. Vyčistiť?</Data></string>	 
 </resources>  

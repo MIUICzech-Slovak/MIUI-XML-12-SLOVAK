@@ -319,4 +319,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
 
 	<string name="delete_recorder">Vymazať</string>
     <string name="play_speed">%1$.1fX rýchlosť</string>		
+	
+    <string name="low_battery_error_for_pad">Ostáva menej ako %s batérie. Uložte svoje nahrávky aby ste o nich neprišli.</string>
+    <string name="notification_recording_ticker_for_pad">Vaše zariadenie nahráva zvuk v Tichom režime. Použite tlačidla hlasitosti pre vypnutie Tichého režimu.</string>	
 </resources>  

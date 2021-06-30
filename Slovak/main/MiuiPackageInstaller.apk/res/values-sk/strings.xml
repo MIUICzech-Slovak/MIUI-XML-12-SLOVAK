@@ -893,4 +893,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="install_failed_msg_tablet">%1$s nemôže byť nainštalovaná do tohto zariadenia.</string>
 	<string name="miui_other_permission">Ostatné</string>              
 
+<string name="install_confirm_question_des_10_tablet">"If you're willing to take the risks and want to proceed with the installation, authorize the installation in Security > Manage apps > Permissions > Apps with possible risks. If you can't find \"Apps with possible risks\", update your Security app and try again."</string>
+    <string name="settings_warning_dialog_msg_tablet">"Your device is prone to security risks. You won't be prompted to install secure app versions if you turn this feature off. Turn off anyway?"</string>
+    <string name="untrusted_external_source_warning_summary_tablet">"Your device and personal data are vulnerable to attacks by the apps installed from unknown sources. By allowing to install apps from this source, you agree to accept responsibility for any damage or data loss that might occur while you're using these apps."</string>	
 </resources>

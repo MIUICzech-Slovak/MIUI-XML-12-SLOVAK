@@ -117,4 +117,6 @@ dlhý screenshot"</string>
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+	
+    <string name="screenshot_thumbnail">Náhľad screenshotu</string>	
 </resources>  

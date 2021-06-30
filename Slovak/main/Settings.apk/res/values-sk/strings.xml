@@ -7284,4 +7284,11 @@ Xiaomi Cloud
 Otvorte Xiaomi Cloud a odtiaľ obnovujte položky."</string>
     <string name="password_unlock">Zámok obrazovky</string>                            
             
+    <string name="customize_knock_gesture">Vlastné gestá</string>
+    <string name="gxzw_anim_unlock_effect">%s animácia odtlačku prsta</string>
+    <string name="kddi_nfc_secure_settings_title">Zamknúť ak je na zamknutej obrazovke</string>
+    <string name="magic_list_empty_text">Žiadne aplikácie nie sú kompatibilné s touto funkciou</string>
+    <string name="reset_network_title_noSim">Obnoviť Wi-Fi a Bluetooth</string>
+    <string name="voip_assistant_settings_off">Vyp</string>
+    <string name="voip_assistant_settings_on">Zap</string>
 </resources>

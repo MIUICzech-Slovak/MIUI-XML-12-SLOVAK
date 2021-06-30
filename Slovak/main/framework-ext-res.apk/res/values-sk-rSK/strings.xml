@@ -305,4 +305,12 @@
     <string name="battery_authentic_failed_button">Rozumiem</string>
     <string name="battery_authentic_failed_title">Upozornenie</string>
     <string name="other_ime">Ostatné klávesnice</string>	
+	
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">Pre deaktivovanie tejto funkcie, stlačte tlačidlo pridanie hlasitosti.</string>
+    <string name="screen_on_proximity_sensor_summary_for_kddi">Nezakrývajte senzor okolitého osvetlenia</string>
+    <string name="small_freeform_enter_warning">Plávajúce okno</string>
+    <string name="small_freeform_exit_tip">Zatvoriť plávajúce okno</string>
+    <string name="small_freeform_memory_toast_app_type">Nebolo možné otvoriť. Táto aplikácia vyžaduje veľa voľnej RAM.</string>
+    <string name="small_freeform_memory_toast_game_type">Nebolo možné otvoriť. Táto hra vyžaduje veľa voľnej RAM.</string>
+	
 </resources>

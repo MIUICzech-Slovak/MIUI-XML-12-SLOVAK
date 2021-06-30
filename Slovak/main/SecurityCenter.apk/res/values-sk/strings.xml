@@ -4899,4 +4899,19 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="verify_shut_down_password_title">Potvrdenie vypnutia</string>
 	<string name="app_manager_default_cleared">Vymazané</string>        
 
+    <string name="app_behavior_desc_allowed_at">Povolené o %s</string>
+    <string name="app_behavior_desc_allowed_on_background_at">Povolené na pozadí o %s</string>
+    <string name="app_behavior_desc_denied_at">Zakázané o %s</string>
+    <string name="app_behavior_desc_denied_on_background_at">Zakázané na pozadí o %s</string>
+    <string name="first_aid_exception_sub_title">Tieto položky budú ignorované počas kontroly</string>
+    <string name="gtb_brightness_dialog_right_btn">Ponechať</string>
+    <string name="gtb_brightness_dialog_sub_message">*Túto funkciu môžete vypnúť v nastaveniach.</string>
+    <string name="gtb_setting_item_title_brightness">Automaticky znížiť jas displeja</string>
+    <string name="pc_hidemode_normal">Vyvážené</string>
+    <string name="pc_hidemode_normal_title">Vyvážené</string>
+    <string name="pc_hidemode_performance">Výkonné</string>
+    <string name="pc_hidemode_performance_title">Výkonný režim</string>
+    <string name="pc_hidemode_power_save">Výkon</string>
+    <string name="pc_performance_mode_dialog_summary">Vaše zariadenie bude schopné fungovať %s vo Výkonnom režime. Výkonný režim môže zvýšiť spotrebu batérie a prehrievanie zariadenia.</string>
+    <string name="pc_performance_mode_dialog_title">Výkonný režim</string>	
 </resources>  

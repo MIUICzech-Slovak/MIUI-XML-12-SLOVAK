@@ -261,8 +261,19 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
-  
-
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+
+    <string name="activate_popup_desc_failed_query_info_msg_one_sim">Nebolo možné skontrolovať telefónne číslo. Skontrolujte SIM kartu.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Pre aktiváciu \"%2$s\", zadajte telefónne číslo. Ak zmeníte SIM kartu, bude znova odoslaná aktivačná SMS.</string>
+    <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Pre aktiváciu %s, zadajte vaše telefónne číslo.</string>
+<string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. Pre aktiváciu \"%2$s\", zadajte vaše telefónne číslo.</string>
+    <string name="activate_popup_failed_send_sms_desc_one_sim">Nebolo možné odoslať aktivačnú SMS. Skontrolujte SIM kartu.</string>
+<string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">Nebolo možné skontrolovať telefónne číslo. Skontrolujte SIM kartu.</string>
+<string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">Nebolo možné prijať aktivačnú SMS. Skontrolujte SIM kartu.</string>
+    <string name="error_no_get_send_sms_permission_one_sim">Najskôr povoľte odosielanie SMS.</string>
+    <string name="error_sim_not_in_service_tip_one_sim">Nebolo možné pripojiť sa k sieti. Skontrolujte SIM kartu.</string>
+    <string name="sim_activate_failed">Nebolo možné aktivovať služby</string>
+    <string name="sim_activate_prepare">Aktivovať služby</string>	
+
 </resources>  

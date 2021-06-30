@@ -4907,13 +4907,7 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="gtb_brightness_dialog_right_btn">Ponechať</string>
     <string name="gtb_brightness_dialog_sub_message">*Túto funkciu môžete vypnúť v nastaveniach.</string>
     <string name="gtb_setting_item_title_brightness">Automaticky znížiť jas displeja</string>
-    <string name="pc_hidemode_normal">Vyvážené</string>
     <string name="pc_hidemode_normal_title">Vyvážené</string>
-    <string name="pc_hidemode_performance">Výkonné</string>
-    <string name="pc_hidemode_performance_title">Výkonný režim</string>
-    <string name="pc_hidemode_power_save">Výkon</string>
-    <string name="pc_performance_mode_dialog_summary">Vaše zariadenie bude schopné fungovať %s vo Výkonnom režime. Výkonný režim môže zvýšiť spotrebu batérie a prehrievanie zariadenia.</string>
-    <string name="pc_performance_mode_dialog_title">Výkonný režim</string>	
 	
 	<string name="privacy_dialog_content_part1">Vitajte v Optimalizácii! Táto aplikácia stráži vaše zariadenie, či neobsahuje odpad a vírusy, a tiež vám umožňuje spravovať aplikácie, riadiť využitie mobilných dát, blokovať hovory a správy atď.</string>
      <string name="privacy_dialog_content_part2"><Data>Optimalizácia musí zhromažďovať nevyhnutné osobné údaje, aby vám mohla poskytovať svoje služby a vylepšovať svoje funkcie. Ako nakladáme s informáciami, ktoré zhromažďujeme sa dozviete v &lt;a href=\"%1$s\">Ochrane súkromia&lt;/a>. Svoj súhlas s podmienkami použitia a ochranou súkromia môžete kedykoľvek odvolať v Nastavenia.</Data></string>

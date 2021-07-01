@@ -282,4 +282,8 @@
     <string name="hearing_assist_transmission_tips_summary">Live in-ear monitor prenáša zvuk z mikrofónu zariadenia do pripojených slúchadiel. Chcete ho zapnúť?</string>
     <string name="hearing_assist_transmission_tips_title">Live in-ear monitor</string>
 	
+    <string name="kddi_miui_toast_zen_standard_to_off">Tichý režim je vypnutý. Hovory a upozornenia nebudú stíšené.</string>
+    <string name="kddi_miui_toast_zen_to_standard">Prepnuté do Tichého režimu. Hovory a upozornenia budú stíšené.</string>
+    <string name="miui_toast_zen_dnd_to_off_T">Upozornenia už nie sú stíšené</string>
+    <string name="miui_toast_zen_to_dnd_T">Upozornenia budú stíšené</string>	
 </resources>  

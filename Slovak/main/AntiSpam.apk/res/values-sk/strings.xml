@@ -355,5 +355,5 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="user_define_title">Vlastný režim</string>
   <string name="website">Webstránka</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
-  <string name="wl_no_whitelist">Žiadne čísla</string>
+  <string name="wl_no_whitelist">Žiadne čísla</string
 </resources>

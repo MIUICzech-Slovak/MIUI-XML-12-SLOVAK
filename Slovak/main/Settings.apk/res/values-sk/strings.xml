@@ -7291,4 +7291,24 @@ Otvorte Xiaomi Cloud a odtiaľ obnovujte položky."</string>
     <string name="reset_network_title_noSim">Obnoviť Wi-Fi a Bluetooth</string>
     <string name="voip_assistant_settings_off">Vyp</string>
     <string name="voip_assistant_settings_on">Zap</string>
+    
+    <string name="wifi_wakeup_title">Povoliť dodatočné funkcie</string>
+    <string name="wifi_wakeup_location_summary">Povoľte služby určovania polohy pre používanie tejto funkcie.</string>
+    <string name="wifi_wakeup_negative_button">Zrušiť</string>
+    <string name="wifi_wakeup_positive_button">Povoliť</string>
+    <string name="abc_slice_more">Viac</string>
+    <string name="sud_back_button_label">Späť</string>
+    <string name="sud_more_button_label">Viac</string>
+    <string name="sud_next_button_label">Ďalej</string>
+    <string name="security_settings_face_enroll_introduction_more">Viac</string>
+    <string name="more">Viac</string>
+
+    <string name="enable_local_backup">Povoliť</string>
+    <string name="enable_local_backup_cancel">Zrušiť</string>
+    <string name="enable_local_backup_message">Povoľte túto funkciu pre možnosť uloženia zálohy do tohto zariadenia a jej skopírovania na USB úložisko. Chcete povoliť?</string>
+    <string name="enable_local_backup_ok">OK</string>
+    <string name="enable_local_backup_title">Lokálne zálohy</string>
+    <string name="local_backup_usestatus_title">Lokálne zálohy sú vypnuté</string>
+    <string name="login_account_summary_temp">Spravovať účty, cloudové služby, a viac</string>
+    <string name="micloud_service_summary_temp">Synchr. fotografie, videá, kontakty, a viac</string>                    
 </resources>

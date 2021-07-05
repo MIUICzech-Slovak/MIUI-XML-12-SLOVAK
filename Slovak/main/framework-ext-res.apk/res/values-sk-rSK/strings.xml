@@ -312,5 +312,12 @@
     <string name="small_freeform_exit_tip">Zatvoriť plávajúce okno</string>
     <string name="small_freeform_memory_toast_app_type">Nebolo možné otvoriť. Táto aplikácia vyžaduje veľa voľnej RAM.</string>
     <string name="small_freeform_memory_toast_game_type">Nebolo možné otvoriť. Táto hra vyžaduje veľa voľnej RAM.</string>
+    
+    <string name="keyboard_identity_reject_confirm">Rozumiem</string>
+    <string name="keyboard_identity_reject_message">Vaša klávesnica nie je kompatibilná s týmto zariadením.</string>
+    <string name="keyboard_identity_transfer_error_message">Klávesnicu nebolo možné pripojiť.</string>
+    <string name="keyboard_upgrade_failed">Nebolo možné aktualizovať klávesnicu</string>
+    <string name="keyboard_upgrade_start">Aktualizácia klávesnice...</string>
+    <string name="keyboard_upgrade_success">Klávesnica bola aktualizovaná</string>    
 	
 </resources>

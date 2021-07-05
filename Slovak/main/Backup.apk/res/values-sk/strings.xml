@@ -836,5 +836,12 @@ Veľkosť Delta aktualizácie: %2$s"</string>
     <string name="tomorrow">Zajtra</string>   
     
     <string name="apps_item_desc">Apl.</string>
-    <string name="new_pc_restore_content1_pad">%d. Pripojte vaše zariadenie k PC pomocou USB kábla.</string>        
+    <string name="new_pc_restore_content1_pad">%d. Pripojte vaše zariadenie k PC pomocou USB kábla.</string>   
+    
+    <string name="disable_local_backup">Vypnúť lokálne zálohy</string>
+    <string name="disable_local_backup_and_restore">Vypnúť lokálne zálohy</string>
+    <string name="disable_local_backup_tips">Ak vypnete túto funkciu, všetky zálohy budú vymazané. Chcete ju vypnúť?</string>
+    <string name="enable_local_backup">Zapnúť lokálne zálohy</string>
+    <string name="enable_local_backup_and_restore">Zapnúť lokálne zálohy</string>
+    <string name="enable_local_backup_tips">Povoľte túto funkciu pre možnosť uloženia zálohy do tohto zariadenia. Povoliť teraz?</string>             
 </resources>  

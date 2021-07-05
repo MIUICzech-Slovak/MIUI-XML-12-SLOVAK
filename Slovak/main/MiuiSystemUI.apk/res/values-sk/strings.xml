@@ -2679,15 +2679,17 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     <string name="pad_zen_mode_warnings_all_time_content">Upozornenia budú stíšené</string>
     <string name="pad_zen_mode_warnings_keyguard_content">Upozornenia budú stíšené ak je zariadenie uzamknuté</string>   
 
-	    <string name="device_locked_without_biometric_face">Biometric detection cannot be performed due to the use of three-party one-key screen lock function</string>
-    <string name="device_locked_without_biometric_finger">Biometric detection cannot be performed due to the use of three-party one-key screen lock function</string>
-    <string name="fingerprint_again_identified_msg_password">The fingerprint function has been restored Can use fingerprint or complex password to unlock</string>
-    <string name="fingerprint_again_identified_msg_pattern">The fingerprint function has been restored can be unlocked with fingerprint or graphic password</string>
-    <string name="fingerprint_again_identified_msg_pin">The fingerprint function has been restored can be unlocked with fingerprint or digital password</string>
-    <string name="fingerprint_not_identified_msg_password">Fingerprint verification failed the maximum number of times, Please try again later or use a complex password to unlock</string>
-    <string name="fingerprint_not_identified_msg_pattern">Please fail fingerprint verification up to the maximum number of times, please try again later or use graphic password to perform</string>
-    <string name="fingerprint_not_identified_msg_pin">Fingerprint verification has failed the maximum number of times. Please try again later or use a digital password to unlock</string>
-<string name="fs_gesture_final_see_more">View more demos in Settings > Home screen > System navigation</string>
-    <string name="input_pattern_after_boot_msg">Drawing your pattern is required when the device reboots</string>
-    <string name="input_pin_after_boot_msg">Entering your PIN is required when the device reboots</string>	
+    <string name="device_locked_without_biometric_face">Biometrická detekcia nefunguje z dôvodu používania upraveného zámku obrazovky</string>
+    <string name="device_locked_without_biometric_finger">Biometrická detekcia nefunguje z dôvodu používania upraveného zámku obrazovky</string>
+    <string name="fingerprint_again_identified_msg_password">Váš odtlačok prsta je teraz aktívny. Môžete ho použiť pre odomknutie alebo zadajte heslo.</string>
+    <string name="fingerprint_again_identified_msg_pattern">Váš odtlačok prsta je teraz aktívny. Môžete ho použiť pre odomknutie alebo zadajte vzor.</string>
+    <string name="fingerprint_again_identified_msg_pin">Funkcia odtlačku prsta bola obnovená</string>
+    <string name="fingerprint_not_identified_msg_password">Príliš mnoho neúspešných pokusov. Zadajte vaše heslo pre odomknutie</string>
+    <string name="fingerprint_not_identified_msg_pattern">Príliš mnoho neúspešných pokusov. Zadajte váš vzor pre odomknutie</string>
+    <string name="fingerprint_not_identified_msg_pin">Príliš mnoho neúspešných pokusov. Zadajte váš PIN pre odomknutie</string>
+    <string name="fs_gesture_final_see_more">Zobraziť viac ukážok v Nastavenia > Domáca obrazovka > Ovládanie</string>
+    <string name="input_pattern_after_boot_msg">Zadanie vzoru je vyžadované po reštarte zariadenia</string>
+    <string name="input_pin_after_boot_msg">Zadanie PIN je vyžadované po reštarte zariadenia</string>	
+    
+    <string name="keyguard_invalid_sim_puk_hint">PUK kód musí obsahovať %1$d znakov.</string>    
 </resources>

@@ -281,5 +281,7 @@
     <string name="stricter_high_temp_state_message">Vaše zariadenie sa prehrieva. Môžete používať len aplikáciu Telefón a Kontakty.</string>       
     <string name="softbank_high_temp_toast_time_10min">Vypnite svietidlo pre zamedzenie prehrievania</string>
     <string name="softbank_high_temp_toast_time_4min">Svietidlo vypnuté pre zamedzenie prehrievania</string>     
+    
+    <string name="sleep_config_enhance_description_pad">Ak MIUI zistí, že ste zaspali, aplikácie v pozadí budú ukončené, Bluetooth a Wi-Fi budú obmedzené, a displej sa nerozsvieti ak dostanete upozornenie.</string>    
   
 </resources>

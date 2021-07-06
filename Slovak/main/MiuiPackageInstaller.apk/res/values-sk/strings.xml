@@ -893,7 +893,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="install_failed_msg_tablet">%1$s nemôže byť nainštalovaná do tohto zariadenia.</string>
 	<string name="miui_other_permission">Ostatné</string>              
 
-<string name="install_confirm_question_des_10_tablet">Ak chcete riskovať a chcete v inštalácii pokračovať, autorizujte inštaláciu v časti Zabezpečenie> Správa aplikácií> Povolenia> Aplikácie s možnými rizikami. Ak nemôžete nájsť „Aplikácie s možnými rizikami“, aktualizujte si aplikáciu Zabezpečenie a skúste to znova.</string>
+<string name="install_confirm_question_des_10_tablet">Ak chcete riskovať a chcete v inštalácii pokračovať, autorizujte inštaláciu v časti Optimalizácia > Aplikácie > Povolenia > Aplikácie s možnými rizikami. Ak nemôžete nájsť „Aplikácie s možnými rizikami“, aktualizujte si aplikáciu Optimalizácia a skúste to znova.</string>
     <string name="settings_warning_dialog_msg_tablet">Vaše zariadenie je náchylné na bezpečnostné riziká. Ak túto funkciu vypnete, nebudete vyzvaní na inštaláciu zabezpečených verzií aplikácií. Aj tak vypnúť?</string>
     <string name="untrusted_external_source_warning_summary_tablet">Vaše zariadenie a osobné údaje sú zraniteľné voči útokom aplikácií nainštalovaných z neznámych zdrojov. Povolením inštalovať aplikácie z tohto zdroja súhlasíte s prijatím zodpovednosti za akékoľvek poškodenie alebo stratu údajov, ku ktorým môže dôjsť pri ich používaní.</string>	
 

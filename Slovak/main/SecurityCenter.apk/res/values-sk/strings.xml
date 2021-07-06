@@ -4930,7 +4930,7 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="pp_antitrack_detail">Aplikácie môžu sledovať vašu aktivitu prostredníctvom osobných identifikátorov, informácií o polohe a ďalších typov osobných informácií zdieľaných s nimi. Sledovanie vašej aktivity v rôznych aplikáciách a weboch im umožňuje prispôsobovať reklamy a odporúčať vám relevantný obsah.</string>
     <string name="pp_block_mac">Obmedziť prístup k MAC adrese</string>
     <string name="pp_block_mac_summary">Prístup k vašej MAC adrese je obmedzený pre všetky aplikácie.</string>
-    <string name="pp_identifier_protection">chrániť osobné identifikátory</string>
+    <string name="pp_identifier_protection">Chrániť osobné identifikátory</string>
     <string name="pp_manage_track">Monitorovať sledovače</string>
     <string name="pp_manage_track_summary">Zistiť a zakázať rôzne typy sledovacích nástrojov zabudovaných do aplikácií. Takéto sledovače môžu zdieľať vaše osobné identifikátory tým, že pristupujú k položkám a ukladajú ich do interného úložiska, alebo na sledovanie vašej činnosti používajú zdieľané SDK.</string>
     <string name="pp_operator_get_number">Vyžadovať povolenie pre prístup k telefónnemu číslu</string>

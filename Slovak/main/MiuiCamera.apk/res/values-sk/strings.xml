@@ -1395,5 +1395,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="time_freeze_action_start_tip">Stlačte tlačidlo pre zmrazenie pozadia</string>
     <string name="time_freeze_adjust_button_title">Upraviť</string>
     <string name="time_freeze_clipbox_tint">Zmraziť</string>                 
-
+    <string name="invisible_mode_dialog_cancel">Zrušiť</string>
+    <string name="invisible_mode_dialog_summary">Momentálne nie je možné použiť fotoaparát. Vypnite inkognito režim v nastaveniach.</string>
+    <string name="invisible_mode_dialog_title">Ste inkognito</string>
+    <string name="invisible_mode_dialog_to_close">Nastavenia</string>
 </resources>  

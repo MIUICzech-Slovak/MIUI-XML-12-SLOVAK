@@ -72,5 +72,22 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
-    </plurals>                    
+    </plurals>     
+
+    <plurals name="app_info_permission_count">
+        <item quantity="other">Povolenia: %1$s</item>
+        <item quantity="one">Povolenia: %1$s</item>
+    </plurals>
+    <plurals name="app_info_private_permission_count">
+        <item quantity="other">Citlivé povolenia: %1$s</item>
+        <item quantity="one">Citlivé povolenia: %1$s</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">Hodnotenia: %1$s</item>
+        <item quantity="one">Hodnotenia: %1$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Upozornenia: %d</item>
+        <item quantity="one">Upozornenia: %d</item>
+    </plurals>	
 </resources>

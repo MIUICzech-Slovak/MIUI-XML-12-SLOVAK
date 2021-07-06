@@ -514,4 +514,7 @@ si zaslúži vlastnú aplikáciu"</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>      
   <string name="today">Dnes</string>
   <string name="tomorrow">Zajtra</string>   
+  
+    <string name="settings_notification_second_space_show_in_locked_summary">Zobraziť upozornenia z Druhého profilu na zamknutej obrazovke</string>
+    <string name="settings_notification_second_space_show_in_locked_title">Zobraziť upozornenia</string>  
 </resources>

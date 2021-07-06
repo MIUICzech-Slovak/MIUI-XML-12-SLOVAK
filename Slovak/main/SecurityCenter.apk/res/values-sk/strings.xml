@@ -3842,7 +3842,7 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="privacy_search_key_5">Špeciálne povolenia</string>
      <string name="privacy_search_key_6">Upozornenie na povolenia</string>
      <string name="privacy_search_key_7">Poloha</string>
-     <string name="privacy_search_key_8">Súkromie</string>
+     <string name="privacy_search_key_8">Nesledovať</string>
      <string name="privacy_search_key_9">Virtuálne ID</string>
      <string name="privacy_show_password">Zobraziť heslo</string>
      <string name="privacy_show_password_summary">Ponechať heslá viditeľné na krátky čas</string>
@@ -4921,4 +4921,23 @@ Skúste zväčšiť rozlíšenie!"</string>
      <string name="privacy_revoke_dialog_title">Odvolanie súhlasu</string>
 	 <string name="exit_dialog_exit">Odísť</string>
      <string name="exit_dialog_garbage_clean_message_new"><Data>Čistič môže uvolniť &lt;font color=#0099ff>%s&lt;/font> z úložiska. Vyčistiť?</Data></string>	 
+	 
+    <string name="applock_numeric_pwd_type_line">Celkový počet znakov v hesle: %1$d. Zadané znaky: %2$d.</string>
+    <string name="pc_performance_mode_dialog_summary2">Zlepší sa výkon zariadenia. To by mohlo zvýšiť spotrebu energie a viesť k problémom s prehrievaním. Aj tak zapnúť?</string>
+    <string name="pc_performance_mode_noti_summary">Režim výkonu môže zvýšiť spotrebu energie a viesť k problémom s prehrievaním</string>
+    <string name="pc_performance_mode_noti_title">Vylepšený výkon zariadenia</string>
+    <string name="pp_anti_track_summary">Nepovoľte sledovanie svojej aktivity</string>
+    <string name="pp_antitrack_detail">Aplikácie môžu sledovať vašu aktivitu prostredníctvom osobných identifikátorov, informácií o polohe a ďalších typov osobných informácií zdieľaných s nimi. Sledovanie vašej aktivity v rôznych aplikáciách a weboch im umožňuje prispôsobovať reklamy a odporúčať vám relevantný obsah.</string>
+    <string name="pp_block_mac">Obmedziť prístup k MAC adrese</string>
+    <string name="pp_block_mac_summary">Prístup k vašej MAC adrese je obmedzený pre všetky aplikácie.</string>
+    <string name="pp_identifier_protection">chrániť osobné identifikátory</string>
+    <string name="pp_manage_track">Monitorovať sledovače</string>
+    <string name="pp_manage_track_summary">Zistiť a zakázať rôzne typy sledovacích nástrojov zabudovaných do aplikácií. Takéto sledovače môžu zdieľať vaše osobné identifikátory tým, že pristupujú k položkám a ukladajú ich do interného úložiska, alebo na sledovanie vašej činnosti používajú zdieľané SDK.</string>
+    <string name="pp_operator_get_number">Vyžadovať povolenie pre prístup k telefónnemu číslu</string>
+    <string name="pp_operator_get_number_summary">Aplikácie vás požiadajú o povolenie, keď chcú získať prístup k vášmu telefónnemu číslu na prihlásenie.</string>
+    <string name="pp_privacy_lab_operator_get_number">Vyžadovať schválenie pre prístup k telefónnemu číslu</string>
+    <string name="pp_privacy_lab_operator_get_number_summary">Vyžadujte, aby aplikácie požiadali o povolenie, keď chcú získať prístup k vášmu telefónnemu číslu na prihlásenie</string>
+    <string name="pp_privacy_lab_operator_introduction">Upozornenie</string>
+    <string name="pp_privacy_lab_operator_introduction_summary">Aplikácie môžu ukladať vaše telefónne číslo, ak už bolo získané. Zmenou tohto povolenia sa neodstránia predtým získané telefónne čísla.</string>
+<string name="pp_virtual_identity_summary">Namiesto skutočného identifikátora je možné aplikáciám poskytnúť virtuálny identifikátor (OAID). Chráni vaše súkromie a umožňuje vám ovládať, ako aplikácie sledujú vaše správanie.</string>	
 </resources>  

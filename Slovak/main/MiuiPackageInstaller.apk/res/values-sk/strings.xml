@@ -893,7 +893,82 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="install_failed_msg_tablet">%1$s nemôže byť nainštalovaná do tohto zariadenia.</string>
 	<string name="miui_other_permission">Ostatné</string>              
 
-<string name="install_confirm_question_des_10_tablet">"If you're willing to take the risks and want to proceed with the installation, authorize the installation in Security > Manage apps > Permissions > Apps with possible risks. If you can't find \"Apps with possible risks\", update your Security app and try again."</string>
-    <string name="settings_warning_dialog_msg_tablet">"Your device is prone to security risks. You won't be prompted to install secure app versions if you turn this feature off. Turn off anyway?"</string>
-    <string name="untrusted_external_source_warning_summary_tablet">"Your device and personal data are vulnerable to attacks by the apps installed from unknown sources. By allowing to install apps from this source, you agree to accept responsibility for any damage or data loss that might occur while you're using these apps."</string>	
+<string name="install_confirm_question_des_10_tablet">Ak chcete riskovať a chcete v inštalácii pokračovať, autorizujte inštaláciu v časti Zabezpečenie> Správa aplikácií> Povolenia> Aplikácie s možnými rizikami. Ak nemôžete nájsť „Aplikácie s možnými rizikami“, aktualizujte si aplikáciu Zabezpečenie a skúste to znova.</string>
+    <string name="settings_warning_dialog_msg_tablet">Vaše zariadenie je náchylné na bezpečnostné riziká. Ak túto funkciu vypnete, nebudete vyzvaní na inštaláciu zabezpečených verzií aplikácií. Aj tak vypnúť?</string>
+    <string name="untrusted_external_source_warning_summary_tablet">Vaše zariadenie a osobné údaje sú zraniteľné voči útokom aplikácií nainštalovaných z neznámych zdrojov. Povolením inštalovať aplikácie z tohto zdroja súhlasíte s prijatím zodpovednosti za akékoľvek poškodenie alebo stratu údajov, ku ktorým môže dôjsť pri ich používaní.</string>	
+
+    <string name="app_detail_change_log">Čo je nové</string>
+    <string name="app_detail_introduction">O tejto aplikácii</string>
+    <string name="app_detail_other_info">Ostatné informácie</string>
+    <string name="app_detail_other_publish">Vývojár: %1$s</string>
+    <string name="app_detail_other_update_time">Aktualizované: %1$s</string>
+    <string name="app_detail_other_version">Verzia: %1$s</string>
+    <string name="app_info_permissions">Povolenia</string>
+	
+	
+    <string name="app_installing_not_allow">Nepovolili ste %1$s inštaláciu aplikácií. Môžete to zmeniť v Nastaveniach.</string>
+    <string name="app_installing_toast">Počkajte kým sa dokončia všetky inštalácie a skúste to znova</string>
+    <string name="app_version_format">Verzia: %1$s</string>
+    <string name="cancel_install">Zrušiť</string>
+    <string name="character_counter_content_description">Zadané znaky %1$d z %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limit znakov prekročený %1$d z %2$d</string>
+    <string name="chip_text">Chip text</string>
+    <string name="clear_text_end_icon_content_description">Vymazať text</string>
+    <string name="cllapsible_text_state">Skryť</string>
+    <string name="dialog_account_authorize_msg">\"%1$s\" sa pokúša inštalovať \"%2$s\". Overte vašu identitu pre pokračovanie.</string>
+    <string name="dialog_install_confirm_default">Inštalovať</string>
+    <string name="dialog_title_default">Upozornenie</string>
+    <string name="do_not_show_again">Viac nezobrazovať</string>
+    <string name="error_icon_content_description">Chyba</string>
+    <string name="exposed_dropdown_menu_content_description">Zobraziť rozbaľovacie menu</string>
+    <string name="extensible_text_state">Viac</string>
+    <string name="fingerprint_bottom_des">Overte váš odtlačok prsta</string>
+    <string name="fingerprint_title">Overenie identity</string>
+    <string name="fingerprint_title_des">Overte váš odtlačok prsta</string>
+    <string name="fingerprint_verification_error">Nebolo možné overiť odtlačok prsta</string>
+    <string name="fingerprint_verification_error_overrun">Viackrát nebolo možné overiť odtlačok prsta</string>
+    <string name="icon_content_description">Ikona</string>
+    <string name="ignore_virus_install_text">Rozumiem všetkým rizikám. %1$s</string>
+    <string name="ignore_virus_install_text_clickable">Aj tak inštalovať</string>
+    <string name="install_app_loading">Kontrola inštalačného súboru...</string>
+    <string name="install_unknow_source">Inštalovať neznáme aplikácie</string>
+    <string name="item_view_role_description">Karta</string>
+
+
+    <string name="material_slider_range_end">Koniec rozsahu,</string>
+    <string name="material_slider_range_start">Začiatok rozsahu,</string>
+    <string name="miui_failed_market_code_denied">Požiadavka bola zamietnutá</string>
+    <string name="miui_failed_market_code_download_failed">Nebolo možné stiahnuť</string>
+    <string name="miui_failed_solution_retry_later">Skúste to znova</string>
+    <string name="miui_failed_solution_to_market">Inštalovať túto aplikáciu z overeného zdroja</string>
+    <string name="more_app">Viac aplikácií</string>
+    <string name="mtrl_badge_numberless_content_description">Nové upozornenie</string>
+    <string name="mtrl_chip_close_icon_content_description">Odstrániť %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Viac ako %1$d nových upozornení</string>
+    <string name="net_work_error_msg">Nebolo možné pripojiť sa k sieti pre spustenie kontroly</string>
+    <string name="net_work_error_retry">Skúsiť znova</string>
+    <string name="not_safe">" (nebezpečné)"</string>
+    <string name="prepare_install">Príprava inštalácie...</string>
+    <string name="resolve_suggestion_title">Odporúčanie</string>
+    <string name="safe_high_speed_installing">Inštalovanie bezpečnej verzie...</string>
+    <string name="safe_install">Inštalovať</string>
+    <string name="safe_version_install">Bezpečná verzia</string>
+    <string name="start_install">Inštalovať</string>
+<string name="unknown_apps_dlg_text">Pre vašu bezpečnosť, zariadenie je nastavené blokovať inštalácie aplikácií z neznámych zdrojov.</string>
+    <string name="unknown_source_allow">Povoliť</string>
+    <string name="unknown_source_forbidden">Zakázať</string>
+    <string name="untrusted_external_source_warning">Pre vašu bezpečnosť, zariadenie nemá povolenie inštalovať neznáme aplikácie z tohto zdroja.</string>
+    <string name="verify_account_title">Overte vašu identitu</string>
+    <string name="virus_install_authorize_dialog_msg">Táto aplikácia predstavuje bezpečnostné riziká pre vaše zariadenie. Overte vašu identitu pre spustenie inštalácie.</string>
+    <string name="virus_install_authorize_dialog_negative">Overiť</string>
+    <string name="virus_install_authorize_dialog_title">Vyžaduje sa overenie identity</string>
+    <string name="virus_install_confirm_cancel">Zrušiť</string>
+    <string name="virus_install_confirm_install">Inštalovať</string>
+    <string name="virus_install_confirm_msg">Aplikácia ktorú sa pokúšate nainštalovať obsahuje vírusy a môže ohroziť bezpečnosť vašich osobných údajov.</string>
+    <string name="virus_install_confirm_title">Potvrďte inštaláciu</string>
+    <string name="virus_scanning">Kontrola...</string>
+    <string name="virus_warning_title">Nájdené vírusy</string>
+    <string name="virus_warning_title_2">Táto aplikácia obsahuje tieto vírusy:</string>
+    <string name="warning_msg_virus">Nájdené vírusy</string>
+    <string name="warning_msg_virus_name">Táto aplikácia obsahuje vírusy: %1$s</string>	
 </resources>

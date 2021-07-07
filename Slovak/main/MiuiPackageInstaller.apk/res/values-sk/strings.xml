@@ -954,10 +954,8 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="safe_install">Inštalovať</string>
     <string name="safe_version_install">Bezpečná verzia</string>
     <string name="start_install">Inštalovať</string>
-<string name="unknown_apps_dlg_text">Pre vašu bezpečnosť, zariadenie je nastavené blokovať inštalácie aplikácií z neznámych zdrojov.</string>
     <string name="unknown_source_allow">Povoliť</string>
     <string name="unknown_source_forbidden">Zakázať</string>
-    <string name="untrusted_external_source_warning">Pre vašu bezpečnosť, zariadenie nemá povolenie inštalovať neznáme aplikácie z tohto zdroja.</string>
     <string name="verify_account_title">Overte vašu identitu</string>
     <string name="virus_install_authorize_dialog_msg">Táto aplikácia predstavuje bezpečnostné riziká pre vaše zariadenie. Overte vašu identitu pre spustenie inštalácie.</string>
     <string name="virus_install_authorize_dialog_negative">Overiť</string>

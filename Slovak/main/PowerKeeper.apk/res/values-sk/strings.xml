@@ -283,5 +283,6 @@
     <string name="softbank_high_temp_toast_time_4min">Svietidlo vypnuté pre zamedzenie prehrievania</string>     
     
     <string name="sleep_config_enhance_description_pad">Ak MIUI zistí, že ste zaspali, aplikácie v pozadí budú ukončené, Bluetooth a Wi-Fi budú obmedzené, a displej sa nerozsvieti ak dostanete upozornenie.</string>    
-  
+    <string name="high_temp_benchmark_state">Prehrievanie</string>
+    <string name="high_temp_benchmark_state_message">Vaše zariadenie sa prehrieva. Skúste keď zariadenie vychladne:</string>  
 </resources>

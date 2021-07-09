@@ -1878,5 +1878,7 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="no_unlock_chance_hint">"Nemáte viac pokusov.
 Kontaktujte vášho operátora"</string>
     <string name="fiveg_carrier_aggregation_title">5G agregácia</string>
-          
+
+     <string name="callFailed_already_dialing">Nie je možné uskutočniť hovor, pretože už je vytáčaný iný odchádzajúci hovor.</string>
+     <string name="callFailed_already_ringing">Nie je možné uskutočniť hovor, pretože existuje prichádzajúci hovor. Prijmite alebo odmietnite prichádzajúci hovor pred uskutočnením nového hovoru.</string>
 </resources>

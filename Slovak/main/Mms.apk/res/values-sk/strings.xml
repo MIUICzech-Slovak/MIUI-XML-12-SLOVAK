@@ -905,8 +905,8 @@ Pokus: %s."</string>
      <string name="release_end">Pustite pre zastavenie</string>
      <string name="system_permission_declare_privacy_declare_new">Táto aplikácia vyžaduje pripojenie na internet a nasledujúce povolenia pre jej správne fungovanie:</string>
      <string name="tab_finance">Finančné</string>
-     <string name="tab_message">SMS</string>
-     <string name="tab_promotions">reklamné</string>
+     <string name="tab_message">Správy</string>
+     <string name="tab_promotions">Reklamné</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Potiahnite nadol pre obnovenie</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Obnovené</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovenie…</string>

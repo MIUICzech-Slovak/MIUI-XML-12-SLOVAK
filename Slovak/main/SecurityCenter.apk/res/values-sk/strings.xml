@@ -4940,4 +4940,11 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="pp_privacy_lab_operator_introduction">Upozornenie</string>
     <string name="pp_privacy_lab_operator_introduction_summary">Aplikácie môžu ukladať vaše telefónne číslo, ak už bolo získané. Zmenou tohto povolenia sa neodstránia predtým získané telefónne čísla.</string>
 <string name="pp_virtual_identity_summary">Namiesto skutočného identifikátora je možné aplikáciám poskytnúť virtuálny identifikátor (OAID). Chráni vaše súkromie a umožňuje vám ovládať, ako aplikácie sledujú vaše správanie.</string>	
+
+    <string name="untrust_app_perm_install_list">Povoliť prístup k zoznamu nainštalovaných aplikácií</string>
+    <string name="untrust_app_perm_network">Povoliť prístup k sieti</string>
+    <string name="untrust_app_perm_notification">Povoliť upozornenia</string>
+    <string name="untrust_app_perm_oaid">Povoliť prístup k virtuálnemu ID</string>
+    <string name="untrust_app_perm_title">Aplikácia z neznámeho zdroja</string>
+    <string name="untrust_app_perm_warn">Táto aplikácia pochádza z neznámeho zdroja a predstavuje bezpečnostné riziko. Tieto povolenia môže zneužiť pre ohrozenie vášho súkromia. Zvážte ich povolenie.</string>
 </resources>  

@@ -7319,4 +7319,8 @@ Otvorte Xiaomi Cloud a odtiaľ obnovujte položky."</string>
     <string name="lock_sound_effect_enable_title">Prehrať zvuk pri uzamknutí zariadenia</string>
     <string name="unlock_sound_effect_enable_title">Prehrať zvuk pri odomknutí zariadenia</string>
 	
+    <string name="color_game_led_color_title">Farba svetla</string>
+    <string name="color_game_led_feature_off">Vyp</string>
+    <string name="color_game_led_feature_on">Zap</string>
+    <string name="color_game_led_freq_title">Frekvencia blikania</string>	
 </resources>

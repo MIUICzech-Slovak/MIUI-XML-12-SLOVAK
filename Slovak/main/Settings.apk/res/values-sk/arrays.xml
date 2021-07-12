@@ -1120,4 +1120,9 @@ Postupujte podľa pokynov"</item>
         <item>Ladenie</item>
         <item>Podrobné informácie</item>
     </string-array>	
+    <string-array name="color_game_led_freq_entries">
+        <item>Každé 2 sekundy</item>
+        <item>Každé 3 sekundy</item>
+        <item>Každých 5 sekúnd</item>
+    </string-array>	
 </resources>

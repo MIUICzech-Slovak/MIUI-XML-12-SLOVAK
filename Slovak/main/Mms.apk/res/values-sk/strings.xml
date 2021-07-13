@@ -1027,5 +1027,10 @@ Pokus: %s."</string>
     <string name="small_window_log_text">Fotoaparát nie je možné používať v režime rozdelenia obrazovky</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchr. s MiCloud je vyp.</string>
     <string name="miuix_appcompat_cloud_state_finished">Synchr. s MiCloud je dokončená</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Synchr. s MiCloud…</string>                                  
+    <string name="miuix_appcompat_cloud_state_syncing">Synchr. s MiCloud…</string>     
+
+    <string name="enable_classify_tip_dialog_content">Táto akcia reštartuje SMS aplikáciu. Chcete pokračovať?</string>
+    <string name="pref_title_enable_classify">Automaticky zoskupovať správy</string>
+    <string name="pref_summary_enable_classify">Presunúť reklamné a finančné SMS do oddelených kariet</string>
+	
 </resources>  

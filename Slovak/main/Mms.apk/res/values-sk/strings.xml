@@ -1048,4 +1048,5 @@ Pokus: %s."</string>
     <string name="unable_connect_camera">Ste inkognito. Nie je možné použiť fotoaparát.</string>
     <string name="unable_get_location">Ste inkognito. Nie je možné použiť polohu.</string>
     <string name="unable_use_microphone">Ste inkognito. Nie je možné použiť mikrofón.</string>	
+    <string name="pref_cell_broadcast">Tiesňové upozornenia</string>	
 </resources>  

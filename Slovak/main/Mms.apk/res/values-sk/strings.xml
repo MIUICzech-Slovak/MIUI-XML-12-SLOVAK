@@ -1033,4 +1033,19 @@ Pokus: %s."</string>
     <string name="pref_title_enable_classify">Automaticky zoskupovať správy</string>
     <string name="pref_summary_enable_classify">Presunúť reklamné a finančné SMS do oddelených kariet</string>
 	
+    <string name="aim_show_card">Zobraziť kartu</string>
+    <string name="aim_show_original">Zobraziť správu</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="go_close">Nastavenia</string>
+    <string name="invisible_mode_on">Ste inkognito</string>
+    <string name="leave_mms_tips_context_app">Zatvoriť Správy a otvoriť aplikáciu?</string>
+    <string name="leave_mms_tips_context_app_name">Zatvoriť Správy a otvoriť \"%s\"?</string>
+    <string name="leave_mms_tips_context_browser">Zatvoriť Správy a otvoriť Prehliadač?</string>
+    <string name="leave_mms_tips_context_email">Zatvoriť Správy a otvoriť Email?</string>
+    <string name="leave_mms_tips_context_map">Zatvoriť Správy a otvoriť mapy?</string>
+    <string name="pref_summary_switch_aim_card">Zobraziť MMS ktoré obsahujú videá a obrázky ako karty</string>
+    <string name="pref_title_switch_aim_card">Konvertovať MMS na karty</string>
+    <string name="unable_connect_camera">Ste inkognito. Nie je možné použiť fotoaparát.</string>
+    <string name="unable_get_location">Ste inkognito. Nie je možné použiť polohu.</string>
+    <string name="unable_use_microphone">Ste inkognito. Nie je možné použiť mikrofón.</string>	
 </resources>  

@@ -1881,4 +1881,8 @@ Kontaktujte vášho operátora"</string>
 
      <string name="callFailed_already_dialing">Nie je možné uskutočniť hovor, pretože už je vytáčaný iný odchádzajúci hovor.</string>
      <string name="callFailed_already_ringing">Nie je možné uskutočniť hovor, pretože existuje prichádzajúci hovor. Prijmite alebo odmietnite prichádzajúci hovor pred uskutočnením nového hovoru.</string>
+	 
+    <string name="relay_call_answered_by_other_devices">Tento hovor bol prijatý na inom zariadení.</string>
+    <string name="relay_call_released_due_to_connect_lost">Pripojenie bolo prerušené. Pokračujte v hovore na odpojenom zariadení.</string>
+    <string name="relay_connection_service_label">Vstavané RELAY volanie</string>	 
 </resources>

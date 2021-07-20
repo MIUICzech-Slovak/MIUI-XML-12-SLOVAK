@@ -2306,4 +2306,11 @@
     <string name="widget_recommend_default_example">Ukážka</string>
     <string name="widget_recommend_default_title_on_story">Spomienky</string>
     <string name="widget_recommend_default_title_open_story">Povoliť \"Spomienky\"</string>	
+	
+    <string name="vlog_audio_unsupport_audio_file">Tento zvukový formát nie je podporovaný</string>
+	<string name="widget_custom_store_detail_desc">Vyberte obrázok ktorý chcete vidieť</string>
+    <string name="widget_editor_confirm">Hotovo</string>
+    <string name="widget_editor_reselect">Vyberte znova</string>
+    <string name="widget_editor_title">Upraviť</string>
+    <string name="widget_recommend_store_detail_desc">Nedávne fotografie a momenty z minulosti</string>	
 </resources>

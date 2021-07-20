@@ -7325,4 +7325,7 @@ Otvorte Xiaomi Cloud a odtiaľ obnovujte položky."</string>
     <string name="color_game_led_freq_title">Frekvencia blikania</string>	
     <string name="color_game_led_freq_entries">Každých %ds</string>	
 
+    <string name="fiveg_sa_switch_summary">Použiť SA sieť na druhej SIM</string>
+    <string name="fiveg_sa_vice_switch_title">SA na druhej SIM</string>
+
 </resources>

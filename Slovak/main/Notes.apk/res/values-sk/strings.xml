@@ -623,4 +623,10 @@ http://www.miuios.cz/rom
     <string name="web_sso_login_fail">Musíte sa znova prihlásiť</string>
     <string name="web_sso_login_message">Prihlasovanie...</string>
     <string name="webview_reload">Skúste to znova</string>	
+	
+    <string name="note_not_text_stub">Žiaden text</string>
+<string name="toast_notes_hidden_pad">Táto poznámka je skrytá. Potiahnite nadol pre zobrazenie skrytých poznámok.</string>
+    <string name="widget_create_select_size">Vyberte veľkosť</string>
+    <string name="widget_empty_content">Dotykom vyberte poznámku</string>
+    <string name="widget_note_list_page_title">Vyberte poznámku</string>	
 </resources>  

@@ -119,4 +119,13 @@ dlhý screenshot"</string>
     <string name="tomorrow">Zajtra</string>   
 	
     <string name="screenshot_thumbnail">Náhľad screenshotu</string>	
+	
+    <string name="accessible_cancel">Zrušiť</string>
+    <string name="accessible_ellipse">Elipsa</string>
+    <string name="accessible_irregular">Vlastný tvar</string>
+    <string name="accessible_rect">Obdĺžnik</string>
+    <string name="partial_screenshot_failed_to_capture_title">Táto aplikácia nedovoľuje zhotovenie screenshotu</string>
+    <string name="partial_screenshot_failed_to_save_title">Nebolo možné uložiť. Nie je dostatok voľného miesta na úložisku.</string>
+    <string name="partial_screenshot_insert_failed">Nebolo možné uložiť</string>
+    <string name="take_screenshot">Celá obrazovka</string>	
 </resources>  

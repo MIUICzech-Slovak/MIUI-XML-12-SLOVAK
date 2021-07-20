@@ -2692,4 +2692,7 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     <string name="input_pin_after_boot_msg">Zadanie PIN je vyžadované po reštarte zariadenia</string>	
     
     <string name="keyguard_invalid_sim_puk_hint">PUK kód musí obsahovať %1$d znakov.</string>    
+	
+    <string name="fiveg_sa_switch_summary">Použiť SA sieť na druhej SIM</string>
+    <string name="fiveg_sa_vice_switch_title">SA na druhej SIM</string>	
 </resources>

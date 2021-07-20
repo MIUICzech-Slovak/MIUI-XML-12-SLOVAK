@@ -227,4 +227,7 @@ Rýchlejšie pripojenie."</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zajtra</string>   
     <string name="headset_device_sync">Synchr...</string>    
+	
+    <string name="fiveg_sa_switch_summary">Použiť SA sieť na druhej SIM</string>
+    <string name="fiveg_sa_vice_switch_title">SA na druhej SIM</string>	
 </resources>

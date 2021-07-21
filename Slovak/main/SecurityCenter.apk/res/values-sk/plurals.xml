@@ -974,4 +974,17 @@ Dajte si pauzu!"</item>
         <item quantity="other">Znížiť jas displeja pre úsporu batérie po %d min. neaktivity</item>
         <item quantity="one">Znížiť jas displeja pre úsporu batérie po %d min. neaktivity</item>
     </plurals>	
+	
+    <plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">Ostávajú vám iba %d pokusy pre overenie vášho SIM PUK. Ak dosiahnete limit zadania nesprávneho PUK kódu, vaša SIM karta bude deaktivovaná. Chcete pokračovať?</item>
+        <item quantity="one">Ostáva vám iba %d pokus pre overenie vášho SIM PUK. Ak dosiahnete limit zadania nesprávneho PUK kódu, vaša SIM karta bude deaktivovaná. Chcete pokračovať?</item>
+    </plurals>
+    <plurals name="simlock_set_pin_error">
+        <item quantity="other">Zadali ste nesprávny PIN. Ostávajúce pokusy: %d.</item>
+        <item quantity="one">Zadali ste nesprávny PIN. Ostávajúce pokusy: %d.</item>
+    </plurals>
+    <plurals name="simlock_set_puk_error">
+        <item quantity="other">Zadajte SIM PUK. Ostávajúce pokusy: %d.</item>
+        <item quantity="one">Zadajte SIM PUK. Ostávajúce pokusy: %d.</item>
+    </plurals>	
 </resources>

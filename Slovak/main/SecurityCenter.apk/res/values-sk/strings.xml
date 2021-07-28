@@ -5028,4 +5028,34 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="sim_lock_start_summary">Táto funkcia chráni pred možnými rizikami v prípade straty vašej SIM karty.</string>
     <string name="sim_lock_start_title">Zabezpečenie SIM</string>
     <string name="sim_lock_toast_no_sim">Najskôr vložte SIM kartu</string>	
+    
+    <string name="antivirus_riskapp_title">Možné riziká</string>
+    <string name="apps_item_scan_risk_summary_installed">Nainštalované | Riziká</string>
+    <string name="apps_item_scan_risk_summary_uninstalled">APK | Riziká</string>
+    <string name="apps_item_scan_virus_summary_installed">Nainštalované | Vírus</string>
+    <string name="apps_item_scan_virus_summary_uninstalled">APK | Vírus</string>
+    <string name="apps_item_virus_ignore_text">Ignorovať</string>     
+    <string name="risk_detail_app">Predstavuje riziká</string>
+    <string name="risk_detail_title">Možné riziká</string>
+    <string name="risk_info_title">Popis</string>
+    <string name="risk_type_title">Typ</string>
+    <string name="virus_app_delete_installed">Odinštalovať</string>
+    <string name="virus_app_delete_uninstalled">Vymazať</string>
+    <string name="virus_app_ignore">Ignorovať</string>
+    <string name="virus_app_size_text">Veľkosť: %s</string>
+    <string name="virus_app_type_installed">Nainštalované</string>
+    <string name="virus_app_type_uninstalled">APK</string>
+    <string name="virus_app_verison_text">Verzia: %s</string>
+    <string name="virus_clear_dialog_title">Vymazať nebezpečné aplikácie</string>
+    <string name="virus_detail_app">Obsahuje vírusy</string>
+    <string name="virus_detail_split_line_text"> | </string>
+    <string name="virus_detail_title">Virusy</string>
+    <string name="virus_engine_choose_text">Online databáza vírusov</string>
+    <string name="virus_engine_split_text">", "</string>
+    <string name="virus_ignore_dialog_content">Ak vyberiete možnosť ignorovať aplikácie ktoré predstavujú možné riziká, nebudete viac o nich upozornený.</string>
+    <string name="virus_ignore_dialog_no_remind">Viac nezobrazovať</string>
+    <string name="virus_ignore_dialog_title">Ignorovať riziká</string>
+    <string name="virus_info_title">Popis</string>
+    <string name="virus_news_title">Ďalšie informácie</string>
+    <string name="virus_type_title">Typ</string>                           
 </resources>  

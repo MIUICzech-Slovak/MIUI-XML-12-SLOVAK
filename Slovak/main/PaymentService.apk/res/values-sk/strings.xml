@@ -187,4 +187,8 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_wrong_password">Heslo nie je správne</string>
   <string name="passport_wrong_phone_number_format">Formát telefónneho čísla nie je správny</string>
   <string name="passport_wrong_vcode">Zadaný kód nie je správny</string>
+    <string name="mibi_incognito_mode_dialog_cancel">Zrušiť</string>
+    <string name="mibi_incognito_mode_dialog_summary_camera">Nie je možné použiť fotoaparát. Vypnite režim inkognito.</string>
+    <string name="mibi_incognito_mode_dialog_title">Ste inkognito</string>
+    <string name="mibi_incognito_mode_dialog_to_close">Nastavenia</string>  
 </resources>

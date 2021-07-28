@@ -726,6 +726,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
      
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
-    
+    <string name="passport_error_user_agreement_error">Najskôr odsúhlaste podmienky používania</string>    
     <string name="skip_query_account">Preskočiť</string>    
 </resources>  

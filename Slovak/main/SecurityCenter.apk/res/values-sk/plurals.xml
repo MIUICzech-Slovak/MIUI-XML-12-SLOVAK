@@ -987,4 +987,8 @@ Dajte si pauzu!"</item>
         <item quantity="other">Zadajte SIM PUK. Ostávajúce pokusy: %d.</item>
         <item quantity="one">Zadajte SIM PUK. Ostávajúce pokusy: %d.</item>
     </plurals>	
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Vyčistiť vybrané (%d) apl.?</item>
+        <item quantity="one">Vyčistiť vybranú (%d) apl.?</item>
+    </plurals>    
 </resources>

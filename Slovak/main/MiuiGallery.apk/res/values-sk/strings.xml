@@ -2313,4 +2313,10 @@
     <string name="widget_editor_reselect">Vyberte znova</string>
     <string name="widget_editor_title">Upraviť</string>
     <string name="widget_recommend_store_detail_desc">Nedávne fotografie a momenty z minulosti</string>	
+    <string name="photo_editor_sky">Obloha</string>
+    <string name="sky_dynamic">Dynamická</string>
+    <string name="sky_night">Večer</string>
+    <string name="sky_nocturne">Noc</string>
+    <string name="sky_static">Statická</string>
+    <string name="sky_sunny">Slnečno</string>    
 </resources>

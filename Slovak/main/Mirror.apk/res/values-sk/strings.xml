@@ -234,6 +234,14 @@
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
   
+  <string name="settings_connect_pc_group">Práca s PC</string>
+     <string name="settings_feature_intro">O MIUI+</string>
+     <string name="settings_how_use">Nadviazanie spojenia</string>
+     <string name="settings_pc_history_title">História pripojenia</string>
+     <string name="settings_pc_trusted_title">Pripojiť automaticky</string>
+     <string name="settings_pc_use_tile">O MIUI+</string>
+     <string name="settings_scanner_summary">Pripojenie MIUI+ cez QR kód</string>
+     <string name="settings_trusted_tips_china">Pripojiť sa k vybraným zariadeniam automaticky pokiaľ je zapnuté Bluetooth a Wi-Fi</string>  
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   

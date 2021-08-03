@@ -7331,5 +7331,11 @@ Otvorte Xiaomi Cloud a odtiaľ obnovujte položky."</string>
     <string name="disable_quick_start">Vypnúť rýchly štart</string>
     <string name="enable_quick_start">Zapnúť rýchly štart</string>
             
+    <string name="headset_head_tracking_desc">Prispôsobiť okolitý zvuk podľa pohybov hlavy</string>
+    <string name="headset_head_tracking_title">Sledovať pohyb hlavy</string>
+    <string name="surround_sound_all_desc">Vylepšiť hĺbku zvuku pre slúchadlá a reproduktory</string>
+    <string name="surround_sound_only_headset_desc">Vylepšiť hĺbku zvuku pre slúchadlá</string>
+    <string name="surround_sound_only_speaker_desc">Vylepšiť hĺbku zvuku pre reproduktory</string>
+    <string name="surround_sound_title">Surround zvuk</string>                
 
 </resources>

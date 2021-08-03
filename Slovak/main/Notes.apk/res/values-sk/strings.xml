@@ -629,4 +629,6 @@ http://www.miuios.cz/rom
     <string name="widget_create_select_size">Vyberte veľkosť</string>
     <string name="widget_empty_content">Dotykom vyberte poznámku</string>
     <string name="widget_note_list_page_title">Vyberte poznámku</string>	
+    
+    <string name="widget_havenot_content_new">Dotykom vytvoríte poznámku. Stlačte a držte pre zmenu veľkosti.</string>    
 </resources>  

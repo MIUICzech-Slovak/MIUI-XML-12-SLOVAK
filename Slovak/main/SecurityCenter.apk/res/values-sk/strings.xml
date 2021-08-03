@@ -5057,5 +5057,17 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="virus_ignore_dialog_title">Ignorovať riziká</string>
     <string name="virus_info_title">Popis</string>
     <string name="virus_news_title">Ďalšie informácie</string>
-    <string name="virus_type_title">Typ</string>                           
+    <string name="virus_type_title">Typ</string>                  
+    
+  <string name="wireless_charging_connected_message">Reverzné bezdrôtové nabíjanie nie je možné použiť, ak sa zariadenie nabíja bezdrôtovo.</string>
+
+    <string name="wireless_charging_fg_control_cancel">Zrušiť</string>
+    <string name="wireless_charging_fg_control_messgae">Reverzné bezdrôtové nabíjanie bolo deaktivované, pretože batéria má menej ako %s. Môžete upraviť nastavenia minimálnej kapacity batérie.</string>
+    <string name="wireless_charging_fg_control_ok">Upraviť</string>
+    <string name="wireless_charging_low_battery_level_message">Nie je možné používať reverzné bezdrôtové nabíjanie ak má batéria menej ako %s.</string>
+    <string name="wireless_charging_ok">Rozumiem</string>
+    <string name="wireless_charging_saver_cancel">Vypnúť</string>
+    <string name="wireless_charging_saver_message">Šetrenie batérie je aktivované. Chcete ponechať reverzné bezdrôtové nabíjanie?</string>
+    <string name="wireless_charging_saver_ok">Ponechať</string>
+                 
 </resources>  

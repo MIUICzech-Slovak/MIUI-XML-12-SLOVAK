@@ -552,4 +552,6 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
     <string name="steady_on_screen_notification_title_pad">Odložte váš telefón a oddýchnite si</string>
     <string name="usage_state_focus_mode_experience_warning_message_sim_pad">Režim sústredenia umožňuje použiť len Fotoaparát a núdzové volania. Nebude možné vypnúť režim sústredenia na stálo.</string>
     <string name="usage_state_focus_mode_warning_message_sim_pad">Režim sústredenia umožňuje použiť len Fotoaparát a núdzové volania. Nebude možné vypnúť režim sústredenia na stálo.</string>            
+    <string name="time_picker_dialog_title">Nastavte čas</string>
+    
 </resources>  

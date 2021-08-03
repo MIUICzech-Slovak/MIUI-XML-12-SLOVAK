@@ -2695,4 +2695,6 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
 	
     <string name="fiveg_sa_switch_summary">Použiť SA sieť na druhej SIM</string>
     <string name="fiveg_sa_vice_switch_title">SA na druhej SIM</string>	
+    
+    <string name="keyguard_charging_double_fast_and_level_tip">Zrýchlenie nabíjania %s</string>    
 </resources>

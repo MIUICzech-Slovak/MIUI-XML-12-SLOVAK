@@ -7349,4 +7349,38 @@ Otvorte Xiaomi Cloud a odtiaľ obnovujte položky."</string>
     <string name="settings_charging_at_top_speed">Nabíjanie max. rýchlosťou</string>
     <string name="settings_charging_fully_charged">Nabité</string>
     <string name="settings_charging_not_charging">Nenabíja sa</string>	
+	
+	<string name="dark_ui_auto_mode_title">Plán</string>
+	<string name="night_display_auto_mode_title">Plán</string>
+	<string name="zen_mode_automatic_rule_settings_page_title">Plán</string>
+    <string name="zen_mode_automation_settings_page_title">Plány</string>
+	<string name="zen_mode_schedule_category_title">Plán</string>
+	<string name="zen_mode_schedule_title">Plán</string>
+	<string name="gesture_settings_activity_title">Nastavenie gest</string>
+	<string name="left_edge">Ľavý okraj</string>
+	<string name="right_edge">Pravý okraj</string>
+	<string name="accessibility_tutorial_dialog_button">Rozumiem</string>
+     <string name="accessibility_tutorial_dialog_message_button">"Pre použitie tejto funkcie stlačte tlačítko Dostupnosť v dolnej časti obrazovky.
+
+Medzi funkciami môžete prepínať stlačením a podržaním tlačidla dostupnosti."</string>
+     <string name="accessibility_tutorial_dialog_message_gesture">"Pre použitie tejto funkcie prejdite dvoma prstami nahor zo spodnej časti obrazovky.
+
+Medzi funkciami môžete prepínať potiahnutím nahor dvoma prstami a podržaním."</string>
+     <string name="accessibility_tutorial_dialog_message_gesture_settings">"Pre použitie tejto funkcie potiahnite nahor dvoma prstami zo spodnej časti obrazovky.
+
+Medzi funkciami môžete prepínať potiahnutím nahor dvoma prstami a podržaním."</string>
+     <string name="accessibility_tutorial_dialog_message_gesture_settings_talkback">"Pre použitie tejto funkcie potiahnite nahor troma prstami zo spodnej časti obrazovky.
+
+Medzi funkciami môžete prepínať potiahnutím nahor troma prstami a podržaním."</string>
+     <string name="accessibility_tutorial_dialog_message_gesture_talkback">"Pre použitie tejto funkcie potiahnite nahor troma prstami zo spodnej časti obrazovky.
+
+Medzi funkciami môžete prepínať potiahnutím nahor troma prstami a podržaním."</string>
+     <string name="accessibility_tutorial_dialog_message_triple">Zväčšenie spustíte a zastavíte trojitým klepnutím kdekoľvek na obrazovke.</string>
+     <string name="accessibility_tutorial_dialog_message_volume">Pre použitie tejto funkcie stlačte a podržte obe tlačidlá hlasitosti.</string>
+     <string name="accessibility_tutorial_dialog_title_button">K otvoreniu použite tlačidlo Dostupnosť</string>
+     <string name="accessibility_tutorial_dialog_title_gesture">K otvoreniu použite gestá</string>
+     <string name="accessibility_tutorial_dialog_title_gesture_settings">Použite nové gesto dostupnosti</string>
+     <string name="accessibility_tutorial_dialog_title_triple">Trojité poklepanie obrazovky pre otvorenie</string>
+     <string name="accessibility_tutorial_dialog_title_volume">Podržanie kláves hlasitosti pre otvorenie</string>
+     <string name="accessibility_tutorial_pager">Stránka %1$d z %2$d</string>	
 </resources>

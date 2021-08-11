@@ -1468,4 +1468,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="no_contact_selected">Vyberte kontakt pre zobrazenie podrobností</string>  
     
     <string name="wifi_pad_disable_phone">Z tohto zariadenia nie je možné volať</string>    
+<string name="mobile_equipment_identification">Identifikácia mobilného zariadenia</string>	
 </resources>  

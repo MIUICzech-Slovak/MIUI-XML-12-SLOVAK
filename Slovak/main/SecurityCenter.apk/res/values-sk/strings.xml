@@ -5070,4 +5070,35 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="wireless_charging_saver_message">Šetrenie batérie je aktivované. Chcete ponechať reverzné bezdrôtové nabíjanie?</string>
     <string name="wireless_charging_saver_ok">Ponechať</string>
                  
+    <string name="behavior_widget_get_installed_apps">Prístup k apl.</string>
+    <string name="behavior_widget_get_location">Prístup k polohe</string>
+    <string name="behavior_widget_read_clipboard">Prístup ku schránke</string>
+    <string name="behavior_widget_read_contact">Prístup ku kontaktom</string>
+    <string name="behavior_widget_read_write_external_storage">Prístup k súborom</string>
+    <string name="gamebox_brightness">Jas</string>
+    <string name="gamebox_mem_clean">Vymazať RAM</string>
+    <string name="gamebox_screenrecord">Nahrať</string>
+    <string name="gamebox_screenshot">Screenshot</string>
+    <string name="gb_performance_balance">Vyvážené</string>
+    <string name="gb_performance_high">Výkon</string>
+    <string name="gb_performance_mode">Herný režim</string>
+	<string name="gb_performance_tips">"Používanie výkonného režimu vedie
+k zvýšenej spotrebe batérie a prehrievaniu"</string>
+    <string name="gb_turbo_collimator_subtitle">Použiť zariadenie na mierenie</string>
+    <string name="gb_turbo_macro_subtitle">Vykonať high-level akcie</string>
+    <string name="gb_turbo_shoulder_subtitle">Nastaviť herné ovládače</string>	
+    <string name="gb_turbo_time_subtitle">Načasujte vaše relácie</string>
+    <string name="gb_turbo_voice_subtitle">Okoreňte vaše konverzácie</string>
+    <string name="gb_turbo_wonder_subtitle">Nahrajte kľúčové momenty</string>
+    <string name="gtb_guide_finish">Preskočiť</string>
+    <string name="gtb_guide_gtb_button_done">Hotovo</string>
+    <string name="gtb_guide_gtb_community_desc">Zdieľajte vaše skúsenosti s priateľmi</string>
+    <string name="gtb_guide_gtb_community_title">Komunita</string>
+    <string name="gtb_guide_gtb_func_desc">Vylepšite vaše hry</string>
+    <string name="gtb_guide_gtb_func_title">Zrýchlenie hier</string>
+    <string name="gtb_guide_gtb_game_effected">Použité</string>
+    <string name="gtb_guide_gtb_game_new">Nové</string>
+    <string name="gtb_guide_gtb_line_new">Nastavte si vašu hru s novým Zrýchlením hier!</string>
+    <string name="gtb_guide_small_window_app_desc">Použite iné aplikácie počas hrania</string>
+    <string name="gtb_guide_small_window_app_title">Plávajúce okná</string>
 </resources>  

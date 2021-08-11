@@ -991,4 +991,13 @@ Dajte si pauzu!"</item>
         <item quantity="other">Vyčistiť vybrané (%d) apl.?</item>
         <item quantity="one">Vyčistiť vybranú (%d) apl.?</item>
     </plurals>    
+	
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d apl. vrátane %1$s</item>
+        <item quantity="one">%2$d apl. vrátane %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d krát</item>
+        <item quantity="one">%d krát</item>
+    </plurals>	
 </resources>

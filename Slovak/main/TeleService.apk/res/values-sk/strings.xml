@@ -1885,4 +1885,7 @@ Kontaktujte vášho operátora"</string>
     <string name="relay_call_answered_by_other_devices">Tento hovor bol prijatý na inom zariadení.</string>
     <string name="relay_call_released_due_to_connect_lost">Pripojenie bolo prerušené. Pokračujte v hovore na odpojenom zariadení.</string>
     <string name="relay_connection_service_label">Vstavané RELAY volanie</string>	 
+	
+    <string name="xcap_setting_summary">Presmerovanie, hlasová schránka a čakanie na hovor</string>
+    <string name="xcap_setting_title">Nastavenie služieb hovorov</string>	
 </resources>

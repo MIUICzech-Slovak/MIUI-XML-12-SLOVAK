@@ -7338,4 +7338,15 @@ Otvorte Xiaomi Cloud a odtiaľ obnovujte položky."</string>
     <string name="surround_sound_only_speaker_desc">Vylepšiť hĺbku zvuku pre reproduktory</string>
     <string name="surround_sound_title">Surround zvuk</string>                
 
+    <string name="disable_uft">Vypnúť UFT</string>
+    <string name="enable_uft">Zapnúť UFT</string>
+    <string name="sunlight_mode_summary_new">Upraviť jas na silné okolité svetlo tak aby obrazovka nebola príliš tmavá. Keď je okolité svetlo silné, v hornej časti obrazovky sa zobrazí malá ikona slnka.</string>	
+	
+<string name="enable_local_backup_message_intledition">Povoľte túto funkciu pre možnosť ukladania záloh do tohto zariadenia. Povoliť teraz?</string>
+
+    <string name="settings_charging_at_fast_speed">Rýchle nabíjanie</string>
+    <string name="settings_charging_at_normal_speed">Nabíjanie</string>
+    <string name="settings_charging_at_top_speed">Nabíjanie max. rýchlosťou</string>
+    <string name="settings_charging_fully_charged">Nabité</string>
+    <string name="settings_charging_not_charging">Nenabíja sa</string>	
 </resources>

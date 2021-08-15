@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">MiSettings</string>
+  <string name="app_name">Čas displeja</string>
   <string name="application_sound">Upozornenia aplikácií</string>
   <string name="calendar_sound">Upozornenia udalosti</string>
   <string name="calendar_tip">Zvuky upozornenia udalosti fungujú pre kalendár, poznámky, úlohy, atď.</string>

@@ -2320,7 +2320,7 @@
     <string name="sky_static">Statická</string>
     <string name="sky_sunny">Slnečno</string>    
     
-    <string name="cloud_action_open">Pocoliť</string>
+    <string name="cloud_action_open">Povoliť</string>
     <string name="cloud_action_upgrade">Navýšiť</string>
     <string name="cloud_action_view">Zobraziť</string>
     <string name="photo_editor_crop_size_free">Vlastný</string>

@@ -396,4 +396,7 @@ Vyžadujú sa povolenia."</string>
     <string name="dialog_btn_confirm2">Rozumiem</string>
     <string name="dialog_btn_enter">Nastavenia</string>	
     <string name="dialog_need_permission">Vyžadujú sa povolenia</string>	
+    
+    <string name="restore_prepare_item_type_enable">Dostupné zálohy</string>
+    <string name="restore_prepare_item_type_other">Ostatné zálohy</string>   
 </resources>  

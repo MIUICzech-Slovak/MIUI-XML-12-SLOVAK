@@ -614,4 +614,21 @@
         <item quantity="other">Videá: %d</item>
         <item quantity="one">Videá: %d</item>
     </plurals>            
+    
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">Nebolo možné synchr. %d položiek kvôli nedostatočnému miestu v MiCloude</item>
+        <item quantity="one">Nebolo možné synchr. %d položku kvôli nedostatočnému miestu v MiCloude</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Sťahovanie položiek z MiCloudu (%2$d/%1$d)</item>
+        <item quantity="one">Sťahovanie položiek z MiCloudu (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Synchr. %d položiek cez mobilné dáta</item>
+        <item quantity="one">Synchr. %d položky cez mobilné dáta</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">Synchr. %d položiek</item>
+        <item quantity="one">Synchr. %d položky</item>
+    </plurals>            
 </resources>

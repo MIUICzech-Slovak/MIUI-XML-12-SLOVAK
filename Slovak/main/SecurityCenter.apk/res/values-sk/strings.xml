@@ -5101,4 +5101,24 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
     <string name="gtb_guide_gtb_line_new">Nastavte si vašu hru s novým Zrýchlením hier!</string>
     <string name="gtb_guide_small_window_app_desc">Použite iné aplikácie počas hrania</string>
     <string name="gtb_guide_small_window_app_title">Plávajúce okná</string>
+    
+<string name="privacy_input_icon_layout_status_bg_content_enable">Chránené</string>
+    <string name="privacy_input_mode">Zabezpečený vstup</string>
+    <string name="privacy_input_mode_img_detail">Funguje s klávesnicami autorizovanými spoločnosťou Xiaomi</string>
+    <string name="privacy_input_mode_version_supported">Ak chcete používať túto funkciu, aktualizujte svoju klávesnicu</string>
+    <string name="privacy_input_model_guide_choose">Stiahnuť offline hlasový vstup</string>
+    <string name="privacy_input_model_guide_text">Táto funkcia chráni vaše súkromie pri zadávaní textu. Keď je táto funkcia zapnutá, niektoré zo sieťových funkcií (napr. možnosti prispôsobenia, emoji, prediktívne písanie) nebudú k dispozícii.</string>
+    <string name="privacy_input_model_tips">Zabezpečený vstup je zapnutý. Klávesnica nemôže zobrazovať vyskakovacie okná ani pristupovať ku kontaktom, informáciám o polohe a histórii hovorov.</string>
+    <string name="pp_privacy_input_tips">Chráňte svoju klávesnicu</string>
+    <string name="data_local_processing_and_storage_detail">Váš vstup bude uložený a spracovaný v tomto zariadení a nebude nahraný do cloudu.</string>
+<string name="disable_sensitive_permissions">Citlivé povolenia obmedzené</string>
+    <string name="disable_sensitive_permissions_detail">Vaša klávesnica nebude môcť používať povolenia súvisiace s ochranou súkromia (napr. prístup k kontaktom alebo k informáciám o polohe).</string>
+   <string name="stop_collecting_data">Klávesnica sa nenaučí vašim návykom</string>
+    <string name="stop_collecting_data_detail">Klávesnica nebude zhromažďovať údaje na zlepšenie prediktívneho písania a navrhovanie častých fráz na základe vašich návykov.</string>
+ <string name="protect_data_security">Izolované dáta</string>
+    <string name="protect_data_security_detail">Dáta generované klávesnicou budú izolované a nedostupné pre ostatné aplikácie..</string>
+    <string name="offline_voice_input">Hlasový vstup offline</string>
+    <string name="offline_voice_input_detail">Na hlasové zadávanie nebudete potrebovať internet.</string>    
+       
+        
 </resources>  

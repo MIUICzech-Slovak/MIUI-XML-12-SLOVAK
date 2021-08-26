@@ -631,4 +631,7 @@ http://www.miuios.cz/rom
     <string name="widget_note_list_page_title">Vyberte poznámku</string>	
     
     <string name="widget_havenot_content_new">Dotykom vytvoríte poznámku. Stlačte a držte pre zmenu veľkosti.</string>    
+	
+    <string name="app_widget_name_new">Poznámky</string>
+	<string name="widget_take_notes_title">Poznámky</string>
 </resources>  

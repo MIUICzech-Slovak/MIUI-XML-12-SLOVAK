@@ -191,4 +191,5 @@ Skontrolujte aj SPAM."</string>
     <string name="mibi_incognito_mode_dialog_summary_camera">Nie je možné použiť fotoaparát. Vypnite režim inkognito.</string>
     <string name="mibi_incognito_mode_dialog_title">Ste inkognito</string>
     <string name="mibi_incognito_mode_dialog_to_close">Nastavenia</string>  
+    <string name="mibi_button_disagree">Nesúhlasím</string>	
 </resources>

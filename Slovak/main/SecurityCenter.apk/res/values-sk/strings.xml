@@ -5120,5 +5120,42 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
     <string name="offline_voice_input">Hlasový vstup offline</string>
     <string name="offline_voice_input_detail">Na hlasové zadávanie nebudete potrebovať internet.</string>    
        
-        
+     <string name="applock_add_account_title_part">APridajte váš Xiaomi účet pre možnosť obnovenia hesla</string>
+    <string name="applock_fingerprint_detect">Použiť odtlačok prsta</string>
+    <string name="applock_fingerprint_unlock">Použiť odtlačok prsta</string>
+    <string name="applock_gulide_third_part">Účet bude odstránený keď sa odhlásite</string>
+    <string name="applock_not_add_account_normal">Nepridávať účet</string>	
+    <string name="bottom_notice_title">Potiahnutím nahor otvoríte nástroje</string>
+    <string name="commonly_used_func_card_title">Bežné funkcie</string>
+    <string name="commonly_used_func_edit_too_many_func">Nie je možné pridať ďalšie položky</string>
+    <string name="pc_fast_charge_notifi_action_text_off">Zastaviť</string>
+    <string name="pc_fast_charge_notifi_action_text_on">Zrýchliť</string>
+    <string name="pc_fast_charge_notifi_power_threshold_title">Nastaviť úroveň batérie pre upozornenia</string>
+    <string name="pc_fast_charge_notifi_summary">Nabíjanie do %s rýchlejšie ako obyčajne...</string>
+    <string name="pc_fast_charge_notifi_summary_on">Táto funkcia môže zahriať vaše zariadenie</string>
+    <string name="pc_fast_charge_notifi_switch_summary">Upozorniť na zrýchlené nabíjanie ak je pripojená %dW nabíjačka a batéria je pod nastavenú úroveň</string>
+    <string name="pc_fast_charge_notifi_switch_title">Upozorniť na zrýchlenie</string>
+    <string name="pc_fast_charge_notifi_title">%dW nabíjanie</string>
+    <string name="pc_fast_charge_notifi_title_on">Zastaviť zrýchlené nabíjanie</string>
+    <string name="pc_fast_charge_switch_summary">Povoliť zrýchlené nabíjanie. MIUI bude uprednostňovať rýchlosť nabíjania a zároveň zaistí bezpečnosť vášho zariadenia. Čím nižšie nabitá je vaša batéria, tým rýchlejšie sa nabije. Táto funkcia môže vaše zariadenie zahriať.</string>
+	
+    <string name="pc_fast_charge_switch_title">Zrýchliť nabíjanie</string>
+    <string name="pc_fast_charge_switch_toast_message">Zmeny budú použité pri ďalšom nabíjaní</string>
+    <string name="pc_fast_charge_title">Zrýchliť nabíjanie</string>	
+    <string name="phone_manager_edit_commonly_used_func_title">Upraviť bežné funkcie</string>
+    <string name="phone_manager_title">Nástroje</string>
+    <string name="pp_read_phone_info_summary">Prístup k SIM</string>
+    <string name="pp_sms_and_contacts">Kontakty a SMS</string>
+    <string name="sim_car_absent__tip">Potvrďte zámok obrazovky pre deaktivovanie Strateného režimu</string>
+    <string name="sim_car_absent_intercept_action">Potvrďte zámok (%d)</string>
+    <string name="sim_car_absent_intercept_action_last">Potvrdiť zámok</string>
+    <string name="sim_car_absent_intercept_item_summary">Vyhľadávanie zariadenia je zapnuté. Vyžaduje sa potvrdenie zámku obrazovky pre vypnutie zariadenia.</string>
+    <string name="sim_car_absent_intercept_item_summary_last">Vyhľadávanie zariadenia je zapnuté. Vyžaduje sa potvrdenie zámku obrazovky pre vypnutie zariadenia.</string>
+    <string name="sim_car_absent_intercept_item_title">Boli spustené ochranné mechanizmy</string>
+    <string name="sim_car_absent_intercept_summary">SIM karta bola odobraná. Potvrďte zámok obrazovky.</string>
+    <string name="sim_car_absent_intercept_title">Potvrďte zámok obrazovky</string>
+    <string name="sim_car_absent_summary">Potvrďte zámok obrazovky pre používanie zariadenia.</string>
+    <string name="sim_car_absent_title">Toto zariadenie je stratené</string>
+    <string name="sim_card_absent_intercept_tip">Ak nepotvrdíte zámok obrazovky, bude aktivovaný Stratený režim.</string>
+    <string name="sim_card_absent_warning_voice">SIM karta bola odobraná. Potvrďte zámok obrazovky.</string>	
 </resources>  

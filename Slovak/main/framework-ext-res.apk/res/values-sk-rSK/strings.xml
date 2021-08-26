@@ -319,5 +319,5 @@
     <string name="keyboard_upgrade_failed">Nebolo možné aktualizovať klávesnicu</string>
     <string name="keyboard_upgrade_start">Aktualizácia klávesnice...</string>
     <string name="keyboard_upgrade_success">Klávesnica bola aktualizovaná</string>    
-	
+    <string name="keyboard_connect_failed">Nebolo možné pripojiť klávesnicu. Skúste to znova.</string>	
 </resources>

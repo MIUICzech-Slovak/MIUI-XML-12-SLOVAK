@@ -7383,4 +7383,9 @@ Medzi funkciami môžete prepínať potiahnutím nahor troma prstami a podržan�
      <string name="accessibility_tutorial_dialog_title_triple">Trojité poklepanie obrazovky pre otvorenie</string>
      <string name="accessibility_tutorial_dialog_title_volume">Podržanie kláves hlasitosti pre otvorenie</string>
      <string name="accessibility_tutorial_pager">Stránka %1$d z %2$d</string>	
+	 
+<string name="headset_toast_tip_disconnect_others">Slúchadlá nie je možné nastaviť, zrejme sú spárované s iným zariadením</string>
+    <string name="params_interpretation">Podrobné špecifikácie</string>
+    <string name="vip_service_settings">Moje služby</string>
+	
 </resources>

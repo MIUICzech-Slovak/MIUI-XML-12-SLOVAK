@@ -5120,7 +5120,7 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
     <string name="offline_voice_input">Hlasový vstup offline</string>
     <string name="offline_voice_input_detail">Na hlasové zadávanie nebudete potrebovať internet.</string>    
        
-     <string name="applock_add_account_title_part">APridajte váš Xiaomi účet pre možnosť obnovenia hesla</string>
+     <string name="applock_add_account_title_part">Pridajte váš Xiaomi účet pre možnosť obnovenia hesla</string>
     <string name="applock_fingerprint_detect">Použiť odtlačok prsta</string>
     <string name="applock_fingerprint_unlock">Použiť odtlačok prsta</string>
     <string name="applock_gulide_third_part">Účet bude odstránený keď sa odhlásite</string>

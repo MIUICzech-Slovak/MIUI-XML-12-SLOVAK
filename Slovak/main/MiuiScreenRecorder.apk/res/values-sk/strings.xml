@@ -208,4 +208,7 @@ Dotykom ju zobrazíte"</string>
     <string name="low_battery_for_pad">Nabite vaše zariadenie pred začiatkom nahrávania</string>
     <string name="low_memory_for_pad">Máte menej ako  %1$d GB voľného miesta na úložisku. Môžete nahrať maximálne %2$d min.</string>
     <string name="view_recorded_videos">Zobraziť nahrávky</string>	
+    
+    <string name="show_hard_key_new">Zobraziť dotyky tlačidiel</string>
+    <string name="show_hard_key_summary_new">Zobraziť dotyky navigačných tlačidiel</string>        
 </resources>  

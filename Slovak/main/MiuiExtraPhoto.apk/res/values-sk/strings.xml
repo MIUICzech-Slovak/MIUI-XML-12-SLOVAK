@@ -141,4 +141,6 @@
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>      
   <string name="today">Dnes</string>
   <string name="tomorrow">Zajtra</string>   	
+  
+    <string name="save">Uložiť</string>  
 </resources>

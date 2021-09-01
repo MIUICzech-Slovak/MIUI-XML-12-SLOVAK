@@ -248,5 +248,12 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>                   	
+    <plurals name="every_x_day">
+        <item quantity="other">Každých %d dní</item>
+        <item quantity="one">Každý %d deň</item>
+    </plurals>
+    <plurals name="last_x_day">
+        <item quantity="other">Posledných %d dní</item>
+        <item quantity="one">Posledný %d deň</item>
+    </plurals>    
 </resources>
-

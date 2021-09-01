@@ -286,4 +286,29 @@
     <string name="kddi_miui_toast_zen_to_standard">Prepnuté do Tichého režimu. Hovory a upozornenia budú stíšené.</string>
     <string name="miui_toast_zen_dnd_to_off_T">Upozornenia už nie sú stíšené</string>
     <string name="miui_toast_zen_to_dnd_T">Upozornenia budú stíšené</string>	
+    
+    <string name="miplay_accessibility_cast">Vybrať zariadenie</string>
+    <string name="miplay_accessibility_cover">Obal</string>
+    <string name="miplay_accessibility_next">Ďalšia skladba</string>
+    <string name="miplay_accessibility_pause">Pauza</string>
+    <string name="miplay_accessibility_play">Prehrať</string>
+    <string name="miplay_accessibility_prev">Predchádzajúca skladba</string>
+    <string name="miplay_accessibility_seekbar">Pozícia</string>
+    <string name="miplay_accessibility_volume">Hlasitosť</string>
+    <string name="miplay_detail_divider_title">TV a reproduktory</string>
+    <string name="miplay_detail_header_no_song">Žiadna história prehrávania</string>
+    <string name="miplay_device_full_name">%2$s od %1$s</string>
+    <string name="miplay_headset_lc3_hint">Vypnite LC3 pre možnosť prepnutia zvukového výstupu do tohto zariadenia</string>
+    <string name="miplay_service_timeout_toast">Pripojenie zlyhalo. Skúste to znova.</string>
+    <string name="miplay_song_title_empty">Žiadna skladba</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Odznačiť</string>
+    <string name="miuix_appcompat_action_mode_select_all">Všetko</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Vyberte položku</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Viac</string>
+    <string name="miuix_appcompat_cancel_description">Zrušiť</string>
+    <string name="miuix_appcompat_confirm_description">Potvrdiť</string>
+    <string name="miuix_appcompat_delete_description">Vymazať</string>
+    <string name="miuix_appcompat_deselect_all_description">Odznačiť všetko</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Zrušiť</string>
+    <string name="miuix_appcompat_select_all_description">Všetko</string>            
 </resources>  

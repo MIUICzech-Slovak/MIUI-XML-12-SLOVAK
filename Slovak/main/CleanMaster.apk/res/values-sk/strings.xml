@@ -873,5 +873,10 @@
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>      
   <string name="today">Dnes</string>
-  <string name="tomorrow">Zajtra</string>    	
+  <string name="tomorrow">Zajtra</string>    
+  
+<string name="guide_dc_dialog_message_new">Ostáva menej ako %d GB voľného miesta na úložisku. Vaše zariadenie môže byť spomalené. Vyčistite vaše úložisko.</string>
+    <string name="guide_secure_dialog_message_new">Skóre optimalizácie je menej ako %d bodov. Chcete ho optimalizovať?</string>
+    <string name="low_memory_clean_dialog_msg_new">Najskôr vymažte aspoň %d MB súborov</string>
+    <string name="tips_low_storage_dialog_msg_storage_new">Máte mej ako %s úložiska. Odinštalujte aplikácie ktoré nepoužívate.</string>          	
 </resources>

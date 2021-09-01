@@ -728,4 +728,24 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="tomorrow">Zajtra</string>   
     <string name="passport_error_user_agreement_error">Najskôr odsúhlaste podmienky používania</string>    
     <string name="skip_query_account">Preskočiť</string>    
+    
+    <string name="account_and_password">Heslo</string>
+    <string name="account_user_phone_show">Telefón: %s</string>
+    <string name="account_verify_guide_bind_mail_desc">Pridať záložný email</string>
+    <string name="account_verify_guide_bind_phone_desc">Pridať záložný telefón</string>
+    <string name="account_verify_guide_set_password_desc">Nastaviť heslo</string>
+    <string name="family_share">Rodinné zdieľanie</string>
+    <string name="find_equipment">Vyhľadať zariadenie</string>
+    <string name="get_back_password">Obnoviť heslo</string>
+    <string name="mi_member">Mi Komunita</string>
+    <string name="miuix_access_state_desc">Vybrané</string>
+    <string name="miuix_alphabet_indexer_name">Indexová lišta</string>
+    <string name="miuix_indexer_selected">Vybraných %s</string>
+    <string name="no_install">Nie je nainštalované</string>
+    <string name="no_password_set">Nenastavené</string>
+    <string name="notify_bind_security_phone">Pridať záložný telefón</string>
+    <string name="notify_complete_security_info">Pridať záložné informácie</string>
+    <string name="personal_info_desc">Fotografia, prezývka, atď.</string>
+    <string name="self_account_info">Osobné info.</string>
+    <string name="third_party_login">Ďalšie účty</string>                                                            
 </resources>  

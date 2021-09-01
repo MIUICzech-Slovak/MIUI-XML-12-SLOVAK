@@ -7387,5 +7387,9 @@ Medzi funkciami môžete prepínať potiahnutím nahor troma prstami a podržan�
 <string name="headset_toast_tip_disconnect_others">Slúchadlá nie je možné nastaviť, zrejme sú spárované s iným zariadením</string>
     <string name="params_interpretation">Podrobné špecifikácie</string>
     <string name="vip_service_settings">Moje služby</string>
+    
+    <string name="miuix_access_state_desc">Vybrané</string>
+    <string name="miuix_alphabet_indexer_name">Indexová lišta</string>
+    <string name="miuix_indexer_selected">Vybraných %s</string>        
 	
 </resources>

@@ -733,4 +733,6 @@
      <string name="cta_dialog_desc_location">Na výpočet doby vášho denného dochádzania</string>
      <string name="cta_dialog_desc_phone_state">Pre identifikáciu vášho zariadenia pomocou IMEI</string>
      <string name="cta_dialog_desc_storage">Pre ukladanie položiek do zariadenia</string>    
+     
+    <string name="calc_convert">Konvertovať</string>     
 </resources>  

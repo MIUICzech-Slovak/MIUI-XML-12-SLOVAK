@@ -2327,5 +2327,23 @@
     <string name="photo_editor_crop_size_fullscreen">Celá obrazovka</string>
     <string name="photo_editor_crop_size_origin">Originál</string>
     <string name="photo_video_count">%1$s a %2$s</string>
+    
+    <string name="app_summary_2">Ukladanie, správa a úprava fotografií a videí na tomto zariadení</string>
+    <string name="cta_agreement_declare"><Data>Najskôr si prečítajte a odsúhlaste naše &lt;a href=\"%1$s\">Podmienky používania&lt;/a> a &lt;a href=\"%2$s\">Ochranu súkromia&lt;/a>.</Data></string>
+    <string name="cta_network_declare">Na synchronizáciu fotografií a videí so službou Xiaomi Cloud sa táto aplikácia musí pripojiť k internetu.</string>
+    <string name="grant_permission_go_and_set_2">Nastavenia</string>
+    <string name="grant_permission_go_and_set_3">Nastavenia</string>
+    <string name="grant_permission_shortcut">Najskôr povoľte vytváranie odkazov na ploche.</string>
+    <string name="grant_permission_storage">Najskôr povoľte prístup k úložisku.</string>
+    <string name="grant_permission_storage_unlock">Odomknite vaše zariadenie a povoľte prístup k úložisku.</string>
+    <string name="grant_permission_unlock_and_set_2">Odomknúť</string>
+    <string name="grant_permission_write_clipboard">Pre možnosť kopírovať položky, povoľte tejto aplikácií ukladanie položiek do schránky.</string>
+    <string name="permission_account_desc">Pre prihlásenie a správu účtov</string>
+    <string name="permission_account_name">Prístup k účtom</string>
+    <string name="permission_clipboard_desc">Pre prístup a ukladanie položiek do schránky</string>
+    <string name="permission_clipboard_name">Prístup do schránky</string>
+    <string name="permission_contacts_desc_2">Pre rozpoznanie ľudí na fotografiách</string>
+    <string name="permission_contacts_name_2">Prístup ku kontaktom</string>
+    <string name="permission_storage_name_2">Prístup a ukladanie fotografií a súborov v zariadení</string>                                    
                 
 </resources>

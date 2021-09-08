@@ -230,4 +230,5 @@ Rýchlejšie pripojenie."</string>
 	
     <string name="fiveg_sa_switch_summary">Použiť SA sieť na druhej SIM</string>
     <string name="fiveg_sa_vice_switch_title">SA na druhej SIM</string>	
+    <string name="headset_loss_notify_summary1">Zdá sa, že vaše slúchadla nie sú v púzdre. Vložte ich do púzdra pre ich nabitie.</string>	
 </resources>

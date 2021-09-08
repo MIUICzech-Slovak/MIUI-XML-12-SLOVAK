@@ -1887,5 +1887,11 @@ Kontaktujte vášho operátora"</string>
     <string name="relay_connection_service_label">Vstavané RELAY volanie</string>	 
 	
     <string name="xcap_setting_summary">Presmerovanie, hlasová schránka a čakanie na hovor</string>
-    <string name="xcap_setting_title">Nastavenie služieb hovorov</string>	
+    <string name="xcap_setting_title">Nastavenie služieb hovorov</string>
+	
+    <string name="enter_esim_manager">Spravovať eSIM</string>
+    <string name="esim_goto_active">Aktivovať</string>
+    <string name="esim_inactive_message">Neaktívna eSIM</string>
+    <string name="esim_inactive_notification_message">Žiadna SIM karta. Dotykom aktivujete eSIM.</string>
+    <string name="esim_inactive_settings_title">Duálna SIM a mobilné siete</string>	
 </resources>

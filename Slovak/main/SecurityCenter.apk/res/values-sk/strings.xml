@@ -5164,5 +5164,6 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
     <string name="miuix_access_state_desc">Vybrané</string>
     <string name="miuix_alphabet_indexer_name">Indexová lišta</string>
     <string name="miuix_indexer_selected">Vybraných %s</string>
-                
+
+    <string name="HIPS_Perm_GetInstall_Desc">Získať informácie o nainštalovaných aplikáciach v tomto zariadení.</string>                
 </resources>  

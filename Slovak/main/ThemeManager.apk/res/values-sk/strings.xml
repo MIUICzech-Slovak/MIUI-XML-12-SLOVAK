@@ -840,4 +840,19 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
 	 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+	
+<string name="apply_warning_tip_get_device_status">NAjskôr povoľte tejto aplikácií prístup k ID zariadenia v Profil > Nastavenia.</string>
+    <string name="dialog_apply_lock_screen_wallpaper_content">Súčasná téma nepodporuje zmenu tapety zámku.</string>
+    <string name="dialog_apply_lock_screen_wallpaper_warning">Tapeta zámku</string>
+    <string name="dialog_content_get_device_status">Táto aplikácia potrebuje k ID zariadenia pre overenie zakúpených tém. Chcete deaktivovať toto povolenie?</string>
+<string name="multiwindow_no_support">Táto akcia nie je podporovaná v rozdelenej obrazovke</string>
+    <string name="personalize_second_space_not_support_set_font">Nie je možné zmeniť písmo v Druhom profile</string>
+    <string name="preference_subtitle_get_device_status">Povoliť aplikácií prístup k ID zariadenia pre sťahovanie zakúpených tém</string>
+    <string name="preference_title_get_device_status">Prístup k ID zariadenia</string>
+<string name="send">Odoslať</string>
+    <string name="still_apply">Použiť</string>
+    <string name="video_not_support_message">Toto video môže byť zobrazené nesprávne alebo spomalené. Napriek tomu ho použiť?</string>
+    <string name="video_not_support_title">Toto video je príliš veľké</string>
+<string name="wallpaper_dark_mode_image_preview_tip">Náhľad v tmavom režime</string>
+<string name="wallpaper_light_mode_image_preview_tip">Náhľad v svetlom režime</string>	
 </resources>  

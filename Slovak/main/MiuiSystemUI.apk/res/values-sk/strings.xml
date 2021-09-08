@@ -2700,5 +2700,9 @@ Tejto aplikácii nebolo udelené povolenie na nahrávanie, môže však snímať
     
     <string name="miuix_access_state_desc">Vybrané</string>
     <string name="miuix_alphabet_indexer_name">Indexová lišta</string>
-    <string name="miuix_indexer_selected">Vybraných %s</string>        
+    <string name="miuix_indexer_selected">Vybraných %s</string>    
+
+        <string name="phone_locked_string_owner_user">Príliš mnoho neúspešných pokusov. Toto zariadenie je uzamknuté.</string>
+    <string name="phone_locked_string_second_user">Príliš mnoho neúspešných pokusov. Toto zariadenie je uzamknuté.</string>
+	
 </resources>

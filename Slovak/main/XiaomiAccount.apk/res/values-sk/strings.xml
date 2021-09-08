@@ -747,5 +747,8 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="notify_complete_security_info">Pridať záložné informácie</string>
     <string name="personal_info_desc">Fotografia, prezývka, atď.</string>
     <string name="self_account_info">Osobné info.</string>
-    <string name="third_party_login">Ďalšie účty</string>                                                            
+    <string name="third_party_login">Ďalšie účty</string>   
+
+	<string name="passport_area_code_others">Použite inú predvoľbu</string>
+<string name="passport_tz_invalid">Nájdené bezpečnostné riziko. Toto zariadenie má odomknutý bootloader. Použite iný spôsob prihlásenia.</string>	
 </resources>  

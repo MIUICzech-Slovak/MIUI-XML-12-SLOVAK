@@ -4819,7 +4819,7 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="pc_hidemode_normal">Vyvážené</string>
     <string name="pc_hidemode_performance">Výkon</string>
     <string name="pc_hidemode_performance_title">Výkonný režim</string>
-    <string name="pc_hidemode_power_save">Sila</string>
+    <string name="pc_hidemode_power_save">Úspora</string>
     <string name="pc_performance_mode_dialog_summary">Vaše zariadenie bude schopné fungovať %s vo Výkonnom režime. Výkonný režim môže zvýšiť spotrebu batérie a spôsobiť prehrievanie zariadenia.</string>
     <string name="pc_performance_mode_dialog_title">Výkonný režim</string>	
 	

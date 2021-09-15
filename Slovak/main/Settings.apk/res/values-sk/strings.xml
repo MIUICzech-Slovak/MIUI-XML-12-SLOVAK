@@ -7396,5 +7396,6 @@ Medzi funkciami môžete prepínať potiahnutím nahor troma prstami a podržan�
     <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Povoliť prístup ku kontaktom</string>
     <string name="dialog_esim_button_negative">Zrušiť</string>
     <string name="dialog_esim_button_positive">OK</string>
-	
+    <string name="low_dc_light_title">Anti-flicker režim pri slabom osvetlení</string>
+    <string name="miheadset_windnoise">Vietor</string>        	
 </resources>

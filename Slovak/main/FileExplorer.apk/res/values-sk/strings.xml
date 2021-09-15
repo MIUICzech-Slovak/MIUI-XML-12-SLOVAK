@@ -942,4 +942,6 @@ Získali ste ďalších %1$s"</string>
      <string name="guide_two_title">Zobraziť len základné položky</string>
      <string name="next">Ďalej</string>
      <string name="start_all">Všetko</string>  
+     
+    <string name="clean_hint_pad">Vyčistite odpad pre uvoľnenie miesta na úložisku</string>     
 </resources>

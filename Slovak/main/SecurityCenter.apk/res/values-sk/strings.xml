@@ -5165,5 +5165,21 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
     <string name="miuix_alphabet_indexer_name">Indexová lišta</string>
     <string name="miuix_indexer_selected">Vybraných %s</string>
 
-    <string name="HIPS_Perm_GetInstall_Desc">Získať informácie o nainštalovaných aplikáciach v tomto zariadení.</string>                
+    <string name="HIPS_Perm_GetInstall_Desc">Získať informácie o nainštalovaných aplikáciach v tomto zariadení.</string>           
+    
+    <string name="charge_high_temp_warning_dialog_ok">Rozumiem</string>
+    <string name="charge_high_temp_warning_dialog_text">Zdá sa, že nabíjací port je teraz prehriaty. Pred opätovným nabíjaním odpojte nabíjačku a nechajte batériu vychladnúť.</string>
+    <string name="charge_high_temp_warning_text">Odpojte nabíjačku a nechajte batériu vychladnúť</string>
+    <string name="charge_high_temp_warning_title">Nabíjací port je príliš horúci</string>
+    <string name="privacy_apps_add">Pridať</string>
+    <string name="privacy_apps_password_enable_summay">Chráňte súkromné súbory pomocou zámku aplikácií</string>
+    <string name="privacy_apps_password_enable_title">Zámok aplikácií</string>
+    <string name="privacy_apps_tutorial_dlg_message_1">Roztiahnutím dvoch prstov od seba na domovskej obrazovke zobrazíte skryté aplikácie</string>
+    <string name="privacy_apps_tutorial_dlg_message_2">Poznámka: Keď skryjete aplikáciu, skryje sa iba jej ikona na ploche.</string>     
+    <string name="privacy_search_keyword_1">Súkromie</string>
+    <string name="privacy_search_keyword_2">Skryť aplikácie</string>
+    <string name="privacy_search_keyword_3">Skryť ikony</string>
+    <string name="privacy_search_keyword_4">Skryť odkazy na ploche</string>
+    <string name="privacy_search_keyword_5">Súkromné aplikácie</string>
+    <string name="privacy_search_keyword_6">Skryť</string>                        
 </resources>  

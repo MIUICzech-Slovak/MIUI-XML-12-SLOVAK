@@ -321,4 +321,6 @@
     <string name="keyboard_upgrade_success">Klávesnica bola aktualizovaná</string>    
     <string name="keyboard_connect_failed">Nebolo možné pripojiť klávesnicu. Skúste to znova.</string>	
     <string name="lockscreen_carrier_customized">Obmedzené služby</string>	
+    
+    <string name="fold_small_not_split">Rozdelenie obrazovky nie je podporované na vonkajšej obrazovke</string>    
 </resources>

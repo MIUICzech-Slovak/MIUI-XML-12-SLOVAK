@@ -7398,4 +7398,7 @@ Medzi funkciami môžete prepínať potiahnutím nahor troma prstami a podržan�
     <string name="dialog_esim_button_positive">OK</string>
     <string name="low_dc_light_title">Anti-flicker režim pri slabom osvetlení</string>
     <string name="miheadset_windnoise">Vietor</string>        	
+    
+    <string name="beauty_fc_assistant">Asistent predného fotoaparátu</string>
+
 </resources>

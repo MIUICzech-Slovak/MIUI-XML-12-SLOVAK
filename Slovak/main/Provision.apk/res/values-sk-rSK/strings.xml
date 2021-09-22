@@ -371,5 +371,8 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     <string name="sim_card_detection_info_sb">Pred pokračovaním vložte SIM kartu. Vyhľadávanie zariadenia a funkcie synchronizácie nebudú dostupné ak vytvoríte účet bez SIM karty. Toto zariadenie podporujes eSIM.</string>
     <string name="sim_card_detection_info_sb_esim">Dotykom aktivujete eSIM.</string>
     <string name="sim_card_detection_sb_esim">Aktivovať eSIM</string>
-    <string name="sim_card_detection_sb_nonactivated">Neaktivované</string>        
+    <string name="sim_card_detection_sb_nonactivated">Neaktivované</string>      
+    
+<string name="user_agreement_declare_gmscore">Pred používaním MIUI, musíte odsúhlasiť naše Podmienky používania a Ochranu súkromia.</string>
+      <string name="user_agreement_declare_wifi_device_gmscore">Pred používaním MIUI, musíte odsúhlasiť naše Podmienky používania a Ochranu súkromia.</string>
 </resources>  

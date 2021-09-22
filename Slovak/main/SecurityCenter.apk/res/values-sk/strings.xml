@@ -4084,7 +4084,7 @@ z vášho hrania hier"</string>
     <string name="no_open">Neskôr</string>
     <string name="notification_checker_installed_apk_hint">Nie je potrebné ponechať APKs súbory po ich inštalácií</string>
     <string name="notification_garbage_clean_botton_text_new">Vymazať</string>
-    <string name="notification_garbage_clean_hint_new">Nechajte svoje zariadenie stúpať</string>
+    <string name="notification_garbage_clean_hint_new">Nechajte svoje zariadenie rásť</string>
     <string name="notification_garbage_clean_size_found">Máte %s odpadu</string>
     <string name="notification_garbage_clean_size_found_hint">Je čas vyprázdniť odpad!</string>
     <string name="notification_garbage_clean_size_found_text">Máte mnoho odpadu</string>

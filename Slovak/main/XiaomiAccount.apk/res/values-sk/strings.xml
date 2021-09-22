@@ -751,4 +751,23 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
 
 	<string name="passport_area_code_others">Použite inú predvoľbu</string>
 <string name="passport_tz_invalid">Nájdené bezpečnostné riziko. Toto zariadenie má odomknutý bootloader. Použite iný spôsob prihlásenia.</string>	
+
+    <string name="accept">Povoliť</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="deny">Odmietnuť</string>
+    <string name="enable">Nastavenia</string>
+    <string name="goto_accept">OK</string>
+    <string name="permission_desc_read_sms">Pre automatické zadávanie overovacích kódov</string>
+    <string name="permission_desc_write_external_storage">Pre nahrávanie záznamov o chybách</string>
+    <string name="permission_read_sms">Prístup k správam</string>
+    <string name="permission_write_external_storage">Prístup a uloženie položiek na úložisko</string>
+    <string name="request_open_permission">Vyžadujú sa povolenia</string>
+    <string name="request_use_camera_message">Povoliť Mi účtu prístup k fotoaparátu?</string>
+    <string name="request_use_camera_title">Prístup k fotoaparátu</string>
+    <string name="request_use_gallery_message">Povoliť Mi účtu prístup ku Galérií?</string>
+    <string name="request_use_gallery_title">Prístup ku Galérii</string>
+    <string name="request_use_writing_clipboard_message">Pre kopírovanie vášho ID Mi účtu, povoľte ukladanie položiek do schránky.</string>
+<string name="user_instruction_all_purpose">Vitajte v Mi účte! Môžete vytvoriť nový účet alebo sa prihlásiť pre prístup k online Xiaomi službám.</string>
+    <string name="user_instruction_tip">Pre prihlásenie musíte súhlasiť s Podmienkami používania.</string>
+                                    
 </resources>  

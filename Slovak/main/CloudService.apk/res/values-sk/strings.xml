@@ -1093,5 +1093,15 @@ Poloha nebude odoslaná ak je slabý signál siete."</string>
     <string name="micloud_storage_full_tip">Úložisko je plné</string>
     <string name="micloud_storage_normal_tip">Ostáva %s</string>
     <string name="micloud_storage_share_family">Rodinné zdieľanie</string>
-    <string name="micloud_upgrade_storage">Navýšiť úložisko</string>                        	
+    <string name="micloud_upgrade_storage">Navýšiť úložisko</string>      
+    
+    <string name="noti_quota_button_text">Navýšiť</string>
+    <string name="noti_quota_full_sum">Navýšte si svoje predplatné cloudového úložiska pre pokračovanie synchronizácie.</string>
+    <string name="noti_quota_full_sum_without_button">Získajte viac cloudového úložiska pre pokračovanie synchronizácie.</string>
+    <string name="noti_quota_full_title">Cloudové úložisko je plné</string>
+    <string name="noti_quota_full_title_without_button">Cloudové úložisko je plné</string>
+    <string name="noti_quota_low_sum">Navýšte si svoje predplatné cloudového úložiska pre pokračovanie synchronizácie.</string>
+    <string name="noti_quota_low_sum_without_button">Získajte viac cloudového úložiska pre pokračovanie synchronizácie.</string>
+    <string name="noti_quota_low_title">Nie je dostatok miesta na cloudovom úložisku</string>
+    <string name="noti_quota_low_title_without_button">Nie je dostatok miesta na cloudovom úložisku</string>                      	
 </resources>  

@@ -688,5 +688,27 @@
     <string name="navigation_set_miui_home_as_default_dialog_cancel">Zrušiť</string>
     <string name="navigation_set_miui_home_as_default_dialog_message">Ak nastavíte iný launcher ako MIUI, prestane fungovať ovládanie gestami. Chcete pokračovať?</string>
     <string name="navigation_set_miui_home_as_default_dialog_ok">Nastaviť</string>
-    <string name="navigation_set_miui_home_as_default_dialog_title">Upozornenie</string>    
+    <string name="navigation_set_miui_home_as_default_dialog_title">Upozornenie</string>  
+    
+    <string name="maml_download_dialog_cancel_text">Čakať na Wi-Fi</string>
+    <string name="maml_download_dialog_cancel_text_china">Čakať na Wi-Fi</string>
+    <string name="maml_download_dialog_checkbox_text">Viac nezobrazovať</string>
+    <string name="maml_download_dialog_confirm_text">Stiahnuť</string>
+    <string name="maml_download_dialog_message">Bude stiahnutých %s MB cez mobilné dáta. Chcete pokračovať?</string>
+    <string name="maml_download_dialog_title">Spotreba mobilných dát</string>
+    <string name="maml_download_tip_wait_wifi">Táto položka bude stiahnutá keď sa pripojíte na Wi-Fi</string>
+    <string name="maml_download_tip_wait_wifi_china">Táto položka bude stiahnutá keď sa pripojíte na Wi-Fi</string>
+    <string name="navigation_guide_finish_text">Rozumiem</string>
+    <string name="navigation_guide_prohibit_gesture_hint">Nie je možné použiť gestá počas sledovania ukážky</string>
+    <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Viac ukážok nájdete v Nastavenia > Domáca plocha > Ovládanie</string>
+    <string name="open_personal_assistant_settings">Nastavenia asistenta</string>
+    <string name="ota_layout_adjustment_button_text">Rozumiem</string>
+    <string name="ota_layout_adjustment_content">Rozloženie plochy bolo synchronizované.</string>
+    <string name="ota_layout_adjustment_title">Rozloženie plochy</string>
+    <string name="recents_clear_all_tasks">Vyčistiť všetko</string>
+    <string name="swipe_the_desktop_to_the_left">Potiahnite vľavo na ploche</string>
+    <string name="swipe_the_desktop_to_the_right">Potiahnite vpravo na ploche</string>
+    <string name="system_shortcuts_edit">Upraviť</string>
+    <string name="toast_drag_to_assistant_reject">Spúšťanie asistenta…</string>
+                                          
 </resources>

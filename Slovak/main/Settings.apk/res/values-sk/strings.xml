@@ -7401,4 +7401,11 @@ Medzi funkciami môžete prepínať potiahnutím nahor troma prstami a podržan�
     
     <string name="beauty_fc_assistant">Asistent predného fotoaparátu</string>
 
+<string name="handy_mode_no_touch_assistant">Režim jednej ruky funguje len ak používate navigačné tlačidlá a nie ovládanie gestami.</string>
+    <string name="headset_spatial_audio">Priestorový zvuk</string>
+    <string name="insert_sim_card_and_try_again">Vložte svoju SIM kartu a skúste to znova.</string>
+    <string name="keyboard_funtion_key">Funkčná klávesa</string>
+    <string name="sim_status_title_sim_softbank">Stav SIM %1$d</string>
+    <string name="status_number_sim_softbank">Telefónne číslo %1$d</string>
+    <string name="unsupported_usim_card">Nepodporovaná USIM karta.</string>	
 </resources>

@@ -341,5 +341,5 @@ Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našimi zmlu
     <string name="mipaly_server_exit_touping">Najskôr ukončite vysielanie</string>
     <string name="notify">Vysielanie pracuje na pozadí</string>
     <string name="p2p_location_des">Pre pripojenie vášho zariadenia k externému monitoru</string>
-                            
+    <string name="toast_invisible_mode">Ste inkognito. Nie je možné vusielať.</string>                            
 </resources>  

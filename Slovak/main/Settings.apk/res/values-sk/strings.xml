@@ -7408,4 +7408,43 @@ Medzi funkciami môžete prepínať potiahnutím nahor troma prstami a podržan�
     <string name="sim_status_title_sim_softbank">Stav SIM %1$d</string>
     <string name="status_number_sim_softbank">Telefónne číslo %1$d</string>
     <string name="unsupported_usim_card">Nepodporovaná USIM karta.</string>	
+    
+    <string name="blank_screen_no_device">Žiadne zariadenia</string>
+    <string name="blank_screen_no_record">Žiadne záznamy</string>
+    <string name="bluetooth_other_settings">Ďalšie nastavenia</string>
+    <string name="bluetooth_version">Bluetooth verzia</string>
+    <string name="bluetooth_version_message">Aktualizovať</string>
+    <string name="current_use_default_wallet">Vybrané automaticky</string>
+    <string name="dclight_unavailable_prompt">Anti-flicker režim podporuje len vonkajšia obrazovka</string>
+    <string name="display_prompt_confirm">Rozumiem</string>
+    <string name="face_data_suggesstion_first_cn">Aby ste mohli používať odomykanie tvárou, potrebujeme zhromaždiť údaje o vašej tvári. Údaje o tvári budú uložené lokálne na tomto zariadení. Ak ho chcete odstrániť, vyhľadajte v nastaveniach \ "Odomknutie tvárou \" a potom vyberte Odomknutie tvárou> Údaje o tvári.
+Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariadenie môže byť odomknuté s vašou fotografiou, rovnako ako s ľuďmi alebo predmetmi podobného vzhľadu.</string>
+    <string name="finger_add_user_info_dialog_cancel">Zrušiť</string>
+    <string name="finger_add_user_info_dialog_message">Aby ste mohli používať odomykanie odtlačkom prsta a uskutočňovať platby odtlačkom prsta, musíme váš odtlačok prsta zhromaždiť. Odtlačok prsta bude na tomto zariadení uložený lokálne. Ak ho chcete odstrániť, v Nastaveniach vyhľadajte \ "Odomknutie odtlačkom prsta \" a potom vyberte Odomknutie odtlačkom prsta> Odtlačok prsta. Ak nesúhlasíte, túto funkciu nebudete môcť používať.</string>
+    <string name="finger_add_user_info_dialog_next">Súhlasím</string>
+    <string name="finger_add_user_info_dialog_title">Upozornenie</string>
+    <string name="lockscreen_access_pattern_cleared">Vzor vymazaný</string>
+    <string name="lockscreen_access_pattern_detected">Vzor dokončený</string>
+    <string name="lockscreen_access_pattern_start">Vzor začatý</string>
+    <string name="miui_face_enroll_risk_warning_title_text_cn">Stanovisko o bezpečnosti</string>
+    <string name="screen_refresh_unavailable_prompt">Zmena obnovovacej frekvencie je podporovaná len pre vonkajšiu obrazovku</string>
+    <string name="se_route_default">Vybrať automaticky</string>
+    
+    <string name="sos_privacy_policy_change_endtitle">Prečítajte si novú verziu %s.</string>
+    <string name="sos_privacy_policy_change_message_reject">Nebudete môcť používať núdzové SOS ak neodsúhlasíte Ochranu súkromia. Súhlasíte %s?</string>
+    <string name="sos_privacy_policy_change_subtitle">Ochrana súkromia pre núdzové SOS bola aktualizovaná:</string>
+    <string name="sos_privacy_policy_change_title">Aktualizovaná Ochrana súkromia</string>
+    <string name="sos_privacy_policy_change_title_reject">Nie je možné použiť aplikáciu</string>
+    <string name="sos_privacy_policy_no_net_button">Rozumiem</string>
+    <string name="sos_privacy_policy_no_net_message">Pre odvolanie súhlasu je potrené pripojenie k sieti.</string>
+    <string name="sos_privacy_policy_no_net_title">Nebolo možné pripojiť sa k sieti</string>
+    <string name="sos_privacy_policy_revoke">Odvolanie súhlasu</string>
+    <string name="sos_privacy_policy_revoke_message_reject">Ak budete pokračovať, odvoláte svoj súhlas s pravidlami ochrany osobných údajov núdzového SOS. Osobné údaje, ktoré už boli zhromaždené a uchované, budú v rámci stanoveného obdobia vymazané v súlade s platnými zákonmi a predpismi, pokiaľ nie je požadované inak.
+
+Keďže núdzové SOS poskytuje svoje služby na základe zhromažďovania potrebných osobných údajov, vaše odvolanie súhlasu sa bude považovať za odmietnutie prijatia bezpečnostných služieb.
+
+Chcete teraz odvolať súhlas s %s?</string>
+    <string name="sos_privacy_policy_revoke_title_reject">Upozornenie</string>
+    <string name="sos_privacy_revoke_failed_dialog_content">Chyba servera.</string>
+    <string name="sos_privacy_revoke_failed_dialog_title">Nebolo možné odvolať súhlas</string>                    
 </resources>

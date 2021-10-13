@@ -1680,4 +1680,6 @@ Chcete ju zavrieť?"</string>
   <string name="notification_channel_network_alerts">Sieťové upozornenia</string>
   <string name="notification_channel_network_available">Sieť k dispozícii</string>
   <string name="notification_channel_network_status">Stav siete</string>  
+    <string name="permission_request_notification_for_app_with_subtitle">"Povolenie požadované %1$s
+pre účet %2$s."</string>  
 </resources>

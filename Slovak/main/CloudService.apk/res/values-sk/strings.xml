@@ -1103,5 +1103,12 @@ Poloha nebude odoslaná ak je slabý signál siete."</string>
     <string name="noti_quota_low_sum">Navýšte si svoje predplatné cloudového úložiska pre pokračovanie synchronizácie.</string>
     <string name="noti_quota_low_sum_without_button">Získajte viac cloudového úložiska pre pokračovanie synchronizácie.</string>
     <string name="noti_quota_low_title">Nie je dostatok miesta na cloudovom úložisku</string>
-    <string name="noti_quota_low_title_without_button">Nie je dostatok miesta na cloudovom úložisku</string>                      	
+    <string name="noti_quota_low_title_without_button">Nie je dostatok miesta na cloudovom úložisku</string>     
+    
+    <string name="agree_and_continue">Súhlasím</string>
+    <string name="agreement_and_privacy_description">Prečítajte si Xiaomi Cloud Ochranu súkromia a Podmienky používania.</string>
+    <string name="button_agree">Súhlasím</string>
+    <string name="button_quit">Ukončiť</string>
+    <string name="button_revoke">Odvolať</string>     
+    <string name="dialog_title_prompt">Upozornenie</string>                            	
 </resources>  

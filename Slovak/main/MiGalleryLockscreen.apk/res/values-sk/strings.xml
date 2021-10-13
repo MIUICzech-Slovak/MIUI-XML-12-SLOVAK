@@ -372,7 +372,14 @@
      <string name="view_privacy_policy">Ochrana súkromia</string>
      <string name="recommend_switch_title">Prispôsobené odporúčania</string>          
      <string name="recommend_switch_desc">Dostávajte obsah podľa vašich nastavení</string>
-               
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+         
+    <string name="goto_confirm">Nastavenia</string>
+    <string name="require_permission">Požadované povolenia</string>
+    <string name="require_permission_text">Pre ukladanie a prezeranie položiek, povoľte prístup k úložisku.</string>
+    <string name="summary3">Vitajte v Dennej tapete! Táto aplikácia požaduje prístup k sieti pre jej správne fungovanie. Prečítajte si naše Podmienky používania a Ochranu súkromia.</string>
+    <string name="summary4">Vitajte v Dennej tapete!</string>
+    <string name="summary5">Pre správne fungovanie sú požadované povolenia k úložisku.</string>             
+               
 </resources>  

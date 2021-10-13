@@ -769,5 +769,21 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="request_use_writing_clipboard_message">Pre kopírovanie vášho ID Mi účtu, povoľte ukladanie položiek do schránky.</string>
 <string name="user_instruction_all_purpose">Vitajte v Mi účte! Môžete vytvoriť nový účet alebo sa prihlásiť pre prístup k online Xiaomi službám.</string>
     <string name="user_instruction_tip">Pre prihlásenie musíte súhlasiť s Podmienkami používania.</string>
+    
+    <string name="button_agree">Súhlasím</string>
+    <string name="button_close">Zatvoriť</string>
+    <string name="button_refuse">Nesúhlasím</string>
+    <string name="permission_instructions">Použitie povolení</string>
+    <string name="permission_withdraw">Odvolať</string>
+    <string name="privacy_policy_reject_confirm_msg">Nebudete môcť používať Mi účet kým neodsúhlasíte Podmienky používania. Súhlasíte?</string>
+    <string name="privacy_policy_reject_confirm_title">Nie je možné používať Mi účet</string>
+    <string name="privacy_policy_update_msg">Podmienky používania pre Mi účet boli aktualizované. Prečítajte si ich a odsúhlaste.</string>
+    <string name="privacy_policy_update_title">Aktualizovaná Ochrana súkromia</string>
+    <string name="revoke_privacy_policy">Odvolanie súhlasu</string>
+    <string name="revoke_privacy_policy_instructions">Ak budete pokračovať, odvoláte svoj súhlas s Podmienkami používania Mi účtu. Chcete ho odvolať?</string>
+    <string name="revoke_privacy_policy_title">Odvolanie súhlasu</string>
+    <string name="user_license_with_3rd_app_no_operator">Súhlasím s Podmienkami používania a Ochranou súkromia.</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator">Súhlasím s Podmienkami používania a Ochranou súkromia.</Data></string>
+        
                                     
 </resources>  

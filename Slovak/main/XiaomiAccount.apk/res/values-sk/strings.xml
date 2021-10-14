@@ -782,8 +782,8 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="revoke_privacy_policy">Odvolanie súhlasu</string>
     <string name="revoke_privacy_policy_instructions">Ak budete pokračovať, odvoláte svoj súhlas s Podmienkami používania Mi účtu. Chcete ho odvolať?</string>
     <string name="revoke_privacy_policy_title">Odvolanie súhlasu</string>
-    <string name="user_license_with_3rd_app_no_operator">Súhlasím s Podmienkami používania a Ochranou súkromia.</Data></string>
-    <string name="user_license_with_out_3rd_app_no_operator">Súhlasím s Podmienkami používania a Ochranou súkromia.</Data></string>
+    <string name="user_license_with_3rd_app_no_operator">Súhlasím s Podmienkami používania a Ochranou súkromia.</string>
+    <string name="user_license_with_out_3rd_app_no_operator">Súhlasím s Podmienkami používania a Ochranou súkromia.</string>
         
                                     
 </resources>  

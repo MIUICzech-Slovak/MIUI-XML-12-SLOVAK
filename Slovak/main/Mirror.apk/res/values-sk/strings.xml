@@ -251,6 +251,5 @@
     <string name="low_version_dialog_message">Aktualizujte MIUI+ vo vašom PC z plus.miui.com.</string>
     <string name="low_version_dialog_title">Aktualizujte MIUI+</string>
     <string name="pcmode_not_support_multi_window">PC režim nepodporuje zobrazenie viacerých okien.</string>
-    <string name="settings_home_sub_title">Prepojte váš telefón s PC</string>
-    <string name="settings_home_tips">Kombinácia obrazoviek umiestní obrazovku vášho telefónu na váš monitor.</string>                 
+               
 </resources>  

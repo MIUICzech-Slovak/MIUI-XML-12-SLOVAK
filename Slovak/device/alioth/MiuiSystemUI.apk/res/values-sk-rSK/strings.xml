@@ -324,7 +324,6 @@ Skúste to znova o %d s."</string>
      <string name="instant_apps_message_with_help">Aplikácia bola otvorená bez inštalácie. Klepnutím zobrazíte ďalšie informácie.</string>
      <string name="instant_apps_title">Aplikácia %1$s je spustená</string>
      <string name="item_view_role_description">Tabulátor</string>
-     <string name="keyguard_more_overflow_text">+%d</string>
      <string name="keyguard_plugged_in_charging_limited">%s • Nabíjanie je dočasne obmedzené</string>
      <string name="keyguard_retry">Potiahnutím nahor to skúste znova</string>
      <string name="keyguard_try_fingerprint">Otvorte odtlačkom prsta</string>
@@ -374,11 +373,8 @@ Skúste to znova o %d s."</string>
      <string name="mobile_carrier_text_format">%1$s, %2$s</string>
      <string name="mobile_data_text_format">%1$s – %2$s</string>
      <string name="monitoring_button_view_controls">Zobraziť ovládacie prvky</string>
-     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
-     <string name="monitoring_description_do_learn_more_separator">" "</string>
      <string name="monitoring_description_managed_profile_network_logging">Správca aktivoval zapisovanie do denníka siete, ktoré sleduje premávku vo vašom pracovnom profile, ale nie osobnom.</string>
      <string name="monitoring_description_parental_controls">Toto zariadenie spravuje tvoj rodič. Vidí a môže spravovať informácie, napríklad aplikácie, ktoré používaš, tvoju polohu a čas používania.</string>
-     <string name="monitoring_description_vpn_settings_separator">" "</string>
      <string name="monitoring_financed_description_named_management">"%1$s môže mať prístup k údajom spojeným s týmto zariadením, spravovať aplikácie a meniť jeho nastavenia.
 
 V prípade otázok kontaktujte organizáciu %2$s."</string>
@@ -467,7 +463,6 @@ V prípade otázok kontaktujte organizáciu %2$s."</string>
      <string name="people_tile_description">Pozrite si nedávne správy, zmeškané hovory a aktualizácie stavu</string>
      <string name="people_tile_title">Konverzácia</string>
      <string name="person_available">K dispozícii</string>
-     <string name="power_charging">%1$s – %2$s</string>
      <string name="power_charging_limited">%1$s – nabíjanie je dočasne obmedzené</string>
      <string name="power_discharge_by">Vydrží asi do %1$s (%2$s)</string>
      <string name="power_discharge_by_enhanced">Podľa vášho využitia (%2$s) vydrží asi do %1$s</string>
@@ -493,7 +488,6 @@ V prípade otázok kontaktujte organizáciu %2$s."</string>
      <string name="private_dns_mode_provider">Názov hostiteľa poskytovateľa súkromného DNS</string>
      <string name="private_dns_mode_provider_failure">Nepodarilo sa pripojiť</string>
      <string name="private_dns_mode_provider_hostname_hint">Zadajte hostiteľa poskytovateľa DNS</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="profile_connect_timeout_subtext">Pri pripájaní sa vyskytol problém. Zariadenie vypnite a znova zapnite.</string>
      <string name="profile_info_settings_title">Informácie o profile</string>
      <string name="qs_alarm_tile_no_alarm">Žiadny budík</string>

@@ -742,7 +742,6 @@
     <string name="photo_editor_beautify_auto">Autom.</string>
     <string name="photo_editor_beauty_compare">Originál</string>
     <string name="photo_editor_common_download_failed">Plug-in nebolo možné stiahnuť. Skontrolujte sieťové nastavenia a skúste to znova.</string>
-    <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_common_download_finish">Plug-in úspešne stiahnutý</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">Zdá sa, že nie ste pripojený k sieti Wi-Fi. Stiahnuť plug-in (%1$d MB) pomocou mobilných dát?</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Stiahnuť plug-in</string>
@@ -828,7 +827,6 @@
     <string name="photo_editor_talkback_crop_9_18">Deväť ku osemnásť</string>
     <string name="photo_editor_talkback_crop_free">Voľné</string>
     <string name="photo_editor_talkback_crop_mirror">Zrkadlo</string>
-    <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">Originál</string>
     <string name="photo_editor_talkback_crop_reset">Obnoviť</string>
     <string name="photo_editor_talkback_crop_right_rotate">Otočiť o 90 stupňov</string>
@@ -921,18 +919,13 @@
     <string name="screen_editor_btn_save">Uložiť</string>
     <string name="screen_editor_btn_shell_off">Odobrať orámovanie zariadenia</string>
     <string name="screen_editor_btn_shell_on">Pridať orámovanie zariadenia</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_crop_disallowed_with_shell">Nie je možné orezať snímky obrazovky s orámovaním zariadenia</string>
     <string name="screen_editor_delete_dialog_msg">Vymazať túto snímku obrazovky?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Hotovo</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Orámovanie zariadenia nie je možné pridať na orezané snímky obrazovky</string>
     <string name="screen_editor_shell_net_error">Pre stiahnutie orámovania zariadenia sa pripojte k sieti</string>
     <string name="screen_editor_shell_res_downloading">Sťahuje sa orámovanie zariadenia…</string>
     <string name="screen_editor_shell_storage_insufficient">Nie je možné stiahnuť orámovanie zariadenia z dôvodu nedostatku miesta na úložisku</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Zrušiť</string>
     <string name="screen_save_dialog_btn_delete">Vymazať snímku obrazovky</string>
     <string name="screen_save_dialog_btn_save">Uložiť do galérie</string>

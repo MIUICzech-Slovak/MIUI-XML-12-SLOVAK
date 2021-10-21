@@ -210,5 +210,9 @@ Dotykom ju zobrazíte"</string>
     <string name="view_recorded_videos">Zobraziť nahrávky</string>	
     
     <string name="show_hard_key_new">Zobraziť dotyky tlačidiel</string>
-    <string name="show_hard_key_summary_new">Zobraziť dotyky navigačných tlačidiel</string>        
+    <string name="show_hard_key_summary_new">Zobraziť dotyky navigačných tlačidiel</string>   
+
+    <string name="permission_desc">Podrobnosti o povoleniach</string>
+    <string name="privacy_settings">Súkromie</string>
+    <string name="view_privacy">Zobraziť Ochranu súkromia</string>	
 </resources>  

@@ -7446,5 +7446,7 @@ Keďže núdzové SOS poskytuje svoje služby na základe zhromažďovania potre
 Chcete teraz odvolať súhlas s %s?</string>
     <string name="sos_privacy_policy_revoke_title_reject">Upozornenie</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Chyba servera.</string>
-    <string name="sos_privacy_revoke_failed_dialog_title">Nebolo možné odvolať súhlas</string>                    
+    <string name="sos_privacy_revoke_failed_dialog_title">Nebolo možné odvolať súhlas</string>        
+
+	    <string name="external_ram_remind_toast">Dochádza vám voľné miesto na úložisku. Rozšírenie RAM bolo deaktivované.</string>
 </resources>

@@ -5181,5 +5181,21 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
     <string name="privacy_search_keyword_3">Skryť ikony</string>
     <string name="privacy_search_keyword_4">Skryť odkazy na ploche</string>
     <string name="privacy_search_keyword_5">Súkromné aplikácie</string>
-    <string name="privacy_search_keyword_6">Skryť</string>                        
+    <string name="privacy_search_keyword_6">Skryť</string>           
+
+    <string name="summary_condition_charge_to_target">Ak je batéria nabitá na nastavenú úroveň</string>
+    <string name="summary_condition_charge_to_target_percent">Ak je batéria nabitá na %d%%</string>
+    <string name="summary_condition_close_absorbed_mode">Po vypnutí Režimu sústredenia</string>
+    <string name="summary_condition_in_charge">Ak sa nabíja</string>
+    <string name="summary_condition_insert_headset">Pripojiť slúchadlá</string>
+    <string name="summary_condition_missing_call">Zmeškaný hovor</string>
+    <string name="summary_condition_no_in_charge">Ak sa nenabíja</string>
+    <string name="summary_condition_open_absorbed_mode">Po zapnutí Režimu sústredenia</string>
+    <string name="summary_condition_reduce_to_target">Ak je batéria na nastavenej úrovni</string>
+    <string name="summary_condition_reduce_to_target_percent">Ak je batéria na %d%%</string>
+    <string name="summary_condition_scan_rubbish">Čistič</string>
+    <string name="summary_condition_scan_virus">Antivírus</string>
+    <string name="summary_condition_unplug_headset">Odpojiť slúchadlá</string>
+    <string name="summary_condition_wired_charge">Ak je pripojená nabíjačka</string>
+    <string name="summary_condition_wireless_charge">Ak sa nabíja bezdrôtovo</string>
 </resources>  

@@ -9,7 +9,7 @@
   <string name="account_sim2">SIM karta %d</string>
   <string name="account_type_format">%1$s kontakt</string>
   <string name="actionIncomingCall">Prichádzajúce hovory</string>
-  <string name="action_menu_overflow_description">Viac možností</string>
+  <string name="action_menu_overflow_description">Nastavenia</string>
   <string name="activity_title_confirm_add_detail">Pridať do kontaktu</string>
   <string name="activity_title_contacts_filter">Kontakty na zobrazenie</string>
   <string name="activity_title_settings">Nastavenia</string>
@@ -1469,4 +1469,8 @@ Zvoľte jednu z nasledujúcich možností:</string>
     
     <string name="wifi_pad_disable_phone">Z tohto zariadenia nie je možné volať</string>    
 <string name="mobile_equipment_identification">Identifikácia mobilného zariadenia</string>	
+
+    <string name="preference_privacy_settings">Súkromie</string>
+    <string name="preference_privacy_settings_title">Súkromie</string>
+	
 </resources>  

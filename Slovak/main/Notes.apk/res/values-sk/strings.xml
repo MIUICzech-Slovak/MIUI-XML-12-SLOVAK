@@ -634,4 +634,9 @@ http://www.miuios.cz/rom
 	
     <string name="app_widget_name_new">Poznámky</string>
 	<string name="widget_take_notes_title">Poznámky</string>
+	
+    <string name="note_item_default_title">Prázdna poznámka</string>
+    <string name="widget_size_item_big">Veľký</string>
+    <string name="widget_size_item_medium">Stredný</string>
+    <string name="widget_size_item_small">Malý</string>	
 </resources>  

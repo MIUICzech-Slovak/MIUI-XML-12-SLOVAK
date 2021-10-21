@@ -843,5 +843,8 @@ Veľkosť Delta aktualizácie: %2$s"</string>
     <string name="disable_local_backup_tips">Ak vypnete túto funkciu, všetky zálohy budú vymazané. Chcete ju vypnúť?</string>
     <string name="enable_local_backup">Zapnúť lokálne zálohy</string>
     <string name="enable_local_backup_and_restore">Zapnúť lokálne zálohy</string>
-    <string name="enable_local_backup_tips">Povoľte túto funkciu pre možnosť uloženia zálohy do tohto zariadenia. Povoliť teraz?</string>             
+    <string name="enable_local_backup_tips">Povoľte túto funkciu pre možnosť uloženia zálohy do tohto zariadenia. Povoliť teraz?</string>  
+    <string name="check_privacy_policy">Zobraziť Podmienky používania</string>	
+    <string name="privacy_settings">Súkromie</string>
+    <string name="privacy_settings_title">Ochrana súkromia</string>	
 </resources>  

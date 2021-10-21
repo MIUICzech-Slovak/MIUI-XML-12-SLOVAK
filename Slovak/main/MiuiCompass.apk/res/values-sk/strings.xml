@@ -156,4 +156,15 @@
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
+  
+    <string name="allowed">Povolené</string>
+    <string name="get_location">Prístup k polohe</string>
+    <string name="new_cta_v2_app_purpose">Zobrazenie smeru, súradníc, tlaku a výšky</string>
+    <string name="new_permission_camera_desc">Pre kalibráciu</string>
+    <string name="new_permission_location_desc">Pre zobrazenie súradníc</string>
+    <string name="not_allowed">Nepovolené</string>
+    <string name="open_camera">Použiť fotoaparát</string>
+    <string name="permission_description">Podrobnosti o povoleniach</string>
+    <string name="preference_privacy_policy">Zobraziť Ochranu súkromia</string>
+    <string name="preference_privacy_setting">Súkromie</string>	
 </resources>  

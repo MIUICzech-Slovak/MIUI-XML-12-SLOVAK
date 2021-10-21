@@ -945,4 +945,14 @@ Získali ste ďalších %1$s"</string>
      
     <string name="clean_hint_pad">Vyčistite odpad pre uvoľnenie miesta na úložisku</string>     
     <string name="app_name_recorder">Záznamník</string>    
+	
+    <string name="agree">OK</string>
+    <string name="exit">Ukončiť</string>
+    <string name="open_or_close_wlan">Zapnúť a vypnúť Wi-Fi</string>
+    <string name="permission_description">Podrobnosti o povoleniach</string>
+    <string name="withdraw">Odvolať</string>
+    <string name="withdraw_consent">Odvolať súhlas</string>
+    <string name="withdraw_consent_content">Ak budete pokračovať, odvoláte svoj súhlas s pravidlami ochrany osobných údajov Správcu súborov. Osobné údaje, ktoré už boli zhromaždené a uchované, budú v rámci stanoveného obdobia vymazané v súlade s platnými zákonmi a predpismi, pokiaľ nie je požadované inak. Pretože správca súborov poskytuje svoje služby na základe zhromažďovania potrebných osobných údajov, vaše odvolanie súhlasu sa bude považovať za odmietnutie prijatia služieb správcu súborov.</string>
+    <string name="withdraw_consent_summary">Odvolať súhlas s Podmienkami používania a Ochranou súkromia</string>
+	
 </resources>

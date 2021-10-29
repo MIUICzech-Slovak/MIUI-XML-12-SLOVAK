@@ -2716,4 +2716,6 @@ dd.MM"</string>
 dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE
 dd.MM"</string>
+
+     <string name="keyguard_charging_double_fast_and_level_tip">Zrýchlenie nabíjania %s</string>
 </resources>

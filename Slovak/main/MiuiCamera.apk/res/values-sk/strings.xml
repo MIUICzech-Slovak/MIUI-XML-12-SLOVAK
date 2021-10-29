@@ -1404,4 +1404,16 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_tap_shoot_title">Dotykom zhotovíte fotografiu</string>
     <string name="pref_cup_camera_position_summary">Zobraziť pozíciu prednej kamery ak sa práve používa</string>
     <string name="pref_cup_camera_position_title">Zobraziť prednú kameru</string>  
+	
+	<string name="manually_raw_tip">Nie je možné používať zoom v RAW formáte</string>
+    <string name="mode_edit_hold_on">Vybraná položka</string>
+    <string name="mode_edit_moved">Vložiť do riadku %1$d, pozícia %2$d</string>
+    <string name="mode_edit_moving">Presunuté do riadku %1$d, pozícia %2$d</string>
+    <string name="mode_edit_photo_disable">Zhotovenie fotografie zastavené</string>
+    <string name="mode_edit_video_disable">Zhotovenie videa je zastavené</string>	
+	<string name="pref_auto_boot">Autoštart</string>
+    <string name="pref_auto_boot_summary">Zrýchlite spúšťanie fotoaparátu povolením automatického spustenia aplikácie.</string>
+	<string name="prep_video_ai_audio_new_mutex_tip">Nie je možné používať zoom zvuku</string>
+	<string name="prep_video_ai_audio_single_mutex_tip">Nie je možné nahrávať zvuk spredu</string>
+	
 </resources>  

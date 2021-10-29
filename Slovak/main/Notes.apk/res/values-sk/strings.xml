@@ -639,4 +639,9 @@ http://www.miuios.cz/rom
     <string name="widget_size_item_big">Veľký</string>
     <string name="widget_size_item_medium">Stredný</string>
     <string name="widget_size_item_small">Malý</string>	
+	
+    <string name="action_collapse">Skryť</string>
+    <string name="action_expand">Viac</string>
+	<string name="canvas_is_too_large_to_share_phone">Táto položka je príliš veľká pre zdieľanie</string>
+	<string name="hand_write_syncing_phone">Synchr...</string>
 </resources>  

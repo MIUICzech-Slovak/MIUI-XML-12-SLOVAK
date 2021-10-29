@@ -559,4 +559,5 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
 nie sú generované v Druhom profile"</string>
     <string name="desktop_widget_screen_use_time">Čas displeja</string>	
     <string name="usage_app_desktop_widget_limit">%s ostáva</string>	
+	<string name="desktop_widget_authorization_new">Dotykom zobrazíte čas displeja</string>
 </resources>  

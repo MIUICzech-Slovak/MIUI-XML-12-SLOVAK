@@ -5402,5 +5402,5 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
      <string name="default_result_summary">Napr. \"Vypnúť režim v lietadle\"</string>
      <string name="default_result_title">Pridať výsledok</string>
      <string name="default_result_title_continue">Pridať výsledok</string>  
-                    
+     <string name="edit_new_task_name">Zadajte názov úlohy</string>                    
 </resources>  

@@ -1000,4 +1000,8 @@ Dajte si pauzu!"</item>
         <item quantity="other">%d krát</item>
         <item quantity="one">%d krát</item>
     </plurals>	
+     <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">%d min po uzamknutí displeja</item>
+        <item quantity="one">%d min po uzamknutí displeja</item>
+     </plurals>    
 </resources>

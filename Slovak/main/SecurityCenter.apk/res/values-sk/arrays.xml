@@ -261,4 +261,17 @@
         <item>Vysoké</item>
         <item>Najvyššie</item>
     </string-array>      
+    
+     <string-array name="auto_task_text_layout_size_level">
+        <item>Extra malé</item>
+        <item>Malé</item>
+        <item>Stredné</item>
+        <item>Veľké</item>
+        <item>Extra veľké</item>
+        <item>XXL</item>
+     </string-array>
+     <string-array name="priority_storage_entries">
+        <item>Interné úložisko</item>
+        <item>Externé úložisko</item>
+     </string-array>         
 </resources>

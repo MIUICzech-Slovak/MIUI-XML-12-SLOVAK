@@ -1004,4 +1004,12 @@ Dajte si pauzu!"</item>
         <item quantity="other">%d min po uzamknutí displeja</item>
         <item quantity="one">%d min po uzamknutí displeja</item>
      </plurals>    
+    <plurals name="gd_app_edit_desc">
+        <item quantity="other">Môžete pridať %d apl. Potiahnutím presuniete položky.</item>
+        <item quantity="one">Môžete pridať %d apl. Potiahnutím presuniete položky.</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Môžete pridať %d apl. Stlačte a podržte pre presunutie.</item>
+        <item quantity="one">Môžete pridať %d apl. Stlačte a podržte pre presunutie.</item>
+    </plurals>	 
 </resources>

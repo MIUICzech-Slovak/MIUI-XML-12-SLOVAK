@@ -5402,5 +5402,40 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
      <string name="default_result_summary">Napr. \"Vypnúť režim v lietadle\"</string>
      <string name="default_result_title">Pridať výsledok</string>
      <string name="default_result_title_continue">Pridať výsledok</string>  
-     <string name="edit_new_task_name">Zadajte názov úlohy</string>                    
+     <string name="edit_new_task_name">Zadajte názov úlohy</string>        
+
+
+     <string name="gd_app_edit_done">Hotovo</string>
+    <string name="gd_app_edit_title">Pridať aplikácie</string>
+    <string name="gd_app_edit_title_new">Upraviť odkazy plávajúceho okna</string>
+    <string name="gd_setting_desc_action1">Otvoriť plávajúce okno</string>
+    <string name="gd_setting_desc_action2">Použiť odkaz</string>
+    <string name="gd_setting_group_custom_gtb_apps">Hry</string>
+    <string name="gd_setting_group_custom_line_location">Pozícia nástrojov</string>
+    <string name="gd_setting_group_custom_settings">Prispôsobenie</string>
+    <string name="gd_setting_group_custom_vtb_apps">Video apl.</string>
+    <string name="gd_setting_group_smart_tool_box">Inteligentné nástroje</string>
+    <string name="gd_setting_group_title_switch">Scény</string>
+    <string name="gd_setting_gtb">Zobraziť počas hrania hier</string>
+    <string name="gd_setting_gtb_desc">Špeciálne funkcie pre hranie</string>
+    <string name="gd_setting_guide_one">Dotykom otvoríte plávajúce okno</string>
+    <string name="gd_setting_guide_three">Potiahnite z hrany pre otvorenie hracích skratiek</string>
+    <string name="gd_setting_guide_two">Potiahnite z hrany pre video nástroje</string>
+    <string name="gd_setting_miui_dock">Vždy povoliť</string>
+    <string name="gd_setting_shorthand">Rýchle poznámky</string>
+    <string name="gd_setting_title">Inteligentné nástroje</string>
+    <string name="gd_setting_vtb">Zobraziť počas prehrávania videa</string>
+    <string name="gd_setting_vtb_desc">Špeciálne funkcie pre video</string>	
+	<string name="no_privacy_permission">Nevyžaduje sa súhlas s Ochranou súkromia</string>
+	<string name="summary_safe_mode">Eliminovať riziká počas inštalácie</string>
+	<string name="title_safe_mode">Povoliť Bezpečný režim</string>
+    <string name="vb_video_effects_3d">Priestorový zvuk</string>
+    <string name="vb_video_effects_3d_summary">Vylepšiť hĺbku zvuku v slúchadlách a reproduktoroch</string>
+    <string name="vb_video_effects_3d_surround">Priestorový zvuk</string>
+    <string name="vb_video_effects_liquid_summary">Vylepšiť čistotu dialógov vo videách</string>
+    <string name="vb_video_effects_only_headphone">Funguje len so slúchadlami</string>
+    <string name="vb_video_effects_some_headphone">Podporované vybranými slúchadlami</string>
+    <string name="vb_video_effects_spatial">Sledovať pohyby hlavou</string>
+    <string name="vb_video_effects_spatial_summary">Upraviť priestorový zvuk na základe pohybov hlavou
+*Podporujú len vybrané hráčske modely slúchadlá"</string>	
 </resources>  

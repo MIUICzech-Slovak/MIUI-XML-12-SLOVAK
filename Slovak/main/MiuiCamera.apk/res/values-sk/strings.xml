@@ -1422,13 +1422,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_retain_ai_scene_description">Zachovať stav AI kamery nastavený počas predchádzajúceho používania</string>
     <string name="pref_retain_beauty">Skrášliť</string>
     <string name="pref_retain_beauty_description">Zachovať nastavenia skrášlenia vybraté počas predchádzajúceho použitia</string>
-    <string name="pref_retain_camera_common_mode_summary">Otvorte Fotoaparát v predtým používanom režime namiesto prepínania na \"Fotografie\"</string>
     <string name="pref_retain_camera_mode">Režim fotoaparátu</string>
     <string name="pref_retain_camera_mode_description">Zachovanie predtým používaného režimu spolu s výberom predného alebo zadného fotoaparátu</string>
-    <string name="pref_retain_camera_mode_summary">Pri otvorení aplikácie prepnite fotoaparát do predtým používaného režimu.</string>
-    <string name="pref_retain_camera_mode_title">Uložiť predchádzajúci režim</string>
-    <string name="pref_retain_camera_status_description">Zachovať skôr použitý režim namiesto automatického obnovenia predvolených nastavení</string>
-    <string name="pref_retain_camera_status_title">Zachovať nastavenia</string>
     <string name="pref_retain_live_shot">Dynamické zábery</string>
     <string name="pref_retain_live_shot_description">Zachovať stav dynamických snímok nastavený počas predchádzajúceho používania</string> 	
 	

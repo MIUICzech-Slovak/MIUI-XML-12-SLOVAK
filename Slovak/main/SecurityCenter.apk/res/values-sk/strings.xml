@@ -5438,4 +5438,6 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
     <string name="vb_video_effects_spatial">Sledovať pohyby hlavou</string>
     <string name="vb_video_effects_spatial_summary">Upraviť priestorový zvuk na základe pohybov hlavou
 *Podporujú len vybrané hráčske modely slúchadlá"</string>	
+<string name="app_behavior_link_start">Reťazové spustenie</string>
+	
 </resources>  

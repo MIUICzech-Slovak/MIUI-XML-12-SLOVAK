@@ -128,4 +128,5 @@ dlhý screenshot"</string>
     <string name="partial_screenshot_failed_to_save_title">Nebolo možné uložiť. Nie je dostatok voľného miesta na úložisku.</string>
     <string name="partial_screenshot_insert_failed">Nebolo možné uložiť</string>
     <string name="take_screenshot">Celá obrazovka</string>	
+	<string name="custom_define_permission_desc_android.permission_group.STORAGE">Pre ukladanie screenshotu</string>
 </resources>  

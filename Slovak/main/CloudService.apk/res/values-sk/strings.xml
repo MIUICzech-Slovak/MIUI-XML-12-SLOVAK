@@ -1110,5 +1110,9 @@ Poloha nebude odoslaná ak je slabý signál siete."</string>
     <string name="button_agree">Súhlasím</string>
     <string name="button_quit">Ukončiť</string>
     <string name="button_revoke">Odvolať</string>     
-    <string name="dialog_title_prompt">Upozornenie</string>                            	
+    <string name="dialog_title_prompt">Upozornenie</string>       
+
+	    <string name="cloud_service_open_authorization">Vitajte v Xiaomi Cloud! Xiaomi Cloud môžete použiť na synchronizáciu poznámok, fotografií a videí, nahrávok a ďalších položiek zo systémových aplikácií naprieč všetkými pripojenými zariadeniami. Zálohy rozloženia domovskej obrazovky sa budú ukladať aj v Xiaomi Cloud. Všetky synchronizované položky si budete môcť pozrieť na i.mi.com.</string>
+    <string name="cloud_service_title">Xiaomi Cloud</string>
+	<string name="open_service_title">Zapnutie</string>
 </resources>  

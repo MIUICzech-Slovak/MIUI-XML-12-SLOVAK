@@ -28,7 +28,8 @@
     <string name="bottom_bar_smallwindow_text">Pustite pre pripnutie</string>
     <string name="freeform_slide_to_small_freeform">Potiahnite pre zmenšenie</string>
     <string name="freeform_slide_to_small_freeform_summary">Stlačte a potiahnite do lišty plávajúceho okna v pravom hornom rohu</string>
-    <string name="fullscreen_slide_to_small_freeform">Fullscreen slide to freeform</string>
-    <string name="fullscreen_slide_to_small_freeform_summary">Swipe from the bottom of the screen to the upper right corner of the screen</string>
-          
+    <string name="fullscreen_slide_to_small_freeform">Minimalizovať aplikáciu</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Potiahnite prstom z dolnej časti obrazovky do pravého horného rohu</string>
+    <string name="freeform_demo_next_tutorial">Ďalej</string>
+    <string name="freeform_demo_previous_tutorial">Späť</string>          
 </resources>

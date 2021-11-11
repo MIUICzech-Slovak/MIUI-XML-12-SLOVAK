@@ -847,4 +847,6 @@ Veľkosť Delta aktualizácie: %2$s"</string>
     <string name="check_privacy_policy">Zobraziť Podmienky používania</string>	
     <string name="privacy_settings">Súkromie</string>
     <string name="privacy_settings_title">Ochrana súkromia</string>	
+	
+<string name="enable_local_backup_tips_global">Zapnite túto funkciu, aby ste mohli zálohovať a obnovovať dáta do svojho zariadenia alebo počítača. Zapnúť teraz?</string>	
 </resources>  

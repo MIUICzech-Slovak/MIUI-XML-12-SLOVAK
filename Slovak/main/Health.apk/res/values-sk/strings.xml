@@ -1612,7 +1612,6 @@ Veľkosť aktualizácie Delta:%2$s "</string>
      <string name="MediaControlView_audio_track_none_text">Žiadne</string>
      <string name="MediaControlView_audio_track_number_text">Stopa %1$d</string>
      <string name="MediaControlView_audio_track_text">Zvuková stopa</string>
-     <string name="MediaControlView_custom_playback_speed_text">%1$.2fx</string>
      <string name="MediaControlView_playback_speed_normal">Normálne</string>
      <string name="MediaControlView_playback_speed_text">Rýchlosť prehrávania</string>
      <string name="MediaControlView_subtitle_off_text">Vypnuté</string>
@@ -1722,7 +1721,7 @@ Ak nechcete zdieľať svoje informácie, môžete túto funkciu vypnúť."</stri
      <string name="sending">Odosiela sa…</string>
      <string name="sleep_need_necessary_permissions">Udeľte požadované povolenia na spresnenie údajov o spánku</string>
      <string name="sport_data_use_subtitle">Na sledovanie vášho tréningu a pokroku v kondícii zhromažďujeme a spracovávame vaše informácie vrátane trás tréningu, údajov o spánku, srdcovej frekvencie a hmotnosti.</string>
-     <string name="sport_data_use_tip">"Prečítajte si a vyjadrite súhlas s našimi &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Pravidlami používania údajov o zdraví a aktivite&lt;/a>&lt;/font > aby ste lepšie pochopili, ako zhromažďujeme a spracovávame vaše informácie. Ak nesúhlasíte s naším zhromažďovaním a spracovaním, túto službu nebudete môcť používať.“</string>
+     <string name="sport_data_use_tip">"Prečítajte si a vyjadrite súhlas s našimi Pravidlami používania údajov o zdraví a aktivite aby ste lepšie pochopili, ako zhromažďujeme a spracovávame vaše informácie. Ak nesúhlasíte s naším zhromažďovaním a spracovaním, túto službu nebudete môcť používať.“</string>
      <string name="sport_data_use_title">Povolenia na údaje</string>
      <string name="standard_format">(štandard: %1s)</string>
      <string name="subtitle_stick_record">Zaznamenajte si menštruácie, aby ste získali presnejšie predpovede</string>

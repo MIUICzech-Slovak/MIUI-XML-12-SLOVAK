@@ -1427,4 +1427,32 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_retain_live_shot">Dynamické zábery</string>
     <string name="pref_retain_live_shot_description">Zachovať stav dynamických snímok nastavený počas predchádzajúceho používania</string> 	
 	
+     <string name="dolly_zoom_capture_tip6">Presuňte objekt do stredu snímky</string>
+     <string name="download_alert">"Nie je možné upravovať počas prebiehajúceho sťahovania"</string>
+     <string name="download_automatic_cancel">Zrušiť</string>
+     <string name="download_automatic_confirm">Prevziať</string>
+     <string name="download_automatic_message">Sťahovať doplnkové funkcie automaticky, keď je toto zariadenie pripojené k sieti Wi-Fi?</string>
+     <string name="download_automatic_message_cn">Sťahovať doplnkové funkcie automaticky, keď je toto zariadenie pripojené k sieti Wi-Fi?</string>
+     <string name="download_automatic_summary">Automatické preberanie doplnkov funkcií cez Wi-Fi</string>
+     <string name="download_automatic_summary_cn">Automatické preberanie doplnkov funkcií cez Wi-Fi</string>
+     <string name="download_automatic_title">Stiahnuť automaticky</string>
+     <string name="download_hint_cn">"Zdá sa, že vaše zariadenie nie je pripojené k sieti Wi-Fi. Použiť %1$s MB mobilných dát na stiahnutie položiek?"</string>
+     <string name="download_hint_wifi">"Zdá sa, že vaše zariadenie nie je pripojené k sieti Wi-Fi. Použiť na stiahnutie položiek %1$s MB mobilných dát?"</string>
+     <string name="download_waiting">Čaká sa…</string>
+      <string name="video_overheat_tip_content">Zdá sa, že vaše zariadenie je príliš horúce. Skúste natočiť video v nižšom rozlíšení.</string> 	
+      <string name="pref_camera_dynamic_frame_rate_summary">Snímková frekvencia sa automaticky zníži pri slabom osvetlení alebo vysokej teplote, aby sa zlepšila kvalita videa</string>
+      <string name="pref_camera_dynamic_frame_rate_title">Upravte snímkovú frekvenciu na slabé osvetlenie</string>  
+     <string name="lunch_audio_permission_des">Na nahrávanie videí so zvukom</string>
+     <string name="lunch_audio_permission_not_ask_again">Ak chcete používať túto funkciu, povoľte tejto aplikácii nahrávať zvuk.</string>
+     <string name="lunch_camera_audio_permission_not_ask_again">Ak chcete používať túto funkciu, povoľte tejto aplikácii používať fotoaparát a nahrávať zvuk.</string>
+     <string name="lunch_camera_permission_des">Na fotenie a nahrávanie videí</string>
+     <string name="lunch_camera_permission_not_ask_again">Povoľte tejto aplikácii používať fotoaparát, aby ste mohli používať túto funkciu.</string>
+     <string name="lunch_camera_storge_permission_not_ask_again">Povoľte tejto aplikácii používať fotoaparát a pristupovať k úložisku, aby ste mohli používať túto funkciu.</string>
+     <string name="lunch_dialog_setting">Nastavenia</string>
+     <string name="lunch_fromkeyguard_not_permission">"Fotoaparát nemá povolenie na vykonanie tejto akcie. Najprv odomknite svoje zariadenie."</string>
+     <string name="lunch_fromkeyguard_not_permission_dialog_ok">Rozumiem</string>
+     <string name="lunch_permission_not_ask_again">Ak chcete používať túto funkciu, povoľte tejto aplikácii používať fotoaparát, pristupovať k úložisku a nahrávať zvuk.</string>
+     <string name="lunch_storge_audio_permission_not_ask_again">Ak chcete túto funkciu používať, povoľte tejto aplikácii prístup k úložisku a nahrávanie zvuku.</string>
+     <string name="lunch_storge_permission_des">Na ukladanie a zobrazovanie fotografií a videí</string>
+     <string name="lunch_storge_permission_not_ask_again">Povoľte tejto aplikácii prístup k úložisku, aby ste mohli používať túto funkciu.</string>      
 </resources>  

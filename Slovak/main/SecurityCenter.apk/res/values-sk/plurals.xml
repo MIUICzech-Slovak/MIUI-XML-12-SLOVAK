@@ -1012,4 +1012,8 @@ Dajte si pauzu!"</item>
         <item quantity="other">Môžete pridať %d apl. Stlačte a podržte pre presunutie.</item>
         <item quantity="one">Môžete pridať %d apl. Stlačte a podržte pre presunutie.</item>
     </plurals>	 
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Povolené pre %s apl.</item>
+        <item quantity="one">Povolené pre %s apl.</item>
+    </plurals>    
 </resources>

@@ -5439,5 +5439,9 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
     <string name="vb_video_effects_spatial_summary">Upraviť priestorový zvuk na základe pohybov hlavou
 *Podporujú len vybrané hráčske modely slúchadlá"</string>	
 <string name="app_behavior_link_start">Reťazové spustenie</string>
-	
+    <string name="power_center_surface_temp_high">Horúca</string>
+    <string name="power_center_surface_temp_higher">Teplá</string>
+    <string name="power_center_surface_temp_low">Studená</string>
+    <string name="power_center_surface_temp_lower">Chladná</string>
+    <string name="power_center_surface_temp_normal">Normálna</string>	
 </resources>  

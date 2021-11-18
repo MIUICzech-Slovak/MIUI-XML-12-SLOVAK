@@ -324,11 +324,6 @@
     
     <string name="fold_small_not_split">Rozdelenie obrazovky nie je podporované na vonkajšej obrazovke</string>    
     
-     <string name="dock_tip_floatwindow">Podržte lištu a presuňte ju k okraju obrazovky, aby ste vstúpili do zobrazenia rozdelenej obrazovky.</string>
-     <string name="dock_tip_splitscreen_landscape_drag">Presuňte panel vodorovne, aby ste vymenili pozície dvoch okien aplikácie.</string>
-     <string name="dock_tip_splitscreen_landscape_float">Podržaním a potiahnutím nadol prepnete na plávajúce okno.</string>
-     <string name="dock_tip_splitscreen_portrait_drag">Presunutím panela zvislo vymeníte pozície dvoch okien aplikácie.</string>
-     <string name="dock_tip_splitscreen_portrait_float">Podržaním a potiahnutím na ľavú alebo pravú stranu obrazovky prepnete na plávajúce okno.</string>
      <string name="miui_multiwindow_not_support_small_window">%1$s nepodporuje plávajúce okná</string>
      <string name="miui_multiwindow_not_support_split">%1$s nepodporuje rozdelenú obrazovku</string>  
 </resources>

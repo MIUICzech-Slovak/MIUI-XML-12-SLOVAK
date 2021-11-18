@@ -2380,4 +2380,6 @@
      <string name="slim_preference_title">Optimalizácia úložiska</string>
      <string name="slim_stop_v2">Stop</string>
      <string name="slim_success_tip">Uvolnené %s z úložiska</string>    
+    <string name="creativity_summary">Zobraziť rozšírené možnosti kreativity a úpravy fotografií</string>
+    <string name="creativity_title">Kreativita</string>     
 </resources>

@@ -31,5 +31,7 @@
     <string name="fullscreen_slide_to_small_freeform">Minimalizovať aplikáciu</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Potiahnite prstom z dolnej časti obrazovky do pravého horného rohu</string>
     <string name="freeform_demo_next_tutorial">Ďalej</string>
-    <string name="freeform_demo_previous_tutorial">Späť</string>          
+    <string name="freeform_demo_previous_tutorial">Späť</string>       
+     <string name="multi_window_cvw">Plávajúce okno</string>
+     <string name="multi_window_cvw_summary">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
 </resources>

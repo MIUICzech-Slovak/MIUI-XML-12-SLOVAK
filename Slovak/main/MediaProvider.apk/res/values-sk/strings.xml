@@ -1,27 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="add_ringtone_text">Pridať tón zvonenia</string>
-  <string name="alarm_sound_default">Predvolený tón budíka</string>
-  <string name="app_label">Úložisko médií</string>
-  <string name="artist_label">Umelec</string>
-  <string name="delete_ringtone_text">Odstrániť</string>
-  <string name="notification_sound_default">Predvolený tón upozornenia</string>
-  <string name="ringtone_default">Predvolené zvonenie</string>
-  <string name="root_audio">Audio</string>
-  <string name="root_images">Obrázky</string>
-  <string name="root_videos">Videá</string>
-  <string name="sound_name_awaken">Awaken</string>
-  <string name="sound_name_bounce">Bounce</string>
-  <string name="sound_name_drip">Drip</string>
-  <string name="sound_name_gallop">Gallop</string>
-  <string name="sound_name_nudge">Nudge</string>
-  <string name="sound_name_orbit">Orbit</string>
-  <string name="sound_name_rise">Rise</string>
-  <string name="sound_name_sway">Sway</string>
-  <string name="sound_name_wag">Wag</string>
-  <string name="storage_description">Miestne úložisko</string>
-  <string name="uid_label">Médiá</string>
-  <string name="unable_to_add_ringtone">Nepodarilo sa pridať vlastný tón zvonenia</string>
-  <string name="unable_to_delete_ringtone">Nepodarilo sa odstrániť vlastný tón zvonenia</string>
-  <string name="upgrade_msg">Aktualizovanie databázy médií.</string>
+    <string name="allow">Povoliť</string>
+    <string name="app_label">Ukladací priestor médií</string>
+    <string name="artist_label">Umelec</string>
+    <string name="cache_clearing_dialog_text">%s by chcel vymazať niektoré dočasné súbory. Môže to mať za následok zvýšené využitie batérie alebo mobilných dát.</string>
+    <string name="cache_clearing_dialog_title">Vymazať dočasné súbory aplikácie</string>
+    <string name="cache_clearing_in_progress_title">Vymazávajú sa dočasné súbory aplikácie…</string>
+    <string name="clear">Vymazať</string>
+    <string name="deny">Odmietnuť</string>
+    <string name="grant_dialog_button_allow">Povoliť</string>
+    <string name="grant_dialog_button_deny">Odmietnuť</string>
+    <string name="permission_required">Na úpravu alebo odstránenie tejto položky sa vyžaduje povolenie.</string>
+    <string name="permission_required_action">Pokračovať</string>
+    <string name="root_audio">Zvuk</string>
+    <string name="root_documents">Dokumenty</string>
+    <string name="root_images">Obrázky</string>
+    <string name="root_videos">Videá</string>
+    <string name="search_menu_title">Hľadať</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_description">Miestne úložisko</string>
+    <string name="transcode_cancel">Zrušiť</string>
+    <string name="transcode_denied">"%s nemôže spracovať mediálne súbory"</string>
+    <string name="transcode_processing">Prebieha spracovanie média…</string>
+    <string name="transcode_processing_cancelled">Spracovanie médií bolo zrušené</string>
+    <string name="transcode_processing_error">Chyba spracovania média</string>
+    <string name="transcode_processing_started">Spracovanie médií sa začalo</string>
+    <string name="transcode_processing_success">Úspešné spracovanie médií</string>
+    <string name="transcode_wait">Počkajte</string>
+    <string name="uid_label">Médiá</string>
+    <string name="unknown">Neznáme</string>
 </resources>

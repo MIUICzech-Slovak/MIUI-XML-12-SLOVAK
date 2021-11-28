@@ -123,4 +123,8 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>                   
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">Nové nahrávky: %d</item>
+        <item quantity="one">Nové nahrávky: %d</item>
+    </plurals>    
 </resources>

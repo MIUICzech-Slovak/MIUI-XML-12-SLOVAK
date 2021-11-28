@@ -321,5 +321,14 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
     <string name="play_speed">%1$.1fX rýchlosť</string>		
 	
     <string name="low_battery_error_for_pad">Ostáva menej ako %s batérie. Uložte svoje nahrávky aby ste o nich neprišli.</string>
-    <string name="notification_recording_ticker_for_pad">Vaše zariadenie nahráva zvuk v Tichom režime. Použite tlačidla hlasitosti pre vypnutie Tichého režimu.</string>	
+    <string name="notification_recording_ticker_for_pad">Vaše zariadenie nahráva zvuk v Tichom režime. Použite tlačidla hlasitosti pre vypnutie Tichého režimu.</string>
+    
+     <string name="invisible_mode_error_tip">Vypnite režim inkognito v Nastaveniach, aby ste mohli používať mikrofón</string>
+     <string name="progress">Ukazovateľ priebehu prehrávania</string>
+     <string name="saf_permission_dialog_content">Vzhľadom na obmedzenia systému Android potrebuje Diktafón povolenie na prístup k záznamom vytvoreným inými aplikáciami. Povoľte Diktafónovi prístup k týmto nahrávkam, aby si ich mohol prezerať.</string>
+     <string name="saf_permission_dialog_grant_permission_immediately">Nastavenia</string>
+     <string name="saf_permission_dialog_later">Nie, ďakujem</string>
+     <string name="saf_permission_dialog_no_more_tip">"Už nezobrazovať"</string>
+     <string name="saf_permission_dialog_title">Vyžadujú sa povolenia</string>
+     <string name="settings_saf_permission">Povolenia na správu súborov</string>              	
 </resources>  

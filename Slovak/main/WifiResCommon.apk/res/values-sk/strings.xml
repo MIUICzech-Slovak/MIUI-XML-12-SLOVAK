@@ -7,12 +7,12 @@
     <string name="notification_channel_network_available">Sieť je k dispozícii</string>
     <string name="notification_channel_network_status">Stav siete</string>
     <string name="ok">OK</string>
-    <string name="wifiResourcesAppLabel">Zdroje systému Wi‑Fi</string>
+    <string name="wifiResourcesAppLabel">Zdroje systému Wi-Fi</string>
     <string name="wifi_available_action_all_networks">Všetky siete</string>
     <string name="wifi_available_action_connect">Pripojiť</string>
     <string name="wifi_available_content_failed_to_connect">Klepnutím zobrazíte všetky siete</string>
-    <string name="wifi_available_title">Pripojenie k otvorenej sieti Wi‑Fi</string>
-    <string name="wifi_available_title_connected">Pripojenie k sieti Wi‑Fi</string>
+    <string name="wifi_available_title">Pripojenie k otvorenej sieti Wi-Fi</string>
+    <string name="wifi_available_title_connected">Pripojenie k sieti Wi-Fi</string>
     <string name="wifi_available_title_connecting">Pripája sa k sieti Wi-Fi</string>
     <string name="wifi_available_title_failed_to_connect">K sieti Wi‑Fi sa nepodarilo pripojiť</string>
     <string name="wifi_cannot_connect_with_randomized_mac_message">Klepnutím zmeňte nastavenia ochrany súkromia a skúste to znova</string>

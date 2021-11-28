@@ -5215,7 +5215,7 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
      <string name="auto_task_default_task_summary_listen_music">Prehrávanie hudby a výber typu slúchadiel</string>
      <string name="auto_task_default_task_summary_meet">Naplánujte si čas stretnutia a zapnúť režim DND</string>
      <string name="auto_task_default_task_summary_noon_break">Naplánujte si čas spánku a zapnúť režim DND</string>
-     <string name="auto_task_default_task_summary_save_power">Zapnúť šetrič batérie, keď je batéria nižšia ako %s</string>
+     <string name="auto_task_default_task_summary_save_power">Zapnúť šetrič batérie, keď je batéria nižšia ako 30%</string>
      <string name="auto_task_default_task_summary_sleep">Naplánujte si večierku a prispôsobte správanie zariadenia</string>
      <string name="auto_task_default_task_summary_watch_video">Otvorte aplikáciu, zapnúť Wi-Fi, upravte hlasitosť</string>
      <string name="auto_task_default_task_title_driver_car">Jazda</string>

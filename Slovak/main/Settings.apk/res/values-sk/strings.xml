@@ -7450,7 +7450,7 @@ Chcete teraz odvolať súhlas s %s?</string>
 
 	    <string name="external_ram_remind_toast">Dochádza vám voľné miesto na úložisku. Rozšírenie RAM bolo deaktivované.</string>
 		
-<string name="left_shoulder_key">Vľavo</string>
+    <string name="left_shoulder_key">Vľavo</string>
     <string name="privacy_lab_settings">Laboratóriá ochrany súkromia</string>
     <string name="right_shoulder_key">Vpravo</string>
     <string name="set_shoulder_key_shortcut_checkbox_message">"Už nezobrazovať"</string>
@@ -7472,12 +7472,9 @@ Chcete teraz odvolať súhlas s %s?</string>
     <string name="shoulder_key_shortcut_turn_on_torch">Svietidlo</string>
     <string name="shoulder_key_shortcut_vibrate">Vibrovať</string>
 
-     <string name="beauty_fc_assistant">Asistent prednej kamery</string>
      <string name="freeform_guide_multi_window">Multitasking</string>
      <string name="multi_window_cvw_summary">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
      <string name="multi_window_cvw_title">Plávajúce okno</string>
      <string name="security_check_progress_dialog_message">Kontrolujú sa problémy so zabezpečením...</string>
-     <string name="vip_service_settings">Moje služby</string>    
-        
 
 </resources>

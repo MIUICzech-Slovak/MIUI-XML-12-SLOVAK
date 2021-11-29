@@ -2717,6 +2717,5 @@ dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE
 dd.MM"</string>
 
-     <string name="fs_gesture_final_see_more">Zobraziť ďalšie ukážky v časti Nastavenia > Domovská obrazovka > Navigácia v systéme</string>
      <string name="input_pattern_after_restart_msg">Ochrana zabezpečenia systému, zadajte svoje heslo</string>    
 </resources>

@@ -2018,4 +2018,6 @@ Chcete ju zavrieť?"</string>
     <string name="zen_upgrade_notification_title">Režim bez vyrušení sa zmenil</string>
     <string name="zen_upgrade_notification_visd_content">Klepnutím získate ďalšie informácie a budete môcť vykonať zmeny.</string>
     <string name="zen_upgrade_notification_visd_title">Novinka: režim bez vyrušení skrýva upozornenia</string>
+    <string name="tethered_notification_no_device_message">Nikto nie je pripojený</string>
+    <string name="tethered_notification_title">Tethering alebo hotspot je aktívny</string>
 </resources>

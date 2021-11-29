@@ -156,18 +156,6 @@
         <item quantity="few">Boli nainštalované certifikačné autority</item>
         <item quantity="many">Boli nainštalované certifikačné autority</item>
     </plurals>
-    <plurals name="wifi_available">
-        <item quantity="other">K dispozícii sú siete Wi‑Fi</item>
-        <item quantity="one">K dispozícii je sieť Wi‑Fi</item>
-        <item quantity="few">K dispozícii sú siete Wi‑Fi</item>
-        <item quantity="many">K dispozícii sú siete Wi‑Fi</item>
-    </plurals>
-    <plurals name="wifi_available_detailed">
-        <item quantity="other">K dispozícii sú verejné siete Wi‑Fi</item>
-        <item quantity="one">K dispozícii je verejná sieť Wi‑Fi</item>
-        <item quantity="few">K dispozícii sú verejné siete Wi‑Fi</item>
-        <item quantity="many">K dispozícii sú verejné siete Wi‑Fi</item>
-    </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">Na %d hodín</item>
         <item quantity="one">Na 1 hodinu</item>

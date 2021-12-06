@@ -7477,4 +7477,62 @@ Chcete teraz odvolať súhlas s %s?</string>
      <string name="multi_window_cvw_title">Plávajúce okno</string>
      <string name="security_check_progress_dialog_message">Kontrolujú sa problémy so zabezpečením...</string>
 
+     <string name="wifi_multi_network_acceleration_title">Zrýchlenie siete</string>
+     <string name="p2p_summary_enable_GPS">Táto funkcia funguje, keď sú zapnuté služby určovania polohy</string>
+     <string name="select_private_dns_configuration_dialog_title">Vybrať súkromný režim DNS</string>
+     <string name="dns_select_dialog_title">Vyberte súkromný režim DNS</string>
+     <string name="current_use_uicc_wallet">"Používate SIM kartu %1$s Wallet"</string>
+     <string name="certificate_management_app">Aplikácia na správu certifikátov</string>
+     <string name="no_certificate_management_app">Žiadne</string>
+     <string name="location_services_preference_title">Služby určovania polohy</string>
+     <string name="location_services_screen_title">Služby určovania polohy</string>
+     <string name="location_settings_footer_location_off">Prístup k polohe je pre aplikácie a služby vypnutý. Keď zavoláte na číslo tiesňového volania alebo naň odošlete správu, môže sa aj naďalej odosielať poloha vášho zariadenia.</string>
+     <string name="location_settings_footer_general">Aplikácie s povolením Zariadenia v okolí môžu určiť relatívnu polohu pripojených zariadení.</string>
+     <string name="location_settings_footer_learn_more_content_description">Viac informácií o nastaveniach polohy.</string>
+     <string name="learn_more">Viac informácií</string>
+     <string name="location_settings_summary_location_off">Vypnuté</string>
+     <string name="media_management_apps_title">Aplikácie na správu médií</string>
+     <string name="media_management_apps_toggle_label">Povoliť aplikácii spravovať médiá</string>
+     <string name="alarms_and_reminders_title">Alarmy a pripomienky</string>
+     <string name="freeform_guide_slide_to_small_freeform_summary">"Stlačte a podržte spodnú časť okna a presuňte ho do pravého horného rohu.
+Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na gestá."</string>
+     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Aplikáciu minimalizujte potiahnutím rohu</string>
+     <string name="freeform_guide_slide_to_small_freeform_title">Minimalizácia aplikácie</string>
+     <string name="permissions_usage_summary">Zobraziť aplikácie, ktoré nedávno použili povolenia</string>
+     <string name="permissions_usage_title">Panel ochrany osobných údajov</string>
+     <string name="location_time_zone_detection_auto_is_off">Automatické časové pásmo je vypnuté</string>
+     <string name="location_time_zone_detection_location_is_off_dialog_cancel_button">Zrušiť</string>
+     <string name="location_time_zone_detection_location_is_off_dialog_message">Ak chcete nastaviť časové pásmo pomocou svojej polohy, zapnite polohu a potom aktualizujte nastavenia časového pásma</string>
+     <string name="location_time_zone_detection_location_is_off_dialog_ok_button">Nastavenia polohy</string>
+     <string name="location_time_zone_detection_location_is_off_dialog_title">Vyžaduje sa poloha zariadenia</string>
+     <string name="location_time_zone_detection_not_allowed">Zmeny zisťovania časového pásma polohy nie sú povolené</string>
+     <string name="location_time_zone_detection_not_applicable">Detekcia časového pásma polohy je zakázaná</string>
+     <string name="location_time_zone_detection_not_supported">Detekcia časového pásma polohy nie je podporovaná</string>
+     <string name="location_time_zone_detection_toggle_title">Na nastavenie časového pásma použiť polohu</string>
+<string name="accessibility_caption_master_switch_title">Zobraziť titulky</string>
+<string name="accessibility_clear">Vymazať</string>
+<string name="accessibility_close_tab">Zavrieť aktuálnu kartu</string>
+<string name="accessibility_magnification_enable_mode_title">Povoliť zväčšenie</string>
+<string name="accessibility_more_settings">Ďalšie nastavenia</string>
+<string name="accessibility_service_master_open_title">Otvoriť %1$s</string>
+<string name="accessibility_service_master_switch_title">Použiť %1$s</string>
+<string name="accessibility_toggle_master_balance_left_label">vľavo</string>
+<string name="accessibility_toggle_master_balance_right_label">Vpravo</string>
+<string name="accessibility_toggle_master_mono_summary">Spájať kanály pri prehrávaní zvuku</string>
+<string name="accessibility_toggle_master_mono_title">Mono zvuk</string>
+<string name="accessibility_voice_access_title">Hlasové ovládanie</string>
+<string name="accessibility_vpn_settings_info">Konfigurácia VPN</string>
+<string name="accessibility_work_profile_app_description">Práca %s</string>
+
+     <string name="close">Zavrieť</string>
+     <string name="close_aod">"Túto funkciu nie je možné skombinovať s \"Vždy zapnutý režim\". Najprv vypnite \"Vždy zapnutý režim\"."</string>
+     <string name="close_fod">"Zariadenie nebudete môcť odomknúť pomocou odtlačku prsta, keď je obrazovka vypnutá. Odomknutie odtlačkom prsta bude fungovať iba vtedy, keď je obrazovka zapnutá."</string>
+     <string name="close_fod_aod">"Zariadenie nebudete môcť odomknúť pomocou odtlačku prsta, keď je obrazovka vypnutá. Režim \"Vždy zapnutý\" tiež nebude k dispozícii. Odomknutie odtlačkom prsta bude fungovať iba vtedy, keď obrazovka je zapnutá."</string>
+     <string name="close_hotspot_hint">Pred prenášaním vypnite prenosný hotspot</string>
+     <string name="close_optimization_message">Po vypnutí tejto funkcie môže byť ovplyvnené rozloženie textu, účty a ďalšie časti MIUI.</string>
+     <string name="close_optimization_option">Vypnúť</string>
+     <string name="close_slave_wifi_hint">Pred prenášaním sa odpojte od pomocných sietí Wi-Fi</string>
+     <string name="closed_beta">Stabilná (interná)</string>
+                                        
+                         
 </resources>

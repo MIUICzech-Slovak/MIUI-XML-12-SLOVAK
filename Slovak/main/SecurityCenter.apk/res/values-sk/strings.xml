@@ -5444,4 +5444,6 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
     <string name="power_center_surface_temp_low">Studená</string>
     <string name="power_center_surface_temp_lower">Chladná</string>
     <string name="power_center_surface_temp_normal">Normálna</string>	
+    
+     <string name="network_assistant_privacy_title">Odoslať dáta o používaní aplikácie a siete pre diagnostické účely</string>    
 </resources>  

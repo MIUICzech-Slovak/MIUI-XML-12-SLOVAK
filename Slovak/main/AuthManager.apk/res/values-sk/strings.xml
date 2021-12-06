@@ -546,4 +546,6 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Táto aplikácia chce získať vaše telefónne číslo od operátora pre prihlásenie. Povoliť?</string>   
     
     <string name="pp_privacy_lab_operator_introduction">Upozornenie</string>     
+<string name="HIPS_Perm_NEARBY_DEVICES_Desc">Objavte a pripojte sa k zariadeniam v okolí</string>    
+<string name="HIPS_Perm_NEARBY_DEVICES">Pripojiť zariadenia v okolí</string>
 </resources>  

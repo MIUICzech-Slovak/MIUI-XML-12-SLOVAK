@@ -825,4 +825,7 @@ Veľkosť delta aktualizácie: %2$s"</string>
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+<string name="dialog_privacy_disagree_msg">Vypnutím prepínača odvolávate svoj súhlas so Zásadami ochrany osobných údajov Kalkulačky. Prestaneme zhromažďovať vaše osobné údaje. Osobné údaje, ktoré už boli zhromaždené a uchovávané, budú vymazané počas konkrétneho obdobia, ako to vyžadujú platné zákony. Kalkulačka potrebuje zhromaždiť potrebné osobné údaje, aby vám mohla poskytnúť základné služby. Vaše odvolanie súhlasu s jej Zásadami ochrany osobných údajov sa bude považovať za odmietnutie prijatia jej služieb na základe zhromaždených osobných údajov.</string>
+      <string name="dialog_privacy_revoke_btn_ok">Vybrať</string>
+      <string name="dialog_privacy_revoke_title">Odvolanie súhlasu</string> 
 </resources>  

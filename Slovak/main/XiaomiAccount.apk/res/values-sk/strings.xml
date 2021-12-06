@@ -785,5 +785,10 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="user_license_with_3rd_app_no_operator">Súhlasím s Podmienkami používania a Ochranou súkromia.</string>
     <string name="user_license_with_out_3rd_app_no_operator">Súhlasím s Podmienkami používania a Ochranou súkromia.</string>
         
-                                    
+     <string name="login_3rd_app_with_system_account">Prihlásenie do %s</string>
+     <string name="passport_user_agreement_link">Súhlasím s Podmienkami používania a Ochranou súkromia.</string>
+     <string name="user_license_with_3rd_app">Súhlasím s Podmienkami používania a Ochranou súkromia.</string>
+     <string name="user_license_without_3rd_app">Súhlasím s Podmienkami používania a Ochranou súkromia.</string>
+     <string name="user_license_without_3rd_mobile">Súhlasím s Podmienkami používania a Ochranou súkromia.</string>
+                                                   
 </resources>  

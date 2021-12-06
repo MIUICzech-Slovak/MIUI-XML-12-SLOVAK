@@ -286,7 +286,7 @@ Vzorkovacia frekvencia"</string>
   <string name="call_waiting_tone_title">Tón čakajúceho hovoru</string>
   <string name="call_waiting_tone_twice_and_vibrate">Prehrať tón výzvy a 2x vibrovať</string>
   <string name="call_waiting_tone_twice_only">Prehrať 2x iba tón</string>
-  <string name="caller_id_summary">Skryť/zobraziť moje číslo v odchádzajúcich hovorov (pokiaľ sieť podporuje)</string>
+  <string name="caller_id_summary">Skryť/zobraziť moje číslo v odchádzajúcich hovoroch (pokiaľ sieť podporuje)</string>
   <string name="caller_id_title">ID volajúceho</string>
   <string name="caller_manage_header">Konferenčný hovor %s</string>
   <string name="callind">Nastavenie hovoru</string>
@@ -1894,4 +1894,7 @@ Kontaktujte vášho operátora"</string>
     <string name="esim_inactive_message">Neaktívna eSIM</string>
     <string name="esim_inactive_notification_message">Žiadna SIM karta. Dotykom aktivujete eSIM.</string>
     <string name="esim_inactive_settings_title">Duálna SIM a mobilné siete</string>	
+<string name="vonr_switch_title">Použiť VoNR</string>
+<string name="vonr_switch_summary">Použiť VoNR na zlepšenie kvality hlasových hovorov</string>
+     <string name="more">Viac</string>
 </resources>

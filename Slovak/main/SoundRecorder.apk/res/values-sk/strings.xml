@@ -330,5 +330,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
      <string name="saf_permission_dialog_later">Nie, ďakujem</string>
      <string name="saf_permission_dialog_no_more_tip">"Už nezobrazovať"</string>
      <string name="saf_permission_dialog_title">Vyžadujú sa povolenia</string>
-     <string name="settings_saf_permission">Povolenia na správu súborov</string>              	
+     <string name="settings_saf_permission">Povolenia na správu súborov</string>    
+     
+     <string name="privacy_settings">Súkromie</string>               	
 </resources>  

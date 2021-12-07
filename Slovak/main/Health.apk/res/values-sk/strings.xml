@@ -155,7 +155,7 @@ Ak nechcete získať prístup k odporúčaným kurzom, môžete stále používa
     <string name="clearable_edittext_clear_description"> Vymazať </string>
     <string name="click_finish_stand"> Nahrávanie klepnutím </string>
     <string name="climb"> Lezecké schody </string>
-    <string name="lezenie"> Lezenie </string>
+    <string name="climbing"> Lezenie </string>
     <string name="close"> Vypnúť </string>
     <string name="close_once"> Raz vypnúť </string>
     <string name="close_stand_notice_and_detection_tip"> Zapnúť pripomenutia </string>

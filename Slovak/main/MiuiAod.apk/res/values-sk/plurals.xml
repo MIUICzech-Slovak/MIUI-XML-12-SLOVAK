@@ -70,5 +70,23 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
-    </plurals>                   
+    </plurals>
+    
+    <plurals name="character_pitch_minus">
+        <item quantity="other">Zmenšený rozostup znakov. Rozostup %s.</item>
+        <item quantity="one">Zmenšený rozostup znakov. Rozostup %s.</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">Zvýšený rozostup znakov. Rozostup %s.</item>
+        <item quantity="one">Zvýšený rozostup znakov. Rozostup %s.</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">Zvýšený rozostup riadkov. Rozostup %s.</item>
+        <item quantity="one">Zvýšený rozostup riadkov. Rozostup %s.</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">Znížený rozostup riadkov. Rozostup %s.</item>
+        <item quantity="one">Znížený rozostup riadkov. Rozostup %s.</item>
+    </plurals>
+                               
 </resources>

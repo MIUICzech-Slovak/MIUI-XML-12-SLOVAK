@@ -1115,4 +1115,9 @@ Poloha nebude odoslaná ak je slabý signál siete."</string>
 	    <string name="cloud_service_open_authorization">Vitajte v Xiaomi Cloud! Xiaomi Cloud môžete použiť na synchronizáciu poznámok, fotografií a videí, nahrávok a ďalších položiek zo systémových aplikácií naprieč všetkými pripojenými zariadeniami. Zálohy rozloženia domovskej obrazovky sa budú ukladať aj v Xiaomi Cloud. Všetky synchronizované položky si budete môcť pozrieť na i.mi.com.</string>
     <string name="cloud_service_title">Xiaomi Cloud</string>
 	<string name="open_service_title">Zapnutie</string>
+	
+     <string name="alert_sync_data_merge_dialog_title">Položky budú zlúčené</string>
+     <string name="alert_sync_merge_dialog_cancel">Zrušiť</string>
+     <string name="alert_sync_merge_dialog_confirm">Zapnúť</string>
+     <string name="contact_alert_sync_data_merge_dialog_msg">Ak zapnete synchronizáciu, kontakty nahrané z tohto zariadenia sa zlúčia s kontaktmi uloženými v cloude. Chcete napriek tomu zapnúť synchronizáciu?</string>  	
 </resources>  

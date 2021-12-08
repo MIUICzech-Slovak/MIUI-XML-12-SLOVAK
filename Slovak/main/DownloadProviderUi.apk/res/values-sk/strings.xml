@@ -396,5 +396,6 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
     <string name="menu_des_more">Viac</string>	
      <string name="search_home_vif_show_more">Viac</string>
      <string name="search_website_more">Viac</string>
-     <string name="xl_extend">Viac</string>              
+     <string name="xl_extend">Viac</string>          
+    <string name="pref_download_storage_path_2">Umiestnenie stiahnutých položiek</string>         
 </resources>  

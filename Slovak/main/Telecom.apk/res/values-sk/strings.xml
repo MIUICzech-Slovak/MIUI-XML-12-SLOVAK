@@ -508,4 +508,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
   <string name="tomorrow">Zajtra</string>     
   
     <string name="message_no_voice_capability">Na tomto zariadení nie je možné volať</string>  
+    
+<string name="anti_fraud_notification_msg">Ukončite tento hovor, aby ste sa vyhli telekomunikačným podvodom</string>
+     <string name="anti_fraud_notification_title">Upozornenie na ochranu pred podvodmi</string>    
 </resources>

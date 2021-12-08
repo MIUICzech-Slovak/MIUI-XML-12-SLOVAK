@@ -5446,4 +5446,8 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
     <string name="power_center_surface_temp_normal">Normálna</string>	
     
      <string name="network_assistant_privacy_title">Odoslať dáta o používaní aplikácie a siete pre diagnostické účely</string>    
+     
+<string name="gd_splite_screen_tips">Rozdelená obrazovka nepodporuje plávajúce okná</string>
+     <string name="pc_battery_chart_loading">Načítavanie...</string>
+     <string name="vb_video_effects_3d_summary_headset">Zvýšte pocit ponorenia a obklopenia pri počúvaní zvuku v slúchadlách</string>     
 </resources>  

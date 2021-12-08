@@ -2718,4 +2718,10 @@ dd.MM"</string>
 dd.MM"</string>
 
      <string name="input_pattern_after_restart_msg">Ochrana zabezpečenia systému, zadajte svoje heslo</string>    
+     
+<string name="face_unlock_locked">Odomknutie tvárou sa teraz nedá použiť</string>
+     <string name="input_pattern_after_face_not_allowed">Zadajte svoje heslo aspoň raz za %d hodín, aby bolo toto zariadenie zabezpečené</string>
+     <string name="input_pattern_after_restart_msg">Ak chcete pokračovať, potvrďte uzamknutie obrazovky</string>
+     <string name="input_pattern_or_finger_after_face_not_allowed">Zadajte svoje heslo alebo použite odtlačok prsta aspoň raz za %d hodín, aby ste toto zariadenie zabezpečili</string>
+     <string name="open_xmyzl_hint_text">Prejdením prstom doprava otvorte Xiaomi Magic Control</string>     
 </resources>

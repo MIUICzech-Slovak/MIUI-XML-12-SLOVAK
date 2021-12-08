@@ -364,5 +364,8 @@
     <string name="relay_cal_from_device_name">Od %1$s</string>
     <string name="relay_call">Handoff</string>
     <string name="relay_call_device_name">Pripojené zariadenie (%1$s)</string>
+    
+     <string name="relay_deny_permission_msg">Hovory nemožno uskutočniť bez povolenia na nahrávanie zvuku</string>
+     <string name="relay_grant_permissions_on_phone">Udeľte povolenie na nahrávanie zvuku do telefónu</string>
 	
 </resources>

@@ -790,5 +790,12 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
      <string name="user_license_with_3rd_app">Súhlasím s Podmienkami používania a Ochranou súkromia.</string>
      <string name="user_license_without_3rd_app">Súhlasím s Podmienkami používania a Ochranou súkromia.</string>
      <string name="user_license_without_3rd_mobile">Súhlasím s Podmienkami používania a Ochranou súkromia.</string>
-                                                   
+
+<string name="account_verify_guide_verify_phone_desc">Potvrďte telefón na obnovenie</string>
+     <string name="cloud_service_status_backup_not_open">Zálohovanie je vypnuté</string>
+     <string name="cloud_service_status_cloud_not_open">Vypnuté</string>
+     <string name="cloud_service_status_storage_full">Úložisko je plné</string>
+     <string name="cloud_service_status_storage_not_enough">Nedostatok miesta</string>
+     <string name="notify_verify_again_security_phone">Potvrdiť</string>
+     <string name="notify_verify_security_phone">Telefón</string>                                                   
 </resources>  

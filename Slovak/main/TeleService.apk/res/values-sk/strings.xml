@@ -1904,5 +1904,7 @@ Kontaktujte vášho operátora"</string>
      <string name="read_call_log">Nahrávanie zvuku</string>
      <string name="read_call_log_summary">Pre nahrávanie hovorov</string>      
      <string name="notallow">Neudelené</string>   
-     <string name="allow">Udelené</string>                  
+     <string name="allow">Udelené</string>    
+    <string name="ask">Opýtať sa</string>
+                       
 </resources>

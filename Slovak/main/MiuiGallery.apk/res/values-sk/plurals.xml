@@ -631,4 +631,8 @@
         <item quantity="other">Synchr. %d položiek</item>
         <item quantity="one">Synchr. %d položky</item>
     </plurals>            
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d albumov vrátane %1$s</item>
+        <item quantity="one">%2$d albumov vrátane %1$s</item>
+    </plurals>    
 </resources>

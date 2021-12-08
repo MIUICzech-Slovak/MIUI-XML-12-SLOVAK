@@ -7533,6 +7533,10 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
      <string name="close_optimization_option">Vypnúť</string>
      <string name="close_slave_wifi_hint">Pred prenášaním sa odpojte od pomocných sietí Wi-Fi</string>
      <string name="closed_beta">Stabilná (interná)</string>
-                                        
-                         
+     <string name="to_close">Vypnúť</string>                                        
+     <string name="notification_listener_disable_warning_confirm">Vypnúť</string>
+     <string name="dialog_location_ok">Vypnúť</string>
+     <string name="dialog_background_check_ok">Vypnúť</string>
+     <string name="condition_turn_off">Vypnúť</string>     
+     <string name="smart_home_value_none">Žiadna</string>                                        
 </resources>

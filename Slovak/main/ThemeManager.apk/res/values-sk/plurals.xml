@@ -128,4 +128,12 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>                   
+     <plurals name="resource_comment_score_count">
+        <item quantity="other">Komentáre: %d</item>
+        <item quantity="one">Komentáre: %d</item>
+     </plurals>    
+     <plurals name="de_author_fans_amount">
+        <item quantity="other">Fanúšikovia: %1$d</item>
+        <item quantity="one">Fanúšikovia: %1$d</item>
+     </plurals>     
 </resources>

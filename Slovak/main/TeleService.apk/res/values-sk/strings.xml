@@ -1897,4 +1897,12 @@ Kontaktujte vášho operátora"</string>
 <string name="vonr_switch_title">Použiť VoNR</string>
 <string name="vonr_switch_summary">Použiť VoNR na zlepšenie kvality hlasových hovorov</string>
      <string name="more">Viac</string>
+     <string name="privacy_setting">Súkromie</string>     
+     <string name="preference_check_privacy">Zobraziť Ochranu súkromia</string>
+     <string name="preference_permission_related">Povolenia</string>
+     <string name="permission_description">Podrobnosti o povoleniach</string>   
+     <string name="read_call_log">Nahrávanie zvuku</string>
+     <string name="read_call_log_summary">Pre nahrávanie hovorov</string>      
+     <string name="notallow">Neudelené</string>   
+     <string name="allow">Udelené</string>                  
 </resources>

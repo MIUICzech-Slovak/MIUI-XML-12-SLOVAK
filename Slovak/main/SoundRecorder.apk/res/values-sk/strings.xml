@@ -333,4 +333,5 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
      <string name="settings_saf_permission">Povolenia na správu súborov</string>    
      
      <string name="privacy_settings">Súkromie</string>               	
+     <string name="view_privacy">Zobraziť Ochranu súkromia</string>     
 </resources>  

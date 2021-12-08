@@ -1085,7 +1085,6 @@ dd.MM"</string>
      <string name="privacy_log_off_succeed">Služby boli úspešne zrušené</string>
      <string name="privacy_loging_off_warning">Rušenie služieb…</string>
      <string name="privacy_logoff_services_title">Zrušiť služby</string>               
-<string name="privacy_logoff_services_title">Zrušiť služby</string>
      <string name="privacy_logoff_theme_content_1">1. Všetky objednávky (vrátane platených objednávok) uskutočnené na zariadeniach Xiaomi. Zakúpené položky už nebudete môcť používať.</string>
      <string name="privacy_logoff_theme_content_2">2. Všetky informácie o vašich lajkoch, komentároch, hodnoteniach a sledovateľoch sú generované na zariadeniach Xiaomi.</string>
      <string name="privacy_logoff_theme_content_5">5. Všetky položky prispôsobenia aktuálne používané v tomto zariadení. Predvolené nastavenia prispôsobenia budú obnovené.</string>

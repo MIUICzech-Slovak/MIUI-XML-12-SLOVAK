@@ -7539,10 +7539,6 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
      <string name="dialog_background_check_ok">Vypnúť</string>
      <string name="condition_turn_off">Vypnúť</string>     
      <string name="smart_home_value_none">Žiadna</string>         
-     
-<string name="fiveg_sa_switch_summary">Použiť sieť SA na sekundárnej SIM karte (iba na testovanie)</string>
-     <string name="fiveg_sa_vice_switch_title">SA na sekundárnej SIM karte</string>
-     <string name="headset_toast_tip_disconnect_others">Slúchadlá momentálne nie je možné nastaviť, možno sú pripojené k inému telefónu</string>
-     <string name="magic_list_empty_text">Teraz nie sú s touto funkciou kompatibilné žiadne aplikácie</string>
+
      <string name="memorycard_calculating">Výpočet...</string>                                    
 </resources>

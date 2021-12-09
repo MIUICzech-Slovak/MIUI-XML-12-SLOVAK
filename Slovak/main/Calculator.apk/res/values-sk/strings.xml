@@ -821,7 +821,11 @@ Veľkosť delta aktualizácie: %2$s"</string>
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
-  
+
+<string name="privacy_dialog_title">Ochrana osobných údajov</string>
+     <string name="privacy_revoke_error">"Nepodarilo sa stiahnuť. Skúste to znova."</string>
+     <string name="privacy_revoke_progress">Odvolávanie...</string>
+     <string name="privacy_switch">Odvolanie súhlasu</string>  
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   

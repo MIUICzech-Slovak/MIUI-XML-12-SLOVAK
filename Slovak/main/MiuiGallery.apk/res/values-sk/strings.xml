@@ -2433,4 +2433,27 @@
     <string name="watermark_enter">Ochranný vodoznak</string>
     <string name="watermark_summary">Rozpoznávať fotografie preukazov totožnosti uložené v tomto zariadení a dostávať výzvy na pridanie ochranných vodoznakov</string>
     <string name="watermark_title">Ochranný vodoznak</string>         
+
+<string name="download_delete_error_desc">Túto položku nie je možné obnoviť, pretože ste ju odstránili z tohto zariadenia a cloudu. Odstrániť teraz prázdny súbor?</string>
+    <string name="download_delete_error_positive">Odstrániť</string>
+    <string name="download_delete_error_title">Chýba položka</string>
+    <string name="group_header_title_media_group">Typy médií</string>
+<string name="map_privacy_dialog_content">Táto služba vám umožňuje prezerať fotografie a videá s informáciami o polohe na mape. Na poskytovanie tejto služby používame Baidu Map Open SDK. Skôr ako budete pokračovať, prečítajte si a odsúhlaste Vyhlásenie o zdieľaní údajov tretej strany na mape galérie.</string>
+    <string name="media_type_burst_photo">Séria</string>
+    <string name="media_type_clone_photo">Klony</string>
+    <string name="media_type_doc_photo">Dokumenty</string>
+    <string name="media_type_fast_motion_video">Časozber</string>
+    <string name="media_type_front_photo">Selfie</string>
+    <string name="media_type_gif">GIF</string>
+    <string name="media_type_live_vv">Vlog</string>
+    <string name="media_type_motion_photo">Dynamické</string>
+    <string name="media_type_pano_photo">Panorámy</string>
+    <string name="media_type_portrait_photo">Portrét</string>
+    <string name="media_type_raw">RAW</string>
+    <string name="media_type_slow_motion_video">Pomalé</string>
+    <string name="privacy_map_detail_content_new">Vyhlásenie o zdieľaní údajov tretej strany s mapou galérie</string>
+    <string name="privacy_reject_map_detail_new">Vaše odvolanie súhlasu s vyhlásením o zdieľaní údajov tretej strany s mapou galérie bude považované za odmietnutie akceptovania služieb mapy galérie. Ostatné funkcie Galérie budete môcť naďalej normálne používať. Chcete teraz odvolať súhlas?</string>
+    <string name="privacy_rejected_map_new">Odvolanie súhlasu s vyhlásením tretej strany o zdieľaní údajov mapy galérie</string>
+    <string name="privacy_rejected_pos_btn">Vybrať</string>
+    
 </resources>

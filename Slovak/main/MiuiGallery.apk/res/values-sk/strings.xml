@@ -1826,7 +1826,7 @@
   <string name="album_other_page_title">Ostatné albumy</string>
   <string name="album_rubbish_cant_change_status">Nie je možné synchronizovať albumy presunuté do koša</string>
   <string name="album_rubbish_clear_all_item_description">Vyčistiť kôš</string>
-  <string name="album_rubbish_page_title">Kôš</string>
+  <string name="album_rubbish_page_title">Odpad</string>
   <string name="album_rubbish_tip_title">Pravdepodobne zostatkové albumy</string>
   <string name="album_share_cant_move_to_rubbish_tip">Nie je možné presunúť zdieľané albumy do koša</string>
   <string name="album_sort_type">Zoradenie</string>
@@ -2441,12 +2441,12 @@
 <string name="map_privacy_dialog_content">Táto služba vám umožňuje prezerať fotografie a videá s informáciami o polohe na mape. Na poskytovanie tejto služby používame Baidu Map Open SDK. Skôr ako budete pokračovať, prečítajte si a odsúhlaste Vyhlásenie o zdieľaní údajov tretej strany na mape galérie.</string>
     <string name="media_type_burst_photo">Séria</string>
     <string name="media_type_clone_photo">Klony</string>
-    <string name="media_type_doc_photo">Dokumenty</string>
+    <string name="media_type_doc_photo">Dokum.</string>
     <string name="media_type_fast_motion_video">Časozber</string>
     <string name="media_type_front_photo">Selfie</string>
     <string name="media_type_gif">GIF</string>
     <string name="media_type_live_vv">Vlog</string>
-    <string name="media_type_motion_photo">Dynamické</string>
+    <string name="media_type_motion_photo">Dynam.</string>
     <string name="media_type_pano_photo">Panorámy</string>
     <string name="media_type_portrait_photo">Portrét</string>
     <string name="media_type_raw">RAW</string>

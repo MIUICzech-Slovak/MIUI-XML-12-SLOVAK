@@ -1906,5 +1906,14 @@ Kontaktujte vášho operátora"</string>
      <string name="notallow">Neudelené</string>   
      <string name="allow">Udelené</string>    
     <string name="ask">Opýtať sa</string>
-                       
+
+<string name="vowifi_emergency_notification_content">Tiesňové volania len v oblastiach s pokrytím mobilnej siete</string>
+      <string name="vowifi_emergency_notification_title">Vodafone volanie cez Wi-Fi</string>
+      <string name="vowifi_emergency_warning_check">Už nezobrazovať.</string>
+      <string name="vowifi_emergency_warning_message">"Tiesňové volania nie sú možné cez volanie cez Wi-Fi.
+
+Zariadenie sa automaticky prepne na mobilnú sieť (2G/3G) a uskutoční tiesňové volanie.
+
+Tiesňové volania sú možné len v oblastiach s pokrytím mobilnou sieťou.“</string>
+      <string name="vowifi_emergency_warning_title">Tiesňové volania cez volanie cez Wi-Fi</string>                       
 </resources>

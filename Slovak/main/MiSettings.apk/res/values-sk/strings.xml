@@ -563,4 +563,8 @@ nie sú generované v Druhom profile"</string>
 	
 <string name="normal_mode_summary_new">Povoliť blikanie pri slabom osvetlení</string>	
 <string name="dc_light_hint_normal_anit">Anti-flicker režim môže ovplyvniť zobrazenie položiek.</string>
+
+<string name="dc_light_hint_unnormal_low">Anti-flicker režim pri slabom osvetlení môže ovplyvniť spôsob zobrazenia niektorých položiek.</string>
+<string name="dc_light_hint_normal_other">Anti-flicker režim môže ovplyvniť obnovovaciu frekvenciu a spôsob zobrazenia niektorých položiek.</string>
+
 </resources>  

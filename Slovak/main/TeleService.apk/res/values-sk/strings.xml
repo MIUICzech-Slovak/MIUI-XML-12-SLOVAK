@@ -1915,5 +1915,8 @@ Kontaktujte vášho operátora"</string>
 Zariadenie sa automaticky prepne na mobilnú sieť (2G/3G) a uskutoční tiesňové volanie.
 
 Tiesňové volania sú možné len v oblastiach s pokrytím mobilnou sieťou.“</string>
-      <string name="vowifi_emergency_warning_title">Tiesňové volania cez volanie cez Wi-Fi</string>                       
+      <string name="vowifi_emergency_warning_title">Tiesňové volania cez volanie cez Wi-Fi</string>   
+      
+<string name="status_unavailable">Nedostupné</string>
+                          
 </resources>

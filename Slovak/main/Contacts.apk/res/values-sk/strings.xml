@@ -1472,5 +1472,9 @@ Zvoľte jednu z nasledujúcich možností:</string>
 
     <string name="preference_privacy_settings">Súkromie</string>
     <string name="preference_privacy_settings_title">Súkromie</string>
-	
+
+<string name="saf_permission_dialog_content">Android predvolene nepovoľuje aplikácií Kontakty a Telefón prístup k nahrávkam hovorov. Povoľte tejto aplikácii prístup k nahrávkam hovorov.</string>
+      <string name="saf_permission_dialog_grant_permission_immediately">Povoliť</string>
+      <string name="saf_permission_dialog_later">Neskôr</string>
+      <string name="saf_permission_dialog_title">Povoliť prístup k nahrávkam hovorov</string>	
 </resources>  

@@ -1213,7 +1213,6 @@ only"</string>
     <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
     <string name="keyguard_missing_sim_message">No SIM card in phone.</string>
     <string name="keyguard_missing_sim_message_short">No SIM card</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Network locked</string>
     <string name="keyguard_password_enter_password_code">Type password to unlock</string>
     <string name="keyguard_password_enter_pin_code">Type PIN code</string>
@@ -1524,14 +1523,12 @@ You're also connected to %3$s, which can monitor your personal network activity.
 
 For more information, contact your admin."</string>
     <string name="monitoring_description_ca_cert_settings">Open trusted credentials</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">A certificate authority is installed on this device. Your secure network traffic may be monitored or modified.</string>
     <string name="monitoring_description_do_body">"Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information."</string>
     <string name="monitoring_description_do_body_vpn">"You're connected to %1$s, which can monitor your network activity, including emails, apps and websites."</string>
     <string name="monitoring_description_do_header_generic">Your device is managed by %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s uses %2$s to manage your device.</string>
     <string name="monitoring_description_do_learn_more">Learn more</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Your organisation installed a certificate authority in your work profile. Your secure network traffic may be monitored or modified.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Your work profile is connected to %1$s, which can monitor your network activity, including emails, apps and websites.</string>
     <string name="monitoring_description_managed_profile_network_logging">Your admin has turned on network logging, which monitors traffic in your work profile but not in your personal profile.</string>
@@ -1565,7 +1562,6 @@ For more information, contact your admin.
 
 You're also connected to a VPN, which can monitor your network activity."</string>
     <string name="monitoring_description_vpn_settings">Open VPN settings</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s may be able to access data associated with this device, manage apps and change this device's settings.
 
 If you have questions, contact %2$s."</string>
@@ -1646,7 +1642,6 @@ If you have questions, contact %2$s."</string>
     <string name="mtrl_picker_a11y_next_month">Change to next month</string>
     <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
     <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Select date</string>
     <string name="mtrl_picker_date_header_unselected">Selected date</string>
@@ -1677,7 +1672,6 @@ If you have questions, contact %2$s."</string>
     <string name="nav_bar">Navigation bar</string>
     <string name="nav_bar_default">(default)</string>
     <string name="nav_bar_layout">Layout</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">%1$s sent an image</string>
     <string name="new_notification_text_content_description">%1$s sent a message: %2$s</string>
     <string name="new_status_content_description">%1$s has a status update: %2$s</string>
@@ -1840,7 +1834,6 @@ If you have questions, contact %2$s."</string>
     <string name="pm">PM</string>
     <string name="pointer_location">Pointer location</string>
     <string name="pointer_location_summary">Screen overlay showing current touch data</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s – %2$s left until full</string>
     <string name="power_charging_limited">%1$s - Charging temporarily limited</string>
     <string name="power_discharge_by">Should last until about %1$s (%2$s)</string>
@@ -1903,7 +1896,6 @@ If you have questions, contact %2$s."</string>
     <string name="private_dns_mode_provider">Private DNS provider hostname</string>
     <string name="private_dns_mode_provider_failure">"Couldn't connect"</string>
     <string name="private_dns_mode_provider_hostname_hint">Enter hostname of DNS provider</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Problem connecting. Turn device off and back on</string>
     <string name="profile_info_settings_title">Profile info</string>
     <string name="profile_owned_footer">Profile may be monitored</string>

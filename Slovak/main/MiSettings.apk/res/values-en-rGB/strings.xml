@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="color_gamut">Colour gamut</string>
     <string name="fmt_date_day">d</string>
@@ -30,10 +30,10 @@
     <string name="srgb_color_region_summary">Display all screen content in sRGB colour gamut</string>
     <string name="touch_description">Optimised buttons and shortcuts will help you avoid accidental touch</string>
     <string name="usage_focus_focus_premission_second_summary">"If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorisation in the Settings."</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can revoke your authorisation in Screen time > Settings > Turn off Screen time."</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Before using this app, read and agree to our &lt;a href='%1s'>User Agreement&lt;/a> and &lt;a href='%2s'>Privacy Policy&lt;/a>.&lt;/Data>"</string>
-    <string name="usage_home_premission_second_summary_new">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can revoke your authorisation in Screen time > Settings > Turn off Screen time. If you have more questions about privacy, you can contact us at privacy@xiaomi.com."</string>
-    <string name="usage_permission_double_link" formatted="false">"&lt;Data>This app needs to connect to the internet and collect the required personal data to be able to work normally. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href='%1s'>User Agreement&lt;/a> and &lt;a href='%2s'>Privacy Policy&lt;/a>.&lt;/Data>"</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can revoke your authorisation in Screen time &gt; Settings &gt; Turn off Screen time."</string>
+    <string formatted="false" name="usage_home_premission_second_summary_double_link_suffix">"&lt;Data&gt;Before using this app, read and agree to our &lt;a href='%1s'&gt;User Agreement&lt;/a&gt; and &lt;a href='%2s'&gt;Privacy Policy&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="usage_home_premission_second_summary_new">"We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can revoke your authorisation in Screen time &gt; Settings &gt; Turn off Screen time. If you have more questions about privacy, you can contact us at privacy@xiaomi.com."</string>
+    <string formatted="false" name="usage_permission_double_link">"&lt;Data&gt;This app needs to connect to the internet and collect the required personal data to be able to work normally. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href='%1s'&gt;User Agreement&lt;/a&gt; and &lt;a href='%2s'&gt;Privacy Policy&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="usage_state_accurate_date">dd MMMM yyyy</string>
     <string name="usage_state_date">dd MMM</string>
-</resources>  
+</resources>

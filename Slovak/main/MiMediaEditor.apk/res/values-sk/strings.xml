@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Prejsť na plochu</string>
     <string name="abc_action_bar_up_description">Prejsť nahor</string>
@@ -192,7 +192,7 @@
     <string name="exit_choice_mode">Zdieľaný dialóg opustený</string>
     <string name="expand_button_title">Rozšírené</string>
     <string name="expand_desc">Viac</string>
-    <string name="ext_sdcard_first_entrance_request_failed_text">Galéria bude napriek tomu ukladať položky na interné úložisko. Môžete to zmeniť v Nastaveniach > Úložisko > Nastavenia úložiska.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">Galéria bude napriek tomu ukladať položky na interné úložisko. Môžete to zmeniť v Nastaveniach &gt; Úložisko &gt; Nastavenia úložiska.</string>
     <string name="ext_sdcard_first_entrance_request_failed_title">Nepoadrilo sa prideliť povolenia.</string>
     <string name="ext_sdcard_guide_first_page_button_text">Ďalej</string>
     <string name="ext_sdcard_guide_last_page_button_text">Prideliť oprávnenia</string>
@@ -463,10 +463,10 @@
     <string name="image_transition_name">image_transition</string>
     <string name="image_with_time">Fotografia vytvorená %s</string>
     <string name="image_with_time_and_location">Fotografia vytvorená %1$s. Poloha: %2$s.</string>
-    <string name="limit_height">Výška by mala byť > 0</string>
-    <string name="limit_width">Šírka by mala byť > 0</string>
+    <string name="limit_height">Výška by mala byť &gt; 0</string>
+    <string name="limit_width">Šírka by mala byť &gt; 0</string>
     <string name="loading">Malý moment</string>
-    <string name="loading_text_format" formatted="false">Odoberanie osobných informácií z fotografií (%d/%d)…</string>
+    <string formatted="false" name="loading_text_format">Odoberanie osobných informácií z fotografií (%d/%d)…</string>
     <string name="loading_video_compress_lib">Sťahujte sa doplnok na kompresiu videa…</string>
     <string name="magic_add_full">Môžete pridať až %1$d ľudí</string>
     <string name="magic_background">Pozadie</string>
@@ -751,10 +751,10 @@
     <string name="photo_editor_crop_auto_tips">Automaticky orezané</string>
     <string name="photo_editor_crop_reset">Obnoviť</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
-    <string name="photo_editor_crop_size_former_latter" formatted="false">%d:%d</string>
+    <string formatted="false" name="photo_editor_crop_size_former_latter">%d:%d</string>
     <string name="photo_editor_crop_size_free">Vlastné</string>
     <string name="photo_editor_crop_size_fullscreen">Celá obrazovka</string>
-    <string name="photo_editor_crop_size_movie" formatted="false">%1.2f:%d</string>
+    <string formatted="false" name="photo_editor_crop_size_movie">%1.2f:%d</string>
     <string name="photo_editor_crop_size_origin">Originál</string>
     <string name="photo_editor_doodle">Čmáranica</string>
     <string name="photo_editor_filter">Filter</string>
@@ -779,7 +779,7 @@
     <string name="photo_editor_miui_beauty_no_face">Tvár nie je možné rozpoznať</string>
     <string name="photo_editor_mosaic">Mozajka</string>
     <string name="photo_editor_navigator_cancel">Zrušiť</string>
-    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Stiahnutie súboru %s si vyžaduje približne %2$d MB mobilných dát. Stiahnuť teraz?</string>
+    <string formatted="false" name="photo_editor_navigator_download_network_metered_msg">Stiahnutie súboru %s si vyžaduje približne %2$d MB mobilných dát. Stiahnuť teraz?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Upozornenie na využívanie dát</string>
     <string name="photo_editor_navigator_download_title">Načítava sa…</string>
     <string name="photo_editor_navigator_export">Uložiť</string>
@@ -867,7 +867,7 @@
     <string name="pm">pop.</string>
     <string name="preference_copied">Položka %1$s bola skopírovaná do schránky.</string>
     <string name="prepare_to_drop">Ukladanie do %s</string>
-    <string name="privacy_permission_request_message">&lt;Data>Galéria si vyžaduje prístup k %3$s. Informácie, ktoré zbierame budeme používať v súlade s našimi &lt;a href=\"%1$s\">\"Podmienkami služby\"&lt;/a> a &lt;a href=\"%2$s\">\"Zásadami ochrany osobných údajov\"&lt;/a>. Povoliť?&lt;/Data></string>
+    <string name="privacy_permission_request_message">&lt;Data&gt;Galéria si vyžaduje prístup k %3$s. Informácie, ktoré zbierame budeme používať v súlade s našimi &lt;a href=\"%1$s\"&gt;\"Podmienkami služby\"&lt;/a&gt; a &lt;a href=\"%2$s\"&gt;\"Zásadami ochrany osobných údajov\"&lt;/a&gt;. Povoliť?&lt;/Data&gt;</string>
     <string name="privacy_permission_request_negative">Zakázať</string>
     <string name="privacy_permission_request_positive">Povoliť</string>
     <string name="privacy_permission_request_title">Vyžadujú sa povolenia</string>
@@ -1206,7 +1206,7 @@
     <string name="user_agree">Súhlasím</string>
     <string name="user_agreement2">Podmienky služby</string>
     <string name="user_agreement4">Zásady ochrany osobných údajov</string>
-    <string name="user_notice_identify_summary_format">&lt;Data>Používaním tejto služby vyjadrujete súhlas so zmluvami &lt;a href=\"%1$s\">\"Zmluvné podmienky\"&lt;/a> a &lt;a href=\"%2$s\">\"Zásady ochrany osobných údajov\"&lt;/a> spoločnosti Xiaomi.&lt;/Data></string>
+    <string name="user_notice_identify_summary_format">&lt;Data&gt;Používaním tejto služby vyjadrujete súhlas so zmluvami &lt;a href=\"%1$s\"&gt;\"Zmluvné podmienky\"&lt;/a&gt; a &lt;a href=\"%2$s\"&gt;\"Zásady ochrany osobných údajov\"&lt;/a&gt; spoločnosti Xiaomi.&lt;/Data&gt;</string>
     <string name="user_notice_title">Pravidlá a podmienky</string>
     <string name="v7_preference_off">VYP.</string>
     <string name="v7_preference_on">ZAP.</string>

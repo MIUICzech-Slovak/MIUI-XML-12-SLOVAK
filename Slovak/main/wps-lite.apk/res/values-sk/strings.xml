@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="BookTitleDisplayName">Názov knihy</string>
     <string name="DefaultParagraphFontDisplayName">Predvolené písmo odstavca</string>
@@ -200,7 +200,7 @@
     <string name="public_search_empty">Najskôr zadajte obsah</string>
     <string name="public_searchnotfound">Žiadne výsledky</string>
     <string name="public_secre_dialog_content_1">Aby sme mohli poskytovať naše služby a vylepšovať naše produkty, potrebujeme povolenia na prístup k úložisku a zberu dát, ktoré nám popisujú, akým spôsobom používate naše funkcie.</string>
-    <string name="public_secre_dialog_content_2" formatted="false">&lt;Data>Vaše osobné údaje budeme chrániť v súlade s našimi zmluvami &lt;a href=\"%s\">Podmienky používania &lt;/a > a &lt;a href=\"%s\">Zásady ochrany osobných údajov&lt;/a >.&lt;/Data></string>
+    <string formatted="false" name="public_secre_dialog_content_2">&lt;Data&gt;Vaše osobné údaje budeme chrániť v súlade s našimi zmluvami &lt;a href=\"%s\"&gt;Podmienky používania &lt;/a &gt; a &lt;a href=\"%s\"&gt;Zásady ochrany osobných údajov&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="public_secre_dialog_exit">Koniec</string>
     <string name="public_secre_dialog_positive">Súhlasím</string>
     <string name="public_secre_dialog_tips_agree">Ak súhlasíte so stanoviskami a podmienkami našich Podmienok používania a Zásad ochrany osobných údajov, ťuknite na \"Súhlasím\" a začnite používať naše služby.</string>
@@ -254,12 +254,12 @@
     <string name="writer_page_break">Zlom strany</string>
     <string name="writer_page_setting_units"> cm</string>
     <string name="writer_page_setting_units_inch">palec</string>
-    <string name="writer_paragraph_set_firstlineindent" formatted="false">Odsadenie prvého riadka: %.2f%2$s</string>
-    <string name="writer_paragraph_set_hangingindent" formatted="false">Opakované odsadenie: %.2f%2$s</string>
-    <string name="writer_paragraph_set_leftindent" formatted="false">Ľavé odsadenie: %.2f%2$s</string>
-    <string name="writer_paragraph_set_rightindent" formatted="false">Pravé odsadenie: %.2f%2$s</string>
-    <string name="writer_paragraph_set_spaceafter" formatted="false">Medzera za riadkom: %.2f%2$s</string>
-    <string name="writer_paragraph_set_spacebefore" formatted="false">Medzera pred riadkom: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_firstlineindent">Odsadenie prvého riadka: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_hangingindent">Opakované odsadenie: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_leftindent">Ľavé odsadenie: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_rightindent">Pravé odsadenie: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_spaceafter">Medzera za riadkom: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_spacebefore">Medzera pred riadkom: %.2f%2$s</string>
     <string name="writer_read_mode">Režim zobrazenia</string>
     <string name="writer_revision_edit_nottrack">Táto operácia nebude označená ako oprava. Pokračovať?</string>
     <string name="writer_revision_unsupportedRevisionSubDocument">Momentálne nie je možné opraviť</string>

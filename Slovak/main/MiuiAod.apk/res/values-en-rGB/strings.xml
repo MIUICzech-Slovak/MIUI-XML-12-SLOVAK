@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="aod_close_color_inversion">"This feature can't be combined with colour inversion. Turn off colour inversion first."</string>
     <string name="aod_lock_screen_date">EE, d MMMM</string>
@@ -14,4 +14,4 @@ dd/MM"</string>
     <string name="super_wallpaper_date_inter">"EEEE
 dd/MM"</string>
     <string name="text_color">Text colour</string>
-</resources>  
+</resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
@@ -119,7 +119,7 @@
     <string name="accessibility_detail_switch_disable">Not available</string>
     <string name="accessibility_detail_switch_off">Turn off</string>
     <string name="accessibility_detail_switch_on">Turn on</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Adjust how colours display on your device. This can be helpful when you want to:&lt;br/>&lt;br/> &lt;ol> &lt;li>&amp;nbsp;See colours more accurately&lt;/li> &lt;li>&amp;nbsp;Remove colours to help you focus&lt;/li> &lt;/ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Adjust how colours display on your device. This can be helpful when you want to:&lt;br/&gt;&lt;br/&gt; &lt;ol&gt; &lt;li&gt;&amp;nbsp;See colours more accurately&lt;/li&gt; &lt;li&gt;&amp;nbsp;Remove colours to help you focus&lt;/li&gt; &lt;/ol&gt;</string>
     <string name="accessibility_display_daltonizer_preference_title">Colour correction</string>
     <string name="accessibility_divider">Split screen divider</string>
     <string name="accessibility_enter_hint">enter device</string>
@@ -142,10 +142,10 @@
     <string name="accessibility_floating_button_docking_tooltip">Move button to the edge to hide it temporarily</string>
     <string name="accessibility_floating_button_migration_tooltip">"Accessibility button replaced the accessibility gesture
 
-"<annotation id="link">View settings</annotation></string>
+"</string>
     <string name="accessibility_floating_button_switch_migration_tooltip">"You can switch from the accessibility gesture to a button
 
-"<annotation id="link">Settings</annotation></string>
+"</string>
     <string name="accessibility_gps_acquiring">GPS acquiring.</string>
     <string name="accessibility_gps_enabled">GPS enabled.</string>
     <string name="accessibility_home">Home</string>
@@ -866,13 +866,13 @@ If you resume, charges may apply for data usage."</string>
     <string name="face_unlock_success">Unlocked successfully</string>
     <string name="face_unlock_swipe_up_retry">Swipe up to try again</string>
     <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
-    <string name="feedback_alerted">This notification was automatically &lt;b>promoted to default&lt;/b> by the system.</string>
-    <string name="feedback_demoted">This notification was automatically &lt;b>ranked lower&lt;/b> in your shade.</string>
+    <string name="feedback_alerted">This notification was automatically &lt;b&gt;promoted to default&lt;/b&gt; by the system.</string>
+    <string name="feedback_demoted">This notification was automatically &lt;b&gt;ranked lower&lt;/b&gt; in your shade.</string>
     <string name="feedback_ok">OK</string>
-    <string name="feedback_promoted">This notification was automatically &lt;b>ranked higher&lt;/b> in your shade.</string>
+    <string name="feedback_promoted">This notification was automatically &lt;b&gt;ranked higher&lt;/b&gt; in your shade.</string>
     <string name="feedback_prompt">Let the developer know your feedback. Was this correct?</string>
     <string name="feedback_response">Thanks for your feedback!</string>
-    <string name="feedback_silenced">This notification was automatically &lt;b>demoted to silent&lt;/b> by the system.</string>
+    <string name="feedback_silenced">This notification was automatically &lt;b&gt;demoted to silent&lt;/b&gt; by the system.</string>
     <string name="fingerprint_add_text">The fingerprint interface was updated. Add your fingerprint again.</string>
     <string name="fingerprint_add_title">Add fingerprint</string>
     <string name="fingerprint_again_identified_msg">Your fingerprint is active now. Use it to unlock the device, or enter password.</string>
@@ -970,7 +970,7 @@ Enter your PIN to unlock."</string>
     <string name="fs_gesture_back_ready_title">Go back</string>
     <string name="fs_gesture_final_over">"I'm done"</string>
     <string name="fs_gesture_final_restart">One more time</string>
-    <string name="fs_gesture_final_summary">You can switch back to using buttons in Settings > Full screen display</string>
+    <string name="fs_gesture_final_summary">You can switch back to using buttons in Settings &gt; Full screen display</string>
     <string name="fs_gesture_final_title">"You're ready to rock!"</string>
     <string name="fs_gesture_finish">Nice!</string>
     <string name="fs_gesture_left_back_ready_summary">Swipe right from the edge</string>
@@ -1220,7 +1220,7 @@ only"</string>
     <string name="keyguard_password_enter_pin_prompt">New SIM PIN code</string>
     <string name="keyguard_password_enter_puk_code">Type SIM PUK and new PIN code</string>
     <string name="keyguard_password_enter_puk_prompt">SIM PUK code</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Touch to type password</font></string>
+    <string name="keyguard_password_entry_touch_hint" />
     <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
  Contact your wireless service provider for another SIM card."</string>
@@ -1468,8 +1468,8 @@ dd/MM"</string>
     <string name="miui_snooze_toast_hint_default">"Upcoming notifications will be hidden for %d minute. "</string>
     <string name="miui_snooze_toast_hint_until_unlock_screen">"Upcoming notifications will be hidden until the device is locked. "</string>
     <string name="miui_snooze_until_unlock_screen">Until locked</string>
-    <string name="miui_snooze_user_set_fail">Go to Settings > Notifications &amp; Control center for more options</string>
-    <string name="miui_snooze_user_set_success">Applied successfully. Go to Settings > Notifications &amp; Control center for more options.</string>
+    <string name="miui_snooze_user_set_fail">Go to Settings &gt; Notifications &amp; Control center for more options</string>
+    <string name="miui_snooze_user_set_success">Applied successfully. Go to Settings &gt; Notifications &amp; Control center for more options.</string>
     <string name="miui_unimportant_notifications">Unimportant notifications</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
@@ -1705,10 +1705,10 @@ If you have questions, contact %2$s."</string>
     <string name="notification_channel_silenced">These notifications will be shown silently</string>
     <string name="notification_channel_storage">Storage</string>
     <string name="notification_channel_summary_automatic">Have the system determine if this notification should make sound or vibration</string>
-    <string name="notification_channel_summary_automatic_alerted">&lt;b>Status:&lt;/b> promoted to default</string>
-    <string name="notification_channel_summary_automatic_demoted">&lt;b>Status:&lt;/b> ranked lower</string>
-    <string name="notification_channel_summary_automatic_promoted">&lt;b>Status:&lt;/b> ranked higher</string>
-    <string name="notification_channel_summary_automatic_silenced">&lt;b>Status:&lt;/b> demoted to silent</string>
+    <string name="notification_channel_summary_automatic_alerted">&lt;b&gt;Status:&lt;/b&gt; promoted to default</string>
+    <string name="notification_channel_summary_automatic_demoted">&lt;b&gt;Status:&lt;/b&gt; ranked lower</string>
+    <string name="notification_channel_summary_automatic_promoted">&lt;b&gt;Status:&lt;/b&gt; ranked higher</string>
+    <string name="notification_channel_summary_automatic_silenced">&lt;b&gt;Status:&lt;/b&gt; demoted to silent</string>
     <string name="notification_channel_summary_bubble">Keeps your attention with a floating shortcut to this content.</string>
     <string name="notification_channel_summary_default">May ring or vibrate based on phone settings</string>
     <string name="notification_channel_summary_default_with_bubbles">May ring or vibrate based on phone settings. Conversations from %1$s bubble by default.</string>
@@ -1807,11 +1807,11 @@ If you have questions, contact %2$s."</string>
     <string name="phone_locked_foget_password">Forgot password?</string>
     <string name="phone_locked_foget_password_mehod_back">Back</string>
     <string name="phone_locked_foget_password_method">Forgot password?</string>
-    <string name="phone_locked_foget_password_method_content">&lt;Data>You have to &lt;font color=#a5220e>erase all data &lt;/font>on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data></string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &lt;font color=#a5220e&gt;erase all data &lt;/font&gt;on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
     <string name="phone_locked_foget_password_method_next">Next</string>
     <string name="phone_locked_foget_password_ok">Got it</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>Power off your device, then press and hold the &lt;font color=#e6e6e6>[Power]&lt;/font> and &lt;font color=#e6e6e6>[Volume +]&lt;/font> buttons until you see &lt;img src=\"\">.&lt;/Data></string>
-    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Select &lt;font color=#a5220e>\"Wipe &amp;amp; Reset\"&lt;/font> and wait until the device reboots.&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Power off your device, then press and hold the &lt;font color=#e6e6e6&gt;[Power]&lt;/font&gt; and &lt;font color=#e6e6e6&gt;[Volume +]&lt;/font&gt; buttons until you see &lt;img src=\"\"&gt;.&lt;/Data&gt;</string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Select &lt;font color=#a5220e&gt;\"Wipe &amp;amp; Reset\"&lt;/font&gt; and wait until the device reboots.&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">How to erase data?</string>
     <string name="phone_locked_string">This device is locked</string>
     <string name="phone_locked_string_owner_user">Too many unsuccessful attempts to enter First space password. This device is locked now.</string>
@@ -1845,33 +1845,7 @@ If you have questions, contact %2$s."</string>
     <string name="power_discharging_duration_enhanced">About %1$s left based on your usage (%2$s)</string>
     <string name="power_notification_controls_description">"With power notification controls, you can set an importance level from 0 to 5 for an app's notifications. 
 
-"<b>Level 5</b>" 
-- Show at the top of the notification list 
-- Allow full screen interruption 
-- Always peek 
-
-"<b>Level 4</b>" 
-- Prevent full screen interruption 
-- Always peek 
-
-"<b>Level 3</b>" 
-- Prevent full screen interruption 
-- Never peek 
-
-"<b>Level 2</b>" 
-- Prevent full screen interruption 
-- Never peek 
-- Never make sound and vibration 
-
-"<b>Level 1</b>" 
-- Prevent full screen interruption 
-- Never peek 
-- Never make sound or vibrate 
-- Hide from lock screen and status bar 
-- Show at the bottom of the notification list 
-
-"<b>Level 0</b>" 
-- Block all notifications from the app"</string>
+"</string>
     <string name="power_remaining_charging_duration_only">%1$s left until full</string>
     <string name="power_remaining_duration_only">About %1$s left</string>
     <string name="power_remaining_duration_only_enhanced">About %1$s left based on your usage</string>
@@ -2220,8 +2194,8 @@ If you have questions, contact %2$s."</string>
     <string name="show_silently">Show notifications silently</string>
     <string name="show_touches">Show taps</string>
     <string name="show_touches_summary">Show visual feedback for taps</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content">&lt;Data>Press and hold the &lt;font color=#e6e6e6>[Power]&lt;/font> and &lt;font color=#e6e6e6>[Volume +]&lt;/font> buttons until you see &lt;img src=\"\">.&lt;/Data></string>
-    <string name="shut_down_password_forget_password_suggesstion_two_content">&lt;Data>Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font> and tap &lt;font color=#e6e6e6>[Reboot]&lt;/font> after that.&lt;/Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content">&lt;Data&gt;Press and hold the &lt;font color=#e6e6e6&gt;[Power]&lt;/font&gt; and &lt;font color=#e6e6e6&gt;[Volume +]&lt;/font&gt; buttons until you see &lt;img src=\"\"&gt;.&lt;/Data&gt;</string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content">&lt;Data&gt;Select &lt;font color=#e6e6e6&gt;[Wipe data]&lt;/font&gt; and tap &lt;font color=#e6e6e6&gt;[Reboot]&lt;/font&gt; after that.&lt;/Data&gt;</string>
     <string name="sim_state_locked_dialog_title">Invalid SIM card</string>
     <string name="sim_state_locked_puk_dialog_message">"You've entered an incorrect PUK code at least %d times. Your SIM card is invalid now. Replace this SIM card with another one."</string>
     <string name="simulate_color_space">Simulate colour space</string>
@@ -2609,7 +2583,7 @@ Wi‑Fi Address (BSSID)
     <string name="wifitrackerlib_connected_via_app">Connected via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Automatically connected via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Automatically connected via network rating provider</string>
-    <string name="wifitrackerlib_imsi_protection_warning">This network receives a SIM ID that can be used to track device location. <annotation id="url">Learn more</annotation></string>
+    <string name="wifitrackerlib_imsi_protection_warning">This network receives a SIM ID that can be used to track device location. </string>
     <string name="wifitrackerlib_osu_completing_sign_up">Completing sign-up…</string>
     <string name="wifitrackerlib_osu_connect_failed">Couldn’t connect</string>
     <string name="wifitrackerlib_osu_opening_provider">Opening %1$s</string>

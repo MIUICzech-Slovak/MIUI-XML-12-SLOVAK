@@ -1343,7 +1343,7 @@ For more info check the message you received from your service provider"</string
     <string name="deep_save_memory_clean_summary">Vyčistiť cache ak je zariadenie uzamknuté a zabrániť tak aplikáciám využívať batériu</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Nastaviť čas kedy sa má zariadenie zapnúť a vypnúť</string>
     <string name="deepclean_cache_header_left">Cache: %d</string>
-    <string name="default_condition_summary">Napr. \"Batéria je nižšia ako %s\"</string>
+    <string name="default_condition_summary">Napr. \"Batéria je nižšia ako 20%\"</string>
     <string name="default_condition_title">Pridať podmienku</string>
     <string name="default_condition_title_continue">Pridať podmienku</string>
     <string name="default_result_summary">Napr. \"Vypnúť režim v lietadle\"</string>

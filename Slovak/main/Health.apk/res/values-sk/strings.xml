@@ -1083,7 +1083,6 @@ Ak nechcete zdieľať svoje informácie, môžete túto funkciu vypnúť."</stri
     <string name="remind_weight_title">Váženie</string>
     <string name="remove"> Odstrániť </string>
     <string name="repeat_mode"> Opakovať </string>
-    <string name="rest_time_b Between_sets"> Zvyšok </string>
     <string name="rest_time_between_sets">Odpočinok</string>
     <string name="resting_heart_rate"> Pokojový srdcový rytmus </string>
     <string name="resting_heart_rate_desc"> Normálny srdcový rytmus pre odpočívajúcich dospelých sa pohybuje od 55 do 80 úderov za minútu. Môže sa líšiť v závislosti od veku, pohlavia a ďalších faktorov. </string>
@@ -1251,7 +1250,6 @@ Ak sa tento problém vyskytuje často, skontrolujte vo svojom prístroji naplán
     <string name="sleep_management_exp_hours_minutes"> "Aktuálne nastavenie vám nezaručí %1$s %2$s spánku denne. Potrebujete viac." </string>
     <string name="sleep_management_label"> Spravovať večierku </string>
     <string name="sleep_month"> Mesiac </string>
-    <string name="sleep_need_ Needary_permissions"> Udeliť potrebné povolenia na spresnenie údajov o spánku </string>
     <string name="sleep_need_auto_start"> Povoliť automatickému štartu Xiaomi Health, aby boli údaje o spánku presnejšie </string>
     <string name="sleep_need_background_run"> Výberom možnosti „Bez obmedzení“ spresniť údaje o spánku </string>
     <string name="sleep_need_necessary_permissions">Udeľte požadované povolenia na spresnenie údajov o spánku</string>
@@ -1673,7 +1671,6 @@ spánkový cyklus “</string>
     <string name="tuesday_short"> Utorok </string>
     <string name="tuesday_shortest"> Utorok </string>
     <string name="turn_count"> Otočené </string>
-    <string name="turn_on_ neededary_permissions"> Na sledovanie spánku sú potrebné povolenia. </string>
     <string name="turn_on_necessary_permissions">Na sledovanie spánku sú potrebné povolenia.</string>
     <string name="unable_record_future_menstruation">"Nie je možné zaznamenať budúce obdobia"</string>
     <string name="unbound"> ​​Odstránené </string>
